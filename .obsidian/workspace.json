@@ -19,8 +19,21 @@
               }
             },
             "group": "0c24ffe0acea90e0"
+          },
+          {
+            "id": "2b60cbcaeb565e72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test-note.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b5137572e87437c4",
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Fight_S59.md",
+                "file": "test-note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Fight_S59.md"
+                "file": "test-note.md"
               }
             }
           },
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Fight_S59.md",
+                "file": "test-note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,8 +153,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "097e99fbc3897fcc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,8 +178,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1cf7fd4cac64a694",
+  "active": "097e99fbc3897fcc",
   "lastOpenFiles": [
+    "Session Notes/Fight_S59.md",
+    "test-note.md",
     "Tomb-of-Anrufbeantworter",
     "Session Notes/Session 59.md",
     "Bodak.md",
@@ -177,7 +201,6 @@
     "_Attachments/Pasted image 20230410202550.png",
     "_Attachments/Pasted image 20230410202546.png",
     "_Attachments/Guide Posting.png",
-    "Session Notes/Fight_S59.md",
     "_Attachments/Pasted image 20230410194155.png",
     "Session Notes/Fight_S.md",
     "Session Combats/Fight_S49.md",
