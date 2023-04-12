@@ -1,0 +1,174 @@
+Recap - [[Kadrin]]
+
+We Awake in [[Kaya's House of Repose]]
+- [[Gannin]] still has the feeling of being followed
+	- It is way more intense and seems to arrive today
+		- Perception: 21
+			- No-one is here but me and the furniture is as it was the night before
+			- Out of the Window, a few people are Trading already
+			- [[Gannin]] puts the Wardrobe in front of the window
+- Normal Temp, No Wind, No Rain
+- [[Kairi]] turns around again in her bed
+- [[Kadrin]] does his morning exercise
+	- Athletics: 12
+- [[Shadow]] goes to eat some breakfast in the Tavern
+	- 2sp
+- Everyone but [[Gannin]] meet in the Tavern
+	- [[Gannin]] tries to meditate but is too distracted and misses breakfast
+- [[Shadow]] explains what she saw yesterday
+	- [[Kadrin]] is worried about [[Shadow]] and asks why the [[Red Wizards of Thay]] want to capture her
+		- [[Shadow]] isn't sure either
+	- Discussion about the Paperwork
+		- [[Shadow]] finds it in her bag
+- Meanwhile [[Gannin]] reorganizes his whole room to find a Zen place to meditate
+	- It doesn't work
+- [[Kairi]] tells [[Shadow]] about the [[Inete]] situation and that we'll have to leave the city soon
+- [[Zitembe]] enters the room, looking sleep deprived and hasted
+	- He knows where [[Inete]] is
+		- She is with [[Yuan-Ti]], one with a Snake Head are in a Tomb near the Town
+			- The [[Tomb of Kahuli]]
+				- History Check
+					- [[Kadrin]]: 3
+					- [[Kairi]]: 4
+					- [[Gannin]]: 9
+					- [[Shadow]]: 17
+						- We heard the Name before, in the [[Grand Coliseum]]
+						- The [[Beggar Prince Kahuli]]
+	- [[Kairi]] shows him [[Shadowshiver]]
+		- Explains that it should be brought from [[Omu]] to [[Port Nyanzaru]]
+			- They abduct / maybe eat children 
+			- Are a secret society
+			- It's not good for your dreams if it's around you all the time
+	- It's about 2-3 days away, maybe 1 day with Fey Parade
+- [[Zitembe]] goes back to the Temple and wishes us luck and will inform us if there is any new Insight
+- [[Kairi]] goes to get [[Gannin]]
+	- Misty Steps in [[Gannin]]'s Room
+		- [[Gannin]] slam dunks [[Kairi]]
+			- 16 to hit, 6 DMG
+- [[Shadow]] tries to open the door against the Bed leaning against it
+	- STR: [[Shadow]]: 13, [[Kadrin]]: 7
+		- It starts falling a bit
+		- [[Gannin]] picks up the bed and sets it aside
+- [[Shadow]], Insight: 17 vs. Deception: 12 [[Gannin]]
+	- [[Shadow]] doesn't believe [[Gannin]] that he rearranged his room for Zen
+- [[Gannin]] leaves a Gold piece at the Registry
+
+We make our way to Trade Princess [[Zhanthi]]'s House
+- [[Gannin]] looks around on the way
+	- Perception: 23
+		- [[Red Wizards of Thay]] are followed by a group of [[The Flaming Fist]]
+- [[Shadow]] notices that [[Gannin]] is looking all around him and is tense
+	- [[Gannin]] tells about something following him
+
+We get to [[Zhanthi]]'s House and see [[Ortimay Swift and Dark]] and her First Mate waiting there already
+- [[Shadow]] presents the Paperwork to the Guards at the Gate
+- We go through the front garden and enter the front door
+	- [[Kairi]] picks a flower from the garden
+		- SoH: 21 - gets a pink flower with wavy leaves
+- A door opens and a servant asks us for our Paperwork (Invitation)
+	- We follow her and she says that [[Zhanthi]] will be with us soon
+- We sit down on pillows on the floor and wait
+- [[Kadrin]] looks around the Room
+	- Perception: 18
+		- Nothing that is following [[Gannin]]
+- [[Gannin]] asks [[Ortimay Swift and Dark]] why there are no Guards
+	- Maybe there are no "conventional" Guards
+
+The servant returns and an older lady enters the room in a gem adorned dress, [[Zhanthi]]
+- [[Kadrin]] falls to one knee
+	- There is no need, she says, anyone with money can become a [[Trade Princes]]
+- [[Shadow]] hands her [[Zindar]]'s Letter
+	- [[Zhanthi]] calls for her Servant [[Sanala]] to get 2000gp
+- [[Gannin]] asks if she is also in the business of buying
+	- We hand her the Captain's Coat
+		- She offers us 700gp
+			- Insight, [[Shadow]]: 21
+				- it's an okay price, maybe can barter up a bit
+					- 900gp, from [[Shadow]]
+						- Persuasion: 16
+							- 800gp
+			- [[Gannin]] offers it as a set with the Scimitar
+				- Offer: 2000gp
+					- We accept
+			- Insight, [[Gannin]]: 9
+				- no idea if this is a good price
+- [[Sanala]] brings in 2 sacks of gold, one for the captain, one for the ship
+	- [[Ortimay Swift and Dark]] counts up and divides the gold equally
+- [[Gannin]] asks for more information
+	- Captain of the [[Stirge]], Captain [[Laskilar]] has a bit of a flamboyant personality
+		- Has an Eye for Magical Items
+		- Popular with the Ladies thanks to his Looks
+	- Captain of the [[Dragon Fang]], [[Elok Jaharwon]] is new because of a Mutiny he staged a bit ago
+	- Captain [[Zaroum Al-Saryak]], seemed to be the brains of the group
+- [[Kadrin]] asks for Armor protecting from magical Items
+	- She says that is more of [[Wakanga O’tamu]] territory
+- The Dwarves have stopped trading with the City, that's why they won't get metal armor anymore
+	- not voluntarily
+	- their mine and forge have been taken over by something
+	- There are Two Guides who might know more, as they are Dwarves themselves
+		- One with one Arm, [[Hew Hackinstone]]
+		- One is an Albino dwarf, [[Musharib]]
+- [[Shadow]] buys a Studded Leather Armor for 45gp
+	- Sells her Leather Armor for 5gp
+- [[Kairi]] want's to buy a Studded Leather Armor with Gems, Feathers and Flowers
+	- Gives [[Zhanthi]] all her feathers and flowers
+		- 3 Gemstones 10gp each
+	- It will be done in about one day and cost 50gp
+- [[Kadrin]] asks for the Price of a Breastplate
+	- 1200gp
+
+[[Zhanthi]] wants to discuss another matter with us
+- She asks us about the involvement of [[The Flaming Fist]] with these pirates
+	- [[Kadrin]] tells about his conversation with Jakal the Sharpshooter
+	- She asks for something physical
+	- The protection of [[The Flaming Fist]] is not needed as much as it used to be
+		- She wants to get  rid of them
+			- [[Kadrin]], Insight: [[Nat.1]] (0) 
+	- She can only remove them with the help of the other [[Trade Princes]]
+		- Some [[Trade Princes]] work with them and like them, tho
+- If we have time, [[Zhanthi]] will have another job for us to get the evidence against [[The Flaming Fist]] in another way
+
+We leave the estate and search for [[Wakanga O’tamu]] & [[Syndra Sylvane]]
+- We see two guards in front of the gate asking for our business
+	- [[Kadrin]] just says we're The Last Resort and we are let in after a guard checking his list
+- We take a seat and ask a servant for our two meeting partners
+	- Similar to Trade Princess [[Zhanthi]]'s estate we wait in a hall, which is adorned with
+		- Flying magical Flames, Swords at the walls, Beautiful Rugs and a melody playing in the background
+		- [[Kairi]] plays with the melody
+			- Performance: 20
+	- We are offered candy and drinks as we sit
+
+Miss [[Syndra Sylvane]] and [[Wakanga O’tamu]]
+- We are greeted warmly by [[Wakanga O’tamu]]
+- We first talk to [[Syndra Sylvane]] and tell her
+	- The Curse Originates most likely from [[Omu]] or somewhere near
+		- [[Omu]] used to be the Seat of the Royal Family of [[Chult]] 
+			- The former Capital of [[Chult]] was the [[City of Mezro]]
+		- We found out from [[Zitembe]]
+	- The [[Heart of Ubtao]] is a floating rock
+		- There was a [[Valindra Shadowmantle]] from [[Thay]] there, who was looking for the [[Soulmongerer]] aswell
+	- She asks us why the [[Red Wizards of Thay]] want the [[Soulmongerer]]
+		- [[Valindra Shadowmantle]] said to Study it
+			- She says that would be devastating, because they would weaponize it
+- [[Wakanga O’tamu]] chips in
+	- The [[Red Wizards of Thay]] are active in [[Port Nyanzaru]] and [[Chult]]
+		- They have arrived about a week ago
+		- The [[Old City]] is outside the City Proper and outside of Jurisdiction
+		- They have to deal with the [[Beggar Princes]] there
+			- They are essentially the opposite of the [[Trade Princes]]
+			- Those with the most debt become [[Beggar Princes]]
+			- Powerful individuals who are able to avoid paying their debt
+			- They have a very efficient network of people working for them to avoid jurisdiction
+	- [[Gannin]] mentions [[The Flaming Fist]]
+		- Insight: 18
+			- [[Wakanga O’tamu]] seems to be neutral towards them
+	- [[Gannin]] asks for [[Artus Cimber]]
+		- [[Wakanga O’tamu]] heard the name in Rumors throughout the City
+		- [[Syndra Sylvane]] says he was a former member of the [[Harpers]]
+			- [[Artus Cimber]] was quite a good agent but quit and disappeared a few years ago
+	- [[Syndra Sylvane]] says that the [[Death Curse]] has advanced and most people have died from it already
+		- Only the Rich and Powerful are able to still hold on, but it's unknown for how long
+- We dismiss [[Syndra Sylvane]]
+
+---
+We start talking to [[Wakanga O’tamu]] about buying Magic Items and [[Shadowshiver]]

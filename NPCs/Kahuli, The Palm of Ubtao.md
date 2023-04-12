@@ -1,0 +1,7 @@
+- [[Dead]]
+- High Up Monk
+- Buried in the [[Tomb of Kahuli]]
+- Probable forefather of [[Beggar Prince Kahuli]]
+- Bloodline still exists
+- Appeared to [[Gannin]] and teleported him to another plane
+- Wants to get rid of the evil that plagues the [[Tomb of Kahuli]]

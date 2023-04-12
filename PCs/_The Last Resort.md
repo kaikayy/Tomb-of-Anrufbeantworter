@@ -1,0 +1,6 @@
+[[Gannin]]
+[[Kadrin]]
+[[Kairi]]
+[[Shadow]]
+[[Talsen]]
+[[Miasma]]

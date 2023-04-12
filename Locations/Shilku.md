@@ -1,0 +1,4 @@
+- Location in [[Chult]]
+- Marked with a Treasure Chest and a shovel
+- On Map of [[Zaroum Al-Saryak]]
+- See [[Shilku Bay]]

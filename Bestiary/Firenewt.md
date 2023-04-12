@@ -1,0 +1,6 @@
+- Red, Lizard like creatures
+- Worship [[Imix]]
+- Mounting Not-Quite-Dinosaurs
+- Have Priests and Warriors
+- ![[Firenewt on Mount.png]]
+- ![[Firenewt.png]]

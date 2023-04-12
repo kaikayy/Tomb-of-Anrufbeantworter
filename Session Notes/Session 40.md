@@ -1,0 +1,189 @@
+Recap - [[Talsen]]
+
+[[Shadow]] looks closer at the Wooden Box
+- Investigation: 4
+	- Well made Wooden Box, intricate design, you can store stuff in here
+- pockets the box
+
+[[Shadow]] & [[Herald]] let go of their Striders,  and catch up with [[Kadrin]] & [[Talsen]]
+- [[Shadow]] CON SAV: 13 - SAVE
+- [[Herald]] CON SAV: 2 - FAIL
+	- Goes [[Unconscious]]
+- [[Fight_S40]]
+- [[Kadrin]] tires to shake [[Herald]] awake
+	- Heals him for 5HP
+	- Doesn't seem to wake up
+- [[Shadow]] slaps [[Herald]] to wake him up
+	- He doesn't wake up
+- [[Kadrin]] checks [[Herald]]'s Breath
+	- Medicine: 11
+		- He's breathing
+- [[Herald]] CON SAV: 16
+	- He wakes up
+- [[Kadrin]] tries to retrieve his net
+	- Investigation: [[Nat.1]] (0)
+	- Finds his net
+	- CON SAV: 20 - SAVE
+
+We go inside the main building
+- A Large Bird enters the ruined building with us through a hole in the ceiling
+- ![[Bird of Nangalore.png]]
+- [[Kadrin]] looks inside the pit
+	- Perception: [[Nat.20]] (19)
+		- 20ft. deep, a few inches of rain water
+		- multiple swarms of colorful snakes
+- [[Shadow]] tries to discern the Statue
+	- Perception: 16
+		- Chultan Warrior, older armor, scratched off face
+- As [[Kadrin]] looks up into the Dome, he sees writing scratched into the Ceiling
+	- Goes around to get upstairs and look at the ceiling
+- [[Talsen]] looks closer at the big statue
+	- History: 19
+		- Excellent craftsmanship
+		- Splint Armor, Helmet adorned with Dinosaur Teeth
+		- On the backsite are written two words in Old [[Omuen]]
+			- "Forgive Me"
+- [[Shadow]] looks at the smaller statue
+	- Perception: 25
+		- Looks very life-like, like a normal human, it has a bow, daggers and armor on, all made of stone
+		- The expression looks horrified towards the balcony
+		- Something is written inside the floor next to the statue in an uknown language
+- [[Kadrin]] carefully goes up the stairs
+	- Acrobatics: 17
+	- The large bird flies back up towards the hole in the roof again
+	- Looks at the writing in the ceiling
+		- It's not readable
+	- Makes a projection of the writing near [[Talsen]]
+		- “True love, faithful general, safe will you rest in [[Nangalore]] eternal. None will disturb you while I live. Such is my vow of penance, and for my sins I cannot die.”
+	- goes back down
+		- Acrobatics: 7
+			- The whole staircase breaks down, 3 bDMG
+- [[Talsen]] identifies the writing on the Floor near [[Shadow]] as
+	- "Once a thief, forever a slave!"
+- [[Talsen]], [[Shadow]] try to discern what happened to the smaller detailed statue
+	- Arcana: [[Nat.1]] (10), 14
+		- [[Shadow]] has heard stories of petrification before
+- We converse about what the reasoning to protect these remains might be and  decide to look into the other buildings
+	- [[Kadrin]] looks towards the webbed statue
+		- Perception: 6 - Nothing other than webbing
+
+We go towards the western tower, the large bird seems to follow us
+- [[Kadrin]] looks up at the door to scout for loose rocks
+	- Perception: 8
+		- The Dome is damaged and branches come out of the roof, the door seems fine
+	- Tries to open the door, it opens
+		- `This crumbling pagoda must have been lovely once, with its wide, graceful arches inviting the breeze to blow through, and overlooking the silent pool below. But time, decay, and some bestial presence have given it a sinister air. It smells foul, and dark stains cover the floor and seep down the white steps.`
+	- As the door opens two other large birds of the same species sit inside
+	- The Bird answers in common and welcomes us to [[Nangalore]]
+		- They call us Peasant
+- [[Kadrin]] asks the Bird if we can pass through
+	- They say that the "Queen's Gardens" are open for everyone
+	- Wants to trade one of his Feathers for one of theirs
+		- Persuasion: 12
+			- The Bird plucks a really small feather
+			- They claim to be the Queen's Birds
+				- No Deal
+	- Picks up one of the slightly dirtied feathers on the ground, the bird pecks his hand to let him drop it
+
+We go outside the other door into the "Queen's Gardens"
+- `The water in this pool is unusually clear. A dozen or more large fish, turtles, and lizards swim lazily through it, and waterbirds paddle on the surface. Their ripples obscure something on the bottom of the pool, so you can’t quite make it out, but the bottom appears to be blanketed in oddly shaped stones. Bits of shattered stone rest atop a square dais that rises from the middle of the pool — evidence of a sculpture that once stood atop it. Part of the sculpture lies in the pool, west of the dais: a large stone face staring up at the sky.`
+- [[Shadow]] tries to look what is hidden on the bottom surface under the water
+	- Perception: 25
+		- Everything is covered in small statues of animals
+- We talk about what to speak about with the "queen" and if she's crazy and what we ant to know
+- [[Shadow]] picks up one of the Animal Statues
+	- d20(13), picks up a Statue of a Duck
+	- sees a [[Petrified]] Hand under the Statue
+	- After clearing a few more statues, the statue of a young woman laying on her back
+- [[Kadrin]] thinks it may be a bad idea to talk to this Queen
+	- [[Hubris]] suggests to start flirting with the Queen to become the next King
+- We decide to try to talk to her
+
+We go into the eastern tower after being let in by a voice in common
+- ![[Nangalore 3.png]]
+- ![[Nangalore 4.png]]
+- [[Kadrin]] greets her, bows and says that we are adventurers passing through
+	- [[Talsen]] asks for the History of [[Nangalore]]
+		- It was built in her honor as a place of rest to get away from the royal seat in [[Omu]]
+		- The depictions in the front are of her beauty
+		- ![[Zalkoré.png]]
+		- The general was her husband, [[Thiru-taya]]
+			- The greatest of all time
+	- She seems silent when asking for the fix of the statue
+		- She did the damage herself
+		- The Original Architect is back in [[Omu]]
+		- She was "banished" here to stay
+		- She doesn't know how long she has been here
+		- The Birds are her royal court and decided to share the burden of her curse
+		- She sees [[Thiru-taya]] in the room
+		- She get's outside information form her servants occasionally
+		- She thinks [[Thiru-taya]] is not [[dead]]
+	- Her curse
+		- She wanted eternal beauty and made a pact
+		- Any who dare look at her will turn to stone
+	- Her Name is [[Zalkoré]], the Queen of [[Chult]]
+		- She turned the Thief to stone herself
+	- [[Kadrin]] asks not to be turned to stone
+		- She wasn't planning on it
+	- [[Talsen]] asks about the writing "Once a thief, forever a slave"
+		- She is impressed that someone can read that
+		- She doesn't know the person
+		- The Pact wasn't made with [[Ubtao]]
+		- The Pact was made with a Fiend, with a Name she can't remember
+		- The Fiend isn't here, he vanished after the pact
+		- It was summoned with the help of a priest of [[Ubtao]] loyal to [[Zalkoré]]
+		- If she could undo the Pact, she'd do it, but alas there wouldn't be a point to it if the one she loved wouldn't  be able to see her
+			- [[Talsen]], Insight: 10
+		- [[Talsen]], Arcana: 21
+			- The Air around [[Zalkoré]] is penetrated by an Aura
+			- She doesn't seem Undead, but the magic surrounding her is fiendish
+	- [[Talsen]] asks what sins she has committed, she goes silent again
+		- In her rage she broke her beloved's statue, she defaced it and now she repents until the end of time
+			- [[Talsen]], Insight: 16
+				- She thought about it longer before answering, she is hiding the start of this story
+	- [[Kadrin]] says that he will include her in his prayer to reunite her wit her beloved
+		- [[Ubtao]] is the patron god of [[Chult]] and she thinks he has forsaken her and the people of [[Chult]] long ago, he left way before [[Omu]] fell and the Trickster Gods took his place and gave the people new hope
+			- [[Talsen]], Insight: 14
+				- "Trickster God" is said in a neutral way
+		- [[Chult]] has fallen to Ruin but is still a beautiful jewel
+			- The next Queen is living in [[Kir Sabal]] after the destruction of [[Omu]]
+		- We should not steal or desecrate her beloved's grave
+		- We should not destroy anything although [[Nangalore]] has fallen to time, but is still beautiful
+	- [[Kadrin]] offers her a self-cooked meal
+		- She accepts
+	- She offers to trade with us
+		- The Black Orchid, one of the rarest plants in all of [[Chult]]
+			- It has "certain magical properties to be used in special rituals"
+			- The Aarakocra at [[Kir Sabal]] have knowledge of one of these Rituals
+				- It can trade the Wings of a Priest to give someone temporary flight
+		- Eight Lightning Arrows
+		- A Spear, the same one as depicted in the generals Statue's hand
+			- She want's to get rid of it and still trade it to something of equal value
+
+We go outside to cook and rest, accompanied by her servant [[Kwalu]]
+- [[Kwalu]] denies the request for a feather by [[Shadow]]
+- [[Shadow]] notices that [[Kwalu]] looks differently at us, especially glaring at [[Shadow]] and [[Kadrin]], annoyed
+	- [[Shadow]] asks if we did anything to upset him
+		- He answers that we didn't but one of our former companions did
+		- [[Kairi]] had the potential to save Queen [[Zalkoré]] and reach a cure
+		- Is angered that she left
+		- "Who cares about a corpse"
+	- [[Shadow]] says that her Queen cares about one
+		- [[Kwalu]] answers that the Queen isn't right in the head
+	- [[Kwalu]] believes that [[Zalkoré]] will rule over all of [[Chult]] again after her curse is lifted
+	- [[Kwalu]] said that her ruling was the greatest and everyone loved her
+		- [[Talsen]], Insight: 4
+	- [[Kwalu]] was a human before and was turned into a bird after the pact was made
+		- He doesn't want to tell us where to find the item that is needed to break the curse
+		- You need exceptional musical talent to get it
+	- [[Kwalu]] says that they aren't immortal but can't die of natural causes
+		- he doesn't care if he dies and still want's to give it a shot to lift the queens curse
+	- [[Kadrin]] tires to persuade [[Kwalu]] into telling him about the item as he is the best choice of musician right now
+		- Persuasion: 12
+		- Asks us to bring a musician worthy enough
+	- [[Kadrin]] asks for a feather to meet with [[Kairi]] again and tell her to go here 
+		- Persuasion: [[Nat.20]] (28)
+		- [[Kwalu]] gives [[Kadrin]] one of his feathers if [[Kadrin]] sends [[Kairi]] back here
+	- [[Shadow]] gives [[Kwalu]] one of [[Kairi]]'s Feathers
+		- [[Kwalu]] lays it down on the stairs
+- [[Kadrin]] Cooking: 15

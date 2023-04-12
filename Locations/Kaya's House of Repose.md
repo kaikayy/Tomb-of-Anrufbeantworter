@@ -1,0 +1,9 @@
+- Location in [[Port Nyanzaru]]
+- Tavern
+- [[Volothamp Geddarm]] was here
+- [[Xandala]] was here
+- [[Bolnir Copperhandle]] was here
+- The party picked up [[Undril Silvertusk]] here
+- Owner: [[Kaya]]
+- Barmaid: [[Nala]]
+- Offers Rooms for 1gp

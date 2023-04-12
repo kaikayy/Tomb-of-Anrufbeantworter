@@ -1,0 +1,5 @@
+- Location in [[Chult]]
+- Near the [[Mistcliff Mountains]]
+- Naga Guardian of a Ziggurat lives here
+- [[Zitembe]] told [[Artus Cimber]] to go here
+- [[Lerek Dashlynd]] wants this mapped out for a noble Waterdhavian

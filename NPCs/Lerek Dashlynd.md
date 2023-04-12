@@ -1,0 +1,5 @@
+- Older Noble male
+- Wants [[Orolunga]] & [[Nangalore]] mapped out for a Waterdhavian Noble
+- Is part of the [[Lord's Alliance]]
+- We can find him in the Port on a [[Lord's Alliance]] ship
+- Traded Feathers with [[Kairi]]

@@ -1,0 +1,1 @@
+Purple Metal absorbing souls that get set free in the vicinity of it and sent to the [[soul warden]]

@@ -1,0 +1,3 @@
+- Barmaid at [[Kaya's House of Repose]]
+- Scared of [[Zhentarim]]
+- Had information about [[Bolnir Copperhandle]]

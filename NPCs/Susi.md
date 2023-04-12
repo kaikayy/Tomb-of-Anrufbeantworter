@@ -1,0 +1,1 @@
+Person [[Ymezra]] suggested she'd kill for 1000gp, because she doesn't like her very much

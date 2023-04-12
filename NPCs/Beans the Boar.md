@@ -1,0 +1,4 @@
+- A Boar we met east of [[Omu]]
+- Their "father" is an ogre
+- They live in an old ruin on the path to [[Omu]]
+- They kill [[Yuan-Ti]] and Undead

@@ -1,0 +1,2 @@
+Kadrin Blankslate
+Weapon: [[Hubris]]

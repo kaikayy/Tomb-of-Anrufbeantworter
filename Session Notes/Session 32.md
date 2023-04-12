@@ -1,0 +1,94 @@
+Recap - [[Kadrin]]
+
+![[Statue of Acererak.png]]
+- _ "Greeting Adventurers, I [[Acererak]] the Eternal, congratulate you..."_
+	- _"...on your cunning. You've seen through the invisible wall and thus your cunning deserves to be rewarded."_
+	- The Stone Chest starts to open and is filled with many coins.
+		- [[Kadrin]] calls [[Acererak]] a pushover
+		- [[Miasma]] History: [[Nat.1]]
+			- No clue who [[Acererak]] is
+		- [[Talsen]] sees this too good to be true
+			- [[Talsen]], Arcana: [[Nat.20]] (25)
+				- Magical Aura on the Chest
+			- [[Kadrin]], Arcana: 4
+		- [[Miasma]], Investigation: [[Nat.20]] (20)
+			- Checks if the Chest is trapped
+				- Finds Spikes inside the Chest
+- We discuss if anyone really wants the coin inside the chest
+- [[Miasma]] checks the Statue of [[Acererak]]
+	- Perception: 18
+		- Well made, very detailed, the color of the stone is really off, the statue is way too clean to be here
+- [[Talsen]] checks the Statue's Stonework
+	- History: 9
+		- Made of Volcanic Rock
+- [[Miasma]] let's Mushrooms and Fungus grow on the statue and casts Druidcraft
+	- It is Counterspelled
+		- We hear a voice: "How rude to vandalize my beautiful statue, maybe he can teach you some manners"
+		- The Sarcophagus opens up and a mummified humanoid with feathers stands up out of it
+### [[Fight_S32]]
+- [[Kadrin]] slays the Corpse of [[Kahuli, The Palm of Ubtao]], he wore a robe, faded but reminiscent of [[Gannin]]'s
+- The Statue of [[Acererak]] crumbles into pieces as [[Shadow]]'s arrow hits it's eye
+- The Ghostly Presence surrounding [[Miasma]] disappears
+- Vines and Shrooms start sprouting from the laying [[Miasma]] and slowly start turning the Tomb into a [[Shroomish]] paradise
+- [[Kadrin]] looks at the Dwarfs body
+	- Medicine: 11
+		- He is [[dead]].
+	- Investigation: 6
+		- Doesn't find anything that belongs to [[Gannin]]
+- [[Talsen]] looks into the Sarcophagus and the Corpse of [[Kahuli, The Palm of Ubtao]]
+	- Nothing to find
+- [[Miasma]] looks at the Chest again
+	- Investigation: 18
+		- Spikes are still there
+- [[Shadow]] & [[Talsen]] try moving the chest
+	- STR: 8, 16
+	- [[Shadow]] looks at the hinges
+		- Perception: 19
+			- 3 metal hinges on the back with screws
+		- Tries loosening the screws
+			- DEX: 17
+- The Door is still closed
+- [[Kadrin]] cuts off the dwarves head and tries to burn the body in a corner
+	- [[Talsen]] talks him out of it until we leave the room ourselves
+- [[Miasma]] tries propping up the Gate to get us out
+	- STR: 14 - Can't seem to lift it
+- [[Shadow]] takes an Arm from the Dwarf and goes to test out the Chest
+	- The Chest shuts close and the Arm is held inside the Chest
+- We discuss one of the invisible walls as a way out or the other corridor but decide to rest a bit first
+##### SHORT REST
+- The magical lanterns snuff out right before the rest ends
+- [[Kadrin]] looks into the Dwarf
+	- Investigation: 13
+		- Battleaxe, Damaged Light Crossbow, Masons' Tools
+---
+![[Tomb of Kahuli 2.png]]
+- [[Kadrin]] looks through the invisible Wall to the right
+	- A Study, a Sarcophagus and a Workbench, a lever
+- [[Talsen]] looks towards the left corridor
+	- Big Stone Arch, Lanterns
+	- Headache with vision of [[Miasma]]'s Home with the same arch and a bunch of [[Yuan-Ti]], he draws something and the portal opens as everyone runs through it immediately
+- [[Miasma]] Wild Shapes into a Mouse and hops on [[Shroomish]], following [[Talsen]]
+---
+- [[Kadrin]] & [[Shadow]] go towards the Right room
+- [[Shadow]] looks over the Documents
+	- Investigation: 18
+		- Finds most of them to be blueprints written in dried blood
+		- Seems to be instructions to add things to the Tomb like the Statue and the Chest
+		- Some of the Statues at the entrance of the Tomb are marked with something
+		- Sees a depiction of the Room we found [[Inete]] in and a Hint
+		- ![[Puzzle in Tomb of Kahuli.png]]
+		- The Chest has a magical mechanism which snaps it close once, recharging at dawn
+			- Pockets the Blueprints
+- [[Kadrin]] checks the Walls
+	- Investigation: 5
+		- All seem real and the Sarcophagus is filled with a pillow and blanket
+	- Puts the Corpse into the Sarcophagus
+	- Pours [[Tej]] over it and lights it aflame
+- [[Shadow]] runs back to the Chest claiming to know how to get the treasure inside
+- [[Kadrin]] checks the lever for traps and pulls it after being certain and safe
+- [[Talsen]] & [[Shadow]] try opening the Chest
+	- STR: 13 - Opens the chest and holds it open barely
+	- [[Shadow]] digs out the Coins and Gems out of the Chest
+		- 50gp, 900sp, 1700cp, 10 Gemstones (50gp/e)
+		- A small pouch drops on the floor
+			- [[Miasma]] goes into the pouch and is suddenly submerged in water

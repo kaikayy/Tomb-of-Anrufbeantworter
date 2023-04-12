@@ -1,0 +1,6 @@
+- Location in [[Chult]]
+- Built by [[Ubtao]]
+- Former Capital of [[Chult]]
+- Ancient Ruin, long fallen to the Spellplague
+- [[Artus Cimber]] asked how to bring the City back
+- Marked on the Map of [[Zaroum Al-Saryak]] by a big Circle

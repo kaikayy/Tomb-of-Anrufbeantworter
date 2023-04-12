@@ -1,0 +1,3 @@
+- Location in [[Chult]]
+-  Apparently Volcano
+- [[Dendar the Night Serpent]] is rumored to be sealed away inside the volcano here

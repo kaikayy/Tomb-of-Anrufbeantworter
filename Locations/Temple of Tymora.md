@@ -1,0 +1,1 @@
+Temple in [[Malar's Throat]]

@@ -1,0 +1,3 @@
+[[Kadrin]]
+[[Soul Warden]]
+[[Soulblade]]

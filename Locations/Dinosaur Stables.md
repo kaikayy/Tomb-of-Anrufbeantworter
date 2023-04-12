@@ -1,0 +1,11 @@
+- Location in [[Tiryki Anchorage]] in [[Port Nyanzaru]]
+- You can store, buy, sell and train Dinosaurs here
+	- Storing: 1sp/day
+	- Training 3gp/day
+- [[Emi]] is stored here for 1sp/day
+	- We payed 1gp for 10 days
+- smaller elder gentleman works here
+- Dinos are usually kept and bred here, they are also frequently exported
+	- Racing Dino: 250gp (Allosaurus) - 60ft. speed, 2-3 People
+	- Riding Dino: 250gp (Ankylosaurus) - 30ft. speed, 4-5 people
+	- Battle Dino: Talk to the Trade Prince [[Ifan Talro´a]] 500-600gp (Triceratops), 4 people

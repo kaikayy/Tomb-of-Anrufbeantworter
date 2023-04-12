@@ -1,0 +1,4 @@
+--
+## [[Kadrin]] _—_ Today at 20:35
+
+Kampf auf schiff Wir dominieren absolut In den captain quarters Schrein, kiste, vasen, Schrein zu Mehrere Holy symbols Suune statue Kaputte Statue vom Soulwarden Flügel weg, köpfe vom Soulwarden abgehauen lila metal, [[kadrin]] packt alle ein und will sie reparieren [[Kadrin]] grabt 2 Holy symbols [[Kairi]] nimmt 4 [[Shadow]] macht die Kiste auf Scroll und Bone Vial → da drin ist nix An empty corked vial made from an aarakocra’s engraved wing bone (5 gp) Seemap und Captains Logs in Gannins Inventar Wir nehmen zwei weitere piraten fest Fallen die treppe bei nem anderen runter Komplettes unterdeck combat [[Gannin]] Redet mit [[Kadrin]] nächste long rest [[Gannin]] Sagt: Mit [[zindar]] reden das wir das boot nutzen um die anderen zu hunten

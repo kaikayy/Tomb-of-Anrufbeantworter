@@ -1,0 +1,2 @@
+- Location in [[Chult]]
+- [[Orolunga]] is near here

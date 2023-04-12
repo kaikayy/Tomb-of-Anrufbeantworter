@@ -1,0 +1,4 @@
+- Location in [[Chult]]
+- Marked by broken walls inside the bay and water
+- On Map of [[Zaroum Al-Saryak]]
+- See [[Refuge Bay]]

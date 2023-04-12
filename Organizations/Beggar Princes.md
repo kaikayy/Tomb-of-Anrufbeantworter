@@ -1,0 +1,4 @@
+- Group of People with Debts in [[Port Nyanzaru]] to the [[Trade Princes]]
+- Pondon to the [[Trade Princes]] in the [[Old City]]
+- Outrun Jurisdiction and rack up debt in the city
+- Powerful Individuals who have a very efficient network of people working for them

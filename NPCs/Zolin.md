@@ -1,0 +1,4 @@
+- Human/Tiger Shapeshifter living in the Jungle
+- Friendly
+- Good Hunter
+- Accompanied us for a part of our travels

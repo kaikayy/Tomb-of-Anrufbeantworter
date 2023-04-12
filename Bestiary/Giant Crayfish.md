@@ -1,0 +1,1 @@
+Eat meat but not from bigger creatures, rather dead fish and other things on the River bed. Are aggressive when provoked and being attacked by them isn't pleasant.

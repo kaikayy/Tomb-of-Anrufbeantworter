@@ -1,0 +1,2 @@
+- Have tracked the [[Death Curse]] to [[Chult]]
+- [[Artus Cimber]] was a former member of the Organization

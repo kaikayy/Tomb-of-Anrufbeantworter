@@ -1,0 +1,7 @@
+- Older Chultan Human Male
+- Works for [[Acererak]]
+- Was in the [[Tomb of Kahuli]] with a Dwarf (undead?)
+- Was involved in the Fight that killed [[Gannin]]
+- Was killed by the party
+- Stole [[Gannin]]'s Scroll Box
+- [[Dead]]

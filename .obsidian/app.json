@@ -1,0 +1,21 @@
+{
+  "promptDelete": true,
+  "attachmentFolderPath": "_Attachments",
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "legacyEditor": false,
+  "livePreview": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "en-GB"
+  ],
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "showUnsupportedFiles": true
+}

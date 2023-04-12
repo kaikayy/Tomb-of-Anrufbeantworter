@@ -1,0 +1,6 @@
+- They have cannons
+- [[Elok Jaharwon]], [[Zaroum Al-Saryak]], [[Laskilar]]
+- Wanted by Harbor Master [[Zindar]]
+- Wanted posters hung up in [[The Thundering Lizard]]
+- 2000gp with boat
+- 500gp for the Captains

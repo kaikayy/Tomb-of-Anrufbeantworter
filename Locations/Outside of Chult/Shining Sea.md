@@ -1,0 +1,2 @@
+Location in [[Faerûn]]
+Ocean

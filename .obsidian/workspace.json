@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "693af91d5f5f4929",
+    "type": "split",
+    "children": [
+      {
+        "id": "44806bac6d4963f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f936fad4f66cbf89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Fight_S59.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "0c24ffe0acea90e0"
+          }
+        ]
+      },
+      {
+        "id": "b5137572e87437c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46bc49535b0442c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Fight_S59.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "0c24ffe0acea90e0"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c51df528979a7bac",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d5392b0721c10e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cf7fd4cac64a694",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "921e982f620fe210",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232
+  },
+  "right": {
+    "id": "f0dc24ff8337289c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8684028dec4b21e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "847bf8861478237f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session Notes/Fight_S59.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd5de4e69f9b6730",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Session Notes/Fight_S59.md"
+              }
+            }
+          },
+          {
+            "id": "2d5ee6f0ecf7872d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Session Notes/Fight_S59.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2ef09839a05dcee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "1cf7fd4cac64a694",
+  "lastOpenFiles": [
+    "Tomb-of-Anrufbeantworter",
+    "Session Notes/Session 59.md",
+    "Bodak.md",
+    "Bestiary/Aremag the Dragon Turtle.md",
+    "Session Notes/Session 57.md",
+    "Session Notes/Session 58.md",
+    "Plans.md",
+    "Session Notes/Watch_Vorlage.md",
+    "Shadowfell.md",
+    "[Talsen.md",
+    "Guides.md",
+    "_Attachments/Pasted image 20230410202615.png",
+    "_Attachments/Pasted image 20230410202610.png",
+    "_Attachments/Pasted image 20230410202605.png",
+    "_Attachments/Pasted image 20230410202600.png",
+    "_Attachments/Pasted image 20230410202555.png",
+    "_Attachments/Pasted image 20230410202550.png",
+    "_Attachments/Pasted image 20230410202546.png",
+    "_Attachments/Guide Posting.png",
+    "Session Notes/Fight_S59.md",
+    "_Attachments/Pasted image 20230410194155.png",
+    "Session Notes/Fight_S.md",
+    "Session Combats/Fight_S49.md",
+    "PCs/Delwyn.md",
+    "Session Combats/Fight_S58.md",
+    "_Attachments/Pasted image 20230403220014.png",
+    "NPCs/Badok.md",
+    "NPCs/Soulblade.md",
+    "Session Combats/Fight_S54_55.md",
+    "Locations/Kebab Kamadan.md",
+    "NPCs/The Trailblazer.md",
+    "NPCs/Rokah.md",
+    "Locations/Merchants' Ward.md",
+    "NPCs/Liara Portyr.md",
+    "Items/Hammer's Bulwark of Golden Stout.md",
+    "Session Notes/Session 14.md"
+  ]
+}

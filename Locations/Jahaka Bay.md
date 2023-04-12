@@ -1,0 +1,4 @@
+- Location in [[Chult]]
+- Marked with a Jolly Roger sign
+- On Map of [[Zaroum Al-Saryak]]
+- See [[Jahaka Anchorage]]

@@ -1,0 +1,3 @@
+- Language mix of Minotaur and Chultan
+- Used in [[Omu]]
+- Very Old

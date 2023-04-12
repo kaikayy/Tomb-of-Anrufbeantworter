@@ -1,0 +1,1 @@
+![[Longsword of Purging.png]]

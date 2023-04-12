@@ -1,0 +1,3 @@
+- Location in [[Chult]]
+- Marked by a little Waterbridge
+- On Map of [[Zaroum Al-Saryak]]

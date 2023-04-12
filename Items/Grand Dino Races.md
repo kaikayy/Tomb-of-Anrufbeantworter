@@ -1,0 +1,3 @@
+- Event where [[Trade Princes]] do a competition around [[Port Nyanzaru]] to see who has the best Dino Rider.
+- Have great impact on the Inns
+- 

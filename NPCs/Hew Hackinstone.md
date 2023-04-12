@@ -1,0 +1,3 @@
+- Chultan Guide
+- Only has one Arm
+- Might know something about the dwarven mine that has stopped delivering metal 

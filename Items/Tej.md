@@ -1,0 +1,4 @@
+- Alcoholic Beverage, like mead
+- Used by [[Kadrin]] to communicate with the [[Soul Warden]]
+- The [[Soul Warden]] likes the drink
+- ~2sp

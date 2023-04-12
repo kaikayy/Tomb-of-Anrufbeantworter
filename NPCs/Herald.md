@@ -1,0 +1,6 @@
+- Herald Payne, [[Dead]]
+- FORMER Announcer in the [[Grand Coliseum]]
+- White Haired Elf
+- Main Sales Person of the [[Hag'se Organization]]
+- Killed by [[Talsen]] & [[Shadow]]
+- ![[Herald Payne.png]]

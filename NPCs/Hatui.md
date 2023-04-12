@@ -1,0 +1,4 @@
+- Human/Tiger Shapeshifter living in the Jungle
+- Friendly
+- Has met [[Zolin]]
+- Accompanied us for a part of our travels

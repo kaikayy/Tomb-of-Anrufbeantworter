@@ -1,0 +1,6 @@
+- One of the [[Beggar Princes]]
+- Older Chultan Human Monk
+- Probable descendant of [[Kahuli, The Palm of Ubtao]]
+- 2566gp debt to the Arena
+- Fought the party in the [[Grand Coliseum]]
+	- lost

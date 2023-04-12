@@ -1,0 +1,1 @@
+a green plant no larger than a foot with small green pods sticking all around it. The green pods can be put in any liquid. Once put in the liquid will either change color to red or blue. If the liquid turns red it’s harmful, if the liquid turns blue it’s helpful. Alchemists are known for keeping these plants around.

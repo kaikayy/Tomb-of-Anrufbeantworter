@@ -1,0 +1,6 @@
+- Location in [[Port Nyanzaru]]
+- Outside the proper jurisdiction of [[Port Nyanzaru]]
+- The [[Red Wizards of Thay]] reside here in a Ziggurat 
+- The [[Beggar Princes]] reside here
+- [[Shadow]] is unwanted here
+- You can clear your debt with the [[Ytepka Society]] here by escaping a hole with Dinosaurs inside

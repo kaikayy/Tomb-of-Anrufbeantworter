@@ -1,0 +1,1 @@
+Disease that affected [[Kadrin]] after fighting [[Kahuli, The Palm of Ubtao]]

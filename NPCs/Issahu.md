@@ -1,0 +1,4 @@
+- [[Yuan-Ti]]
+- Was at the [[Tomb of Kahuli]]
+- Brought [[Inete]] to the [[Tomb of Kahuli]]
+- [[Dead]]

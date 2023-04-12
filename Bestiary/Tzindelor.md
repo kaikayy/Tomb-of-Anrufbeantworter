@@ -1,0 +1,1 @@
+- Red Dragon found in the [[Valley of Embers]]

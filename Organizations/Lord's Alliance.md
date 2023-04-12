@@ -1,0 +1,3 @@
+- Organization headquartered in [[Waterdeep]] 
+- Has a ship in the [[Port Nyanzaru]]
+- [[Lerek Dashlynd]] is part of them

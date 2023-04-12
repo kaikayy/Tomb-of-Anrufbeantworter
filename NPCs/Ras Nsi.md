@@ -1,0 +1,3 @@
+- Is a Chultan Title, meaning "Duke"
+- Former Chosen of [[Ubtao]] ([[Bara]])
+- Defended the [[City of Mezro]]

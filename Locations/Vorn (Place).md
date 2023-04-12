@@ -1,0 +1,4 @@
+- Shield Guardian
+- also a Place in [[Chult]]
+- Quest by [[Wakanga O’tamu]]
+- To go there and get the Shield Guardian back to him
