@@ -1,1 +1,2 @@
+- Location and Capital of [[Chult]]
 Until recently, Port Nyanzaru was under the firm control of Amn, a foreign nation. Nine years ago, Amn was forced to relinquish the city to a wealthy and powerful consortium of Chultan traders backed by the Ytepka Society (pronounced yeh-TEP-kah), or risk a bloody conflict that probably would have ended with the city winning its independence anyway. Seven Chultan traders have since grown into influential merchant princes, enticing folk from up and down the Sword Coast with their wares.
