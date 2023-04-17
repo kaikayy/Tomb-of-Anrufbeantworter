@@ -42,4 +42,19 @@ We meet back up with [[Kadrin]] and [[Shago]] leaves to get his equipment and sa
 - As [[Shago]] comes back we tell him about the plan
 
 We mount up and leave for the [[Tomb of Kahuli]]
+- [[Talsen]] puts in the path to "[[Ruin of Bolnirtecla]]"
+- We travel 1 hour through the [[Webway of Ubtao]]
+- [[Talsen]] explains what is going on here and what will be happening next
 
+We see Jungle in front of us as we exit the [[Webway of Ubtao]], the pedestal and portal are heavily grown over with Moss and vines, before us lies a clearing and the Jungle is 30ft away from us. High Throned hedges construct a ring and form a mace, which the Portal is used as an entrance to. Inside the Hedge maze we can see a stone building peaking out.
+- ![[Pasted image 20230417202600.png]]
+- [[Shadow]] dashes up a tree to try to gauge our location
+	- Sees the [[Peaks of Flame]]
+	- Sees the [[Heart of Ubtao]]
+	- Sees the [[Kobold Mountains]] in the distance
+	- ![[Pasted image 20230417203029.png]]
+		- _Upper Swirl_
+	- Sees the Hedge maze and a big pond in the middle with a big stone statue of a frog that has been painted, small houses stand beside it made of thatch. Small colorful creatures splash in the water.
+	- ![[Pasted image 20230417203232.png]]
+
+We decide to go back to the [[Tomb of Kahuli]] through the [[Webway of Ubtao]]
