@@ -1,13 +1,12 @@
 
 1. Watch - [[Talsen]]
-Perc.: 
+- Perc.: 
 
-1. Watch - [[Shadow]]
-Perc.: 
+2. Watch - [[Shadow]]
+- Perc.: 
 
 3. Watch -  [[Kadrin]]
-Perc.: 
-
+- Perc.: 
 
 #### LONG REST -> Day 
 Weather:
