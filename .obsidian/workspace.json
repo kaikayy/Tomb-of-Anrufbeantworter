@@ -4,16 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "3daa48a92714fe22",
+        "id": "48b449fbe1600f2a",
         "type": "tabs",
         "children": [
           {
-            "id": "aec04519b28cd014",
+            "id": "d5dc621de4a49e1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 60.md",
+                "mode": "source",
+                "source": true
+              }
             }
+          },
+          {
+            "id": "3724b30d22560027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 60.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "ed6c630f74af4ec0"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a2e4718013a1c6b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6734a65989fdf982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 60.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "ed6c630f74af4ec0"
           }
         ]
       }
@@ -73,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/Session 60.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Session Notes/Session 60.md"
+              }
             }
           },
           {
@@ -97,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Session Notes/Session 60.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,14 +186,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "aec04519b28cd014",
+  "active": "3724b30d22560027",
   "lastOpenFiles": [
+    "Session Notes/Session 59.md",
+    "Session Notes/Session 60.md",
     "Locations/Port Nyanzaru.md",
     "Session Notes/Fight_S59.md",
     "test-note.md",
     "Shadowfell.md",
     "Tomb-of-Anrufbeantworter",
-    "Session Notes/Session 59.md",
     "Bodak.md",
     "Bestiary/Aremag the Dragon Turtle.md",
     "Session Notes/Session 57.md",
@@ -182,7 +224,6 @@
     "NPCs/The Trailblazer.md",
     "NPCs/Rokah.md",
     "Locations/Merchants' Ward.md",
-    "NPCs/Liara Portyr.md",
-    "Items/Hammer's Bulwark of Golden Stout.md"
+    "NPCs/Liara Portyr.md"
   ]
 }

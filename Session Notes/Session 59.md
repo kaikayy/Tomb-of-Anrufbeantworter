@@ -50,7 +50,7 @@ As we go through the [[Grand Souk]] we find a notice board with guides and jobs
 
 [[Kadrin]] looks at the Job Postings while [[Talsen]] buys and sells stuff
 - [[Talsen]] commissions a side pouch that will be done in one tenday
-- [[Shadow]] buys a Drum for[[Kadrin]] and a flute for herself
+- [[Shadow]] buys a Drum for [[Kadrin]] and a flute for herself
 
 We go back to [[Wakanga O’tamu]] to identify a few items
 - [[Kadrin]] looks around with Divine Sense and notices nothing
