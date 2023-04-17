@@ -9,3 +9,4 @@
 	- Racing Dino: 250gp (Allosaurus) - 60ft. speed, 2-3 People
 	- Riding Dino: 250gp (Ankylosaurus) - 30ft. speed, 4-5 people
 	- Battle Dino: Talk to the Trade Prince [[Ifan Talro´a]] 500-600gp (Triceratops), 4 people
+- Normal Saddle: 10gp

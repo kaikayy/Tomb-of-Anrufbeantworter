@@ -17,7 +17,8 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "a13ba76ec4e8ce19"
           },
           {
             "id": "3724b30d22560027",
@@ -25,22 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 60.md",
+                "file": "Session Notes/Session 59.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "ed6c630f74af4ec0"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "a2e4718013a1c6b1",
+        "id": "9575b25bd80ed42c",
         "type": "tabs",
         "children": [
           {
-            "id": "6734a65989fdf982",
+            "id": "1db74215824b6c08",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +49,7 @@
                 "source": true
               }
             },
-            "group": "ed6c630f74af4ec0"
+            "group": "a13ba76ec4e8ce19"
           }
         ]
       }
@@ -186,12 +185,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3724b30d22560027",
+  "active": "d5dc621de4a49e1b",
   "lastOpenFiles": [
-    "NPCs/Ristel.md",
-    "Session Notes/Session 60.md",
-    "Session Notes/Watch_Vorlage.md",
     "Session Notes/Session 59.md",
+    "Session Notes/Session 60.md",
+    "Locations/Dinosaur Stables.md",
+    "NPCs/Shago.md",
+    "NPCs/Ristel.md",
+    "Session Notes/Watch_Vorlage.md",
     "Locations/Port Nyanzaru.md",
     "Session Notes/Fight_S59.md",
     "test-note.md",
@@ -222,8 +223,6 @@
     "NPCs/Soulblade.md",
     "Session Combats/Fight_S54_55.md",
     "Locations/Kebab Kamadan.md",
-    "NPCs/The Trailblazer.md",
-    "NPCs/Rokah.md",
-    "Locations/Merchants' Ward.md"
+    "NPCs/The Trailblazer.md"
   ]
 }
