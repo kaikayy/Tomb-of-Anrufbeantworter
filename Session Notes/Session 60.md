@@ -57,4 +57,18 @@ We see Jungle in front of us as we exit the [[Webway of Ubtao]], the pedestal an
 	- Sees the Hedge maze and a big pond in the middle with a big stone statue of a frog that has been painted, small houses stand beside it made of thatch. Small colorful creatures splash in the water.
 	- ![[Pasted image 20230417203232.png]]
 
-We decide to go back to the [[Tomb of Kahuli]] through the [[Webway of Ubtao]]
+We decide to go back to the [[Tomb of Kahuli]] through the [[Webway of Ubtao]] and then back to [[Port Nyanzaru]]
+- We are stopped by traffic coming our way, a brown stegosaurus
+	- We go around it and it looks back at us
+- We arrive in [[Port Nyanzaru]] and look for a tavern
+	- [[Kadrin]] shows [[Delwyn]], [[Velcro]] and demonstrates its powers by petting it
+		- d10000 - 5520
+		- [[Kadrin]] is compelled to tell [[Delwyn]] that he stole money form [[Shadow]], from [[Gannin]], from [[Kairi]], from all of them
+			- [[Talsen]] asks where he put his money, [[Kadrin]]'s pockets are empty and he tells them that he bribed
+				-  [[Talsen]] grapples [[Kadrin]] Ath: 12 vs Acr.: 7
+		- [[Talsen]], Insight: 17
+			- [[Kadrin]] believes his own thoughts
+		- [[Delwyn]], Arcana: 8
+			- Knows he is resistant against charms but is not sure if he knows 
+		- [[Delwyn]], Sleight of Hand: 8
+			- Tries to get [[Velcro]] out of [[Kadrin]]'s
