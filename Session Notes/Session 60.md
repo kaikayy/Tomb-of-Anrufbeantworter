@@ -71,4 +71,20 @@ We decide to go back to the [[Tomb of Kahuli]] through the [[Webway of Ubtao]] a
 		- [[Delwyn]], Arcana: 8
 			- Knows he is resistant against charms but is not sure if he knows 
 		- [[Delwyn]], Sleight of Hand: 8
-			- Tries to get [[Velcro]] out of [[Kadrin]]'s
+			- Tries to get [[Velcro]] out of [[Kadrin]]'s Bag and fails
+	- [[Talsen]] convinces [[Kadrin]] to go back home to [[Talsen]]'s Shack
+		- [[Delwyn]] escorts him
+	- [[Talsen]] asks around in [[The Thundering Lizard]] for anyone who might know something about [[Artus Cimber]] and offers free drinks for anyone who can tell him something useful
+		- Insight: 15
+			- see: [[Artus Cimber]]
+		- gets thrown out of [[The Thundering Lizard]] for giving out his own free drinks from his Shield
+		- Goes back to [[Talsen]]'s Shack with [[Shago]] to drink some more
+	- Meanwhile [[Kadrin]] tells more illusive crimes to [[Delwyn]] on their travel to [[Talsen]]'s Shack
+
+At the Shack
+- [[Kadrin]] starts casting an hour long Ritual
+	- He blesses the Water in front of him and creates a flask of Holy Water
+- [[Delwyn]] tries imitating the meditation of [[Kadrin]] and tries to contact his mother and casts Darkness around himself to make it more connected to the [[Shadowfell]]
+	- Arcana: 9
+		- No connection can be made, there has be another, different way
+- [[Talsen]] and [[Shago]] arrive to drink a bit more
