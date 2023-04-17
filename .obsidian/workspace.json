@@ -11,14 +11,9 @@
             "id": "d5dc621de4a49e1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 60.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "a13ba76ec4e8ce19"
+              "type": "graph",
+              "state": {}
+            }
           },
           {
             "id": "7fe747213432ca3b",
@@ -55,25 +50,6 @@
                 "source": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "9575b25bd80ed42c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1db74215824b6c08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 60.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "a13ba76ec4e8ce19"
           }
         ]
       }
@@ -133,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 60.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Session Notes/Session 60.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 60.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,8 +165,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,10 +180,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1cf7fd4cac64a694",
+  "active": "d5dc621de4a49e1b",
   "lastOpenFiles": [
-    "NPCs/Artus Cimber.md",
+    "NPCs/Stomps.md",
+    "NPCs/Summerwise.md",
+    "NPCs/Soul Warden.md",
+    "NPCs/Dugmaren Brightmantle.md",
     "Session Notes/Session 60.md",
+    "NPCs/Artus Cimber.md",
     "Session Notes/Session 34.md",
     "NPCs/Velcro.md",
     "Ruin of Bolnirtecla.md",
@@ -243,10 +218,6 @@
     "_Attachments/Pasted image 20230410202555.png",
     "_Attachments/Pasted image 20230410202550.png",
     "_Attachments/Pasted image 20230410202546.png",
-    "Session Combats/Fight_S.md",
-    "Session Combats/Fight_S49.md",
-    "PCs/Delwyn.md",
-    "Session Combats/Fight_S58.md",
-    "NPCs/Badok.md"
+    "Session Combats/Fight_S.md"
   ]
 }
