@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "539513182bd218bf",
+        "id": "2aac853ede5f2f02",
         "type": "tabs",
         "children": [
           {
-            "id": "b1dba120104bd67e",
+            "id": "fa23db10bf6ef91a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,8 +44,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ballroom",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,11 +129,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,8 +145,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "921e982f620fe210",
+  "active": "097e99fbc3897fcc",
   "lastOpenFiles": [
+    "Organizations/Guides.md",
+    "Plans.md",
+    "Bestiary/Bodak.md",
+    "Locations/Ruin of Bolnirtecla.md",
+    "Locations/Outside of Chult/Shadowfell.md",
     "NPCs/Velcro.md",
     "Session Notes/Session 34.md",
     "Session Notes/Session 4.md",
@@ -157,7 +162,6 @@
     "NPCs/Dugmaren Brightmantle.md",
     "Session Notes/Session 60.md",
     "NPCs/Artus Cimber.md",
-    "Ruin of Bolnirtecla.md",
     "_Attachments/Pasted image 20230417203232.png",
     "_Attachments/Pasted image 20230417203029.png",
     "_Attachments/Pasted image 20230417202600.png",
@@ -169,14 +173,10 @@
     "Locations/Port Nyanzaru.md",
     "Session Combats/Fight_S59.md",
     "test-note.md",
-    "Shadowfell.md",
     "Tomb-of-Anrufbeantworter",
-    "Bodak.md",
     "Bestiary/Aremag the Dragon Turtle.md",
     "Session Notes/Session 57.md",
     "Session Notes/Session 58.md",
-    "Plans.md",
-    "[Talsen.md",
     "_Attachments/Pasted image 20230410202615.png",
     "_Attachments/Pasted image 20230410202610.png",
     "_Attachments/Pasted image 20230410202605.png",
