@@ -30,13 +30,13 @@ Conditions:
 - 
 
 [[Delwyn]]:
--
+- 
 
 [[Kadrin]]:
-- [[Concentration]] (Hexblade's Curse)
+- 
 ---
 Dodge/Ready:
-D - shago 
+
 
 ---
 **Round 1**
@@ -92,27 +92,53 @@ D - shago
 		- [[Talsen]]: Nat.1 (3)
 		- [[Stomps]]: 7
 		- [[Shago]]: -
-			- ALL FAIL, 
+			- ALL FAIL, [[Kadrin]] hears voices cry out in agony in Celestial
+			- 12 Necrotic DMG and the Ghoul bolsters himself
+- [[Shadow]] casts Hail of Thorns, attacks Zb
+	- Sharpshooter, 21 to hit, 20 DMG
+		- Zb is [[Dead]]
+		- DEX SAV from [[Kadrin]], [[Talsen]], [[Stomps]], Za, Zc, Ze, Gc
+			- 4, 23, 8, FAIL, FAIL, SAVE, SAVE
+		- 14/7 DMG
+			- Za & Zc is [[Dead]]
+	- attacks Ze
+		- Sharpshooter, 18 to hit, 20 DMG
+			- Ze is [[Dead]]
+- [[Kadrin]] uses the [[Longsword of Purging]] to get a spellslot back
+	- attacks Ga
+		- 24 to hit, SMITE (3rd LvL), 36 DMG
+		- 27 to hit, SMITE (3rd LvL), 37 DMG
+			- Gb is [[Dead]]
+- [[Delwyn]] casts Magic Missile (2nd LvL) on Zd
+	- 16 DMG
+		- Zd stands up again
+- Gc attacks [[Talsen]]
+	- 9 to hit, miss
+		- R: SENTINEL, [[Kadrin]], 21 to hit, 14 DMG
+- Gd attacks [[Stomps]]
+	- 16 to hit
+		- R: [[Talsen]], Bloodcurse of the Eyeless
+			- 12 to hit, miss
+- Strider 1 runs away
+	- R: AoO, Gc, Gd
+		- Nat.1 to hit, miss
+		- 20 to hit, 5 DMG
+			- CON SAV: FAIL
+				- Strider 1 is [[Paralyzed]]
+- [[Musharib]] attacks Gd
+	- 12 to hit, 13 DMG
+- [[Talsen]] attacks Gc
+	- 24 to hit, 13 DMG
+		- Gc is [[Dead]]
+	- attacks Gd
+		- 11 to hit, miss
+- Ze attacks [[Shago]]
+	- Nat.1 (4) to hit, miss
 
 **Round 3**
-- asd
-
-**Round 4**
-- asd
-
-**Round 5**
-- asd
-
-**Round 6**
-asd
-asd
-asd
-**Round 7**
-asd
-asd
-asd
-**Round 8**
-asd
-asd
-asd
-**Round 9**
+- [[Shago]] attacks Ze
+	- hits, 9 DMG
+		- Ze is [[Dead]]
+	- attacks Gd
+		- hits
+			- Gd is [[Dead]]

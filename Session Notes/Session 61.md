@@ -107,7 +107,7 @@ We continue to travel towards [[Vorn (Place)]] and cross [[River Soshenstar]]
 				- Some have [[Ras Nsi]]'s Sigil on their forehead
 - We decide to approach the undead and expect to be seen
 	- We try to stay silent tho
-	- [[Kadrin]] casts Armor of Agathys, [[Delwyn]] casts Mage Armor, [[Talsen]] lights his axe
+	- [[Kadrin]] casts Armor of Agathys, [[Delwyn]] casts Mage Armor, [[Talsen]] lights his axe, [[Kadrin]] uses his [[Longsword of Purging]] to restore a Spellslot
 		- Stealth: 
 		-  [[Stomps]]: 4
 		- Strider 1: 3

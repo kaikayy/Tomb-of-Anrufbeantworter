@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S61.md",
+                "file": "Session Notes/Session 61.md",
                 "mode": "source",
                 "source": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Combats/Fight_S61.md",
+                "file": "Session Notes/Session 61.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Combats/Fight_S61.md"
+                "file": "Session Notes/Session 61.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Combats/Fight_S61.md",
+                "file": "Session Notes/Session 61.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,10 +196,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2f6c9faf52402501",
+  "active": "10355c733cffaf3a",
   "lastOpenFiles": [
-    "Session Combats/Fight_S.md",
     "Session Combats/Fight_S61.md",
+    "Session Combats/Fight_S.md",
     "Session Notes/Session 61.md",
     "Session Notes/Watch_Vorlage.md",
     "Brontosaurus.md",
