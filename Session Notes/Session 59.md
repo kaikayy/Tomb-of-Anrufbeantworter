@@ -84,6 +84,6 @@ We go back to [[Wakanga O’tamu]] to identify a few items
 Wakanga~~
 Tomorrow:
 ~~Get [[Shago]]~~
-Go to Random Location, look around and determine where it is
+~~Go to Random Location, look around and determine where it is~~
 Day after that:
 Get [[Musharib]] and go to [[Mistcliff Mountains]] then to [[Kobold Mountains]]

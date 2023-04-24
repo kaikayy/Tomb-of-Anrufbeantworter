@@ -21,18 +21,19 @@
             "group": "5a2accdd5d7b4993"
           },
           {
-            "id": "8a65084712fa8b29",
+            "id": "341879f61f790812",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 60.md",
-                "mode": "preview",
+                "file": "NPCs/Musharib.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ad21c5b86a368af1",
@@ -50,21 +51,8 @@
               }
             },
             "group": "5a2accdd5d7b4993"
-          },
-          {
-            "id": "e9f9645bdd0a296c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 59.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 61.md",
+                "file": "NPCs/Musharib.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 61.md"
+                "file": "NPCs/Musharib.md"
               }
             }
           },
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 61.md",
+                "file": "NPCs/Musharib.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,11 +186,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6e3f8d2dda5c3519",
+  "active": "341879f61f790812",
   "lastOpenFiles": [
+    "Session Notes/Session 61.md",
+    "Veil of Night.md",
     "Session Notes/Session 60.md",
     "Session Notes/Session 59.md",
-    "Session Notes/Session 61.md",
     "Session Notes/Watch_Vorlage.md",
     "Plans.md",
     "Organizations/Guides.md",
@@ -229,7 +218,6 @@
     "test-note.md",
     "Tomb-of-Anrufbeantworter",
     "Bestiary/Aremag the Dragon Turtle.md",
-    "Session Notes/Session 57.md",
     "_Attachments/Pasted image 20230410202615.png",
     "_Attachments/Pasted image 20230410202610.png",
     "_Attachments/Pasted image 20230410202605.png",
