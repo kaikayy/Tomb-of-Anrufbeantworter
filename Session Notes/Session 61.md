@@ -61,7 +61,7 @@ We head out towards [[Vorn (Place)]]
 		- Gets 9 [[Wukka Nuts]] +1 on the ground
 
 We make camp and build the tents
-- [[Talsen]] and [[Shadow]] fasten a rope on a nearby elevation
+- [[Talsen]] and [[Shadow]] fasten a rope on a nearby hill
 - [[Kadrin]] trains, Athletics: 7
 
 1. Watch - [[Talsen]], [[Delwyn]]
@@ -75,11 +75,24 @@ We make camp and build the tents
 - [[Delwyn]] tries to identify the [[Veil of Night]], attunes to it and wears it
 
 2. Watch - [[Shadow]], [[Musharib]]
-- Perc.: 
+- Perc.: 15, 13
+- [[Shadow]] climbs up the hill while [[Musharib]] stays down at the camp
 
 3. Watch -  [[Kadrin]], [[Shago]]
-- Perc.: 
+- Perc.: 6, 3
+- [[Kadrin]] upholds an Illusion over [[Talsen]]'s Tent throughout the watch
+- [[Kadrin]] looks more into the [[Wukka Nuts]]
+	- Nature: 13
+		- The shell can't be eaten but the pulp seems edible
 
-#### LONG REST -> Day 
-Weather:
-[[Kadrin]] cooks, DEX: 
+## LONG REST -> Day 3
+Weather: Normal Temp, No Rain, No Wind
+[[Kadrin]] cooks, DEX: 24
+
+[[Delwyn]] CON SAV: 19 - SAVE
+- Asks about Insects
+	- [[Kadrin]] gives him Insect-Repellant
+
+We continue to travel towards [[Vorn (Place)]] and cross [[River Soshenstar]]
+- We find a small stream with clear water, on its bay are shubs with small oragne fruits
+	- They are [[Kamu-Kamu Fru]]
