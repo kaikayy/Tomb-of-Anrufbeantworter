@@ -13,31 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 61.md",
+                "file": "Session Combats/Fight_S.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "5a2accdd5d7b4993"
-          }
-        ]
-      },
-      {
-        "id": "ad21c5b86a368af1",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
-            "id": "16db20d8266c5340",
+            "id": "10355c733cffaf3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 61.md",
-                "mode": "preview",
+                "file": "Session Combats/Fight_S61.md",
+                "mode": "source",
                 "source": true
               }
-            },
-            "group": "5a2accdd5d7b4993"
+            }
+          },
+          {
+            "id": "212186700a13d236",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kamu-Kamu Fruits.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8595a49d701613da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f6c9faf52402501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Combats/Fight_S61.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -97,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 61.md",
+                "file": "Session Combats/Fight_S61.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 61.md"
+                "file": "Session Combats/Fight_S61.md"
               }
             }
           },
@@ -124,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 61.md",
+                "file": "Session Combats/Fight_S61.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,10 +196,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "16db20d8266c5340",
+  "active": "2f6c9faf52402501",
   "lastOpenFiles": [
-    "Session Notes/Watch_Vorlage.md",
+    "Session Combats/Fight_S.md",
+    "Session Combats/Fight_S61.md",
     "Session Notes/Session 61.md",
+    "Session Notes/Watch_Vorlage.md",
+    "Brontosaurus.md",
+    "Kamu-Kamu Fruits.md",
     "Maracuja fruit.md",
     "Wukka Nuts.md",
     "_Attachments/Ubtao building the city of Mezro.png",
@@ -199,13 +226,9 @@
     "NPCs/Stomps.md",
     "NPCs/Summerwise.md",
     "NPCs/Soul Warden.md",
-    "NPCs/Dugmaren Brightmantle.md",
-    "NPCs/Artus Cimber.md",
     "_Attachments/Pasted image 20230417203232.png",
     "_Attachments/Pasted image 20230417203029.png",
     "_Attachments/Pasted image 20230417202600.png",
-    "Locations/Dinosaur Stables.md",
-    "NPCs/Shago.md",
     "Tomb-of-Anrufbeantworter",
     "_Attachments/Pasted image 20230410202615.png",
     "_Attachments/Pasted image 20230410202610.png",

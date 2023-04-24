@@ -94,5 +94,24 @@ Weather: Normal Temp, No Rain, No Wind
 	- [[Kadrin]] gives him Insect-Repellant
 
 We continue to travel towards [[Vorn (Place)]] and cross [[River Soshenstar]]
-- We find a small stream with clear water, on its bay are shubs with small oragne fruits
-	- They are [[Kamu-Kamu Fru]]
+- We find a small stream with clear water, on its bay are shrubs with small orange fruits
+	- They are [[Kamu-Kamu Fruits]]
+- We find a small lake and see a heard of [[Brontosaurus]] drinking, washing in the water and eating
+	- [[Kadrin]] catches some fish and gets splashed with water by a baby [[Brontosaurus]]
+- The Jungle is getting thicker and travel slows down a bit
+	- A Blockade blocks our way, the corpse of a [[Brontosaurus]] lays on the path, being eaten by undead
+		- Perception:
+			- [[Kadrin]]: 11
+			- [[Shadow]]: 24
+				- Seems like a rather big hoard of undead, about 5 Zombies and 4 Ghouls
+				- Some have [[Ras Nsi]]'s Sigil on their forehead
+- We decide to approach the undead and expect to be seen
+	- We try to stay silent tho
+	- [[Kadrin]] casts Armor of Agathys, [[Delwyn]] casts Mage Armor, [[Talsen]] lights his axe
+		- Stealth: 
+		-  [[Stomps]]: 4
+		- Strider 1: 3
+		- Strider 2: 10
+			- ⌀ 5,67
+
+### [[Fight_S61]]

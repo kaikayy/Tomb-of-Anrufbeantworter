@@ -20,7 +20,7 @@ Conditions:
 [[Talsen]]:
 - 
 
-[[Delwyn]]]:
+[[Delwyn]]:
 -
 
 [[Kadrin]]:
