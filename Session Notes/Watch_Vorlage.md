@@ -18,17 +18,17 @@ Weather:
 
 
 		- Stealth:
-		- [[Shadow]]: 25
-		- [[Kadrin]]: 11
-		- [[Gobta]]: 16
-		- [[Talsen]]: 22
-			- ⌀ 18,5
+		- [[Shadow]]: 
+		- [[Kadrin]]: 
+		- [[Delwyn]]: 
+		- [[Talsen]]: 
+			- ⌀ 
 
 
 - Normal Travel + Forage
-- [[Talsen]], Forage: Survival: 12
+- [[Talsen]], Forage: Survival: 
 	- d6() - WIS(1) = lb(s) of Food
-- [[Kadrin]], Forage: Survival: 5
+- [[Kadrin]], Forage: Survival: 
 	- d6() - WIS(1) = lb(s) of Food
-- [[Herald]], Forage: Survival: 17
+- [[Delwyn]], Forage: Survival: 
 	- d6() + WIS(2) = lb(s) of Food
