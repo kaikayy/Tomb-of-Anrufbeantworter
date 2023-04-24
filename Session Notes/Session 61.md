@@ -47,6 +47,39 @@ We head out towards [[Vorn (Place)]]
 	- We pick a few up
 		- [[Kadrin]], Nature: 6
 		- [[Shadow]], Nature: 23
-			- Maracuja fruit, the brown and ripe ones treats ailments
+			- [[Maracuja fruit]], the brown and ripe ones treats ailments
 				- The younger ones are highly toxic and can be deadly to consume
-- 
+			- [[Shadow]] tells us that they are edible but the riper the fruit the better they are
+- Something falls from a high tree and starts glowing on the ground
+	- A nut has fallen to the ground and the flesh is glowing brightly
+		- 10ft. bright light, 10ft. dim light
+	- [[Shadow]] Nature: 20
+		- They are edible and are most tasty when they are still glowing
+		- They are called [[Wukka Nuts]]
+		- The glowing fades after 1 minute and can be retightened by shaking the Nut
+	- [[Shadow]] tries to shoot a few of the Nuts down
+		- Gets 9 [[Wukka Nuts]] +1 on the ground
+
+We make camp and build the tents
+- [[Talsen]] and [[Shadow]] fasten a rope on a nearby elevation
+- [[Kadrin]] trains, Athletics: 7
+
+1. Watch - [[Talsen]], [[Delwyn]]
+- Perc.: 2, 12
+- [[Delwyn]] tries climbing the Rope
+	- Athletics: 5
+		- fails
+	- tries again with [[Talsen]]'s "encouragement"
+		- Athletics: 11
+		- makes it barely
+- [[Delwyn]] tries to identify the [[Veil of Night]], attunes to it and wears it
+
+2. Watch - [[Shadow]], [[Musharib]]
+- Perc.: 
+
+3. Watch -  [[Kadrin]], [[Shago]]
+- Perc.: 
+
+#### LONG REST -> Day 
+Weather:
+[[Kadrin]] cooks, DEX: 
