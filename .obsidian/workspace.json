@@ -19,21 +19,8 @@
               }
             },
             "group": "5a2accdd5d7b4993"
-          },
-          {
-            "id": "341879f61f790812",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Musharib.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ad21c5b86a368af1",
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Musharib.md",
+                "file": "Session Notes/Session 61.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Musharib.md"
+                "file": "Session Notes/Session 61.md"
               }
             }
           },
@@ -137,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Musharib.md",
+                "file": "Session Notes/Session 61.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,14 +173,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "341879f61f790812",
+  "active": "6e3f8d2dda5c3519",
   "lastOpenFiles": [
+    "_Attachments/Ubtao building the city of Mezro.png",
     "Session Notes/Session 61.md",
+    "NPCs/Ubtao.md",
+    "Plans.md",
+    "Hrakhamar.md",
+    "NPCs/Musharib.md",
+    "_Attachments/Pasted image 20230424193547.png",
     "Veil of Night.md",
     "Session Notes/Session 60.md",
     "Session Notes/Session 59.md",
     "Session Notes/Watch_Vorlage.md",
-    "Plans.md",
     "Organizations/Guides.md",
     "Bestiary/Bodak.md",
     "Locations/Ruin of Bolnirtecla.md",
@@ -213,17 +205,12 @@
     "Locations/Dinosaur Stables.md",
     "NPCs/Shago.md",
     "NPCs/Ristel.md",
-    "Locations/Port Nyanzaru.md",
-    "Session Combats/Fight_S59.md",
-    "test-note.md",
     "Tomb-of-Anrufbeantworter",
-    "Bestiary/Aremag the Dragon Turtle.md",
     "_Attachments/Pasted image 20230410202615.png",
     "_Attachments/Pasted image 20230410202610.png",
     "_Attachments/Pasted image 20230410202605.png",
     "_Attachments/Pasted image 20230410202600.png",
     "_Attachments/Pasted image 20230410202555.png",
-    "_Attachments/Pasted image 20230410202550.png",
-    "_Attachments/Pasted image 20230410202546.png"
+    "_Attachments/Pasted image 20230410202550.png"
   ]
 }

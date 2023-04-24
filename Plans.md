@@ -4,7 +4,7 @@
 
 Go to [[Orolunga]] to find [[Artus Cimber]] & Map out Area for [[Lerek Dashlynd]]  for a sailing ship
 
-Get the dwarven mine running again or see what happened there
+Get the dwarven mine, [[Hrakhamar]] running again or see what happened there
 Info from a Guide [[Musharib]], [[Hew Hackinstone]]
 Near [[Kobold Mountains]]
 
