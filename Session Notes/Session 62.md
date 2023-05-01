@@ -54,4 +54,42 @@ Weather: No rain, No wind, cooler temp
 - Fish fillet with potatoes and lemon sauce (very hot)
 - Steamed potatoes with assorted vegetables and nuts
 
-We travel further
+We travel further towards [[Vorn (Place)]]
+- While we forage we find new fruit
+	- [[Shadow]], Nature: 19
+		- Doesn't know the fruit but has smelt it before at [[Kebab Kamadan]]
+	- We take some with us
+	- [[Kadrin]] wants to hunt a [[Kamadan]]
+		- [[Shadow]], Nature: 20
+			- _see [[Kamadan]]_
+	- [[Kadrin]] tastes the fruit and it tastes like Mango
+		- CON SAV: 17 - SAVE
+		- It made him tap his foot shortly
+- In the afternoon off to the right we see a clearing with tents in a circle, it's a campsite
+	- Perception:
+		- [[Talsen]]: 4
+		- [[Shadow]]: 22
+			- We see two rain catchers and no people around, a halfling is laying dead on the ground with a spear in it
+	- [[Kadrin]] uses Divine Sense
+		- Nothing
+	- [[Talsen]] throws a rock at one of tents for farther away
+		- It hits and makes a sound but nothing moves
+	- [[Shadow]] climbs up a tree and tries to see more
+		- Perception: 23
+			- Sees a dead fireplace and another dead halfling beside it
+	- We decide to approach and investigate the camp
+		- We notice another dead halfling mauled on the ground
+		- The tents are ripped in some places and blood splattered
+		- There are multiple footprints and tracks on the ground
+			- [[Shadow]], Survival: 19
+				- Many halflings scuffling and a large creatures prints that appear and disappear randomly
+		- We investigate the tents
+			- Investigation:
+				- [[Delwyn]]: Nat.20 (20)
+				- [[Talsen]]: Nat.1 (7)
+				- [[Shadow]]: 20 
+				- [[Kadrin]]: 13
+					- The tents seemed to have ransacked
+					- Another dead halfling lies inside one of the tents
+						- it carries 3 flasks of [[Tej]] and 3 Explorer's Packs
+					- 
