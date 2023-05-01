@@ -20,4 +20,38 @@ Around the end of the day we find a waterfall with a cave behind it. A footpath 
 	- Perception: 5
 - [[Shadow]] looks around for anything else in the Cave
 	- Investigation: 19
-		- Finds tracks
+		- Finds tracks hinting at other people having gone through here
+- [[Kadrin]] opens the barrels attached to the mount
+	- they are filled with 10 gallons of "fresh" water each
+- [[Talsen]] feels for any weird vibes
+	- Arcana: 21
+		- nothing
+
+1. Watch - [[Talsen]] & [[Musharib]]
+- Perc.: 13, 11
+
+2. Watch - [[Delwyn]] & [[Shago]]
+- Perc.: Nat.1 (0), 13
+- Tests around with the [[Veil of Night]]
+	- It produces a different placement of the moon and the stars
+- [[Shago]] tells [[Delwyn]] that he was scared of that Undead Encounter, he doesn't want to turn into one and wants us to burn his body if he were to die
+
+3. Watch -  [[Kadrin]] & [[Shadow]]
+- Perc.: 13, 9
+- [[Shadow]] gives [[Kadrin]] the drum she bought
+	- [[Kadrin]] is very happy about it and wants to try them out in the morning
+- [[Kadrin]] takes watch lost in thought
+	- [[Shadow]] talks to him about it
+		- He is worried that it could actually his sister with [[Artus Cimber]]
+		- He doesn't want to meet her on [[Chult]], she could get hurt
+		- He hasn't seen her in quite some time and she is his way older sister
+		- He'd just like certainty if it's her and if she is safe 
+- [[Shadow]] reads in her book, INT: Nat.20 (22)
+
+#### LONG REST -> Day 4
+Weather: No rain, No wind, cooler temp
+[[Kadrin]] cooks, DEX: 9
+- Fish fillet with potatoes and lemon sauce (very hot)
+- Steamed potatoes with assorted vegetables and nuts
+
+We travel further

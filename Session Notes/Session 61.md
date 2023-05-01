@@ -1,6 +1,6 @@
 Recap - [[Kadrin]]
 
-## LONG REST - Day 2
+## LONG REST -> Day 2
 Weather: Strong Rain, Normal Temp, Slight Wind
 
 [[Kadrin]] tells [[Talsen]] about the [[Veil of Night]], which was identified by [[Wakanga O’tamu]] previously
