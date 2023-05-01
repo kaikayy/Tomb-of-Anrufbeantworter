@@ -65,6 +65,7 @@ We travel further towards [[Vorn (Place)]]
 	- [[Kadrin]] tastes the fruit and it tastes like Mango
 		- CON SAV: 17 - SAVE
 		- It made him tap his foot shortly
+
 - In the afternoon off to the right we see a clearing with tents in a circle, it's a campsite
 	- Perception:
 		- [[Talsen]]: 4
@@ -92,4 +93,21 @@ We travel further towards [[Vorn (Place)]]
 					- The tents seemed to have ransacked
 					- Another dead halfling lies inside one of the tents
 						- it carries 3 flasks of [[Tej]] and 3 Explorer's Packs
-					- 
+							- We pick some of it up
+
+We make Camp
+1. Watch - [[Talsen]] & [[Kadrin]]
+- Perc.: 6, 7
+- They sit, drink and talk
+
+2. Watch - [[Delwyn]] & [[Shago]]
+- Perc.: 1, 17
+- [[Shago]] notices movement
+- 4 Figures approach the camp
+	- ## [[Fight_S62]]
+1. Watch -  [[Musharib]] & [[Shadow]]
+- Perc.: 
+
+#### LONG REST -> Day 5
+Weather: 
+[[Kadrin]] cooks, DEX: 
