@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7a1d62c3c436465",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 62.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "a20d3a00f5eed6c2",
             "type": "leaf",
             "state": {
@@ -30,17 +18,29 @@
                 "source": true
               }
             },
-            "group": "053de9cecd0de221"
+            "group": "6f79138479185430"
+          },
+          {
+            "id": "c7a1d62c3c436465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 62.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "352d223acf04d831"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "675ef0916a4b38ec",
         "type": "tabs",
         "children": [
           {
-            "id": "cff64c5cc905f820",
+            "id": "abb7441405dea7bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +50,20 @@
                 "source": true
               }
             },
-            "group": "053de9cecd0de221"
+            "group": "6f79138479185430"
+          },
+          {
+            "id": "c1f5c0e45a4eb6ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 62.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "352d223acf04d831"
           }
         ]
       }
@@ -186,7 +199,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cff64c5cc905f820",
+  "active": "a20d3a00f5eed6c2",
   "lastOpenFiles": [
     "Session Notes/Session 62.md",
     "Session Notes/Session 61.md",
