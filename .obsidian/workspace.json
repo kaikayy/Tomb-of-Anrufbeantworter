@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 61.md",
+                "file": "Session Notes/Session 62.md",
                 "mode": "source",
                 "source": true
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 61.md",
+                "file": "Session Notes/Session 62.md",
                 "mode": "preview",
                 "source": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 61.md",
+                "file": "Session Notes/Session 62.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 61.md"
+                "file": "Session Notes/Session 62.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 61.md",
+                "file": "Session Notes/Session 62.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,10 +199,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a20d3a00f5eed6c2",
+  "active": "abb7441405dea7bd",
   "lastOpenFiles": [
-    "Session Notes/Session 62.md",
     "Session Notes/Session 61.md",
+    "Thard Harr.md",
+    "Session Notes/Session 62.md",
     "Session Notes/Session 59.md",
     "Session Notes/Session 60.md",
     "Items/Maracuja fruit.md",
@@ -228,7 +229,6 @@
     "Session Notes/Session 4.md",
     "Session Notes/Session 37.md",
     "NPCs/Stomps.md",
-    "NPCs/Summerwise.md",
     "_Attachments/Pasted image 20230417203232.png",
     "_Attachments/Pasted image 20230417203029.png",
     "_Attachments/Pasted image 20230417202600.png",
