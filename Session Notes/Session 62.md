@@ -105,7 +105,7 @@ We make Camp
 - [[Shago]] notices movement
 - 4 Figures approach the camp
 	- ## [[Fight_S62]]
-1. Watch -  [[Musharib]] & [[Shadow]]
+3. Watch -  [[Musharib]] & [[Shadow]]
 - Perc.: 
 
 #### LONG REST -> Day 5

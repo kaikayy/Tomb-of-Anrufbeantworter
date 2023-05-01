@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a20d3a00f5eed6c2",
+            "id": "590c8cc51fcbda2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,38 +17,27 @@
                 "mode": "source",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "590c8cc51fcbda2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Combats/Fight_S62.md",
-                "mode": "source",
-                "source": true
-              }
-            }
+            },
+            "group": "ec4ba7bd63887336"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "409e7f9e6ed5ffaf",
         "type": "tabs",
         "children": [
           {
-            "id": "2d155cd938ee6c67",
+            "id": "438abef984a4eeaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S62.md",
-                "mode": "source",
+                "file": "Session Notes/Session 62.md",
+                "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "ec4ba7bd63887336"
           }
         ]
       }
@@ -108,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Combats/Fight_S62.md",
+                "file": "Session Notes/Session 62.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Combats/Fight_S62.md"
+                "file": "Session Notes/Session 62.md"
               }
             }
           },
@@ -135,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Combats/Fight_S62.md",
+                "file": "Session Notes/Session 62.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,10 +173,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2d155cd938ee6c67",
+  "active": "438abef984a4eeaa",
   "lastOpenFiles": [
-    "Session Notes/Session 62.md",
     "Session Combats/Fight_S62.md",
+    "Session Notes/Session 62.md",
     "Session Notes/Watch_Vorlage.md",
     "Bestiary/Kamadan.md",
     "Session Notes/Session 61.md",
