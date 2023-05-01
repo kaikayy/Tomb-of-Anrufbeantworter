@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "763ab53dccd9b5f1",
+        "id": "333b91f960f88fae",
         "type": "tabs",
         "children": [
           {
-            "id": "590c8cc51fcbda2f",
+            "id": "14573e0c42be32cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 62.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "ec4ba7bd63887336"
-          }
-        ]
-      },
-      {
-        "id": "409e7f9e6ed5ffaf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "438abef984a4eeaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 62.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "ec4ba7bd63887336"
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -97,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 62.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Session Notes/Session 62.md"
-              }
+              "state": {}
             }
           },
           {
@@ -124,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 62.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,13 +145,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "097e99fbc3897fcc",
+  "active": "14573e0c42be32cb",
   "lastOpenFiles": [
+    "Session Combats/Fight_S61.md",
+    "Session Combats/Fight_S62.md",
+    "Session Notes/Session 62.md",
     "Session Notes/Session 26.md",
     "NPCs/Vorn (NPC).md",
-    "Session Notes/Session 62.md",
     "Locations/Vorn (Place).md",
-    "Session Combats/Fight_S62.md",
     "Session Notes/Watch_Vorlage.md",
     "Bestiary/Kamadan.md",
     "Session Notes/Session 61.md",
@@ -190,7 +163,6 @@
     "Items/Kamu-Kamu Fruits.md",
     "Bestiary/Brontosaurus.md",
     "Locations/Hrakhamar.md",
-    "Session Combats/Fight_S61.md",
     "Session Combats/Fight_S.md",
     "Items/Wukka Nuts.md",
     "_Attachments/Ubtao building the city of Mezro.png",
