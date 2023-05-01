@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e3f8d2dda5c3519",
+            "id": "c7a1d62c3c436465",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S.md",
+                "file": "Session Notes/Session 62.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "10355c733cffaf3a",
+            "id": "a20d3a00f5eed6c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,38 +29,28 @@
                 "mode": "source",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "212186700a13d236",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kamu-Kamu Fruits.md",
-                "mode": "source",
-                "source": true
-              }
-            }
+            },
+            "group": "053de9cecd0de221"
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "8595a49d701613da",
+        "id": "675ef0916a4b38ec",
         "type": "tabs",
         "children": [
           {
-            "id": "2f6c9faf52402501",
+            "id": "cff64c5cc905f820",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S61.md",
-                "mode": "source",
+                "file": "Session Notes/Session 61.md",
+                "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "053de9cecd0de221"
           }
         ]
       }
@@ -196,25 +186,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "10355c733cffaf3a",
+  "active": "cff64c5cc905f820",
   "lastOpenFiles": [
+    "Session Notes/Session 62.md",
+    "Session Notes/Session 61.md",
+    "Session Notes/Session 59.md",
+    "Session Notes/Session 60.md",
+    "Items/Maracuja fruit.md",
+    "Items/Kamu-Kamu Fruits.md",
+    "Bestiary/Brontosaurus.md",
+    "Locations/Hrakhamar.md",
     "Session Combats/Fight_S61.md",
     "Session Combats/Fight_S.md",
-    "Session Notes/Session 61.md",
     "Session Notes/Watch_Vorlage.md",
-    "Brontosaurus.md",
-    "Kamu-Kamu Fruits.md",
-    "Maracuja fruit.md",
-    "Wukka Nuts.md",
+    "Items/Wukka Nuts.md",
     "_Attachments/Ubtao building the city of Mezro.png",
     "NPCs/Ubtao.md",
     "Plans.md",
-    "Hrakhamar.md",
     "NPCs/Musharib.md",
     "_Attachments/Pasted image 20230424193547.png",
-    "Veil of Night.md",
-    "Session Notes/Session 60.md",
-    "Session Notes/Session 59.md",
+    "Items/Veil of Night.md",
     "Organizations/Guides.md",
     "Bestiary/Bodak.md",
     "Locations/Ruin of Bolnirtecla.md",
@@ -225,7 +216,6 @@
     "Session Notes/Session 37.md",
     "NPCs/Stomps.md",
     "NPCs/Summerwise.md",
-    "NPCs/Soul Warden.md",
     "_Attachments/Pasted image 20230417203232.png",
     "_Attachments/Pasted image 20230417203029.png",
     "_Attachments/Pasted image 20230417202600.png",
