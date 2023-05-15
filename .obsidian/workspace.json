@@ -8,16 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14573e0c42be32cb",
+            "id": "3600a61742cd7bdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bestiary/Firenewt.md",
+                "file": "Session Notes/Session 63.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "2b76175ea2b24edc"
+          }
+        ]
+      },
+      {
+        "id": "758299045d7345f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd1e15f1286469de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 63.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "2b76175ea2b24edc"
           }
         ]
       }
@@ -48,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "batiri",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bestiary/Firenewt.md",
+                "file": "Session Notes/Session 63.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bestiary/Firenewt.md"
+                "file": "Session Notes/Session 63.md"
               }
             }
           },
@@ -104,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bestiary/Firenewt.md",
+                "file": "Session Notes/Session 63.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,20 +172,24 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "847bf8861478237f",
+  "active": "3600a61742cd7bdd",
   "lastOpenFiles": [
+    "Session Notes/Session 62.md",
+    "Session Notes/Session 63.md",
+    "Organizations/Batiri.md",
+    "_Attachments/Batiri Village.png",
+    "Thard Harr.md",
+    "Bestiary/Firenewt.md",
     "Session Combats/Fight_S58.md",
     "Session Combats/Fight_S59.md",
     "Session Combats/Fight_S61.md",
     "Session Combats/Fight_S62.md",
-    "Session Notes/Session 62.md",
     "Session Notes/Session 26.md",
     "NPCs/Vorn (NPC).md",
     "Locations/Vorn (Place).md",
     "Session Notes/Watch_Vorlage.md",
     "Bestiary/Kamadan.md",
     "Session Notes/Session 61.md",
-    "Thard Harr.md",
     "Session Notes/Session 59.md",
     "Session Notes/Session 60.md",
     "Items/Maracuja fruit.md",
@@ -179,9 +203,6 @@
     "Plans.md",
     "NPCs/Musharib.md",
     "_Attachments/Pasted image 20230424193547.png",
-    "Items/Veil of Night.md",
-    "Organizations/Guides.md",
-    "Bestiary/Bodak.md",
     "_Attachments/Pasted image 20230417203232.png",
     "_Attachments/Pasted image 20230417203029.png",
     "_Attachments/Pasted image 20230417202600.png",
@@ -189,7 +210,6 @@
     "_Attachments/Pasted image 20230410202615.png",
     "_Attachments/Pasted image 20230410202610.png",
     "_Attachments/Pasted image 20230410202605.png",
-    "_Attachments/Pasted image 20230410202600.png",
-    "_Attachments/Pasted image 20230410202555.png"
+    "_Attachments/Pasted image 20230410202600.png"
   ]
 }
