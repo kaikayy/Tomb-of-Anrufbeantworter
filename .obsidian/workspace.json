@@ -157,7 +157,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "564dfe82817f2bc8",
+  "active": "097e99fbc3897fcc",
   "lastOpenFiles": [
     "Session Combats/Fight_S63.md",
     "_Attachments/Batiri Village Escape Mechanism.png",
