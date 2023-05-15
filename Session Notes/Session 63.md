@@ -18,3 +18,6 @@ We arrive at the [[Batiri]] Village
 			- The Plant beside him was a [[Batiri]] Battle Stack
 			- ![[Pasted image 20230515192345.png]]
 		- ## [[Fight_S63]]
+
+We flee with the Amulet towards [[Vorn (Place)]]
+- 

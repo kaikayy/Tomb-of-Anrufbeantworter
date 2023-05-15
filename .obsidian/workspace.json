@@ -8,59 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3600a61742cd7bdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Combats/Fight_S.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a4e1fdc9acd8a937",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Combats/Fight_S63.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "167082a3c860674f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S63.md",
+                "file": "Session Notes/Session 63.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "de3a6e7d49a069e1"
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "ff6606b94e753811",
+        "id": "663607f5a0b9be73",
         "type": "tabs",
         "children": [
           {
-            "id": "94509df4a32f2833",
+            "id": "564dfe82817f2bc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S63.md",
-                "mode": "source",
+                "file": "Session Notes/Session 63.md",
+                "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "de3a6e7d49a069e1"
           }
         ]
       }
@@ -120,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Combats/Fight_S63.md",
+                "file": "Session Notes/Session 63.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Combats/Fight_S63.md"
+                "file": "Session Notes/Session 63.md"
               }
             }
           },
@@ -147,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Combats/Fight_S63.md",
+                "file": "Session Notes/Session 63.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,11 +172,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "167082a3c860674f",
+  "active": "564dfe82817f2bc8",
   "lastOpenFiles": [
+    "Session Combats/Fight_S63.md",
+    "_Attachments/Batiri Village Escape Mechanism.png",
     "Session Combats/Fight_S61.md",
     "Session Combats/Fight_S62.md",
-    "Session Combats/Fight_S63.md",
     "Session Notes/Session 63.md",
     "Session Combats/Fight_S.md",
     "_Attachments/Pasted image 20230515192345.png",
@@ -225,14 +203,12 @@
     "Items/Wukka Nuts.md",
     "_Attachments/Ubtao building the city of Mezro.png",
     "NPCs/Ubtao.md",
-    "Plans.md",
     "_Attachments/Pasted image 20230424193547.png",
     "_Attachments/Pasted image 20230417203232.png",
     "_Attachments/Pasted image 20230417203029.png",
     "_Attachments/Pasted image 20230417202600.png",
     "Tomb-of-Anrufbeantworter",
     "_Attachments/Pasted image 20230410202615.png",
-    "_Attachments/Pasted image 20230410202610.png",
-    "_Attachments/Pasted image 20230410202605.png"
+    "_Attachments/Pasted image 20230410202610.png"
   ]
 }

@@ -125,25 +125,39 @@ Dodge/Ready:
 		- Conc. SAV: 6 - Darkness drops
 - RCASb,e dash onto [[Kadrin]]
 - [[Kadrin]] uses Healing Hands on Strider 2
-	- 7 HP
-	- 
+	- 7 HP, Strider 2 is no longer [[Unconscious]] but [[Prone]]
+	- Uses Hexblade's Curse on RCASa
+- [[Musharib]] casts Hunter's Mark on RCASa, attacks
+	- miss
+	- mounts Strider 2, stands up 
+- [[Shago]] attacks RCASa
+	- 19 to hit, 11 DMG
+	- hits, 10-11 DMG
+	- hits, 10-11 DMG
+- [[Delwyn]] casts Darkness on BBSa
+- RCASa attacks Strider 2
+	- 5 to hit, miss
+- RCASc,f retreat
+- [[Talsen]] attacks RCASe
+	- 19 to hit, 10 DMG + 3 Fire DMG
+	- 27 to hit, 12 DMG + 4 Fire DMG
+	- mounts Strider 2
+- BGd cuts a liana, the whole village collapses and is flung by the tree it was attached to
+	- ![[Batiri Village Escape Mechanism.png]]
+	- dashes towards the others
 
 **Round 4**
-- asd
-
-**Round 5**
-- asd
-
-**Round 6**
-asd
-asd
-asd
-**Round 7**
-asd
-asd
-asd
-**Round 8**
-asd
-asd
-asd
-**Round 9**
+- [[Shadow]] moves Hunter's Mark to RCASb, attacks RCASe
+	- SHARPSHOOTER, 24 to hit, 17 DMG
+		- RCASe is [[Dead]]
+	- attacks RCASb
+		- SHARPSHOOTER, 16 to hit, 28 DMG
+- BBSa runs out of the darkness and retreats
+- RCASb attacks [[Kadrin]]
+	- 16 to hit, miss
+- [[Kadrin]] attacks RCASa
+	- 25 to hit, 12 DMG
+		- RCASa is [[Dead]]
+	- attacks RCASb
+		- 25 to hit, 9 DMG
+			- RCASb is [[Dead]]
