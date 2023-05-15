@@ -11,8 +11,12 @@
             "id": "14573e0c42be32cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Bestiary/Firenewt.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bestiary/Firenewt.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bestiary/Firenewt.md"
+              }
             }
           },
           {
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bestiary/Firenewt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,8 +152,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "14573e0c42be32cb",
+  "active": "847bf8861478237f",
   "lastOpenFiles": [
+    "Session Combats/Fight_S58.md",
+    "Session Combats/Fight_S59.md",
     "Session Combats/Fight_S61.md",
     "Session Combats/Fight_S62.md",
     "Session Notes/Session 62.md",
@@ -173,8 +182,6 @@
     "Items/Veil of Night.md",
     "Organizations/Guides.md",
     "Bestiary/Bodak.md",
-    "Locations/Ruin of Bolnirtecla.md",
-    "Locations/Outside of Chult/Shadowfell.md",
     "_Attachments/Pasted image 20230417203232.png",
     "_Attachments/Pasted image 20230417203029.png",
     "_Attachments/Pasted image 20230417202600.png",
