@@ -88,9 +88,45 @@ Dodge/Ready:
 	- SHARPSHOOTER, 20 to hit, 25 DMG
 	- SHARPSHOOTER, 22 to hit, 20 DMG
 		- BC is [[Dead]]
+- BBSa attack [[Musharib]]
+	- Nat.1 to hit, miss
+	- 19 to hit, 6 DMG
+- BCASb,e dash towards [[Kadrin]]
+- [[Kadrin]] moves to BC
+	- R: AoO, BGd, 13 to hit, miss
+	- takes the Amulet from BC and closes her eyes
+	- signals to retreat
+	- casts Sanctuary on [[Talsen]]
+- [[Musharib]] disengages and runs towards [[Kadrin]], attacks RCASa,d
+	- 14 to hit, 10 DMG
+- [[Shago]] retreats
+- BBSb dashes away from us
+- [[Delwyn]] casts Mage Armor
+- RCASa,d attacks Strider 2
+	- 20 to hit, 10 DMG
+		- Strider 2 is [[Unconscious]], R: [[Musharib]] dismounts 
+	- 12 to hit, miss
+- RCASc,f dash towards [[Kadrin]]
+- [[Talsen]] dashes
+	- R: AoO, BBSc, WIS SAV: 5 - FAIL
+- BBSd moves away from us
+- BGd runs outside into the bushes
+- BBSc move away from us
+- BGC run away
 
 **Round 3**
-- asd
+- [[Shadow]] moves Hunter's mark onto RCASd, attacks
+	- SHARPSHOOTER, 19 to hit, 21 DMG
+	- SHARPSHOOTER, Nat.20 (26) to hit, 29 DMG
+		- RCASd is [[Dead]]
+- BBSa run out of the darkness, attack [[Delwyn]]
+	- 19 to hit, R: SHIELD, miss
+	- 23 to hit, 3 DMG
+		- Conc. SAV: 6 - Darkness drops
+- RCASb,e dash onto [[Kadrin]]
+- [[Kadrin]] uses Healing Hands on Strider 2
+	- 7 HP
+	- 
 
 **Round 4**
 - asd
