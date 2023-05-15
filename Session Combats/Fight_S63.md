@@ -57,10 +57,37 @@ Dodge/Ready:
 - [[Musharib]] attacks BBSa
 	- 6 to hit, miss
 - [[Shago]] dashes towards the Tents
-- BBSb stir up more RCAS, dash towards [[Kadrin]]
+- BBSb stir up more RCAS, attack [[Kadrin]]
+	- 20 to hit, 7 DMG
+		- Conc. SAV: 19
+- [[Delwyn]] casts Darkness on RCASa,d
+	- tries to maneuver [[Stomps]]
+		- Animal Handling: Nat.20 (19)
+- RCASa,d attack Strider 2
+	- 21 to hit, 9 DMG
+	- 18 to hit, 10 DMG
+- BC attacks [[Kadrin]]
+	- Nat.20 to hit, 10 DMG
+		- Conc. SAV - Saves
+	- 6 to hit, miss
+	- R: SENTINEL, 28 to hit, R: BC switches places with BGd, 9 DMG, non-lethal, BGd is [[Unconscious]]
+- [[Talsen]] dashes towards BC
+	- Crimson Rite
+- BBSd stir up more RCAS, attack [[Talsen]]
+	- 20 to hit, R: Bloodcurse of the Eyeless (-6), 14 to hit, miss
+- BGd attacks [[Kadrin]]
+	- 22 to hit, 6 DMG
+		- Conc. SAV: 16
+- BBSc attacks [[Talsen]]
+	- 11 to hit, miss
+	- 19 to hit, 3 DMG
+- BGC all run out of the tents and dash away
 
 **Round 2**
-- asd
+- [[Shadow]] moves Hunter's mark onto BC, attacks
+	- SHARPSHOOTER, 20 to hit, 25 DMG
+	- SHARPSHOOTER, 22 to hit, 20 DMG
+		- BC is [[Dead]]
 
 **Round 3**
 - asd
