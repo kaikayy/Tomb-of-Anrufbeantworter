@@ -38,4 +38,23 @@ Weather: very warm temp, slight rain, no wind
 On our travels we find black bananas, they taste like liquorish
 - As we arrive at [[Vorn (Place)]] we notice 5 [[Almiraj]] hopping around, not noticing us yet
 - We step closer and they run away
-- [[Talsen]] utters the command word to follow
+- [[Talsen]] utters the command word to follow, [[Vorn (NPC)]] stands up and takes a step closer towards [[Talsen]]
+- [[Kadrin]] tests out if it will attack him as he steps closer to it, it doesn't
+
+We travel towards the [[Mistcliff Mountains]] to go along them to find [[Orolunga]]
+[[Kadrin]] sets the liquorice bananas into Ale from [[Talsen]]
+
+1. Watch - [[Talsen]], [[Shago]]
+- Perc.: 2, 5
+- [[Vorn (NPC)]] vs. [[Shago]] Arm-wrestling contest (STR)
+	- 14 vs. 11
+
+2. Watch - [[Delwyn]], [[Kadrin]]
+- Perc.: 
+
+3. Watch -  [[Shadow]], [[Musharib]]
+- Perc.: 
+
+#### LONG REST -> Day 
+Weather:
+[[Kadrin]] cooks, DEX: 
