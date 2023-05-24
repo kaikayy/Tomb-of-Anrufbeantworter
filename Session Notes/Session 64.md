@@ -82,5 +82,5 @@ We travel towards the [[Mistcliff Mountains]] to go along them to find [[Orolung
 	- Performance: 10
 
 #### LONG REST -> Day 7
-Weather:
+Weather: Strong Wind, Normal Temp, No Rain
 [[Kadrin]] cooks, DEX: 
