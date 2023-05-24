@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "batiri",
+                "query": "mask",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +76,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "3c16abe4eb8d3c90",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,7 +182,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "097e99fbc3897fcc",
+  "active": "921e982f620fe210",
   "lastOpenFiles": [
     "Session Combats/Fight_S63.md",
     "_Attachments/Batiri Village Escape Mechanism.png",
