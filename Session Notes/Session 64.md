@@ -50,11 +50,37 @@ We travel towards the [[Mistcliff Mountains]] to go along them to find [[Orolung
 	- 14 vs. 11
 
 2. Watch - [[Delwyn]], [[Kadrin]]
-- Perc.: 
+- Perc.: -, -
+- [[Delwyn]] puts down the [[Veil of Night]]
+	- Asks [[Kadrin]] for help and shows him his right hand
+	- [[Kadrin]] touches the hand and feels a way to smooth texture
+	- [[Kadrin]] tries to cast light on the hand and it fails
+		- suggests it was caused by the [[Veil of Night]] and for [[Delwyn]] to put his ring on the other hand
+	- [[Kadrin]] casts light on the ring and it starts glowing, no light falls onto the blackened hand
+	- [[Delwyn]] tells [[Kadrin]] that he doesn't think it has anything to do with the [[Veil of Night]] but everything with the dark presence he felt in his dream last night
+		- It wasn't the first time he had dreams like that but it is the first time something like this happened
+		- His connection to his magic is growing stronger as his dreams are getting more vivid, they have some sort of strange connection that grows
+	- [[Kadrin]] asks if he should try to get rid of it, [[Delwyn]] affirms
+	- [[Kadrin]] uses Lay on Hands, it hurts [[Delwyn]] and the hand vanishes only leaving a stump, seeping with shadows, as the light from [[Kadrin]]'s ability stops, the hand reappears
+	- [[Kadrin]] puts a drop of Holy Water on the hand, it burns through it and falls to the ground, the hand reappears
+	- [[Kadrin]] uses Divine Sense and detects an undead presence from the hand but doesn't tell [[Delwyn]]
+	- [[Kadrin]] casts Protection from Evil and Good on [[Delwyn]] and wipes a bit more Holy Water over his hand
+		- it hurts like hell and the hand doesn't really reform as the spell holds it back
+	- [[Kadrin]] is out of ideas, [[Delwyn]] asks if he has any tips on explaining this to the others
+		- [[Kadrin]] asks if [[Delwyn]] has any other aspirations or feelings  because of this occurrence
+			- [[Delwyn]] says that he hasn't
+			- [[Kadrin]], Insight: Nat.20 (19)
+			- [[Delwyn]], Persuasion/Deception: 17
+				- [[Delwyn]] doesn't seem like he has changed his plans but he seems unsure himself
+		- [[Delwyn]] asks [[Kadrin]] to stop him if he would lose control and [[Kadrin]] asks [[Delwyn]] that he will come forward if his intentions were to change
+	- To the point of explaining the situation to the others, [[Kadrin]] suggests to just tell them the truth
+	- [[Delwyn]] decides to not wear the [[Veil of Night]] anymore
 
 3. Watch -  [[Shadow]], [[Musharib]]
-- Perc.: 
+- Perc.: 25, Nat.20 (25)
+- [[Shadow]] practices her flute
+	- Performance: 10
 
-#### LONG REST -> Day 
+#### LONG REST -> Day 7
 Weather:
 [[Kadrin]] cooks, DEX: 
