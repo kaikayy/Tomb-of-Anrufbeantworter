@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "333b91f960f88fae",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "244f799e66ba46f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 64.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "01ad46c409cbba03"
-          }
-        ]
-      },
-      {
         "id": "26fd197e2bec1794",
         "type": "tabs",
         "children": [
@@ -36,8 +17,7 @@
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "01ad46c409cbba03"
+            }
           }
         ]
       }
@@ -181,10 +161,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "244f799e66ba46f6",
+  "active": "1271aff8f4ae08c4",
   "lastOpenFiles": [
-    "Session Notes/Watch_Vorlage.md",
+    "Session 65.md",
     "Session Notes/Session 64.md",
+    "Session Notes/Watch_Vorlage.md",
     "Plans.md",
     "Locations/Orolunga.md",
     "Bestiary/Almiraj.md",
@@ -212,7 +193,6 @@
     "Bestiary/Kamadan.md",
     "Session Notes/Session 61.md",
     "Session Notes/Session 59.md",
-    "Session Notes/Session 60.md",
     "_Attachments/Ubtao building the city of Mezro.png",
     "_Attachments/Pasted image 20230424193547.png",
     "_Attachments/Pasted image 20230417203232.png",
