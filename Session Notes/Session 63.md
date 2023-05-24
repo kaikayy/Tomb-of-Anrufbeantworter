@@ -20,4 +20,3 @@ We arrive at the [[Batiri]] Village
 		- ## [[Fight_S63]]
 
 We flee with the Amulet towards [[Vorn (Place)]]
-- 
