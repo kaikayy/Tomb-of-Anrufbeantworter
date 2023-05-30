@@ -39,4 +39,15 @@ Along our travels...
 	- [[Musharib]] says something about twisted nature spirits while [[Shago]] discovers the fun to be had with snow
 
 We go into the Snow covered area without the mounts, [[Musharib]] and [[Shago]]
-- Heading towards the clearing in the middle
+![[Pasted image 20230530202746.png]]
+- Heading towards the clearing in the middle we see multiple small ponds, frozen over and a humanoid looking Ice-figure in the middle of them, her hand reaching out towards one side
+	- [[Kadrin]] casts Divine Sense and steps closer
+		- can't sense any presence but sees a small ball of red scales, a pseudo drake curled into a ball, it is [[Xandala]]'s dragon, [[Summerwise]]
+	- [[Talsen]] enters [[Vorn (NPC)]] and does the same
+	- As we go closer, we see indeed [[Xandala]]'s body made out of ice, translucent
+	- [[Summerwise]] looks at us with sad eyes, shivering
+		- [[Shadow]] offers a Ration to it
+			- Persuasion: 17
+				- It nibbles on it a bit
+	- We all hear a loud cracking as the ice around us bursts upward and forms into creatures
+	- ### [[Fight_S65]]

@@ -25,15 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 65.md",
+                "file": "Session Combats/Fight_S65.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "e6dbdbbdbed922a6"
+            }
+          },
+          {
+            "id": "2555c097bdd6c168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Combats/Fight_S65.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "087cfdb7347254d5",
@@ -45,12 +56,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 65.md",
-                "mode": "preview",
+                "file": "Session Combats/Fight_S65.md",
+                "mode": "source",
                 "source": true
               }
-            },
-            "group": "e6dbdbbdbed922a6"
+            }
           }
         ]
       }
@@ -118,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 65.md",
+                "file": "Session Combats/Fight_S65.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 65.md"
+                "file": "Session Combats/Fight_S65.md"
               }
             }
           },
@@ -145,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 65.md",
+                "file": "Session Combats/Fight_S65.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,10 +204,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "118d718536035815",
+  "active": "b2e6682d22ab5609",
   "lastOpenFiles": [
-    "NPCs/Xandala.md",
+    "_Attachments/Pasted image 20230530203918.png",
     "Session Notes/Session 65.md",
+    "Session Combats/Fight_S65.md",
+    "NPCs/Xandala.md",
+    "NPCs/Summerwise.md",
+    "_Attachments/Pasted image 20230530202746.png",
     "Bravus Boulderhorn.md",
     "Copacou.md",
     "Locations/Mistcliff Mountains.md",
@@ -222,16 +236,12 @@
     "Session Combats/Fight_S62.md",
     "Session Combats/Fight_S.md",
     "_Attachments/Pasted image 20230515192345.png",
-    "Organizations/Batiri.md",
     "_Attachments/Batiri Village.png",
-    "NPCs/Thard Harr.md",
-    "Bestiary/Firenewt.md",
     "_Attachments/Ubtao building the city of Mezro.png",
     "_Attachments/Pasted image 20230424193547.png",
     "_Attachments/Pasted image 20230417203232.png",
     "_Attachments/Pasted image 20230417203029.png",
     "_Attachments/Pasted image 20230417202600.png",
-    "Tomb-of-Anrufbeantworter",
-    "_Attachments/Pasted image 20230410202615.png"
+    "Tomb-of-Anrufbeantworter"
   ]
 }
