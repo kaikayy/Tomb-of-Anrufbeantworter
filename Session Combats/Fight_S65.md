@@ -27,7 +27,7 @@ Conditions:
 - 
 
 [[Kadrin]]:
-- [[Concentration]] (Searing Smite) IBb
+- [[Prone]]
 ---
 Dodge/Ready:
 
@@ -77,10 +77,41 @@ Dodge/Ready:
 		- SHARPSHOOTER, 20 to hit, 26 DMG
 			- IWEb is [[Dead]]
 	- moves Hunter's Mark to IQ
-- [[Delwyn]], INT: 4, casts Fireball
+- [[Delwyn]], INT: 4, casts Fireball IBa,b
+	- DEX SAV: Both Fail
+		- 27 Fire DMG
+			- IBb is [[Dead]], [[Kadrin]] is no longer [[Concentration]]
+	- Casts quickened Mind Sliver on IWEa
+		- INT SAV: 9 - FAIL
+			- 4 Psychic DMG
+- Iba swims through the water and regenerates a bit, attacks [[Delwyn]]
+	- 7 to hit, miss
+- IQ thows [[Summerwise]]'s body into the water, attacks [[Kadrin]]
+	- 18 to hit, 23 DMG
+		- [[Kadrin]] is [[Grappled]]
+			- R: AoO, [[Talsen]], 19 to hit, 11 DMG
+		- Flies upward with [[Kadrin]]
+- [[Talsen]] attacks IWEa
+	- 19 to hit, 12 DMG
+	- 18 to hit, 13 DMG
+- IWEa does 16 Cold DMG to [[Vorn (NPC)]], attacks
+	- 20 to hit, 16 Cold DMG
+	- 26 to hit, 10 Cold DMG
+- [[Kadrin]] attacks IQ
+	- 17 to hit, Eldritch Smite, 38 Force DMG, IQ falls [[Prone]]
+		- [[Kadrin]] & IQ fall to the ground
+			- 8 DMG
+				- Both are [[Prone]]
+	- uses Hexblade's Curse  on IQ, attacks
+		- 11 to hit, miss
 
 **Round 3**
-- asd
+- [[Shadow]] attacks IQ
+	- 20 to hit, 18 DMG
+	- SHARPSHOOTER, 19 to hit, 24 DMG
+		- IQ is [[Dead]]
+			- [[Kadrin]] regains 10 HP
+- [[Delwyn]] 
 
 **Round 4**
 - asd
