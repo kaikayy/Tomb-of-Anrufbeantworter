@@ -18,16 +18,16 @@ Initiative:
 ---
 Conditions:
 [[Shadow]]:
-- [[Concentration]] (Hunter's Mark) IQ
+- [[Concentration]] (Hunter's Mark) IWEa
 
 [[Talsen]]:
-- [[Grappled]], [[Restrained]]
+- 
 
 [[Delwyn]]:
 - 
 
 [[Kadrin]]:
-- [[Prone]]
+- [[Grappled]], [[Restrained]]
 ---
 Dodge/Ready:
 
@@ -98,7 +98,7 @@ Dodge/Ready:
 	- 20 to hit, 16 Cold DMG
 	- 26 to hit, 10 Cold DMG
 - [[Kadrin]] attacks IQ
-	- 17 to hit, Eldritch Smite, 38 Force DMG, IQ falls [[Prone]]
+	- 17 to hit, Eldritch SMITE, 38 Force DMG, IQ falls [[Prone]]
 		- [[Kadrin]] & IQ fall to the ground
 			- 8 DMG
 				- Both are [[Prone]]
@@ -111,24 +111,44 @@ Dodge/Ready:
 	- SHARPSHOOTER, 19 to hit, 24 DMG
 		- IQ is [[Dead]]
 			- [[Kadrin]] regains 10 HP
-- [[Delwyn]] 
+- [[Delwyn]] casts quickened Magic Missile on IBa
+	- 14 Force DMG
+	- casts Mind Sliver
+		- INT SAV: 13 - FAIL
+			- 11 Psychic DMG
+- IBa attacks [[Delwyn]]
+	- 22 to hit, 19 Cold DMG
+		- [[Delwyn]] starts to fall [[Unconscious]]
+			- CHA SAV: Nat.20 (28)
+				- [[Delwyn]] remains at 1 HP
+- [[Talsen]] tries to get out of the restrained
+	- Athletics: 17
+		- [[Vorn (NPC)]] is no longer [[Grappled]], [[Restrained]]
+	- moves
+		- R: AoO, IWEa, 24 to hit, 13 DMG
+- IWEa moves towards [[Kadrin]] and engulfs him in water
+	- STR SAV: 14 - FAIL
+		- 10 Cold DMG
+		- [[Kadrin]] is [[Grappled]] & [[Restrained]]
+- [[Kadrin]] casts Misty Step and is no longer [[Grappled]] & [[Restrained]], stands up and is no longer [[Prone]], attacks IWEa
+	- 12 to hit, miss
+	- 14 to hit, Eldritch SMITE, 22 Force DMG
 
 **Round 4**
-- asd
-
-**Round 5**
-- asd
-
-**Round 6**
-asd
-asd
-asd
-**Round 7**
-asd
-asd
-asd
-**Round 8**
-asd
-asd
-asd
-**Round 9**
+- [[Shadow]] moves Hunter's Mark to IWEa, attacks
+	- SHARPSHOOTER, 21 to hit, 25 DMG
+	- SHARPSHOOTER, 19 to hit, 28 DMG
+- [[Delwyn]] casts Fireball on IBa
+	- DEX SAV: 8 - FAIL
+		- 32 Fire DMG
+			- IBa is [[Dead]]
+- [[Talsen]] passes his turn
+- IWEa engulfs [[Kadrin]]
+	- STR SAV: 13 - FAIL
+		- 7 Cold DMG
+		- [[Kadrin]] is [[Grappled]] & [[Restrained]]
+- [[Kadrin]] uses his [[Longsword of Purging]] to regains spellslots
+	- attacks IWEa
+		- 12 to hit, miss
+		- 22 to hit, Divine SMITE, 34 DMG
+			- IWEa is [[Dead]]

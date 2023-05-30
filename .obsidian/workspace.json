@@ -56,13 +56,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S65.md",
+                "file": "Session Notes/Session 65.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "18ecc79f1e9110a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 66.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Combats/Fight_S65.md",
+                "file": "Session Notes/Session 66.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Combats/Fight_S65.md"
+                "file": "Session Notes/Session 66.md"
               }
             }
           },
@@ -155,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Combats/Fight_S65.md",
+                "file": "Session Notes/Session 66.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,11 +217,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b2e6682d22ab5609",
+  "active": "1cf7fd4cac64a694",
   "lastOpenFiles": [
-    "_Attachments/Pasted image 20230530203918.png",
     "Session Notes/Session 65.md",
+    "Session Notes/Session 66.md",
     "Session Combats/Fight_S65.md",
+    "_Attachments/Pasted image 20230530203918.png",
     "NPCs/Xandala.md",
     "NPCs/Summerwise.md",
     "_Attachments/Pasted image 20230530202746.png",
@@ -216,7 +230,6 @@
     "Copacou.md",
     "Locations/Mistcliff Mountains.md",
     "Session Notes/Session 64.md",
-    "Untitled.md",
     "Session Notes/Session 40.md",
     "Session Notes/Session 59.md",
     "Session Notes/Session 63.md",
@@ -241,7 +254,6 @@
     "_Attachments/Pasted image 20230424193547.png",
     "_Attachments/Pasted image 20230417203232.png",
     "_Attachments/Pasted image 20230417203029.png",
-    "_Attachments/Pasted image 20230417202600.png",
     "Tomb-of-Anrufbeantworter"
   ]
 }
