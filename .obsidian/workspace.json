@@ -29,10 +29,30 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "e6dbdbbdbed922a6"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "087cfdb7347254d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2e6682d22ab5609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 65.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "e6dbdbbdbed922a6"
+          }
+        ]
       }
     ],
     "direction": "vertical"
