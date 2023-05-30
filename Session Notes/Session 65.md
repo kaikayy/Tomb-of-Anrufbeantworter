@@ -24,4 +24,19 @@ Along our travels...
 		- Investigation: 17
 			- Nothing buried in the dirt or footsteps around
 - The jungle before us is frozen solid, ice spikes hand from leaves, snow is falling lightly and covers the whole ground
-	- [[Kadrin]] remembers that [[Xandala]] left [[Bolnir Copperhandle]]'s group at a point des
+	- [[Kadrin]] remembers that [[Xandala]] left [[Bolnir Copperhandle]]'s group at a point described like this
+	- [[Kadrin]] takes a look around
+		- Perception: 4
+			- sees a clearing up ahead inside the snow
+	- [[Talsen]] drops backwards into the snow and ignites his weapon to not freeze to death
+	- [[Kadrin]] casts speak with animals to try to convince [[Stomps]] to go into the snow
+		- Persuasion: 19
+			- He can convince him and [[Stomps]] shivers and runs back into the warmth
+				- Nature: 11 - The Environment could probably harm [[Stomps]]
+	- [[Shadow]] looks for anything inside the area
+		- Perception: 21
+			- Sees that the snow area seems circular, in the center is a clearing and something is standing in the clearing
+	- [[Musharib]] says something about twisted nature spirits while [[Shago]] discovers the fun to be had with snow
+
+We go into the Snow covered area without the mounts, [[Musharib]] and [[Shago]]
+- Heading towards the clearing in the middle
