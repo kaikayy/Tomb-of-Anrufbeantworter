@@ -1,2 +1,3 @@
 - Location in [[Chult]]
 - [[Orolunga]] is near here
+- Clouds hide the peaks of this mountain range, it deprives it's name from this
