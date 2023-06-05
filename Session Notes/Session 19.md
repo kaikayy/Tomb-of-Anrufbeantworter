@@ -74,7 +74,7 @@ We make our way towards the [[Brazen Pegasus]].
 	- [[Gannin]] Insight: 9 - Hard to read
 	- [[Kadrin]] Insight 6 - Could be her father
 - She suggests to accompany us on the boat, we decline
-- We should take her with us as she is quite capeable with her magic if we go back to the Jungle
+- We should take her with us as she is quite capable with her magic if we go back to the Jungle
 - Her name is: [[Xandala]]
 - She knows the [[Zhentarim]]
 - She's "met" the Dragon Turtle before, she got past it while everyone threw their belongings overboard

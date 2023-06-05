@@ -8,13 +8,6 @@
 3. Watch -  [[Kadrin]]
 - Perc.: 
 
-
-##### SHORT REST (Start)
-- asd
-- asd
-- asd
-##### SHORT REST (End)
-
 #### LONG REST -> Day 
 Weather:
 [[Kadrin]] cooks, DEX: 
@@ -22,6 +15,14 @@ Weather:
 - Fast Travel d4() -  hexes
 - Nothing of Note happens
 - On our Travels:
+
+
+
+##### SHORT REST (Start)
+- asd
+- asd
+- asd
+##### SHORT REST (End)
 
 
 		- Stealth:

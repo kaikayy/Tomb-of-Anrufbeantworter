@@ -90,4 +90,25 @@ We all meet again in the warmth of the Jungle, [[Xandala]]'s icy statue just on 
 - [[Summerwise]] confirms that [[Xandala]] just claimed to be [[Artus Cimber]]'s daughter but indeed wasn't
 - [[Talsen]], [[Delwyn]], Arcana: 15, 17
 	- Doesn't know how to reverse petrification but has heard about it in tales. If the petrified person looses an arm and is unpetrified, the person loses her arm
-- 
+- We think it's best to leave [[Xandala]] inside the Snow until we can find someone to undo what [[Artus Cimber]] has done to her
+- [[Summerwise]] seems to knew about her plans and they were with evil intentions, it wants us to save [[Xandala]] tho
+- [[Summerwise]] is okay with traveling with us
+- [[Talsen]] and [[Shadow]] mark this point on the map to find our way back here
+- [[Talsen]] brings back [[Xandala]] into the middle of the Snow Biome
+- [[Musharib]] commends taking [[Summerwise]] with us
+
+We start traveling further, around the Snow Biome
+
+1. Watch - [[Talsen]], [[Kadrin]]
+- Perc.: 6, 1
+- [[Talsen]] talks to [[Kadrin]] about [[Xandala]], [[Artus Cimber]] and his Sister
+
+2. Watch - [[Shadow]], [[Delwyn]]
+- Perc.: 
+
+3. Watch -  [[Musharib]], [[Shago]]
+- Perc.: 
+
+#### LONG REST -> Day 
+Weather:
+[[Kadrin]] cooks, DEX: 
