@@ -43,7 +43,7 @@ We go into the Snow covered area without the mounts, [[Musharib]] and [[Shago]]
 - Heading towards the clearing in the middle we see multiple small ponds, frozen over and a humanoid looking Ice-figure in the middle of them, her hand reaching out towards one side
 	- [[Kadrin]] casts Divine Sense and steps closer
 		- can't sense any presence but sees a small ball of red scales, a pseudo drake curled into a ball, it is [[Xandala]]'s dragon, [[Summerwise]]
-	- [[Talsen]] enters [[Vorn (NPC)]] and does the same
+	- [[Talsen]] enters [[Vorn]] and does the same
 	- As we go closer, we see indeed [[Xandala]]'s body made out of ice, translucent
 	- [[Summerwise]] looks at us with sad eyes, shivering
 		- [[Shadow]] offers a Ration to it

@@ -81,7 +81,7 @@ We are talking to [[Wakanga O’tamu]]
 			- We'll get the Spellbook or 2000gp
 		- The Guardian is linked to a control amulet
 			- Only friendly to the wearer of the amulet, hostile otherwise
-		- Should be around some place on the Map called, [[Vorn (NPC)]] like the Guardian's Name
+		- Should be around some place on the Map called, [[Vorn]] like the Guardian's Name
 
 [[Kadrin]] asks for a Lore Book about Chultan Fairy Tales / Mythology
  - [[Wakanga O’tamu]] returns with a Book of Folklore

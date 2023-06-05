@@ -10,7 +10,7 @@ Ice Quetzalcoatlus - IQ
 Icy Water Elemental A,B - IWEa,b
 
 Initiative:
-[[Talsen]] / [[Vorn (NPC)]] - 13
+[[Talsen]] / [[Vorn]] - 13
 [[Kadrin]] - 5
 [[Shadow]] - 27
 [[Delwyn]] - 17
@@ -41,9 +41,9 @@ Dodge/Ready:
 		- SHARPSHOOTER, 18 to hit, 29 DMG
 - [[Delwyn]] casts mage Armor, moves away
 	- R: AoO, IWEb, 23 to hit, 18 Cold DMG
-- IBb back off and charge-slides to attack [[Vorn (NPC)]]
-	- STR SAV: 6 - [[Vorn (NPC)]] falls [[Prone]]
-	- attacks [[Vorn (NPC)]]
+- IBb back off and charge-slides to attack [[Vorn]]
+	- STR SAV: 6 - [[Vorn]] falls [[Prone]]
+	- attacks [[Vorn]]
 		- 10 to hit, miss
 			- R: SENTINEL, [[Kadrin]], 21 to hit, 12 DMG
 		- 22 to hit, 12 DMG
@@ -58,10 +58,10 @@ Dodge/Ready:
 	- 15 to hit, 8 DMG
 	- moves
 		- R: AoO, IBb, 16 to hit, miss
-- IWEa attacks [[Vorn (NPC)]]
+- IWEa attacks [[Vorn]]
 	- STR SAV: 9 - FAIL
 		- 13 Cold DMG
-			- [[Vorn (NPC)]] is [[Grappled]] and [[Restrained]]
+			- [[Vorn]] is [[Grappled]] and [[Restrained]]
 - IWEb attacks [[Shadow]]
 	- 18 to hit, miss
 	- 16 to hit, miss
@@ -94,7 +94,7 @@ Dodge/Ready:
 - [[Talsen]] attacks IWEa
 	- 19 to hit, 12 DMG
 	- 18 to hit, 13 DMG
-- IWEa does 16 Cold DMG to [[Vorn (NPC)]], attacks
+- IWEa does 16 Cold DMG to [[Vorn]], attacks
 	- 20 to hit, 16 Cold DMG
 	- 26 to hit, 10 Cold DMG
 - [[Kadrin]] attacks IQ
@@ -123,7 +123,7 @@ Dodge/Ready:
 				- [[Delwyn]] remains at 1 HP
 - [[Talsen]] tries to get out of the restrained
 	- Athletics: 17
-		- [[Vorn (NPC)]] is no longer [[Grappled]], [[Restrained]]
+		- [[Vorn]] is no longer [[Grappled]], [[Restrained]]
 	- moves
 		- R: AoO, IWEa, 24 to hit, 13 DMG
 - IWEa moves towards [[Kadrin]] and engulfs him in water

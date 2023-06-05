@@ -118,16 +118,16 @@ Weather: scorching hot temp, strong wind, no rain
 			- Gets dancing vibe from mango and disperses of the sauce
 	- We eat rations with a bit of extra
 
-We arrive in the Area where [[Vorn (NPC)]] should be
+We arrive in the Area where [[Vorn]] should be
 - Standing next to some rocks and ferns is an 8-foot-tall statue, humanoid in shape with bronze fists, iron joints, an adamantine breastplate, and an iron helm with slits for eyes. The rest of the statue is made of sculpted wood reinforced with bands and rivets of adamantine. Scattered around its feet are offerings of food, feathers, colored stones, and skulls.
 - [[Talsen]], Perception: 14
-	- [[Vorn (NPC)]] seems to be standing in the same place and same position for a while but most of the dirt and moss has been cleaned off by someone
+	- [[Vorn]] seems to be standing in the same place and same position for a while but most of the dirt and moss has been cleaned off by someone
 - [[Talsen]] approaches
 	- Arcana: 18
 		- "Vorn" is etched in one of its boots
 		- [[Wakanga O’tamu]] said something about a control amulet
 - [[Kadrin]] looks around for anyone watching, Perception: 17
-	- a few footprints seem to go to and from [[Vorn (NPC)]]
+	- a few footprints seem to go to and from [[Vorn]]
 - [[Delwyn]] looks at the fruit on the statue
 	- Nature: Nat.1 (1)
 - [[Shadow]] takes a look at the footprints

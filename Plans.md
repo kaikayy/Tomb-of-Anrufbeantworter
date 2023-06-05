@@ -1,6 +1,6 @@
 [[Pirate Captains]] / Get Ship or hatch crew
 
-[[Wakanga O’tamu]] quest to get Shield Guardian [[Vorn (NPC)]]
+[[Wakanga O’tamu]] quest to get Shield Guardian [[Vorn]]
 
 Go to [[Orolunga]] to find [[Artus Cimber]] & Map out Area for [[Lerek Dashlynd]]  for a sailing ship
 
@@ -9,7 +9,7 @@ Info from a Guide [[Musharib]], [[Hew Hackinstone]]
 Near [[Kobold Mountains]]
 
 Find the Naga Guardian of [[Orolunga]] near the [[Mistcliff Mountains]]
-- Find [[Vorn (NPC)]] on the way
+- Find [[Vorn]] on the way
 	- Search for [[Orolunga]], [[Artus Cimber]] with [[Kadrin]]'s sister and the [[City of Mezro]]
 
 Raid [[Fort Beluarian]] and steal the Evidence of [[The Flaming Fist]] and their Leader [[Liara Portyr]] working together with the [[Pirate Captains]] and bring it back to [[Zhanthi]]
