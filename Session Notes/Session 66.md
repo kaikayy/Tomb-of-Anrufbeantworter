@@ -125,7 +125,65 @@ We start traveling further, around the Snow Biome
 	- [[Delwyn]] puts his ear to the ground
 		- Perception: 9
 			- Doesn't hear any rumbling
-- We discuss if we should travel further or stay here
+- We discuss if we should travel further or stay here, we want to go but discuss here
+
+We move towards the [[Mistcliff Mountains]] to find a clearing to hide from the trees but also a landslide
+
+We hear loud footsteps and branches crack beside us. A woman with a large blue face and white long hair asks us if anyone of us is [[Artus Cimber]] the bearer of the [[Ring of Winter]]
+- She is [[Thyra Permafrost]]
+- [[Shadow]] says we are looking for him and are not in fact [[Artus Cimber]]
+	- Persuasion: 10
+	- She tells us [[Artus Cimber]] stole the [[Ring of Winter]] from the [[Frost Giants]]
+	- She lost her group in the Earthquake somewhere
+	- "The Others" want to crush and squeeze everyone but she doesn't want to torture people
+	- The [[Ring of Winter]] is evil she says
+		- History about Giants:
+			- [[Kadrin]]: 4
+				- Giants do seem to exist but not everyone believes it
+			- [[Talsen]]: 16
+				- [[Frost Giants]] don't exist on [[Chult]] and knows everything [[Shadow]] knows
+				- They are unheard of on [[Chult]]
+			- [[Delwyn]]: Nat.1 (4)
+				- see [[Kadrin]] above
+			- [[Shadow]]: 14
+				- Giant Humanoids roaming through the Icy North, where [[Gannin]] and [[Kairi]] lived, the [[Frost Giants]] are known to be from up there and love ice and the cold, they are accompanied by icy beasts called [[Winter Worg]]s. They should be avoided
+	- [[Kadrin]], Insight: 10
+		- [[Thyra Permafrost]] seems carefree but not deceiving
+
+Exhaustion CON SAV:
+- [[Talsen]], [[Exhaustion 3]]
+	- Nat.1 (3)
+	- 7
+	- 13
+	- 17
+	- 12
+- [[Kadrin]], [[Exhaustion 1]]
+	- 17
+	- 15
+	- 18
+	- 20
+	- 7
+- [[Delwyn]], [[Exhaustion 3]]
+	- 14
+	- 7
+	- 11
+	- 18
+	- 11
+- [[Shadow]], -
+	- 19
+	- 19
+	- 13
+	- 17
+	- 18
+
+[[Shago]], [[Exhaustion 2]]
+[[Musharib]], [[Exhaustion 3]]
+
+We arrive at the foot of the [[Mistcliff Mountains]]
+
+We make camp again
+
+
 
 2. Watch - [[Shadow]], [[Delwyn]]
 - Perc.: 
@@ -133,6 +191,6 @@ We start traveling further, around the Snow Biome
 3. Watch -  [[Musharib]], [[Shago]]
 - Perc.: 
 
-#### LONG REST -> Day 
+#### LONG REST -> Day 8
 Weather:
 [[Kadrin]] cooks, DEX: 
