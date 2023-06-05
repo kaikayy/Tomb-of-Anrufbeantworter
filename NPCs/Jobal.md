@@ -1,0 +1,1 @@
+[[Jobal]] might profit from it from search parties and guides, see [[Shadowshiver]]

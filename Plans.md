@@ -20,3 +20,17 @@ Raid [[Fort Beluarian]] and steal the Evidence of [[The Flaming Fist]] and their
 	- Body should be brought to the [[Zhentarim]] in [[Malar's Throat]] in one piece
 - Flaming Fist: Strange Footprints have been found south of [[Fort Beluarian]]. Anyone who could identify these will be rewarded. Reports should be brought to [[Fort Beluarian]] itself.
 	- Commander [[Liara Portyr]]
+
+
+Additional Plans
+- Visit [[Mbala]]
+- [[Shadow]] Storyline to find and maybe kill [[Skaldric]]
+- [[Shadowshiver]] and the shady [[Trade Princes]] (singular)
+- [[Heart of the Wild]] and [[Kairi]], [[Kwalu]] and the Goliaths
+- Visit Spots on [[Pirate Captains]] Maps
+- [[Red Wizards of Thay]], [[Valindra Shadowmantle]] and the [[Heart of Ubtao]]
+- [[Delwyn]]'s Storyline to kill the [[Aspects of Ubtao]]
+- [[Dendar the Night Serpent]] and [[Inete]]'s Tattoo?
+- [[Ras Nsi]] ?
+- What is [[Zindar]]'s deal and what's up with [[Aremag the Dragon Turtle]]
+- Go to [[Ekene-Afa]] as she wanted to meet us after the Arena
