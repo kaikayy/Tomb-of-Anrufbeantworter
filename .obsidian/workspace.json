@@ -165,7 +165,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,7 +181,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "18ecc79f1e9110a9",
+  "active": "097e99fbc3897fcc",
   "lastOpenFiles": [
     "Winter Worg.md",
     "Session Notes/Session 66.md",
