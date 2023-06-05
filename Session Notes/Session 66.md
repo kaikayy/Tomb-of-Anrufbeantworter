@@ -102,6 +102,30 @@ We start traveling further, around the Snow Biome
 1. Watch - [[Talsen]], [[Kadrin]]
 - Perc.: 6, 1
 - [[Talsen]] talks to [[Kadrin]] about [[Xandala]], [[Artus Cimber]] and his Sister
+- An Earthquake begins, trees fall, the ground trembles, everyone wakes up and the mounts start freaking out
+	- [[Kadrin]], Nature: 8 - Isn't that familiar with Earthquakes
+	- [[Delwyn]], History: 16 - Knows of Earthquakes
+	- [[Talsen]] jumps down from the rock
+		- 7 DMG
+	- [[Kadrin]] climbs down the rope, DEX: 10
+	- [[Talsen]] enters [[Vorn]]
+	- [[Shadow]] gets out her [[Folding Boat]] and hides under it, [[Delwyn]] does so, too
+	- [[Musharib]] and [[Shago]] also go under the boat
+	- [[Talsen]] tries to protect [[Kadrin]] on [[Stomps]] with [[Vorn]]'s body
+		- Athletics: 16 vs. Athletics: 19
+		- [[Vorn]] doesn't grapple [[Stomps]]
+	- [[Kadrin]] tries to ride away with [[Stomps]]
+		- Animal Handling: 8
+		- DEX SAV: 19
+	- DEX SAV:
+		- [[Stomps]] / [[Kadrin]]: 9, Nat.1 (3)
+		- [[Vorn]]: 6
+			- 24 DMG to everyone not under the boat
+	- The Earthquake subsides and we look for the Striders, they have bitten through their leashes and are laying dead on the ground
+	- [[Delwyn]] puts his ear to the ground
+		- Perception: 9
+			- Doesn't hear any rumbling
+- We discuss if we should travel further or stay here
 
 2. Watch - [[Shadow]], [[Delwyn]]
 - Perc.: 
