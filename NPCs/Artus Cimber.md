@@ -1,4 +1,7 @@
 - Wanted by the [[Zhentarim]]
+![[Artus Cimber.png]]
+![[Dinosaur man.png]]
+![[Ice Ring.png]]
 - In his 30s
 - Brown Hair and Brown beard
 - Wears a Green Tunic and a Bow and Dagger

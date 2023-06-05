@@ -70,4 +70,24 @@ We all meet again in the warmth of the Jungle, [[Xandala]]'s icy statue just on 
 	- Asks if it knows how to help [[Xandala]]
 		- We all see pictures in our head in [[Summerwise]]'s perspective
 		- 1. [[Xandala]] hides in bushes looking into a clearing with three small ponds, the area we were before but without snow.
-			- Going along those ponds are three people, a humanoid looking women and two men, one h
+			- Going along those ponds are three people, a humanoid looking women and two men, one human and one part dinosaur.
+			- The Woman is wearing leather armor and a Greatsword, brown-blond hair bound into a ponytail, a few freckles on her face
+			- The human man has shoulder length brown hair, a green tunic and a bow on his back
+			- The dinosaur man is wearing a brown tunic and a longsword
+		- 2. [[Summerwise]] looks at [[Xandala]] and she nods at it directly
+		- 3. An areal position of the three ponds, [[Xandala]] talking to the group of people, tensions seem to be high
+		- 4. [[Xandala]] reaches out to the human man with her arm and he seems shocked
+		- 5. The other two attack [[Xandala]], charging at her with weapons drawn
+		- 6. Fireball explosion and the two fighters fly off
+		- 7. [[Xandala]] takes off the glove of the human man, on his hand is a ring with a slight layer of ice on it
+		- 8. The human man jumps back as [[Xandala]] wants to touch the ring
+		- 9. As [[Xandala]] starts to cast another spell, the ring ignites and [[Xandala]] turns to ice with a blinding blue light
+		- 10. [[Summerwise]] flies around [[Xandala]] panicked and looks after the three people gathering themselves again
+		- 11. The Woman comes back and tries to reach out for [[Summerwise]], unsuccessfully
+		- 12. The three people argue and look back at [[Xandala]] and [[Summerwise]] occasionally
+		- 13. After a while the human man comes back and holds his hand into the air, the ring glowing brightly and the whole are turns into the Snow Biome we know it to be now
+		- 14. The human man sadly nods towards [[Summerwise]] and the three people leave
+- [[Summerwise]] confirms that [[Xandala]] just claimed to be [[Artus Cimber]]'s daughter but indeed wasn't
+- [[Talsen]], [[Delwyn]], Arcana: 15, 17
+	- Doesn't know how to reverse petrification but has heard about it in tales. If the petrified person looses an arm and is unpetrified, the person loses her arm
+- 
