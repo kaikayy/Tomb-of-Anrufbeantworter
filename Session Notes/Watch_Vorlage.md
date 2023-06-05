@@ -8,6 +8,13 @@
 3. Watch -  [[Kadrin]]
 - Perc.: 
 
+
+##### SHORT REST (Start)
+- asd
+- asd
+- asd
+##### SHORT REST (End)
+
 #### LONG REST -> Day 
 Weather:
 [[Kadrin]] cooks, DEX: 
