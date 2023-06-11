@@ -26,38 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizations/Trade Princes.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "dfc911ef2e1dcf24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Ifan Talro´a.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d1f8b4e1827b8425",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Kwayothé.md",
-                "mode": "source",
+                "file": "Session Notes/Session 10.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "087cfdb7347254d5",
@@ -142,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Ifan Talro´a.md",
+                "file": "Session Notes/Session 10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Ifan Talro´a.md"
+                "file": "Session Notes/Session 10.md"
               }
             }
           },
@@ -169,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Ifan Talro´a.md",
+                "file": "Session Notes/Session 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,15 +193,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dfc911ef2e1dcf24",
+  "active": "99c341feab347728",
   "lastOpenFiles": [
+    "NPCs/Yahru.md",
+    "Plans.md",
     "Organizations/Trade Princes.md",
     "NPCs/Kwayothé.md",
+    "NPCs/Ifan Talro´a.md",
     "Session Notes/Session 26.md",
     "NPCs/Jobal.md",
-    "NPCs/Ifan Talro´a.md",
     "Session Notes/Session 52.md",
-    "Plans.md",
     "NPCs/Ekene-Afa.md",
     "Bestiary/Aremag the Dragon Turtle.md",
     "Session Notes/Session 24.md",
@@ -247,7 +224,6 @@
     "Session Notes/Session 65.md",
     "Bravus Boulderhorn.md",
     "Session Notes/Session 64.md",
-    "Session Combats/Fight_S65.md",
     "_Attachments/Pasted image 20230530203918.png",
     "_Attachments/Pasted image 20230530202746.png",
     "_Attachments/Almiraj.png",

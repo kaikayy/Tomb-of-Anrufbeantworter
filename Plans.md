@@ -34,3 +34,6 @@ Additional Plans
 - [[Ras Nsi]] ?
 - What is [[Zindar]]'s deal and what's up with [[Aremag the Dragon Turtle]]
 - Go to [[Ekene-Afa]] as she wanted to meet us after the Arena
+- [[Ifan Talro´a]] is interested in buying [[Emi]] and likes to inflate his prices
+- [[Jobal]] is the main (and only) suspect for working with the [[Yuan-Ti]] as his Guide would profit from it
+- Who the fuck is Trade Princess [[Kwayothé]]?
