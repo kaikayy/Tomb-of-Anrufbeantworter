@@ -31,7 +31,7 @@ Around the end of the day we find a waterfall with a cave behind it. A footpath 
 - Perc.: 13, 11
 
 2. Watch - [[Delwyn]] & [[Shago]]
-- Perc.: Nat.1 (0), 13
+- Perc.: [[Nat.1]] (0), 13
 - Tests around with the [[Veil of Night]]
 	- It produces a different placement of the moon and the stars
 - [[Shago]] tells [[Delwyn]] that he was scared of that Undead Encounter, he doesn't want to turn into one and wants us to burn his body if he were to die
@@ -87,7 +87,7 @@ We travel further towards [[Vorn (Place)]]
 		- We investigate the tents
 			- Investigation:
 				- [[Delwyn]]: Nat.20 (20)
-				- [[Talsen]]: Nat.1 (7)
+				- [[Talsen]]: [[Nat.1]] (7)
 				- [[Shadow]]: 20 
 				- [[Kadrin]]: 13
 					- The tents seemed to have ransacked
@@ -129,7 +129,7 @@ We arrive in the Area where [[Vorn]] should be
 - [[Kadrin]] looks around for anyone watching, Perception: 17
 	- a few footprints seem to go to and from [[Vorn]]
 - [[Delwyn]] looks at the fruit on the statue
-	- Nature: Nat.1 (1)
+	- Nature: [[Nat.1]] (1)
 - [[Shadow]] takes a look at the footprints
 	- Survival: 18
 		- There are many footprints, they are traveling north north west on a frequently traveled path that goes on for a while, they are small humanoid creatures

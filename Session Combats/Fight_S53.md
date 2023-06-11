@@ -58,5 +58,5 @@ Conditions:
 		- 30 Lightning DMG
 			- Vg drops to 0 HP
 - [[Talsen]] attacks HS
-	- Nat.1 (9), miss
+	- [[Nat.1]] (9), miss
 	- 21 to hit, 10 DMG

@@ -47,7 +47,7 @@ Dodge/Ready:
 - [[Shadow]] casts Hail of Thorns (2nd LvL), attacks Gha
 	- Sharpshooter, 20 to hit, 21 DMG
 		- DEX SAV for Gha, Za, Zc, Zd
-			- FAIL, FAIL, SAVE, FAIL (Nat.1 (-1))
+			- FAIL, FAIL, SAVE, FAIL ([[Nat.1]] (-1))
 		- 15/7 DMG
 	- Sharpshooter, 25 to hit, 21 DMG
 	- Sharpshooter, 21 to hit, 26 DMG
@@ -88,8 +88,8 @@ Dodge/Ready:
 		- Gb is [[Dead]]
 - Ga casts something
 	- CON SAV: 
-		- [[Kadrin]]: 11, INSPIRATION ([[Talsen]]), 10
-		- [[Talsen]]: Nat.1 (3)
+		- [[Kadrin]]: 11, [[INSPIRATION]] ([[Talsen]]), 10
+		- [[Talsen]]: [[Nat.1]] (3)
 		- [[Stomps]]: 7
 		- [[Shago]]: -
 			- ALL FAIL, [[Kadrin]] hears voices cry out in agony in Celestial
@@ -121,7 +121,7 @@ Dodge/Ready:
 			- 12 to hit, miss
 - Strider 1 runs away
 	- R: AoO, Gc, Gd
-		- Nat.1 to hit, miss
+		- [[Nat.1]] to hit, miss
 		- 20 to hit, 5 DMG
 			- CON SAV: FAIL
 				- Strider 1 is [[Paralyzed]]
@@ -133,7 +133,7 @@ Dodge/Ready:
 	- attacks Gd
 		- 11 to hit, miss
 - Ze attacks [[Shago]]
-	- Nat.1 (4) to hit, miss
+	- [[Nat.1]] (4) to hit, miss
 
 **Round 3**
 - [[Shago]] attacks Ze

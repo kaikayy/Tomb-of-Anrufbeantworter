@@ -47,7 +47,7 @@ As [[Shadow]] comes out of the Snow Biome, she tells [[Shago]] and [[Musharib]] 
 
 We all meet again in the warmth of the Jungle, [[Xandala]]'s icy statue just on the edge of the Snow
 - We discuss the plan with [[Xandala]]
-- [[Talsen]], [[Kadrin]], [[Shadow]]. Arcana: 16, 9, Nat.1 (3)
+- [[Talsen]], [[Kadrin]], [[Shadow]]. Arcana: 16, 9, [[Nat.1]] (3)
 	- [[Talsen]] gets a headache thinking about it
 		- [[Ssaztehsi]] tells him about petrification and a spell called "Flesh to Stone" and it might be a twist to that
 - We decide to wait until [[Summerwise]] has recovered to converse with it
@@ -118,7 +118,7 @@ We start traveling further, around the Snow Biome
 		- Animal Handling: 8
 		- DEX SAV: 19
 	- DEX SAV:
-		- [[Stomps]] / [[Kadrin]]: 9, Nat.1 (3)
+		- [[Stomps]] / [[Kadrin]]: 9, [[Nat.1]] (3)
 		- [[Vorn]]: 6
 			- 24 DMG to everyone not under the boat
 	- The Earthquake subsides and we look for the Striders, they have bitten through their leashes and are laying [[dead]] on the ground
@@ -143,7 +143,7 @@ We hear loud footsteps and branches crack beside us. A woman with a large blue f
 			- [[Talsen]]: 16
 				- [[Frost Giants]] don't exist on [[Chult]] and knows everything [[Shadow]] knows
 				- They are unheard of on [[Chult]]
-			- [[Delwyn]]: Nat.1 (4)
+			- [[Delwyn]]: [[Nat.1]] (4)
 				- see [[Kadrin]] above
 			- [[Shadow]]: 14
 				- Giant Humanoids roaming through the Icy North, where [[Gannin]] and [[Kairi]] lived, the [[Frost Giants]] are known to be from up there and love ice and the cold, they are accompanied by icy beasts called [[Winter Worg]]s. They should be avoided
@@ -152,7 +152,7 @@ We hear loud footsteps and branches crack beside us. A woman with a large blue f
 
 Exhaustion CON SAV:
 - [[Talsen]], [[Exhaustion 3]]
-	- Nat.1 (3)
+	- [[Nat.1]] (3)
 	- 7
 	- 13
 	- 17

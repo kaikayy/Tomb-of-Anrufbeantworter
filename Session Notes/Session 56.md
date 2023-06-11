@@ -86,7 +86,7 @@ We arrive in [[Omu]] after an hour and say our goodbyes to [[Gobta]]
 		- [[Kadrin]] goes [[Unconscious]]
 	- [[Talsen]] drags [[Kadrin]] though the portal by his feet
 	- [[Talsen]] tries to stabilize [[Kadrin]]
-		- Medicine: Nat.1 (0)
+		- Medicine: [[Nat.1]] (0)
 	- [[Kadrin]] rolls a Death Save
 	- [[Shadow]] tries to stabilize [[Kadrin]]
 		- Medicine: 15

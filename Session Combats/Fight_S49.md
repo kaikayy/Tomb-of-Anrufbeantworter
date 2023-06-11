@@ -46,7 +46,7 @@ Conditions:
 - HF that isn't [[charmed]] leans against the wall and just watches
 - HF approaches [[Kadrin]] and asks for [[Shadow]] and promises [[Kadrin]] 50% of the 1000gp bounty
 - [[Talsen]] runs towards the Window
-	- Insight: Nat.20 (19) - The Guy leaning against the Wall seems "too" confident
+	- Insight: [[Nat.20]] (19) - The Guy leaning against the Wall seems "too" confident
 	- Attacks HFc
 		- 13 to hit, miss
 
@@ -129,7 +129,7 @@ Conditions:
 	- Nat.20 (28) to hit, 14 DMG + 15 Fire DMG
 		- HFa is [[Dead]]
 	- Throws a ball of flaming Tar at HFb
-		- DEX SAV: Nat.1 - FAIL
+		- DEX SAV: [[Nat.1]] - FAIL
 
 **Round 5**
 - [[Shadow]] attacks HFb

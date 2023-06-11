@@ -129,7 +129,7 @@ Dodge/Ready:
 	- 28 to hit, 26 pDMG+2 Fire DMG
 		- Armor of Agathys breaks, 15 Cold DMG
 	- Conc. SAV: 21
-	- STR SAV: 6, INSPIRATION, 22 - SAVES
+	- STR SAV: 6, [[INSPIRATION]], 22 - SAVES
 
 **Round 5**
 - [[Eku]] dashes towards us
@@ -159,7 +159,7 @@ Dodge/Ready:
 - [[Shadow]] dashes towards the Temple
 - [[Kadrin]]  dashes and arrives at the Temple
 - [[Soulblade]] attacks OZa
-	- 1 hit, 1 miss (Nat.1)
+	- 1 hit, 1 miss ([[Nat.1]])
 - [[Badok]] attacks Oza
 	- hits
 - OZa attacks [[Soulblade]]

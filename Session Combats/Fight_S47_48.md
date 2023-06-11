@@ -126,7 +126,7 @@ Conditions:
 	- Runs away, [[Talsen]] is in the way
 	- [[Talsen]], STR SAV: 9 - Falls [[Prone]]
 ---
-#### Session 48
+#### [[Session 48]]
 - [[Kadrin]] looks at [[Shadow]] appalled
 	- Heals üT for 5 HP, üT is no longer [[Unconscious]] but [[Prone]]
 	- [[Frightened]] drops on all targets

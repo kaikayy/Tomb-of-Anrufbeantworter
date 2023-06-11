@@ -284,11 +284,82 @@
 
 ---
 [[Session 49]] - [[Fight_S49]]
+[[Talsen]] Perception (19)
+[[Talsen]] STR (24)
 [[Gobta]] Initiative (22)
-
+[[Talsen]] Insight (19)
+[[Kadrin]] to hit
 
 ---
 [[Session 50]]
+	-
+
+---
+[[Session 51]]
+	-
+
+---
+[[Session 52]]
+	-
+
+---
+[[Session 53]]
+	-
+
+---
+[[Session 54]]
+	-
+
+---
+[[Session 55]]
+	-
+
+---
+[[Session 56]]
+	-
+
+---
+[[Session 57]]
+	-
+
+---
+[[Session 58]]
+	-
+
+---
+[[Session 59]]
+	-
+
+---
+[[Session 60]]
+	-
+
+---
+[[Session 61]]
+	-
+
+---
+[[Session 62]]
+	-
+
+---
+[[Session 63]]
+	-
+
+---
+[[Session 64]]
+	-
+
+---
+[[Session 65]]
+	-
+
+---
+[[Session 66]]
+	-
+
+---
+[[Session 67]]
 	-
 
 ---

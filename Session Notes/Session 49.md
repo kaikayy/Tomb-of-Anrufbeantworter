@@ -23,14 +23,14 @@ Looking around the voices surround him closely as [[Yuan-Ti]] demanding various 
 Perception: 2 - Doesn't find [[Ssaztehsi]], the one he talked to before
 Calls out if this is [[The Hissing]] he was talking about.
 They talk about destroying [[The Hissing]] and not sealing it away, they want to give [[Talsen]] power to defeat it.
-Perception: Nat.20 (19) - A sound pierces through the voices, the clanging of metal, a faint light shines through the Bloodpool and a flaming sword clangs against other Swords. A [[Yuan-Ti]] wielding a great burning sword.
-[[Talsen]] runs towards this one, STR: Nat.20 (24)
+Perception: [[Nat.20]] (19) - A sound pierces through the voices, the clanging of metal, a faint light shines through the Bloodpool and a flaming sword clangs against other Swords. A [[Yuan-Ti]] wielding a great burning sword.
+[[Talsen]] runs towards this one, STR: [[Nat.20]] (24)
 Barges through many different kinds of [[Yuan-Ti]], sees an Elf standing just there, doing nothing. Asks him what this is and what he's doing here.
 Persuasion: 13 - The Elf just stares blankly and doesn't answer
 [[Talsen]] arrives at the Fight and sees [[Ssaztehsi]] fighting other [[Yuan-Ti]]
 [[Talsen]] asks [[Ssaztehsi]] what is going on?
 He says that they have a disagreement and they want [[Talsen]] not to seal away [[The Eye of Sseth]] but use it's power.
-Insight: Nat.1 (0) - Seems truthful enough for fighting a bunch of things
+Insight: [[Nat.1]] (0) - Seems truthful enough for fighting a bunch of things
 [[Talsen]] throws the Spear at a [[Yuan-Ti]], ignites it 5 DMG, 12 to hit, the [[Yuan-Ti]] melts into the pool of blood.
 Picks up the Spear and attacks another one, 26 to hit, another one melts
 After one melts, another comes up from the ranks of the Voices and replaces it.

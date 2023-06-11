@@ -3,7 +3,7 @@ Recap - [[Talsen]]
 We leave [[Wakanga O’tamu]]'s Mansion to go for [[Talsen]]'s Shack, but not before going to the [[Merchants' Ward]] and powdering 25gp worth of Silver for [[Kadrin]]
 
 1. Watch - [[Talsen]]
-- Perc.: Nat.1 (0)
+- Perc.: [[Nat.1]] (0)
 - falls asleep in a chair
 - awakens in the middle of the night from nearly falling off of the chair
 

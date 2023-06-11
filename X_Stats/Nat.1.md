@@ -253,11 +253,101 @@
 [[Talsen]] to hit (9)
 
 ---
-[[Session 49]]
-	-
+[[Session 49]] - [[Fight_S49]]
+[[Talsen]] Insight (0)
+[[DM]] DEX SAV
 
 ---
 [[Session 50]]
+	-
+
+---
+[[Session 51]]
+	-
+
+---
+[[Session 52]]
+[[Shadow]] Survival (7)
+[[Kadrin]] Arcana (2)
+
+---
+[[Session 53]] - [[Fight_S53]]
+[[Talsen]] to hit (9)
+
+---
+[[Session 54]]
+[[Gobta]] Stealth (6)
+
+---
+[[Fight_S54_55]]
+[[DM]] / [[The Hissing]] Initiative
+[[Vegepygme]] / [[Kadrin]] Initiative (3)
+[[Vegepygme]] / [[Gobta]] Initiative (3)
+[[DM]] / [[The Hissing]] Conc. SAV
+[[Vegepygme]] / [[Kadrin]] to hit (5)
+[[Kadrin]] to hit (10)
+[[Talsen]] INT (4)
+[[Talsen]] CON SAV (3)
+[[Vegepygme]] / [[Talsen]] to hit (5)
+
+---
+[[Session 55]]
+	-
+
+---
+[[Session 56]]
+[[Talsen]] Medicine (0)
+
+---
+[[Session 57]]
+	-
+
+---
+[[Session 58]] - [[Fight_S58]]
+[[DM]] / [[Soulblade]] to hit
+
+---
+[[Session 59]]
+	-
+
+---
+[[Session 60]]
+[[Talsen]] Perceprion (0)
+
+---
+[[Session 61]] - [[Fight_S61]]
+[[DM]] DEX SAV (-1)
+[[Talsen]] CON SAV (3)
+[[DM]] to hit on Strider
+[[DM]] to hit on [[Shago]] (4)
+
+---
+[[Session 62]]
+[[Delwyn]] Perception (0)
+[[Talsen]] Investigation (7)
+[[Delwyn]] Nature (1)
+
+---
+[[Session 63]] - [[Fight_S63]]
+[[DM]] to hit on [[Musharib]]
+
+---
+[[Session 64]]
+	-
+
+---
+[[Session 65]]
+	-
+
+---
+[[Session 66]]
+[[Shadow]] Arcana (3)
+[[Kadrin]] DEX SAV (3)
+[[Delwyn]] History (4)
+[[Talsen]] CON SAV (3)
+
+---
+[[Session 67]]
 	-
 
 ---

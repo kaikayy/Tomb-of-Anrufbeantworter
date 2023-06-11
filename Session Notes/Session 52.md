@@ -20,7 +20,7 @@ While [[Kadrin]] and [[Shadow]] take the Mounts to the [[Dinosaur Stables]] and 
 	- Insight: 8
 
 After meeting back up at [[Talsen]]'s Shack we head out towards the [[Tomb of Kahuli]] to use the [[Webway of Ubtao]] to get to [[Hisari]]
-- [[Shadow]], Survival: Nat.1 (7)
+- [[Shadow]], Survival: [[Nat.1]] (7)
 - We push through the night and arrive at the [[Tomb of Kahuli]]
 - Following the [[Webway of Ubtao]] we arrive in [[Hisari]] deep into the night
 - We meet [[Miasma]] and briefly explain what we're doing here
@@ -87,7 +87,7 @@ We head south as [[Talsen]] remembers going there with his expedition
 	- As we look around the room, [[Kadrin]] finds a Scimitar under a bench
 	- [[Talsen]] finds a stone door on one side of the room, it doesn't seem trapped, it has carvings in it, seems to be opened by magic
 - [[Kadrin]] tries to take a look at the door with his necklace
-	- Arcana: Nat.1 (2)
+	- Arcana: [[Nat.1]] (2)
 - [[Talsen]] takes another look at the magic of the door
 	- Arcana: 19
 		- In some other part of the Temple should be something to open this door

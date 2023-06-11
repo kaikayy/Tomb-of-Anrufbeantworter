@@ -209,3 +209,71 @@
 	-
 
 ---
+[[Session 51]]
+	-
+
+---
+[[Session 52]]
+	-
+
+---
+[[Session 53]]
+	-
+
+---
+[[Session 54]]
+	-
+
+---
+[[Session 55]]
+	-
+
+---
+[[Session 56]]
+	-
+
+---
+[[Session 57]]
+	-
+
+---
+[[Session 58]] - [[Fight_S58]]
+[[Kadrin]] rerolls STR SAV from 6 to 22, useful
+
+---
+[[Session 59]]
+	-
+
+---
+[[Session 60]]
+	-
+
+---
+[[Session 61]] - [[Fight_S61]]
+[[Kadrin]] gets [[Talsen]]'s to reroll CON SAV from 11 to 10, useless
+
+---
+[[Session 62]]
+	-
+
+---
+[[Session 63]]
+	-
+
+---
+[[Session 64]]
+	-
+
+---
+[[Session 65]] - [[Fight_S65]]
+[[Kadrin]] rerolls STR SAV from 6 to 12, useless
+
+---
+[[Session 66]]
+	-
+
+---
+[[Session 67]]
+	-
+
+---

@@ -27,7 +27,3 @@ He sends me Sending Spells every third Tuesday on the dot, informing me on what 
 - We travel for 7 days
 - We transfer to a rudder boat with Callbrax and enter the Cloakwood through a cave near the water
 - Fight some skeletons in the cave
-
-### Session 2
-- Recap
-- 

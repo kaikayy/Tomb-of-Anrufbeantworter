@@ -89,7 +89,7 @@ Dodge/Ready:
 	- SHARPSHOOTER, 22 to hit, 20 DMG
 		- BC is [[Dead]]
 - BBSa attack [[Musharib]]
-	- Nat.1 to hit, miss
+	- [[Nat.1]] to hit, miss
 	- 19 to hit, 6 DMG
 - BCASb,e dash towards [[Kadrin]]
 - [[Kadrin]] moves to BC

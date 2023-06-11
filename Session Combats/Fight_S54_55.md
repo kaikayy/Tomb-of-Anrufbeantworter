@@ -2,7 +2,7 @@ Session Link:
 [[Session 54]]
 
 Enemies:
-[[The Hissing]] - Nat.1
+[[The Hissing]] - [[Nat.1]]
 ~~Skeleton of Skobael Icemane - SI~~
 [[Yuan-Ti]] Skeleton - YTS, 2
 ~~Skeleton of Thrakit Orcbane - TO~~
@@ -16,7 +16,7 @@ Initiative:
 [[Kadrin]] - 19
 [[Shadow]] - 20
 [[Gobta]] - 11
-[[Vegepygme]], K Nat.1 (3), T 5, G Nat.1 (3), S  13(Vx)
+[[Vegepygme]], K [[Nat.1]] (3), T 5, G [[Nat.1]] (3), S  13(Vx)
 
 ---
 Conditions:
@@ -74,7 +74,7 @@ D Vs
 - [[Shadow]] moves out of the Darkness, attacks [[The Hissing]]
 	- 13 to hit, miss
 	- Sharpshooter, 19 to hit, 26 DMG
-		- Conc. SAV: Nat.1
+		- Conc. SAV: [[Nat.1]]
 			- The Darkness disappears
 - [[The Hissing]] spawns TO
 - [[Kadrin]] looks around the pillar and sees [[The Hissing]]
@@ -98,7 +98,7 @@ D Vs
 - Vt attacks [[The Hissing]]
 	- 16 to hit, miss
 - Vk attacks [[The Hissing]]
-	- Nat.1 (5) to hit, miss
+	- [[Nat.1]] (5) to hit, miss
 - Vg follows [[Talsen]], attacks [[The Hissing]]
 	- 14 to hit, miss
 - [[The Hissing]] moves towards [[Gobta]], attacks
@@ -116,7 +116,7 @@ D Vs
 	- Sharpshooter, 11 to hit, miss
 - [[Kadrin]] casts Hexblade's Curse on [[The Hissing]], attacks
 	- 11 to hit, miss
-	- Nat.1 (10) to hit, miss
+	- [[Nat.1]] (10) to hit, miss
 		- Insight: 1
 - [[The Hissing]] spawns FT
 - [[Talsen]] runs away from [[The Hissing]], dodges
@@ -239,8 +239,8 @@ D Vs
 	- WIS SAV: 6 - 
 - [[The Hissing]] summons YTS 2
 - [[Talsen]] is [[Paralyzed]]
-	- INT: Nat.1 (4)
-	- CON SAV: Nat.1 (3) - FAIL, still [[Paralyzed]]
+	- INT: [[Nat.1]] (4)
+	- CON SAV: [[Nat.1]] (3) - FAIL, still [[Paralyzed]]
 - [[The Hissing]] attacks [[Talsen]]
 	- STR SAV: Autofail
 		- [[Talsen]] is slammed into the Wall
@@ -364,7 +364,7 @@ D Vs
 - [[The Hissing]] shoots another Snake to summon into the Darkness
 - YTS dashes into the Darkness
 - Vt attacks FB
-	- Nat.1 (5) to hit, miss
+	- [[Nat.1]] (5) to hit, miss
 - Vk massages [[Kadrin]]
 - Vg attacks FB
 	- 6 to hit, miss

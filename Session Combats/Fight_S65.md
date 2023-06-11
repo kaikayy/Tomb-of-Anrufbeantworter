@@ -48,7 +48,7 @@ Dodge/Ready:
 			- R: SENTINEL, [[Kadrin]], 21 to hit, 12 DMG
 		- 22 to hit, 12 DMG
 - IBa back off and charge-slides to attack [[Kadrin]]
-	- STR SAV: 6, INSPIRATION, 12 - [[Kadrin]] falls [[Prone]], IBb falls [[Prone]]
+	- STR SAV: 6, [[INSPIRATION]], 12 - [[Kadrin]] falls [[Prone]], IBb falls [[Prone]]
 	- attacks [[Kadrin]]
 		- 10 to hit, miss
 - IQ attacks [[Summerwise]]

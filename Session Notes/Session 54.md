@@ -15,7 +15,7 @@ The Pedestal is barely visible in the middle of the chamber
 - Stealth:
 		- [[Shadow]]: 22
 		- [[Kadrin]]: 9
-		- [[Gobta]]: Nat.1 (6)
+		- [[Gobta]]: [[Nat.1]] (6)
 		- [[Talsen]]: 8
 		- Vs: 8
 		- Vk: 17
