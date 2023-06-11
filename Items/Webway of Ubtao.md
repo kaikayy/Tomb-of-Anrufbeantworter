@@ -5,4 +5,4 @@
 	- [[Omu]]
 	- [[Hisari]]
 	- [[Tomb of Kahuli]]
-	- Ruin of Bolnirtecla
+	- [[Ruin of Bolnirtecla]]

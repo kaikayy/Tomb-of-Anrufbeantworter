@@ -1,4 +1,4 @@
-Part of a Chultan Fairytail
+Part of a Chultan Fairy tail
 3 "Ladies"
 
 1. [[Widow Groat]]

@@ -116,7 +116,7 @@ Perception: 12.
 Can't seem to tell up from down or left from right.
 He spots a little star, far off in the distance.
 Can't seem to even know if he has arms, legs, a body. There seems to be no physical form.
-He tries talking, asking: "What is this? Hubris? Anyone? Weird Voice?"
+He tries talking, asking: "What is this? [[Hubris]]? Anyone? Weird Voice?"
 Perception: 2.
 He hears only silence, the faintest of sounds pierces it, but he can't seem to make out what it might be._
 

@@ -121,7 +121,7 @@ We start traveling further, around the Snow Biome
 		- [[Stomps]] / [[Kadrin]]: 9, Nat.1 (3)
 		- [[Vorn]]: 6
 			- 24 DMG to everyone not under the boat
-	- The Earthquake subsides and we look for the Striders, they have bitten through their leashes and are laying dead on the ground
+	- The Earthquake subsides and we look for the Striders, they have bitten through their leashes and are laying [[dead]] on the ground
 	- [[Delwyn]] puts his ear to the ground
 		- Perception: 9
 			- Doesn't hear any rumbling

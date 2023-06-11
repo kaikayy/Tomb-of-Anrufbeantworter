@@ -44,7 +44,7 @@ Conditions:
 		- 4 Psychic DMG
 - Cd passes
 - [[Talsen]] tries reading the words
-	- It's Old Omu-en 
+	- It's Old [[Omuen]] 
 		- The message above the left face reads, “In this, the tenth year of her reign, may she govern forever in splendor.”
 		- The message above the right face reads, "And may the gods themselves marvel at this humble reflection of her beauty.”
 		- INT: [[Nat.20]] (23) - Seems like the end of a Story

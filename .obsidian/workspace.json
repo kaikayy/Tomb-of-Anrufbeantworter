@@ -13,7 +13,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Official Conditions/Dead.md",
+                "file": "Session Notes/Session 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Official Conditions/Dead.md",
+                "file": "Session Notes/Session 2.md",
                 "mode": "source",
                 "source": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Official Conditions/Dead.md"
+                "file": "Session Notes/Session 2.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Official Conditions/Dead.md",
+                "file": "Session Notes/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,44 +166,44 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "847bf8861478237f",
+  "active": "646149bf6d7a10f3",
   "lastOpenFiles": [
+    "Session Notes/Session 3.md",
+    "Session Notes/Session 2.md",
+    "Session Notes/Session 1.md",
+    "Session Notes/Session 0.md",
+    "Session Combats/Fight_S65.md",
+    "Session Combats/Fight_S63.md",
+    "Session Combats/Fight_S62.md",
+    "Session Combats/Fight_S61.md",
+    "Session Combats/Fight_S59.md",
+    "Session Combats/Fight_S58.md",
     "Session Combats/Fight_S54_55.md",
-    "_Official Conditions/Dead.md",
-    "_Official Conditions/Concentration.md",
-    "_Official Conditions/Charmed.md",
-    "Session Notes/Session 50.md",
-    "_Official Conditions/Blinded.md",
-    "Session Notes/Session 59.md",
-    "Locations/Chult.md",
-    "Locations/Camp Vengeance.md",
-    "Locations/Camp Righteous.md",
-    "Locations/Brazen Pegasus.md",
-    "Locations/Aldani Basin.md",
-    "Locations/Outside of Chult/Toril.md",
-    "Locations/Outside of Chult/Sword Coast.md",
-    "Locations/Outside of Chult/Shining Sea.md",
-    "Locations/Outside of Chult/Shadowfell.md",
-    "Locations/Outside of Chult/Hag'se.md",
-    "Locations/Outside of Chult/Faerûn.md",
-    "Locations/Outside of Chult/Baldur's Gate.md",
-    "Locations/Outside of Chult/Alderana.md",
-    "Items/Wukka Nuts.md",
-    "Items/Webway of Ubtao.md",
-    "Items/Wand of Secrets.md",
-    "Items/Vorn's Amulet.md",
-    "Items/Veil of Night.md",
-    "Items/The Eye of Sseth.md",
+    "Session Combats/Fight_S53.md",
+    "Session Combats/Fight_S52.md",
+    "Session Combats/Fight_S49.md",
+    "Session Combats/Fight_S47_48.md",
+    "Session Combats/Fight_S46.md",
+    "Session Combats/Fight_S41.md",
+    "Session Combats/Fight_S40.md",
+    "Session Combats/Fight_S39.md",
+    "Session Combats/Fight_S37.md",
+    "Session Combats/Fight_S36.md",
+    "Session Combats/Fight_S34.md",
+    "Session Combats/Fight_S32.md",
+    "Session Combats/Fight_S30.md",
+    "Session Combats/Fight_S29.md",
+    "Session Combats/Fight_S28_2.md",
+    "_Attachments/Guides 6.png",
+    "_Attachments/Guides 5.png",
+    "_Attachments/Guides 1.png",
+    "_Attachments/Guides 8.png",
     "_Attachments/Puzzle in Tomb of Kahuli.png",
     "_Attachments/Reaction_Gannin DEAD.png",
     "_Attachments/Fight_S65_Map.png",
     "_Attachments/Snow Biome.png",
     "_Attachments/Batiri Battle Stack.png",
     "_Attachments/Musharib.png",
-    "_Attachments/Statue in Ruin of Bolnirtecla.png",
-    "_Attachments/Ruin of Bolnirtecla 2.png",
-    "_Attachments/Ruin of Bolnirtecla 1.png",
-    "_Attachments/Guides 7.png",
     "Tomb-of-Anrufbeantworter"
   ]
 }

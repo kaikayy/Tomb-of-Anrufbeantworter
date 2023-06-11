@@ -53,7 +53,7 @@ Dodge/Ready:
 - [[Kadrin]] summons his Sword and walks closer to the village
 	- detects something with Detect Magic in one of the tents
 	- looks into the tent and sees 6 Batiri Goblins, 3 Children and a Chieftain
-	- BC wears a Medallion with the words "Vorn" etched into it
+	- BC wears a Medallion with the words "[[Vorn]]" etched into it
 - [[Musharib]] attacks BBSa
 	- 6 to hit, miss
 - [[Shago]] dashes towards the Tents

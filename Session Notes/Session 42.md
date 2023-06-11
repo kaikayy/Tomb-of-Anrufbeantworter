@@ -22,7 +22,7 @@ We arrive at the [[River Olung]]
 
 We travel further down stream to a spot, [[Shadow]] saw, the water get's warmer as the Lava Streams of [[Lake Luo]] come closer
 - It's deep enough that we cannot see through to the bottom
-- We spot a Brontosaurus bathing in the River
+- We spot a [[Brontosaurus]] bathing in the River
 	- [[Kadrin]], Insight: 3 - If he's enjoying it or in pain
 		- It seems like a big Dinosaur
 - We discuss how to cross the river
@@ -32,7 +32,7 @@ We travel further down stream to a spot, [[Shadow]] saw, the water get's warmer 
 		- Can seem to find any information about the middle of the River
 - [[Talsen]] starts hacking at a nearby tree
 	- Survival: 13 - it'll take about 45 min
-- [[Kadrin]] want's to charm the Brontosaurus and get him to carry us across
+- [[Kadrin]] want's to charm the [[Brontosaurus]] and get him to carry us across
 - [[Kadrin]] tries to navigate [[Stomps]] into the 5ft. deep water
 	- Animal Handling: 12
 		- He's a bit stubborn and stops at a certain point

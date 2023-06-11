@@ -6,4 +6,4 @@ Works by coating a weapon
 Harvested by:
 - Giant Poisonous Snakes ([[Dead]]/[[Incapacitated]])
 
-Found in a Waterlogged Chest on an abandoned Raft towards the Shining Sea with some Sea Hags
+Found in a Waterlogged Chest on an abandoned Raft towards the [[Shining Sea]] with some Sea Hags

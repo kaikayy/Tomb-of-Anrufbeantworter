@@ -107,7 +107,7 @@ They make their way to the Mansion of Trade Princess [[Jessamine]]
 	- He left the day after with 5 people
 		- 2 Nobles from [[Baldur's Gate]], and a Halfling (2 of them are Guides)
 		- One of the Nobles was Fürst [[Troy]]
-		- ![[Guide Posting.png]]
+		- ![[Guides 8.png]]
 - Introductions
 - [[Talsen]] History: [[Nat.20]] (25)
 	- The [[Tomb of Kahuli]] is sealed off

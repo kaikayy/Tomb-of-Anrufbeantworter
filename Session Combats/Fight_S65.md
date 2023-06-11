@@ -121,7 +121,7 @@ Dodge/Ready:
 		- [[Delwyn]] starts to fall [[Unconscious]]
 			- CHA SAV: Nat.20 (28)
 				- [[Delwyn]] remains at 1 HP
-- [[Talsen]] tries to get out of the restrained
+- [[Talsen]] tries to get out of the restrain
 	- Athletics: 17
 		- [[Vorn]] is no longer [[Grappled]], [[Restrained]]
 	- moves

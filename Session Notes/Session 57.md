@@ -16,7 +16,7 @@ We arrive at [[Zhanthi]]'s House and are let in with our still valid invitation
 	- 9x 50gp gemstones
 	- the black pearl (700gp)
 	- 5 golden cups (250gp)
-	- the golden statue of Sibyl (300gp) and 
+	- the golden statue of [[Sibyl]] (300gp) and 
 	- the amber adorned bow
 - She closely inspects all the items and offers 2000gp
 	- [[Kadrin]] asks for something useful for us as a Trade instead

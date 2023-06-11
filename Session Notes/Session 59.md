@@ -40,7 +40,7 @@ As we arrive at the Gate it's back open and we get back to [[Port Nyanzaru]]
 - [[Talsen]] and [[Shadow]] discuss if to tell [[Delwyn]] about the Insect Repellent
 - [[Shadow]] says that his judgement might not be good for our group if he even hired [[Acererak]] as his guide
 
-As we go through the [[Grand Souk]] we find a notice board with guides and jobs
+As we go through the [[Grand Souk]] we find a notice board with [[guides]] and jobs
 - [[Guides]]
 - Mundane Job postings
 - WANTED, DEAD OR ALIVE: [[Artus Cimber]] Man in his 30s or 40s for 5000gp

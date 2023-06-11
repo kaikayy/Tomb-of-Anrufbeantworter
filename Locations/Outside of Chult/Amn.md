@@ -1,0 +1,1 @@
+A foreign nation in west [[Faerûn]] who held control over [[Port Nyanzaru]] until 9 years ago.

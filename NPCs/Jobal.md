@@ -1,1 +1,1 @@
-[[Jobal]] might profit from it from search parties and guides, see [[Shadowshiver]]
+[[Jobal]] might profit from it from search parties and [[guides]], see [[Shadowshiver]]

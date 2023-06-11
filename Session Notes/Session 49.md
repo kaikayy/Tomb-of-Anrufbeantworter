@@ -56,6 +56,6 @@ Perc.:  9
 
 ---
 [[Talsen]] hears mumbled screaming from outside and hears metal clanging in the door lock
-Ignites Tarmaw and hits the Table with it waking everyone else up
+Ignites [[Tarmaw]] and hits the Table with it waking everyone else up
 
 ### [[Fight_S49]]

@@ -27,7 +27,7 @@ After the Fight
 		- [[Bolnir Copperhandle]]'s Notes (2 Pieces of Paper)
 			- Drawings of [[Webway of Ubtao]] Addresses
 				- [[Mbala]]
-				- Ruin of Bolnirtecla
+				- [[Ruin of Bolnirtecla]]
 	- Throws away his weapon and armor, pockets the Notes
 
 We gather everyone around at our Camp
@@ -35,7 +35,7 @@ We gather everyone around at our Camp
 	- Persuasion: 17
 - [[Gondolo]] and [[Faroul]] aren't really guides here but try to make money in different ways but all failed
 	- [[Talsen]] offers to get them back towards [[Port Nyanzaru]] through the [[Webway of Ubtao]]
-	- Ruin of Bolnirtecla seems to be between the [[Aldani Basin]] and [[Omu]] as they recall
+	- [[Ruin of Bolnirtecla]] seems to be between the [[Aldani Basin]] and [[Omu]] as they recall
 	- [[Mbala]] was very creepy to them with rolling Fog and a wall of Humanoid Skulls, they didn't stay very long
 - [[Kadrin]] talks to [[Troy]]
 	- Asks him if he knows the name [[Hubert Brisworth]]

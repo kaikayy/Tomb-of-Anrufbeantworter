@@ -14,9 +14,9 @@ Recap - [[Talsen]]
 	- We hear stone grinding on stone and the snakes eyes light up red for a second
 - We investigate the stone door again and it has opened
 - Going into the room, there are books and papers thrown around to one wall, and another covered with stone carvings depicting [[Sibyl]]
-	- A female Yuan-ti with a snake head, snake lower body, 4 arms and wings is sitting on a throne. 4 Yuan-ti in elegant clothing are kneeling before her. The 4 Yuan-ti are each holding a knife behind their back.
-	- A female Yuan-ti with a snake head, snake lower body, 4 arms and wings is lying in a pool of blood with a knife in her back. a flying snake with bared fangs is flying upwards out of the knife wound.
-	- A female Yuan-ti with a snake head, snake lower body, 4 arms and wings. She is holding a burning sword in her upper left hand, blood is dripping from her upper right hand, a stack of coins in her lower left hand and magic in her lower right hand.
+	- A female [[Yuan-ti]] with a snake head, snake lower body, 4 arms and wings is sitting on a throne. 4 [[Yuan-ti]] in elegant clothing are kneeling before her. The 4 [[Yuan-ti]] are each holding a knife behind their back.
+	- A female [[Yuan-ti]] with a snake head, snake lower body, 4 arms and wings is lying in a pool of blood with a knife in her back. a flying snake with bared fangs is flying upwards out of the knife wound.
+	- A female [[Yuan-ti]] with a snake head, snake lower body, 4 arms and wings. She is holding a burning sword in her upper left hand, blood is dripping from her upper right hand, a stack of coins in her lower left hand and magic in her lower right hand.
 - [[Kadrin]] Religion: 12
 	- The Room seems strange but it probably was a library at one point
 - [[Kadrin]] Investigation: 6

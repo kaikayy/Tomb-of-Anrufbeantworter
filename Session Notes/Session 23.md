@@ -7,7 +7,7 @@ Orange Murky Potion -  Potion of Animal Friendship
 Eye sized Red Gem - Magical
 Captain's Scimitar - Scimitar, worth a lot
 Captain's Coat - Coat, worth a lot
-Whisper Stone - Sending Stone, [[Gannin]] puts it away in a backpack
+Whisper Stone - [[Sending Stone]], [[Gannin]] puts it away in a backpack
 [[Shadow]] identifies a Scroll with [[Kadrin]]'s Help, It's a Scroll of Hex.
 
 [[Gannin]] reads in the Captain's Logbook he found.

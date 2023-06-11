@@ -6,7 +6,7 @@ We arrive at the [[Kebab Kamadan]] for lunch
 ### SHORT REST
 We order food and tell [[Alji Wiggleback]] that we are celebrating
 
-[[Kadrin]] orders a Menga Musk Pipe and receives the following bonus:
+[[Kadrin]] orders a [[Menga]] Musk Pipe and receives the following bonus:
 - Regains 1 HP
 
 [[Talsen]] orders a Sinda Scent Pipe and receives the following bonus:
@@ -18,7 +18,7 @@ We check our bags and look for what we still need:
 - Cartographer's Tools x
 - Component Pouch x
 - Manacles x
-- Talsen's Custom Pouch x
+- [[Talsen]]'s Custom Pouch x
 - Dagger x
 - Insect Repellent-Incense x
 

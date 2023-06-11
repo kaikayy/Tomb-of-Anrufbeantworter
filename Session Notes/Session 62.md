@@ -124,7 +124,7 @@ We arrive in the Area where [[Vorn]] should be
 	- [[Vorn]] seems to be standing in the same place and same position for a while but most of the dirt and moss has been cleaned off by someone
 - [[Talsen]] approaches
 	- Arcana: 18
-		- "Vorn" is etched in one of its boots
+		- "[[Vorn]]" is etched in one of its boots
 		- [[Wakanga O’tamu]] said something about a control amulet
 - [[Kadrin]] looks around for anyone watching, Perception: 17
 	- a few footprints seem to go to and from [[Vorn]]

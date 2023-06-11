@@ -4,7 +4,7 @@
 
 We are at the Manor of [[Syndra Sylvane]]. She wants to hold up the [[Death Curse]].
 
-We see two caracters before the Mansion.
+We see two characters before the Mansion.
 
 Dir Tür wird von [[Charles Bunsworth]], dem Butler geöffnet, [[Kadrin|Kadrin]] und [[Kairi]] stellen sich vor und werden hineingelassen.
 [[Kairi]] plays Harp Performance: 22

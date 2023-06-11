@@ -5,7 +5,7 @@ Weather: Very Strong Wind, Very Warm
 - [[Kadrin]] makes Food: 8
 - [[Gannin]] gives the party 15 Rations and tells [[Kairi]] to tell [[Zitembe]] to keep a VERY close eye on [[Inete]], lock her up if nessecary.
 - [[Gannin]] gives [[Shadow]] all 603gp and says that they better come back with at least 500gp left.
-- [[Kadrin]] gets the single Sending Stone from the [[Pirate Captains]]
+- [[Kadrin]] gets the single [[Sending Stone]] from the [[Pirate Captains]]
 
 [[Shadow]], [[Kairi]] & [[Kadrin]] go to get [[Inete]] back to [[Port Nyanzaru]].
 

@@ -55,14 +55,14 @@ We head south as [[Talsen]] remembers going there with his expedition
 		- Behind the rubble seems to just be earth
 		- Inside the Rubble is a skeletal arm holding a chain
 	- Picks up the chain
-- [[Kadrin]] goes north, towards where he heard the hissing sound, [[Gobta]] follows
+- [[Kadrin]] goes north, towards where he heard a hissing sound, [[Gobta]] follows
 	- [[Kadrin]], Perception: 13
 		- There is remnants of ash and other stuff inside the 4 pedestals
 - [[Talsen]] warns the others to be cautious and not to go alone anywhere
 - [[Kadrin]] looks into another room
 	- Perception: 16
-- In the Room are two stone engravings, one depicting a female Yuan-ti with a snake head, snake lower body, 4 arms and wings, has a sword fight with a man wearing the head of a T-rex. The Man is riding a large Quetzalcoatlus.
-	- The other one depicting a female Yuan-ti with a snake head, snake lower body, 4 arms and wings. She is holding a sword in her upper left hand, a flame in her upper right hand, a chain in her lower left hand and a book in her lower right hand.
+- In the Room are two stone engravings, one depicting a female [[Yuan-ti]] with a snake head, snake lower body, 4 arms and wings, has a sword fight with a man wearing the head of a T-rex. The Man is riding a large Quetzalcoatlus.
+	- The other one depicting a female [[Yuan-ti]] with a snake head, snake lower body, 4 arms and wings. She is holding a sword in her upper left hand, a flame in her upper right hand, a chain in her lower left hand and a book in her lower right hand.
 - [[Kadrin]], Religion: 8
 	- Recognizes the man with the T-Rex head as [[Ubtao]]
 - [[Talsen]], Religion: Nat.20 (23)
@@ -70,7 +70,7 @@ We head south as [[Talsen]] remembers going there with his expedition
 	- This is [[Sibyl]], the Serpent Empress
 	- 100-300years ago she posed a great threat for the cities of [[Faerûn]]
 		- She tries to unite all [[Yuan-Ti]] and create a great Empire
-	- She is Half-Yuan-Ti, Half Fiend
+	- She is Half-[[Yuan-Ti]], Half Fiend
 - [[Talsen]] goes back to look at the Statue
 	- Perception: 9
 - [[Shadow]] looks at the Statue as well

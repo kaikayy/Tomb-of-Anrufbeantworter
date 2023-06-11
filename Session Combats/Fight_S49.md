@@ -85,7 +85,7 @@ Conditions:
 - [[Shadow]] moves
 	- AoO: HFb, 13 to hit, miss
 	- Uses the [[Folding Boat]] to summon a 24ft. by 8ft. boat
-		- Pushed down both HFa & HFb from the ledge, both fall prone
+		- Pushed down both HFa & HFb from the ledge, both fall [[prone]]
 			- They both take 4 Fall DMG and fall [[Prone]]
 	- Jumps on the Shack's Roof
 - [[Gobta]] attacks HFc

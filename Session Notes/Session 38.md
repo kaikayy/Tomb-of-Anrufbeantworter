@@ -80,5 +80,5 @@ Weather: Normal Temp., slight wind, light rain
 	- Asks if there is something to avoid like traps
 		- Persuasion: 10
 		- "Stay away from the Statue to the left, Big Spider, Big Spider"
-- [[Talsen]] ascertains that these Hanging Gardens where built by Omu-ens and it's Original Purpose was a place of retreat of someone of importance
+- [[Talsen]] ascertains that these Hanging Gardens where built by Omuens and it's Original Purpose was a place of retreat of someone of importance
 - [[Kadrin]] warns us of the Spiderwebbed Statue and says that there are supposedly no undead here

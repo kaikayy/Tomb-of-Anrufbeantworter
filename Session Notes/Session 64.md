@@ -13,7 +13,7 @@ We make camp on the way back to [[Vorn (Place)]]
 - Perc.: Nat.20 (26), 12
 - [[Shadow]] reads her book, INT: 20
 
-###### Delwyn's Vision/Dream
+###### [[Delwyn]]'s Vision/Dream
 - [[Delwyn]] wakes up with a piece of cloth on his face, as he puts it down he sees that the tent he was in before is rotten through and through. The Grass around him has turned to desolate wasteland. Beside him is a skeleton of a dwarf. As he goes out to see the other tent, it is also rotten and bones are peaking out. Outside are more skeletons at the campfire that died long ago. The trees, the flora and fauna, everything has wasted away only leaving behind a web of dead wood and scrub.
 	- He is in the [[Shadowfell]] but something is different, the [[Veil of Night]] makes a comforting, familiar blue light on the ground and shining stars in the sky.
 	- A bit farther from the camp, he sees a woman floating turned with her back to him, crying, face tucked in her hands. Only one half of her is physical and this half is being pulled into the other half which seem ethereal.

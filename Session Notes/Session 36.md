@@ -9,7 +9,7 @@ Weather: Strong Wind (Dis. on Ranged Weapon Attacks & Hearing Perception Checks)
 	- [[Shadow]] hears a message from [[Zindar]]
 		- The Dwarf we are looking is currently somewhere in the [[Aldani Basin]]
 		- They seem to be fighting some Undead at the Moment
-		- 2nd Message: He is not our Sending Stone and we should find another way to get these
+		- 2nd Message: He is not our Messenger and we should find another way to get these
 - As we are traveling we encounter... smoke and burnt odor, we spot a campfire with something spiked over it
 	- A burnt human body
 	- [[Shadow]] looks around for an ambush
