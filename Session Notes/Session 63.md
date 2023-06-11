@@ -16,7 +16,7 @@ We arrive at the [[Batiri]] Village
 	- [[Talsen]] steps closer
 		- 23 to hit, 4 DMG
 			- The Plant beside him was a [[Batiri]] Battle Stack
-			- ![[Pasted image 20230515192345.png]]
+			- ![[Batiri Battle Stack.png]]
 		- ## [[Fight_S63]]
 
 We flee with the Amulet towards [[Vorn (Place)]]

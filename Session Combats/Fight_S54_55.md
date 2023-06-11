@@ -89,7 +89,7 @@ D Vs
 		- Conc. SAV: 17
 - Vs attacks [[The Hissing]]
 	- 13 to hit, miss
-- [[Gobta]] heads towards SI, sees that it's dead
+- [[Gobta]] heads towards SI, sees that it's already down
 	- dashes towards [[The Hissing]], attacks it
 	- 20 to hit, 4 DMG
 - [[The Hissing]] attacks [[Gobta]]

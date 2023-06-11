@@ -4,11 +4,11 @@ Near the [[Red Bazar]]
 [[Talsen]]'s favourite Restaurant
 Run by a Deep Gnome named [[Alji Wiggleback]] who is a fan of [[Talsen]]'s brews
 Menu:
-![[Pasted image 20230213212644.png]]
+![[Kebab Kamadan Menu.png]]
 
 
 
-![[Pasted image 20230213211745.png]]
-![[Pasted image 20230213211820.png]]
+![[Kebab Kamadan 1.png]]
+![[Kebab Kamadan 3.png]]
 ![[Kamadan.png]]
-![[Pasted image 20230213211909.png]]
+![[Alji in Kebab Kamadan.png]]

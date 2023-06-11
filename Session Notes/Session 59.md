@@ -69,7 +69,7 @@ We go back to [[Wakanga O’tamu]] to identify a few items
 	- Meanwhile [[Talsen]] gets out the Red Vase and puts needles on strings on all the corks of it, ready to pull them all out as everyone leaves the property
 	- [[Wakanga O’tamu]] says that it is a cloak which grants some unique abilities when attuned
 		- It provides an illusionary disguise once per day, which last indefinitely if you do not dismiss it
-		- It shields you from sunlight, helping you not be blinded or burned by it
+		- It shields you from sunlight, helping you not be dazzled or burned by it
 		- It makes everything look like eternal night, but you also cannot see light emitting from anything but the moon it produces
 	- [[Kadrin]] tells [[Wakanga O’tamu]] about out encounter with [[Acererak]]
 		- Persuasion: 21

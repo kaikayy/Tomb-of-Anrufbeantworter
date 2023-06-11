@@ -1,0 +1,1 @@
+A friendly female NPC from the [[Frost Giants]]

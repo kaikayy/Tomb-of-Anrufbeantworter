@@ -39,7 +39,7 @@ Along our travels...
 	- [[Musharib]] says something about twisted nature spirits while [[Shago]] discovers the fun to be had with snow
 
 We go into the Snow covered area without the mounts, [[Musharib]] and [[Shago]]
-![[Pasted image 20230530202746.png]]
+![[Snow Biome.png]]
 - Heading towards the clearing in the middle we see multiple small ponds, frozen over and a humanoid looking Ice-figure in the middle of them, her hand reaching out towards one side
 	- [[Kadrin]] casts Divine Sense and steps closer
 		- can't sense any presence but sees a small ball of red scales, a pseudo drake curled into a ball, it is [[Xandala]]'s dragon, [[Summerwise]]

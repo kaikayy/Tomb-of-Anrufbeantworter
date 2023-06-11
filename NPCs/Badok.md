@@ -1,1 +1,1 @@
-![[Pasted image 20230403214733.png]]
+![[Badok.png]]

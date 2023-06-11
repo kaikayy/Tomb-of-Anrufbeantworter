@@ -1,2 +1,0 @@
-[[Artus Cimber]]
-[[Frost Giants]]

@@ -87,7 +87,7 @@ We decide to wake up the drow and ask him information sooner rather than later
 	- He seems pretty done with life and doesn't like [[Skaldric]], not sure if he would go back or not, just to survive
 - [[Kadrin]] and [[Shadow]] part ways with [[Ristel]] sending him to Father [[Zitembe]]
 - [[Talsen]], Arcana: 23
-	- No Special Properties but it is charmed
+	- No Special Properties but it is [[charmed]]
 	- Puts the rest of the Blood in a vial
 - [[Ristel]] says the rest of the [[Red Wizards of Thay]] out of [[Port Nyanzaru]] fled into the Jungle and scattered
 - [[Ristel]] limbs away

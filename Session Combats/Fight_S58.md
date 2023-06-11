@@ -1,8 +1,8 @@
 Session Link:
 [[Session 58]]
 Battlemap:
-![[Pasted image 20230403195943.png]]
-![[Pasted image 20230403201221.png]]
+![[Fight_S58_Map.png]]
+![[Fight_S58_Map_2.png]]
 
 Enemies:
 Long Name (referred to as Short Name)
@@ -10,7 +10,7 @@ Long Name (referred to as Short Name)
 ~~Undead Formation A,B - UFa,b~~
 ~~Skeleton Archer A,B,C,D - SAa,b,c,d~~
 ~~Ogre Zombie A,B - OZa,b~~
-![[Pasted image 20230403203819.png]]
+![[Ogre Zombie.png]]
 
 Initiative:
 [[Talsen]] - 8
@@ -104,7 +104,7 @@ Dodge/Ready:
 	- INT SAV: SAVES
 - SAa,c move back into position
 - _The air in front of the Temple wavers and flares up, a demonic Triceratops steps out of it, burning and marked with Runes depicting Mazes striked through_
-![[Pasted image 20230403205125.png]]
+![[Nightceratops.png]]
 **Round 4**
 - [[Eku]] casts Bless on [[Kadrin]] & [[Talsen]]
 - [[Shadow]] attacks SCc

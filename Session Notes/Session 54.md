@@ -8,7 +8,7 @@ Recap - [[Kadrin]]
 
 [[Talsen]] ignites [[Tarmaw]], 5 DMG
 We all enter the Chamber
-![[Pasted image 20230307192701.png]]
+![[Hisari Inside.png]]
 We hear Snakes hissing from a left side corridor
 The Pedestal is barely visible in the middle of the chamber
 [[Talsen]] instructs the others to stay close behind him and watch his back, while he sneaks up to the pedestal he knows is in the middle of the chamber

@@ -1,2 +1,2 @@
-![[Pasted image 20230410194155.png]]
+![[Bodak.png]]
 Their skin burns and boils in sunlight

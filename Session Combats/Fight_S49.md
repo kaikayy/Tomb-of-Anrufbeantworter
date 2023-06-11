@@ -43,7 +43,7 @@ Conditions:
 	- casts Charm Person on all three HF
 		- WIS SAV: 2 FAIL, 1 SAVES
 			- They want [[Shadow]]
-- HF that isn't charmed leans against the wall and just watches
+- HF that isn't [[charmed]] leans against the wall and just watches
 - HF approaches [[Kadrin]] and asks for [[Shadow]] and promises [[Kadrin]] 50% of the 1000gp bounty
 - [[Talsen]] runs towards the Window
 	- Insight: Nat.20 (19) - The Guy leaning against the Wall seems "too" confident

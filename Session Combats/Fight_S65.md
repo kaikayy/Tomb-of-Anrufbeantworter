@@ -1,7 +1,7 @@
 Session Link:
 [[Session 65]]
 Battlemap:
-![[Pasted image 20230530203918.png]]
+![[Fight_S65_Map.png]]
 
 Enemies:
 Long Name (referred to as Short Name)
