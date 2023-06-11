@@ -1,8 +1,8 @@
-[[Fight_S36]]
+[[Fight_S36]] - 1
 [[Kadrin]] to hit (28)
 
 ---
-[[Fight_S58]]
+[[Fight_S58]] - 1
 [[Kadrin]] to hit (32)
 
 ---

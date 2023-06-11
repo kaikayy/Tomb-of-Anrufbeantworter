@@ -4,29 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "84d9141211ec11f7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "847bf8861478237f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "X_Stats/Inspiration.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "1629ff16f52a4c99",
         "type": "tabs",
         "children": [
@@ -48,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X_Stats/Inspiration.md",
+                "file": "X_Stats/_Vorlage.md",
                 "mode": "source",
                 "source": true
               }
@@ -128,12 +105,37 @@
         "type": "tabs",
         "children": [
           {
+            "id": "847bf8861478237f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "X_Stats/_Vorlage.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "097e99fbc3897fcc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "fd5de4e69f9b6730",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "X_Stats/Inspiration.md"
+                "file": "X_Stats/_Vorlage.md"
               }
             }
           },
@@ -143,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X_Stats/Inspiration.md",
+                "file": "X_Stats/_Vorlage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,14 +163,6 @@
             }
           },
           {
-            "id": "097e99fbc3897fcc",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "9dc4531b769ee11d",
             "type": "leaf",
             "state": {
@@ -176,7 +170,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,18 +186,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9d2962b961dffba1",
+  "active": "1cf7fd4cac64a694",
   "lastOpenFiles": [
+    "X_Stats/{Nat.19}.md",
+    "X_Stats/Inspiration.md",
     "X_Stats/Nat.1.md",
     "X_Stats/Nat.20.md",
-    "X_Stats/{Nat.19}.md",
     "Session Combats/Fight_S54_55.md",
     "Session Notes/Session 64.md",
     "X_Stats/_Vorlage.md",
     "Session Combats/Fight_S36.md",
     "Session Notes/Session 50.md",
     "Session Notes/Session 49.md",
-    "X_Stats/Inspiration.md",
     "Items/Ring of Winter.md",
     "Bestiary/Frost Giants.md",
     "NPCs/Thyra Permafrost.md",

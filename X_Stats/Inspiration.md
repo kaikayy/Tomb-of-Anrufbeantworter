@@ -19,7 +19,7 @@
 	-
 
 ---
-[[Session 5]]
+[[Session 5]] - 1
 [[Kadrin]] rerolls Perception from 0 to 1, useless
 
 ---
@@ -91,7 +91,7 @@
 	-
 
 ---
-[[Session 23]] - [[Fight_S23]]
+[[Session 23]] - [[Fight_S23]] - 1
 [[Kadrin]] rerolls to hit from 10 to 27, useful
 
 ---
