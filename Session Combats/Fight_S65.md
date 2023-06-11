@@ -119,7 +119,7 @@ Dodge/Ready:
 - IBa attacks [[Delwyn]]
 	- 22 to hit, 19 Cold DMG
 		- [[Delwyn]] starts to fall [[Unconscious]]
-			- CHA SAV: Nat.20 (28)
+			- CHA SAV: [[Nat.20]] (28)
 				- [[Delwyn]] remains at 1 HP
 - [[Talsen]] tries to get out of the restrain
 	- Athletics: 17

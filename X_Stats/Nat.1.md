@@ -3,29 +3,29 @@
 
 ---
 
-[[Session Notes/Session 1]]
+[[Session Notes/Session 1]] - 1
 [[Gannin]] Investigation (1)
 
 ---
-[[Session 2]]
+[[Session 2]] - 1
 [[Gannin]] Insight (6)
 
 ---
-[[Session 3]]
+[[Session 3]] - 4
 [[Kadrin]] Nature (0) 
 [[Gannin]] to hit
 [[Kadrin]] to hit
 [[DM]] Grapple Save
 
 ---
-[[Session 4]]
+[[Session 4]] - 4
 [[Gannin]] Perception (6)
 [[Shadow]] Perception (6)
 [[Kairi]] Acrobatics (7)
 [[Kadrin]] CON SAV (3)
 
 ---
-[[Session 5]]
+[[Session 5]] - 6
 [[Kairi]] Survival (2)
 [[Kairi]] Investigation (3)
 [[Kadrin]] Cooking (5)
@@ -34,7 +34,7 @@
 [[Kadrin]] DEX SAV (3)
 
 ---
-[[Session 6]]
+[[Session 6]] - 1
 [[Shadow]] Stealth (10)
 
 ---
@@ -46,37 +46,37 @@
 	-
 
 ---
-[[Session 9]]
+[[Session 9]] - 2
 [[Kairi]] Athletics (1)
 [[Kairi]] Perception (5)
 
 ---
-[[Session 10]]
+[[Session 10]] - 1
 [[Gannin]] Investigation (1)
 
 ---
-[[Session 11]]
+[[Session 11]] - 1
 [[DM]] to hit on [[Kadrin]]
 
 ---
-[[Session 12]]
+[[Session 12]] - 3
 [[Kairi]] Stealth (7)
 [[DM]] / [[Valindra Shadowmantle]] Grapple Save (4)
 [[DM]] / [[Valindra Shadowmantle]] to hit on [[Gannin]]
 
 ---
-[[Session 13]]
+[[Session 13]] - 2
 [[Gannin]] Insight (6)
 [[Kairi]] Persuasion (9)
 
 ---
-[[Session 14]]
+[[Session 14]] - 3
 [[DM]] to hit on [[Gannin]]
 [[Gannin]] to hit
 [[DM]] to hit on [[Kadrin]] (5)
 
 ---
-[[Session 15]]
+[[Session 15]] - 4
 [[Kadrin]] Perception (0)
 [[Shadow]] Religion (3)
 [[Kairi]] Perception (5)
@@ -95,11 +95,11 @@
 	-
 
 ---
-[[Session 19]]
+[[Session 19]] - 1
 [[Kairi]] CON SAV (3)
 
 ---
-[[Session 20]] - [[Fight_S20]]
+[[Session 20]] - [[Fight_S20]] - 2
 [[DM]] Conc. SAV
 [[Kadrin]] Cooking (5)
 
@@ -108,11 +108,11 @@
 	-
 
 ---
-[[Session 22]]
+[[Session 22]] - 1
 [[Kadrin]] Performance (8)
 
 ---
-[[Session 23]]
+[[Session 23]] - 1
 [[Gannin]] Investigation (1)
 
 ---
@@ -120,23 +120,23 @@
 	-
 
 ---
-[[Session 25]]
+[[Session 25]] - 1
 [[Kadrin]] Insight (0)
 
 ---
-[[Session 26]] - [[Fight_S26]]
+[[Session 26]] - [[Fight_S26]] - 4
 [[Gannin]] Insight (6)
 [[Kadrin]] Insight (0)
 [[Kairi]] Initiative (6)
 [[DM]] to hit on [[Kadrin]]
 
 ---
-[[Session 27]] - [[Fight_S27]]
+[[Session 27]] - [[Fight_S27]] - 2
 [[Kairi]] Religion (3)
 [[Gannin]] Initiative (5)
 
 ---
-[[Session 28]] - [[Fight_S28]]
+[[Session 28]] - [[Fight_S28]] - 5
 [[Gannin]] Perception (6)
 [[DM]] / [[The Flaming Fist]] are tired?
 [[DM]] Perception
@@ -144,30 +144,30 @@
 [[DM]] / [[Inete]] Initiative (1)
 
 ---
-[[Session 29]] - [[Fight_S29]]
+[[Session 29]] - [[Fight_S29]] - 2
 [[Shadow]] Initiative (9)
 [[Kairi]] Initiative (6)
 
 ---
-[[Session 30]] - [[Fight_S30]]
+[[Session 30]] - [[Fight_S30]] - 3
 [[Shadow]] Insight (2)
 [[DM]] CHA SAV
 [[DM]] CHA SAV
 
 ---
-[[Session 31]]
+[[Session 31]] - 3
 [[Shadow]] CON SAV (3)
 [[Shadow]] Survival (6)
 [[Miasma]] CON SAV (2)
 
 ---
-[[Session 32]] - [[Fight_S32]]
+[[Session 32]] - [[Fight_S32]] - 3
 [[Miasma]] History
 [[DM]] to hit on [[Kadrin]]
 [[Talsen]] to hit (8)
 
 ---
-[[Session 33]]
+[[Session 33]] - 1
 [[Talsen]] Investigation (7)
 
 ---
@@ -179,7 +179,7 @@
 	-
 
 ---
-[[Session 36]] - [[Fight_S36]]
+[[Session 36]] - [[Fight_S36]] - 7
 [[Shadow]] Insight (4)
 [[Kadrin]] Persuasion (9)
 [[Herald]] Perception (3)
@@ -189,31 +189,31 @@
 [[Talsen]] to hit (8)
 
 ---
-[[Session 37]] - [[Fight_S37]]
+[[Session 37]] - [[Fight_S37]] - 4
 [[Talsen]] Perception (0)
 [[Herald]] Initiative (2)
 [[Talsen]] STR (5)
 [[Kadrin]] DEX SAV (3)
 
 ---
-[[Session 38]] - [[Fight_S38]]
+[[Session 38]] - [[Fight_S38]] - 3
 [[Kadrin]] Perception (0)
 [[Shadow]] to hit (11)
 [[Kadrin]] to hit (10)
 
 ---
-[[Session 39]] - [[Fight_S39]]
+[[Session 39]] - [[Fight_S39]] - 3
 [[Talsen]] Investigation (7)
 [[Kadrin]] DEX SAV (3)
 [[Kadrin]] to hit (10)
 
 ---
-[[Session 40]]
+[[Session 40]] - 2
 [[Kadrin]] Investigation (0)
 [[Talsen]] Arcana (10)
 
 ---
-[[Session 41]] - [[Fight_S41]]
+[[Session 41]] - [[Fight_S41]] - 5
 [[Talsen]] Initiative (2)
 [[Kadrin]] to hit (10)
 [[Kadrin]] to hit (10)
@@ -221,11 +221,11 @@
 [[DM]] WIS SAV
 
 ---
-[[Session 42]]
+[[Session 42]] - 1
 [[Talsen]] Perception (0)
 
 ---
-[[Session 43]]
+[[Session 43]] - 2
 [[Shadow]] Insight (4)
 [[Kadrin]] Insight (0)
 
@@ -234,7 +234,7 @@
 	-
 
 ---
-[[Session 45]]
+[[Session 45]] - 2
 [[Talsen]] Stealth (2)
 [[Kadrin]] D20 Roll (maybe Perc?)
 
@@ -247,13 +247,13 @@
 	-
 
 ---
-[[Session 48]]
+[[Session 48]] - 3
 [[Talsen]] Insight (0)
 [[DM]] / [[Troy]] WIS SAV
 [[Talsen]] to hit (9)
 
 ---
-[[Session 49]] - [[Fight_S49]]
+[[Session 49]] - [[Fight_S49]] - 2
 [[Talsen]] Insight (0)
 [[DM]] DEX SAV
 
@@ -266,20 +266,20 @@
 	-
 
 ---
-[[Session 52]]
+[[Session 52]] - 2
 [[Shadow]] Survival (7)
 [[Kadrin]] Arcana (2)
 
 ---
-[[Session 53]] - [[Fight_S53]]
+[[Session 53]] - [[Fight_S53]] - 1
 [[Talsen]] to hit (9)
 
 ---
-[[Session 54]]
+[[Session 54]] - 1
 [[Gobta]] Stealth (6)
 
 ---
-[[Fight_S54_55]]
+[[Fight_S54_55]] - 9
 [[DM]] / [[The Hissing]] Initiative
 [[Vegepygme]] / [[Kadrin]] Initiative (3)
 [[Vegepygme]] / [[Gobta]] Initiative (3)
@@ -295,7 +295,7 @@
 	-
 
 ---
-[[Session 56]]
+[[Session 56]] - 1
 [[Talsen]] Medicine (0)
 
 ---
@@ -303,7 +303,7 @@
 	-
 
 ---
-[[Session 58]] - [[Fight_S58]]
+[[Session 58]] - [[Fight_S58]] - 1
 [[DM]] / [[Soulblade]] to hit
 
 ---
@@ -311,24 +311,24 @@
 	-
 
 ---
-[[Session 60]]
-[[Talsen]] Perceprion (0)
+[[Session 60]] - 1
+[[Talsen]] Perception (0)
 
 ---
-[[Session 61]] - [[Fight_S61]]
+[[Session 61]] - [[Fight_S61]] - 4
 [[DM]] DEX SAV (-1)
 [[Talsen]] CON SAV (3)
 [[DM]] to hit on Strider
 [[DM]] to hit on [[Shago]] (4)
 
 ---
-[[Session 62]]
+[[Session 62]] - 3
 [[Delwyn]] Perception (0)
 [[Talsen]] Investigation (7)
 [[Delwyn]] Nature (1)
 
 ---
-[[Session 63]] - [[Fight_S63]]
+[[Session 63]] - [[Fight_S63]] - 1
 [[DM]] to hit on [[Musharib]]
 
 ---
@@ -340,7 +340,7 @@
 	-
 
 ---
-[[Session 66]]
+[[Session 66]] - 4
 [[Shadow]] Arcana (3)
 [[Kadrin]] DEX SAV (3)
 [[Delwyn]] History (4)

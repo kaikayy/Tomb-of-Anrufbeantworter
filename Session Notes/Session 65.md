@@ -15,7 +15,7 @@ Along our travels...
 - We find [[Copacou]] fruit, with a hard brown shell and a quickly melting chocolaty interior
 - [[Delwyn]] finds an engraving in a tree "[[Bravus Boulderhorn]] was here"
 	- History:
-		- [[Shadow]]: Nat.20 (22)
+		- [[Shadow]]: [[Nat.20]] (22)
 		- [[Kadrin]]: 4
 		- [[Delwyn]]: 6
 		- [[Talsen]]: 21

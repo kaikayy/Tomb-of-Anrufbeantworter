@@ -59,5 +59,5 @@ Conditions:
 	- 19 to hit, 7 Force DMG
 	- 28 to hit, 12 Force DMG
 - [[Shadow]] attacks H
-	- Nat.20 (30) to hit, 22 DMG
+	- [[Nat.20]] (30) to hit, 22 DMG
 		- H is [[Dead]]

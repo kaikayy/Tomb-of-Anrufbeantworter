@@ -65,7 +65,7 @@ We head south as [[Talsen]] remembers going there with his expedition
 	- The other one depicting a female [[Yuan-ti]] with a snake head, snake lower body, 4 arms and wings. She is holding a sword in her upper left hand, a flame in her upper right hand, a chain in her lower left hand and a book in her lower right hand.
 - [[Kadrin]], Religion: 8
 	- Recognizes the man with the T-Rex head as [[Ubtao]]
-- [[Talsen]], Religion: Nat.20 (23)
+- [[Talsen]], Religion: [[Nat.20]] (23)
 	- Has seen the depiction before in small [[Yuan-Ti]] ruins  in the jungle
 	- This is [[Sibyl]], the Serpent Empress
 	- 100-300years ago she posed a great threat for the cities of [[Faerûn]]
@@ -83,7 +83,7 @@ We head south as [[Talsen]] remembers going there with his expedition
 
 ### [[Fight_S52]]
 
-- [[Kadrin]], [[Talsen]], Investigation: 14, Nat.20 (26)
+- [[Kadrin]], [[Talsen]], Investigation: 14, [[Nat.20]] (26)
 	- As we look around the room, [[Kadrin]] finds a Scimitar under a bench
 	- [[Talsen]] finds a stone door on one side of the room, it doesn't seem trapped, it has carvings in it, seems to be opened by magic
 - [[Kadrin]] tries to take a look at the door with his necklace

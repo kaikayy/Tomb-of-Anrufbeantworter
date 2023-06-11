@@ -8,7 +8,7 @@ Long Name (referred to as Short Name)
 Ghoul A-D, Ga-d
 
 Initiative:
-[[Talsen]] - Nat.20 (21)
+[[Talsen]] - [[Nat.20]] (21)
 [[Kadrin]] - 10
 [[Shadow]] - 25
 [[Delwyn]] - 13

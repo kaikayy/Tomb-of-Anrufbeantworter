@@ -18,7 +18,7 @@ We make our way to [[Talsen]]'s Shack and look out for survivors
 	- [[Kadrin]] senses [[Badok]] as an undead
 		- holds him up with his blade to his neck
 		- asks him why  he reeks of undeath or rotten
-		- Intimidation: Nat.20 (28)
+		- Intimidation: [[Nat.20]] (28)
 			- [[Badok]] grins and his form changes as fog emerges from him as he turns into [[Acererak]] who then turns into a [[Bodak]]
 			- [[Fight_S59]]
 	-  [[Kadrin]] picks up the veil it left behind and finds 4 gp in it

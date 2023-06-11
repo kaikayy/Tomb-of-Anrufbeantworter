@@ -70,7 +70,7 @@ Conditions:
 		- 26 to hit, 7 DMG
 - [[Kadrin]] runs over and casts Hexblade's Curse on bVe
 	- Attacks bVe
-		- Nat.19 (28) to hit, 20 Combined DMG
+		- [[Nat.20]] [[{Nat.19}]] (28) to hit, 20 Combined DMG
 			- bVe is [[DEAD]]
 	- Attacks Vf
 		- 15 to hit, 21 Combined DMG

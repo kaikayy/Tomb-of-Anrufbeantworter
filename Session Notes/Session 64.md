@@ -10,7 +10,7 @@ We make camp on the way back to [[Vorn (Place)]]
 - Perc.: 9 ,11
 
 3. Watch -  [[Shadow]], [[Musharib]]
-- Perc.: Nat.20 (26), 12
+- Perc.: [[Nat.20]] (26), 12
 - [[Shadow]] reads her book, INT: 20
 
 ###### [[Delwyn]]'s Vision/Dream
@@ -69,7 +69,7 @@ We travel towards the [[Mistcliff Mountains]] to go along them to find [[Orolung
 	- [[Kadrin]] is out of ideas, [[Delwyn]] asks if he has any tips on explaining this to the others
 		- [[Kadrin]] asks if [[Delwyn]] has any other aspirations or feelings  because of this occurrence
 			- [[Delwyn]] says that he hasn't
-			- [[Kadrin]], Insight: Nat.20 (19)
+			- [[Kadrin]], Insight: [[Nat.20]] (19)
 			- [[Delwyn]], Persuasion/Deception: 17
 				- [[Delwyn]] doesn't seem like he has changed his plans but he seems unsure himself
 		- [[Delwyn]] asks [[Kadrin]] to stop him if he would lose control and [[Kadrin]] asks [[Delwyn]] that he will come forward if his intentions were to change
@@ -77,7 +77,7 @@ We travel towards the [[Mistcliff Mountains]] to go along them to find [[Orolung
 	- [[Delwyn]] decides to not wear the [[Veil of Night]] anymore
 
 3. Watch -  [[Shadow]], [[Musharib]]
-- Perc.: 25, Nat.20 (25)
+- Perc.: 25, [[Nat.20]] (24)
 - [[Shadow]] practices her flute
 	- Performance: 10
 

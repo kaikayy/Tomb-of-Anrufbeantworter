@@ -26,7 +26,7 @@ Investigation, to see what happened to [[Summerwise]]:
 
 [[Talsen]] and [[Shadow]] lift [[Summerwise]] out of the Water, it's stone-cold
 - [[Kadrin]] uses Lay on Hands on [[Summerwise]]
-	- d20 - Nat.20
+	- d20 - [[Nat.20]]
 		- [[Summerwise]] slowly wakes up, coughing up water, shivering
 		- [[Shadow]] carries it out of the circle of ice
 

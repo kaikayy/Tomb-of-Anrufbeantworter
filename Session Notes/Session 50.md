@@ -92,7 +92,7 @@ We decide to wake up the drow and ask him information sooner rather than later
 - [[Ristel]] says the rest of the [[Red Wizards of Thay]] out of [[Port Nyanzaru]] fled into the Jungle and scattered
 - [[Ristel]] limbs away
 - [[Shadow]] gets out her bow and tries to shoot [[Ristel]]
-	- [[Kadrin]] tries to intervene, DEX: Nat.20 (22)
+	- [[Kadrin]] tries to intervene, DEX: [[Nat.20]] (22)
 		- Grapple: [[Shadow]], 25 vs. [[Kadrin]], 10
 	- The Shot goes through
 		- 26 to hit, [[Ristel]] is [[Dead]]
@@ -138,7 +138,7 @@ Weather: Strong Wind, No Rain, Normal Temp
 - Get's stopped at the Gate by [[The Flaming Fist]]
 	- Is asked to pay the usual fee
 	- Tries to climb over the wall a way outward
-		- Stealth: Nat.20 (31)
+		- Stealth: [[Nat.20]] (31)
 ---
 [[Kadrin]] waits for [[Shadow]] to leave, saddles [[Stomps]] and leaves for the [[Temple of Savras]] and the [[Dinosaur Stables]]
 - [[Kadrin]] comes back in and asks to help [[Talsen]], but he declines and says to take his time to think

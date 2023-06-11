@@ -96,7 +96,7 @@ Conditions:
 - [[Kadrin]] goes around the back of the Shack after [[Bolnir Copperhandle]]
 	- Casts Misty Step to teleport near him
 	- Attacks [[Bolnir Copperhandle]]
-		- Nat.20 (29) to hit, 16 Force DMG
+		- [[Nat.20]] (29) to hit, 16 Force DMG
 			- [[Bolnir Copperhandle]] is [[Unconscious]]
 - HFa stands up and approaches [[Talsen]]
 	- Attacks [[Talsen]]
@@ -126,7 +126,7 @@ Conditions:
 		- 13 to hit, miss
 		- 8 to hit, miss
 - [[Talsen]] attacks HFa, Ancient Knowledge, 3 DMG
-	- Nat.20 (28) to hit, 14 DMG + 15 Fire DMG
+	- [[Nat.20]] (28) to hit, 14 DMG + 15 Fire DMG
 		- HFa is [[Dead]]
 	- Throws a ball of flaming Tar at HFb
 		- DEX SAV: [[Nat.1]] - FAIL

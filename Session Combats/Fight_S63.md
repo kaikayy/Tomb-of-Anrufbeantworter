@@ -62,12 +62,12 @@ Dodge/Ready:
 		- Conc. SAV: 19
 - [[Delwyn]] casts Darkness on RCASa,d
 	- tries to maneuver [[Stomps]]
-		- Animal Handling: Nat.20 (19)
+		- Animal Handling: [[Nat.20]] (19)
 - RCASa,d attack Strider 2
 	- 21 to hit, 9 DMG
 	- 18 to hit, 10 DMG
 - BC attacks [[Kadrin]]
-	- Nat.20 to hit, 10 DMG
+	- [[Nat.20]] to hit, 10 DMG
 		- Conc. SAV - Saves
 	- 6 to hit, miss
 	- R: SENTINEL, 28 to hit, R: BC switches places with BGd, 9 DMG, non-lethal, BGd is [[Unconscious]]
@@ -117,7 +117,7 @@ Dodge/Ready:
 **Round 3**
 - [[Shadow]] moves Hunter's mark onto RCASd, attacks
 	- SHARPSHOOTER, 19 to hit, 21 DMG
-	- SHARPSHOOTER, Nat.20 (26) to hit, 29 DMG
+	- SHARPSHOOTER, [[Nat.20]] (26) to hit, 29 DMG
 		- RCASd is [[Dead]]
 - BBSa run out of the darkness, attack [[Delwyn]]
 	- 19 to hit, R: SHIELD, miss

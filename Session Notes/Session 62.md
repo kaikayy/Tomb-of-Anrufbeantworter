@@ -46,7 +46,7 @@ Around the end of the day we find a waterfall with a cave behind it. A footpath 
 		- He doesn't want to meet her on [[Chult]], she could get hurt
 		- He hasn't seen her in quite some time and she is his way older sister
 		- He'd just like certainty if it's her and if she is safe 
-- [[Shadow]] reads in her book, INT: Nat.20 (22)
+- [[Shadow]] reads in her book, INT: [[Nat.20]] (22)
 
 #### LONG REST -> Day 4
 Weather: No rain, No wind, cooler temp
@@ -86,7 +86,7 @@ We travel further towards [[Vorn (Place)]]
 				- Many halflings scuffling and a large creatures prints that appear and disappear randomly
 		- We investigate the tents
 			- Investigation:
-				- [[Delwyn]]: Nat.20 (20)
+				- [[Delwyn]]: [[Nat.20]] (20)
 				- [[Talsen]]: [[Nat.1]] (7)
 				- [[Shadow]]: 20 
 				- [[Kadrin]]: 13
@@ -106,7 +106,7 @@ We make Camp
 - 4 Figures approach the camp
 	- ## [[Fight_S62]]
 3. Watch -  [[Musharib]] & [[Shadow]]
-- Perc.: Nat.20 (24), 17
+- Perc.: [[Nat.20]] (24), 17
 
 #### LONG REST -> Day 5
 Weather: scorching hot temp, strong wind, no rain

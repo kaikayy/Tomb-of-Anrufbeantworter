@@ -51,7 +51,7 @@ Recap - [[Talsen]]
 - [[Kadrin]] helps [[Talsen]] carry [[Bolnir Copperhandle]]
 	- Athletics: 10
 - [[Kadrin]] looks for a cart pulled by a Dinosaur where there's room to carry us to the harbor
-	- d20 (Nat.20)
+	- d20 ([[Nat.20]])
 	- We get carted to the Harbormaster's Office
 - [[Kadrin]] knocks on the door and a Chultan Woman opens the door
 	- Asks for Harbor Master [[Zindar]] to come out

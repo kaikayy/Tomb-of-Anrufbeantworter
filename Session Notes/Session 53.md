@@ -36,7 +36,7 @@ Recap - [[Talsen]]
 		- Nothing
 - [[Shadow]] looks at the Vase and shakes it, hears that it's filled with liquid
 - [[Talsen]] looks at the Statue
-	- Religion: Nat.20 (23)
+	- Religion: [[Nat.20]] (23)
 		- The Statue depicts [[Sseth]]
 - [[Kadrin]] remembers a depiction of [[Sseth]] and [[Ubtao]]
 - [[Talsen]] tries smelling the Vase, Perception: 13 - nothing but cork

@@ -59,12 +59,12 @@ Dodge/Ready:
 			- SAVE, FAIL, FAIL, FAIL, FAIL
 		- 11/5 DMG
 	- uses Hexblade's Curse on Ghb
-- [[Delwyn]], CON SAV: Nat.20 (24) - SAVE
+- [[Delwyn]], CON SAV: [[Nat.20]] (24) - SAVE
 	- casts Magic Missile (2nd LvL) on Ghb
 		- 11 DMG
 	- dismounts
 		- R: AoO, Ghb, 21 to hit, 7 DMG, CON SAV: 14 - SAVE
-		- R: SENTINEL, [[Kadrin]], Nat.20 (29) to hit, SMITE (1st LvL), 46 DMG
+		- R: SENTINEL, [[Kadrin]], [[Nat.20]] (29) to hit, SMITE (1st LvL), 46 DMG
 - Gc,d dash
 - [[Musharib]] dismounts
 	- R: AoO, Gc, hits, 8 DMG, CON SAV - SAVE
@@ -83,7 +83,7 @@ Dodge/Ready:
 **Round 2**
 - [[Shago]] attacks Gb
 	- hits
-	- Nat.20 (27) to hit, 17 DMG
+	- [[Nat.20]] (27) to hit, 17 DMG
 	- hits
 		- Gb is [[Dead]]
 - Ga casts something

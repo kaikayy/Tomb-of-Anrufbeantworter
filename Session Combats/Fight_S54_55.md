@@ -39,14 +39,14 @@ D Vs
 ---
 **Round 1**
 - [[Shadow]] attacks [[The Hissing]]
-	- Sharpshooter, Nat.20 (26) to hit, 23 DMG
+	- Sharpshooter, [[Nat.20]] (26) to hit, 23 DMG
 	- Casts Hunter's Mark on [[The Hissing]]
 	- Sharpshooter, 20 to hit, 33 DMG
 	- Sharpshooter, 19 to hit, 26 DMG
 		- Ges.: 82 DMG
 - [[Kadrin]] goes a bit away from the group and uses Spirit Shroud (Radiant)
 	- Uses Necrotic Shroud
-			- CHA SAV: Vg, Nat.20 (18) - SAVE
+			- CHA SAV: Vg, [[Nat.20]] (18) - SAVE
 	- Moves back
 - [[Talsen]] attacks SI
 	- Flaming Tarball, DEX SAV: 12 - FAIL
@@ -85,7 +85,7 @@ D Vs
 	- WIS SAV: 9 - FAIL
 		- [[Talsen]] is [[Frightened]]
 - TO attacks [[Shadow]]
-	- Nat.20 (24) to hit, 9 DMG
+	- [[Nat.20]] (24) to hit, 9 DMG
 		- Conc. SAV: 17
 - Vs attacks [[The Hissing]]
 	- 13 to hit, miss
@@ -122,7 +122,7 @@ D Vs
 - [[Talsen]] runs away from [[The Hissing]], dodges
 	- WIS SAV: 5 - FAIL
 - TO attacks [[Shadow]]
-	- Nat.20 (24) to hit, 8 DMG
+	- [[Nat.20]] (24) to hit, 8 DMG
 		- Conc. SAV: 9 - FAIL
 			- Hunter's Mark drops
 - FT attacks [[Talsen]]
@@ -132,9 +132,9 @@ D Vs
 - [[Gobta]] attacks FT
 	- R: AoO, [[The Hissing]], 20 to hit, 5 DMG
 		- R: SENTINEL, [[Kadrin]], 26 to hit, 15 bDMG, 4 Radiant DMG
-	- Nat.20 (24) to hit, 9 DMG
+	- [[Nat.20]] (24) to hit, 9 DMG
 		- FT is [[Dead]]
-	- WIS SAV: Nat.20 (18) - SAVE
+	- WIS SAV: [[Nat.20]] (18) - SAVE
 		- No longer [[Frightened]]
 	- DEX SAV: 22
 		- No longer slowed
@@ -200,7 +200,7 @@ D Vs
 - [[Talsen]] attacks AYTS
 	- 16 to hit, 11 mbDMG, 3 Fire DMG
 	- moves away towards [[Kadrin]]
-		- R: AoO, AYTS, Nat.20 (27) to hit, 20 DMG
+		- R: AoO, AYTS, [[Nat.20]] (27) to hit, 20 DMG
 	- attacks [[Kadrin]]
 		- 26 to hit, 16 DMG
 			- Conc. SAV: 10
@@ -253,7 +253,7 @@ D Vs
 - FM attacks Vg
 	- 20 to hit, 5 DMG
 - Vs stands back up, attacks AYTS
-	- Nat.20 (24) to hit, 5 DMG
+	- [[Nat.20]] (24) to hit, 5 DMG
 - [[Gobta]] attacks AYTS
 	- 16 to hit, 5 DMG
 - YTS attacks Vg

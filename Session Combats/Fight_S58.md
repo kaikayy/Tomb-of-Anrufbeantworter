@@ -135,9 +135,9 @@ Dodge/Ready:
 - [[Eku]] dashes towards us
 - [[Shadow]] shifts Hunter's Mark on N, attacks
 	- Sharpshooter, 18 to hit, 24 DMG
-	- Sharpshooter, Nat.20 (26) to hit, 37 DMG
+	- Sharpshooter, [[Nat.20]] (26) to hit, 37 DMG
 - [[Kadrin]] circles around N, casts Hexblade's Curse on N, attacks
-	- Divine Smite, Nat.20 {19} (32) to hit, 67 DMG
+	- Divine Smite, [[Nat.20]] [[{Nat.19}]] (32) to hit, 67 DMG
 		- N is [[Dead]]
 	- moves towards the Temple
 - [[Soulblade]] attacks OZb
