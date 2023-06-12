@@ -128,7 +128,8 @@
 		{"type":"file","file":"Locations/Malar's Throat.md","id":"f310ffc21845041a","x":-1580,"y":1306,"width":400,"height":111,"color":"3"},
 		{"id":"663c4bf598da227f","x":-2636,"y":465,"width":250,"height":94,"color":"#ffffff","type":"text","text":"Pirates prevent Hag'se from gaining a foothold in Chult"},
 		{"type":"file","file":"NPCs/Laskilar.md","id":"0c5f5faced468ace","x":-2100,"y":-110,"width":400,"height":55,"color":"4"},
-		{"type":"file","file":"NPCs/Zaroum Al-Saryak.md","id":"1a714b1b111fe693","x":-2100,"y":75,"width":400,"height":50,"color":"4"}
+		{"type":"file","file":"NPCs/Zaroum Al-Saryak.md","id":"1a714b1b111fe693","x":-2100,"y":75,"width":400,"height":50,"color":"4"},
+		{"id":"6ec77123a1de8d56","x":2097,"y":227,"width":400,"height":63,"color":"3","type":"file","file":"Locations/Omu.md"}
 	],
 	"edges":[
 		{"id":"7e03bdd89aa2bde2","fromNode":"b7a55706110dd281","fromSide":"right","toNode":"e0e875df3d82bf32","toSide":"left","label":"Sell to"},
@@ -248,6 +249,9 @@
 		{"id":"5fa188bb5e695a87","fromNode":"65cb7cf7d30e8bf3","fromSide":"top","toNode":"26d026fa5d1d3292","toSide":"bottom"},
 		{"id":"c33126632232a55b","fromNode":"65cb7cf7d30e8bf3","fromSide":"bottom","toNode":"04fbd27a86384269","toSide":"top"},
 		{"id":"154ef8394e793719","fromNode":"ebad86040588555b","fromSide":"bottom","toNode":"663c4bf598da227f","toSide":"top","fromEnd":"arrow"},
-		{"id":"be971952694bdada","fromNode":"663c4bf598da227f","fromSide":"bottom","toNode":"26d026fa5d1d3292","toSide":"top","fromEnd":"arrow"}
+		{"id":"be971952694bdada","fromNode":"663c4bf598da227f","fromSide":"bottom","toNode":"26d026fa5d1d3292","toSide":"top","fromEnd":"arrow"},
+		{"id":"237a85978a6155ee","fromNode":"0dc9574773c8ccb4","fromSide":"right","toNode":"6ec77123a1de8d56","toSide":"top"},
+		{"id":"05e62a36b06c791b","fromNode":"6b44c4c7979217e5","fromSide":"bottom","toNode":"6ec77123a1de8d56","toSide":"bottom"},
+		{"id":"466a1be6f4f3f488","fromNode":"6ec77123a1de8d56","fromSide":"left","toNode":"3a7d6d7baa7e8387","toSide":"right"}
 	]
 }
