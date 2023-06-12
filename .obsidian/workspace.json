@@ -11,18 +11,43 @@
             "id": "646149bf6d7a10f3",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Jobal.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fe29daeed584ee23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/Yuan-Ti.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "135b62761d8b7ad2",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
                 "file": "Z_Canvas/Plans.canvas",
                 "viewState": {
-                  "x": 627.6710785258356,
-                  "y": 1293.3843854457602,
-                  "zoom": 1
+                  "x": 412.34259453984475,
+                  "y": 1081.612673271545,
+                  "zoom": -1.036293436309547
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Valley of Embers.md",
+                "file": "Z_Canvas/Plans.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Valley of Embers.md"
+                "file": "Z_Canvas/Plans.canvas"
               }
             }
           },
@@ -123,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Valley of Embers.md",
+                "file": "Z_Canvas/Plans.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +173,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,21 +189,30 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "646149bf6d7a10f3",
+  "active": "097e99fbc3897fcc",
   "lastOpenFiles": [
-    "Pirate Map.md",
+    "Z_Canvas/General.canvas",
+    "Session Notes/Session 9.md",
+    "NPCs/Shissi.md",
+    "Organizations/Yuan-Ti.md",
+    "Session Notes/Session 24.md",
+    "Items/Shadowshiver.md",
+    "NPCs/Jobal.md",
+    "Organizations/Trade Princes.md",
     "Z_Canvas/Plans.canvas",
+    "Items/Heart of the Wild.md",
+    "Locations/Valley of Embers.md",
+    "Z_Canvas/Current Planning.canvas",
+    "Pirate Map.md",
     "Session Notes/Session 22.md",
     "Locations/Ishau.md",
     "Locations/Refuge Bay.md",
     "_Attachments/Red Wizards of Thay Ziggurat.png",
     "Z_Canvas/Main Story.canvas",
-    "Z_Canvas/Current Planning.canvas",
     "Locations/Kir Sabal.md",
     "Session Notes/Session 5.md",
     "NPCs/Khazaru.md",
     "Locations/House of the Man and the Crocodile.md",
-    "Z_Canvas/General.canvas",
     "Z_Canvas",
     "desktop.ini",
     "NPCs/Artus Cimber.md",
@@ -188,15 +223,6 @@
     "Locations/Outside of Chult/Hag'se.md",
     "NPCs/Aremag the Dragon Turtle.md",
     "X_Stats/Inspiration.md",
-    "Locations/Fort Beluarian.md",
-    "NPCs/Skaldric.md",
-    "NPCs/Dendar the Night Serpent.md",
-    "NPCs/Zhanthi.md",
-    "Organizations/Zhentarim.md",
-    "Organizations/Aspects of Ubtao.md",
-    "NPCs/Ekene-Afa.md",
-    "X_Stats/_Vorlage.md",
-    "X_Stats/{Nat.19}.md",
     "_Attachments/Guides 6.png",
     "_Attachments/Guides 5.png",
     "_Attachments/Guides 1.png",
