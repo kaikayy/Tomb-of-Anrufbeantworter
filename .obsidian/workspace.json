@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Z_Canvas/Current Planning.canvas",
+                "file": "Z_Canvas/Main Story.canvas",
                 "viewState": {
-                  "x": 1032.4297851074462,
-                  "y": -29.157421289355284,
-                  "zoom": -1.2808287261229876
+                  "x": -77.5,
+                  "y": 68,
+                  "zoom": -0.41384838316710726
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z_Canvas/Current Planning.canvas",
+                "file": "Z_Canvas/Main Story.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z_Canvas/Current Planning.canvas"
+                "file": "Z_Canvas/Main Story.canvas"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z_Canvas/Current Planning.canvas",
+                "file": "Z_Canvas/Main Story.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,10 +166,10 @@
   },
   "active": "646149bf6d7a10f3",
   "lastOpenFiles": [
+    "Z_Canvas/Current Planning.canvas",
     "Z_Canvas/Plans.canvas",
     "Z_Canvas/Main Story.canvas",
     "Z_Canvas/General.canvas",
-    "Z_Canvas/Current Planning.canvas",
     "Z_Canvas",
     "Untitled.md",
     "desktop.ini",
