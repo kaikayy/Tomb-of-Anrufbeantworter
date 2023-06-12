@@ -15,9 +15,9 @@
               "state": {
                 "file": "Plans.canvas",
                 "viewState": {
-                  "x": 1733.9062681553069,
-                  "y": 799.6597581872358,
-                  "zoom": -0.8294393986195194
+                  "x": 989.2940626184253,
+                  "y": 934.1172406958915,
+                  "zoom": -1.217584556157399
                 }
               }
             }
@@ -148,7 +148,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,16 +164,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "646149bf6d7a10f3",
+  "active": "097e99fbc3897fcc",
   "lastOpenFiles": [
+    "Main Story.canvas",
+    "Plans.canvas",
     "Organizations/Hag'se Organization.md",
     "Locations/Outside of Chult/Hag'se.md",
-    "Plans.canvas",
     "NPCs/Aremag the Dragon Turtle.md",
     "X_Stats/Inspiration.md",
     "Locations/Fort Beluarian.md",
     "NPCs/Skaldric.md",
-    "Main Story.canvas",
     "NPCs/Dendar the Night Serpent.md",
     "General.canvas",
     "NPCs/Zhanthi.md",
@@ -193,7 +194,6 @@
     "Bestiary/Frost Giants.md",
     "NPCs/Thyra Permafrost.md",
     "Session Combats/Fight_S61.md",
-    "Session Notes/Session 67.md",
     "_Attachments/Guides 6.png",
     "_Attachments/Guides 5.png",
     "_Attachments/Guides 1.png",
