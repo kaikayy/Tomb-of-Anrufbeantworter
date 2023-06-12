@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Current Planning.canvas",
+                "file": "Z_Canvas/General.canvas",
                 "viewState": {
-                  "x": 827.8414931636416,
-                  "y": 52.95488901534068,
-                  "zoom": -1
+                  "x": 1080,
+                  "y": -560,
+                  "zoom": -1.745557498847055
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Planning.canvas",
+                "file": "Z_Canvas/General.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current Planning.canvas"
+                "file": "Z_Canvas/General.canvas"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Current Planning.canvas",
+                "file": "Z_Canvas/General.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,12 +166,13 @@
   },
   "active": "646149bf6d7a10f3",
   "lastOpenFiles": [
-    "Plans.canvas",
-    "Current Planning.canvas",
+    "Z_Canvas/Current Planning.canvas",
+    "Z_Canvas",
+    "Z_Canvas/Plans.canvas",
     "Untitled.md",
     "desktop.ini",
     "NPCs/Artus Cimber.md",
-    "Main Story.canvas",
+    "Z_Canvas/Main Story.canvas",
     "NPCs/Ras Nsi.md",
     "Organizations/Hag'se Organization.md",
     "Plans.md",
@@ -182,7 +183,7 @@
     "Locations/Fort Beluarian.md",
     "NPCs/Skaldric.md",
     "NPCs/Dendar the Night Serpent.md",
-    "General.canvas",
+    "Z_Canvas/General.canvas",
     "NPCs/Zhanthi.md",
     "Organizations/Zhentarim.md",
     "Organizations/Aspects of Ubtao.md",

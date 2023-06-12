@@ -82,7 +82,7 @@
 		{"type":"file","file":"NPCs/Lerek Dashlynd.md","id":"0651ac55487cf845","x":-250,"y":1171,"width":400,"height":55,"color":"4"},
 		{"type":"text","text":"## Knowledge / Info","id":"b189e96329e11743","x":267,"y":590,"width":217,"height":100,"color":"#0000ff"},
 		{"type":"text","text":"## Ship","id":"7cc8e7cdd6bba16c","x":10,"y":613,"width":217,"height":54,"color":"#0000ff"},
-		{"type":"file","file":"Main Story.canvas","id":"defa70f95701dba2","x":175,"y":-245,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"Z_Canvas/Main Story.canvas","id":"defa70f95701dba2","x":175,"y":-245,"width":400,"height":400,"color":"1"},
 		{"type":"text","text":"# Stop Death Curse lol","id":"03c74bd1aa0fd50b","x":-120,"y":106,"width":250,"height":121,"color":"5"},
 		{"type":"text","text":"# Probably Main Story / Finale Stuff","id":"3a7d6d7baa7e8387","x":200,"y":273,"width":375,"height":135,"color":"1"},
 		{"type":"file","file":"NPCs/Jobal.md","id":"dc86984b8bba7460","x":1770,"y":1358,"width":400,"height":140,"color":"4"},
