@@ -1,13 +1,14 @@
 {
 	"nodes":[
-		{"type":"file","file":"NPCs/Acererak.md","id":"aa202daea8fea973","x":-700,"y":60,"width":400,"height":400},
-		{"type":"file","file":"Glossary/Death Curse.md","id":"dbb3fd2d2dabce70","x":-160,"y":-160,"width":400,"height":400},
-		{"type":"file","file":"Items/Soulmongerer.md","id":"24c03ecf32880160","x":360,"y":-380,"width":400,"height":400},
-		{"type":"file","file":"Locations/Omu.md","id":"902df7176ed131db","x":-1100,"y":-380,"width":400,"height":400},
-		{"type":"file","file":"NPCs/Zitembe.md","id":"8b28e8f0ae363505","x":-540,"y":-199,"width":233,"height":79},
-		{"type":"file","file":"NPCs/Valindra Shadowmantle.md","id":"87dcae5b74b59c61","x":360,"y":144,"width":400,"height":96},
-		{"type":"file","file":"Organizations/Red Wizards of Thay.md","id":"ad20618f4e6b3c86","x":600,"y":360,"width":400,"height":296},
-		{"id":"8b1a2b074f317bd5","x":-180,"y":-520,"width":400,"height":71,"type":"file","file":"NPCs/Syndra Sylvane.md"}
+		{"type":"file","file":"NPCs/Acererak.md","id":"aa202daea8fea973","x":-700,"y":60,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"Glossary/Death Curse.md","id":"dbb3fd2d2dabce70","x":-160,"y":-160,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"Items/Soulmongerer.md","id":"24c03ecf32880160","x":360,"y":-380,"width":400,"height":400,"color":"6"},
+		{"type":"file","file":"NPCs/Zitembe.md","id":"8b28e8f0ae363505","x":-540,"y":-199,"width":233,"height":79,"color":"4"},
+		{"type":"file","file":"NPCs/Valindra Shadowmantle.md","id":"87dcae5b74b59c61","x":360,"y":144,"width":400,"height":96,"color":"4"},
+		{"type":"file","file":"Organizations/Red Wizards of Thay.md","id":"ad20618f4e6b3c86","x":600,"y":360,"width":400,"height":296,"color":"2"},
+		{"type":"file","file":"NPCs/Syndra Sylvane.md","id":"8b1a2b074f317bd5","x":-180,"y":-520,"width":400,"height":71,"color":"4"},
+		{"type":"file","file":"Locations/Omu.md","id":"902df7176ed131db","x":-1155,"y":-380,"width":400,"height":400,"color":"3"},
+		{"id":"87a72b415126e3cb","x":-1100,"y":185,"width":290,"height":110,"color":"3","type":"text","text":"# Tomb of Annihalation"}
 	],
 	"edges":[
 		{"id":"f6e4af754b534941","fromNode":"dbb3fd2d2dabce70","fromSide":"left","toNode":"aa202daea8fea973","toSide":"right"},
@@ -17,6 +18,8 @@
 		{"id":"4a2ec39893e4a50f","fromNode":"87dcae5b74b59c61","fromSide":"top","toNode":"24c03ecf32880160","toSide":"bottom"},
 		{"id":"ba3fcc2680065fb8","fromNode":"87dcae5b74b59c61","fromSide":"bottom","toNode":"ad20618f4e6b3c86","toSide":"top"},
 		{"id":"fca983e5fbbf27db","fromNode":"dbb3fd2d2dabce70","fromSide":"top","toNode":"8b1a2b074f317bd5","toSide":"bottom"},
-		{"id":"57611345125269b9","fromNode":"8b1a2b074f317bd5","fromSide":"right","toNode":"24c03ecf32880160","toSide":"top"}
+		{"id":"57611345125269b9","fromNode":"8b1a2b074f317bd5","fromSide":"right","toNode":"24c03ecf32880160","toSide":"top"},
+		{"id":"777a9df20ed25d39","fromNode":"aa202daea8fea973","fromSide":"left","toNode":"87a72b415126e3cb","toSide":"right"},
+		{"id":"5c43d3a64c2a47ed","fromNode":"87a72b415126e3cb","fromSide":"top","toNode":"902df7176ed131db","toSide":"bottom"}
 	]
 }
