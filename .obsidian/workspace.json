@@ -25,11 +25,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Plans.canvas",
                 "viewState": {
-                  "x": 344.76279335090726,
-                  "y": 567.6616703676518,
-                  "zoom": -0.6666666666666667
+                  "x": -752.5683537271851,
+                  "y": 673.9410641619029,
+                  "zoom": -0.5878107325093689
                 }
               }
             }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Organizations/Pirate Captains.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Organizations/Pirate Captains.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Organizations/Pirate Captains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,8 +190,10 @@
   },
   "active": "9d2962b961dffba1",
   "lastOpenFiles": [
+    "Main Story.canvas",
+    "Plans.canvas",
+    "NPCs/Dendar the Night Serpent.md",
     "General.canvas",
-    "Untitled.canvas",
     "NPCs/Zhanthi.md",
     "Organizations/Zhentarim.md",
     "Organizations/Aspects of Ubtao.md",
@@ -216,7 +218,6 @@
     "Session Notes/Session 66.md",
     "Session Notes/Session 65.md",
     "Session Notes/Session 63.md",
-    "Session Notes/Session 62.md",
     "_Attachments/Guides 6.png",
     "_Attachments/Guides 5.png",
     "_Attachments/Guides 1.png",
