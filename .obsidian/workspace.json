@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1629ff16f52a4c99",
+        "id": "d9a5166ee5c5e426",
         "type": "tabs",
         "children": [
           {
@@ -13,10 +13,10 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Plans.canvas",
+                "file": "Current Planning.canvas",
                 "viewState": {
-                  "x": 2108.012216583288,
-                  "y": 214.12527384969678,
+                  "x": 827.8414931636416,
+                  "y": 52.95488901534068,
                   "zoom": -1
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plans.canvas",
+                "file": "Current Planning.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plans.canvas"
+                "file": "Current Planning.canvas"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plans.canvas",
+                "file": "Current Planning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +166,12 @@
   },
   "active": "646149bf6d7a10f3",
   "lastOpenFiles": [
+    "Plans.canvas",
+    "Current Planning.canvas",
+    "Untitled.md",
+    "desktop.ini",
     "NPCs/Artus Cimber.md",
     "Main Story.canvas",
-    "Plans.canvas",
     "NPCs/Ras Nsi.md",
     "Organizations/Hag'se Organization.md",
     "Plans.md",
@@ -185,7 +188,6 @@
     "Organizations/Aspects of Ubtao.md",
     "NPCs/Ekene-Afa.md",
     "X_Stats/_Vorlage.md",
-    "Untitled.md",
     "X_Stats/{Nat.19}.md",
     "X_Stats/Nat.1.md",
     "X_Stats/Nat.20.md",
@@ -194,7 +196,6 @@
     "Session Combats/Fight_S36.md",
     "Session Notes/Session 50.md",
     "Session Notes/Session 49.md",
-    "Items/Ring of Winter.md",
     "_Attachments/Guides 6.png",
     "_Attachments/Guides 5.png",
     "_Attachments/Guides 1.png",
