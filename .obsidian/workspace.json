@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Main Story.canvas",
+                "file": "Plans.canvas",
                 "viewState": {
-                  "x": 92.67340778809546,
-                  "y": 59.60744660070026,
-                  "zoom": -0.7471817165004406
+                  "x": 126.813242786952,
+                  "y": -217.46060506824998,
+                  "zoom": -1.3333333333333333
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Story.canvas",
+                "file": "Plans.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Story.canvas"
+                "file": "Plans.canvas"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Story.canvas",
+                "file": "Plans.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,12 +166,13 @@
   },
   "active": "646149bf6d7a10f3",
   "lastOpenFiles": [
+    "NPCs/Artus Cimber.md",
+    "Main Story.canvas",
     "Plans.canvas",
     "NPCs/Ras Nsi.md",
     "Organizations/Hag'se Organization.md",
     "Plans.md",
     "Locations/City of Mezro.md",
-    "Main Story.canvas",
     "Locations/Outside of Chult/Hag'se.md",
     "NPCs/Aremag the Dragon Turtle.md",
     "X_Stats/Inspiration.md",
