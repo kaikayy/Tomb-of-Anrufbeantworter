@@ -1,5 +1,7 @@
 Members?
 [[Gewich]]
+[[Douzan Blackdigger]]
+([[Rokah]])
 Location?
 [[Port Nyanzaru]]
 Connections?
