@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Z_Canvas/Current Planning.canvas",
+                "file": "Z_Canvas/Plans.canvas",
                 "viewState": {
-                  "x": 1030,
-                  "y": 0,
-                  "zoom": -1.2808287261229876
+                  "x": 627.6710785258356,
+                  "y": 1293.3843854457602,
+                  "zoom": 1
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z_Canvas/Current Planning.canvas",
+                "file": "Locations/Valley of Embers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z_Canvas/Current Planning.canvas"
+                "file": "Locations/Valley of Embers.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z_Canvas/Current Planning.canvas",
+                "file": "Locations/Valley of Embers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,8 +148,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,12 +165,20 @@
   },
   "active": "646149bf6d7a10f3",
   "lastOpenFiles": [
+    "Pirate Map.md",
     "Z_Canvas/Plans.canvas",
+    "Session Notes/Session 22.md",
+    "Locations/Ishau.md",
+    "Locations/Refuge Bay.md",
+    "_Attachments/Red Wizards of Thay Ziggurat.png",
     "Z_Canvas/Main Story.canvas",
     "Z_Canvas/Current Planning.canvas",
+    "Locations/Kir Sabal.md",
+    "Session Notes/Session 5.md",
+    "NPCs/Khazaru.md",
+    "Locations/House of the Man and the Crocodile.md",
     "Z_Canvas/General.canvas",
     "Z_Canvas",
-    "Untitled.md",
     "desktop.ini",
     "NPCs/Artus Cimber.md",
     "NPCs/Ras Nsi.md",
@@ -190,13 +197,6 @@
     "NPCs/Ekene-Afa.md",
     "X_Stats/_Vorlage.md",
     "X_Stats/{Nat.19}.md",
-    "X_Stats/Nat.1.md",
-    "X_Stats/Nat.20.md",
-    "Session Combats/Fight_S54_55.md",
-    "Session Notes/Session 64.md",
-    "Session Combats/Fight_S36.md",
-    "Session Notes/Session 50.md",
-    "Session Notes/Session 49.md",
     "_Attachments/Guides 6.png",
     "_Attachments/Guides 5.png",
     "_Attachments/Guides 1.png",
@@ -206,7 +206,6 @@
     "_Attachments/Fight_S65_Map.png",
     "_Attachments/Snow Biome.png",
     "_Attachments/Batiri Battle Stack.png",
-    "_Attachments/Musharib.png",
     "Tomb-of-Anrufbeantworter"
   ]
 }
