@@ -27,9 +27,9 @@
               "state": {
                 "file": "Plans.canvas",
                 "viewState": {
-                  "x": 123.0730301199469,
-                  "y": 1207.5450449970417,
-                  "zoom": -1.322708100562062
+                  "x": -28.75571781398662,
+                  "y": -1087.9963676515588,
+                  "zoom": -0.7308345961886875
                 }
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plans.md",
+                "file": "Plans.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plans.md"
+                "file": "Plans.canvas"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plans.md",
+                "file": "Plans.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,8 +179,9 @@
   },
   "active": "9693f989455174ee",
   "lastOpenFiles": [
-    "NPCs/Ras Nsi.md",
+    "Plans.md",
     "Plans.canvas",
+    "NPCs/Ras Nsi.md",
     "Locations/City of Mezro.md",
     "Main Story.canvas",
     "Organizations/Hag'se Organization.md",
@@ -206,7 +207,6 @@
     "Session Notes/Session 50.md",
     "Session Notes/Session 49.md",
     "Items/Ring of Winter.md",
-    "Bestiary/Frost Giants.md",
     "_Attachments/Guides 6.png",
     "_Attachments/Guides 5.png",
     "_Attachments/Guides 1.png",
