@@ -91,4 +91,43 @@ We leave [[Vorn]] and [[Stomps]] with [[Musharib]] and [[Shago]]
 		- Perception: 24, 7
 			- Only entrance seems to be at the top
 			- Vines seem to be actively blocking [[Kadrin]] from going up
-	- 
+	- [[Delwyn]] Nature: 2
+		- Doesn't know anything about these
+	- [[Talsen]] knows that [[Orolunga]] was built by the Chultan People to worship
+	- [[Kadrin]] takes 5 slashing DMG while going up further
+		- Detect Magic drops
+- [[Kadrin]] goes down the Ziggurat and the vines seem to make way for his descend
+- [[Shadow]] looks for another way up
+	- Perception: 20
+		- Notices a [[Chwinga]] at the bottom of the steps behind us, wearing a triceratops mask and holding an orange orchid
+	- Goes to pick up an orange orchid and goes up the steps
+- We all go to pick Orchids and go up the first flight of stairs
+- The next staircase seems broken, we hear a voice squawking at us
+	- A blue and purple parrot squawks "Grab him Dragon Bait" repeatedly
+- [[Kadrin]] uses Divine Sense
+	- nothing
+- [[Kadrin]] casts Speak with Animals to ask the parrot what Dragon Bait might be
+	- It answers "A Name"
+	- Who is that? "A Green Guy"
+	- Where is he? "He left"
+	- Where did he go? "Into the Jungle"
+	- Are you of importance to this Ziggurat? "Yes"
+		- [[Talsen]], Insight: 6
+			- hard to read
+	- Are these Stairs safe? "Yes"
+		- [[Kadrin]], Insight: 6
+			- hard to read
+- [[Kadrin]] & [[Talsen]] try going up the decrepit stairs
+	- They stairs crumble to dust
+- [[Shadow]] looks for the [[Chwinga]]
+	- Perception: 25
+		- Doesn't see it
+	- Tries luring the parrot onto her shoulder with some food
+		- Animal Handling: 19
+			- The parrot flies onto her shoulder
+	- Sees a [[Chwinga]] behind [[Talsen]] holding an orange orchid and a purple-blue feather wearing a chameleon mask, it goes up the stairs easily
+	- Goes up the stairs and it starts crumbling as soon as the parrot is pushed off her shoulder by an invisible force
+- [[Delwyn]] goes around the platform to the other side to see what's there
+	- searches for feathers and find enough for all of us and 
+- [[Kadrin]] asks the parrot why he is repeating this
+	- he answers "It's the last thing I heard from the ot"
