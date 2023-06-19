@@ -31,6 +31,18 @@
               }
             },
             "group": "6871efe8c58f3931"
+          },
+          {
+            "id": "ae25801bbf47ba44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The Hvalspyd.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -210,8 +222,12 @@
   },
   "active": "38c5769e912c9b35",
   "lastOpenFiles": [
-    "Session Notes/Session 66.md",
+    "Locations/The Hvalspyd.md",
     "Session Notes/Session 67.md",
+    "Drufi.md",
+    "Session Notes/Session 66.md",
+    "Items/Ring of Winter.md",
+    "Jarl Storvald.md",
     "Thyrm's Blessed Ale.md",
     "Bestiary/Frost Giants.md",
     "X_Stats/Nat.1.md",
@@ -237,12 +253,8 @@
     "_Attachments/Red Wizards of Thay Ziggurat.png",
     "Z_Canvas/Main Story.canvas",
     "Locations/Kir Sabal.md",
-    "Session Notes/Session 5.md",
-    "NPCs/Khazaru.md",
-    "Locations/House of the Man and the Crocodile.md",
     "Z_Canvas",
     "desktop.ini",
-    "NPCs/Artus Cimber.md",
     "_Attachments/Guides 6.png",
     "_Attachments/Guides 5.png",
     "_Attachments/Guides 1.png",
