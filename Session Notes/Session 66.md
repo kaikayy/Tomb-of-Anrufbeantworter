@@ -182,15 +182,3 @@ Exhaustion CON SAV:
 We arrive at the foot of the [[Mistcliff Mountains]]
 
 We make camp again
-
-
-
-2. Watch - [[Shadow]], [[Delwyn]]
-- Perc.: 
-
-3. Watch -  [[Musharib]], [[Shago]]
-- Perc.: 
-
-#### LONG REST -> Day 8
-Weather:
-[[Kadrin]] cooks, DEX: 

@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "ad8d027c60282c60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "X_Stats/Nat.1.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "38c5769e912c9b35",
             "type": "leaf",
             "state": {
@@ -79,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X_Stats/Nat.1.md",
+                "file": "Session Notes/Session 67.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "X_Stats/Nat.1.md"
+                "file": "Session Notes/Session 67.md"
               }
             }
           },
@@ -181,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X_Stats/Nat.1.md",
+                "file": "Session Notes/Session 67.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,12 +208,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1cf7fd4cac64a694",
+  "active": "38c5769e912c9b35",
   "lastOpenFiles": [
     "Session Notes/Session 66.md",
-    "Z_Canvas/Current Planning.canvas",
     "Session Notes/Session 67.md",
+    "Thyrm's Blessed Ale.md",
+    "Bestiary/Frost Giants.md",
     "X_Stats/Nat.1.md",
+    "Z_Canvas/Current Planning.canvas",
     "X_Stats/Nat.20.md",
     "X_Stats/{Nat.19}.md",
     "Z_Canvas/Plans.canvas",
@@ -254,7 +243,6 @@
     "Z_Canvas",
     "desktop.ini",
     "NPCs/Artus Cimber.md",
-    "NPCs/Ras Nsi.md",
     "_Attachments/Guides 6.png",
     "_Attachments/Guides 5.png",
     "_Attachments/Guides 1.png",
