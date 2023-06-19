@@ -66,3 +66,29 @@ We discuss if we should go today or still rest a bit
 - [[Shago]] heard a legend that you can only climb [[Orolunga]] once, you can only receive the wisdom of [[Orolunga]] once
 - we decide to approach and see if anything is going
 
+We arrive at [[Orolunga]]
+- `A massive brick and stone ziggurat rises from the jungle. Two staircases angle up and across the front face, one from the right, the other from the left, to meet at a landing on the second level 30 feet above your heads. That layout repeats on the second level, and the third level, but with each successive layer adding less height than the one below it. The fourth level, 60 feet above the jungle floor, is an enclosed shrine or temple, its walls adorned with labyrinth symbols. The jungle encroaches right up to and onto this ancient structure. The first flights of steps are choked with creepers, tree roots, and flowering vines. It might have been surrounded by a city long ago, but the jungle is so dense that it would take hours of searching to find buried foundations and tumbled stones.`
+- We see the yellow standard on the top of the Ziggurat
+- We make a small camp
+
+##### SHORT REST (Start)
+- We talk about what we are going to ask the Naga Guardian
+- [[Musharib]] wants to find something out about the volcanic eruption and won't go in with us
+- [[Shago]] wants to keep his "one time Wisdom" for another time and also won't be going in with us
+- [[Kadrin]] wants to ask where [[Artus Cimber]] is, what he is doing and how to destroy the [[Soulmongerer]]
+- [[Talsen]] suggests we ask one question first and see what information we can gather from it, then decide what to ask next
+##### SHORT REST (End)
+
+We leave [[Vorn]] and [[Stomps]] with [[Musharib]] and [[Shago]]
+- we go to investigate the Pedestal
+	- [[Kadrin]] casts Detect Magic
+		- The Pedestal and the whole Ziggurat is magical
+		- [[Delwyn]] Arcana: 8
+		- We find that the Pedestal leads to another Address in the [[Webway of Ubtao]]
+			
+- [[Kadrin]] slowly goes up the Ziggurat while [[Talsen]] copies the Address
+	- [[Shadow]] and [[Delwyn]] inspect the Ziggurat more closely
+		- Perception: 24, 7
+			- Only entrance seems to be at the top
+			- Vines seem to be actively blocking [[Kadrin]] from going up
+	- 

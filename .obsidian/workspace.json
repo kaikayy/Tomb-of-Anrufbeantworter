@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 66.md",
+                "file": "Session Notes/Watch_Vorlage.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,6 +31,18 @@
               }
             },
             "group": "6871efe8c58f3931"
+          },
+          {
+            "id": "268d6aa0ab2a8021",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Webway of Ubtao.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -60,8 +72,8 @@
               "state": {
                 "file": "Z_Canvas/Current Planning.canvas",
                 "viewState": {
-                  "x": 132.02261720129957,
-                  "y": -373.9823693621558,
+                  "x": 128.45024394633992,
+                  "y": -245.37693218361056,
                   "zoom": -0.8368828265247346
                 }
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z_Canvas/Current Planning.canvas",
+                "file": "Session Notes/Session 67.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z_Canvas/Current Planning.canvas"
+                "file": "Session Notes/Session 67.md"
               }
             }
           },
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z_Canvas/Current Planning.canvas",
+                "file": "Session Notes/Session 67.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,12 +221,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7396305601eef153",
+  "active": "38c5769e912c9b35",
   "lastOpenFiles": [
+    "PCs/Talsen.md",
     "Session Notes/Session 67.md",
-    "Z_Canvas/Current Planning.canvas",
+    "Items/Webway of Ubtao.md",
+    "Session Notes/Watch_Vorlage.md",
     "Session Notes/Session 66.md",
     "Locations/Orolunga.md",
+    "_Attachments/Orolunga Map.png",
+    "Z_Canvas/Current Planning.canvas",
     "_Attachments/Orolunga.png",
     "Locations/The Hvalspyd.md",
     "Drufi.md",
@@ -238,8 +254,6 @@
     "NPCs/Jobal.md",
     "Organizations/Trade Princes.md",
     "Items/Heart of the Wild.md",
-    "Locations/Valley of Embers.md",
-    "Locations/Ishau.md",
     "_Attachments/Red Wizards of Thay Ziggurat.png",
     "Z_Canvas/Main Story.canvas",
     "Z_Canvas",
@@ -251,7 +265,6 @@
     "_Attachments/Puzzle in Tomb of Kahuli.png",
     "_Attachments/Reaction_Gannin DEAD.png",
     "_Attachments/Fight_S65_Map.png",
-    "_Attachments/Snow Biome.png",
     "Tomb-of-Anrufbeantworter"
   ]
 }

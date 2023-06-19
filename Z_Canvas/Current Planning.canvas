@@ -58,8 +58,8 @@
 		{"id":"822294aee8b0f046","fromNode":"20c5e9550e410519","fromSide":"right","toNode":"34cdb30ae06abd70","toSide":"left","label":"or don't idk"},
 		{"id":"2a50e8c7e3800551","fromNode":"34cdb30ae06abd70","fromSide":"right","toNode":"e29ba8ca341f9903","toSide":"right","label":"🖕\n"},
 		{"id":"5ec177f0a9aae212","fromNode":"993f0672cd5cd241","fromSide":"right","toNode":"ca8e80bc0a3e02e4","toSide":"left","label":"What's next?"},
-		{"id":"69cff1f0893be6cc","fromNode":"68193ca24cc7a861","fromSide":"right","toNode":"9c1d13938ab17416","toSide":"left"},
 		{"id":"c93f3d323e0a95a5","fromNode":"9c1d13938ab17416","fromSide":"right","toNode":"97afcb5a6b96b57b","toSide":"left"},
-		{"id":"36714b63063761bb","fromNode":"68193ca24cc7a861","fromSide":"right","toNode":"a35368ada2a64c15","toSide":"left","color":"1"}
+		{"id":"36714b63063761bb","fromNode":"68193ca24cc7a861","fromSide":"right","toNode":"a35368ada2a64c15","toSide":"left","color":"1"},
+		{"id":"f3f043ae888015d9","fromNode":"68193ca24cc7a861","fromSide":"bottom","toNode":"9c1d13938ab17416","toSide":"left"}
 	]
 }
