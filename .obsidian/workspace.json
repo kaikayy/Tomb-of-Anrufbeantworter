@@ -31,18 +31,6 @@
               }
             },
             "group": "6871efe8c58f3931"
-          },
-          {
-            "id": "ae25801bbf47ba44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/The Hvalspyd.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -72,14 +60,15 @@
               "state": {
                 "file": "Z_Canvas/Current Planning.canvas",
                 "viewState": {
-                  "x": -196.70833901284976,
-                  "y": -136.41954790734314,
+                  "x": 132.02261720129957,
+                  "y": -373.9823693621558,
                   "zoom": -0.8368828265247346
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 67.md",
+                "file": "Z_Canvas/Current Planning.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 67.md"
+                "file": "Z_Canvas/Current Planning.canvas"
               }
             }
           },
@@ -180,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 67.md",
+                "file": "Z_Canvas/Current Planning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,18 +209,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "38c5769e912c9b35",
+  "active": "7396305601eef153",
   "lastOpenFiles": [
-    "Locations/The Hvalspyd.md",
     "Session Notes/Session 67.md",
-    "Drufi.md",
+    "Z_Canvas/Current Planning.canvas",
     "Session Notes/Session 66.md",
+    "Locations/Orolunga.md",
+    "_Attachments/Orolunga.png",
+    "Locations/The Hvalspyd.md",
+    "Drufi.md",
     "Items/Ring of Winter.md",
     "Jarl Storvald.md",
     "Thyrm's Blessed Ale.md",
     "Bestiary/Frost Giants.md",
     "X_Stats/Nat.1.md",
-    "Z_Canvas/Current Planning.canvas",
     "X_Stats/Nat.20.md",
     "X_Stats/{Nat.19}.md",
     "Z_Canvas/Plans.canvas",
@@ -249,10 +240,8 @@
     "Items/Heart of the Wild.md",
     "Locations/Valley of Embers.md",
     "Locations/Ishau.md",
-    "Locations/Refuge Bay.md",
     "_Attachments/Red Wizards of Thay Ziggurat.png",
     "Z_Canvas/Main Story.canvas",
-    "Locations/Kir Sabal.md",
     "Z_Canvas",
     "desktop.ini",
     "_Attachments/Guides 6.png",
@@ -263,7 +252,6 @@
     "_Attachments/Reaction_Gannin DEAD.png",
     "_Attachments/Fight_S65_Map.png",
     "_Attachments/Snow Biome.png",
-    "_Attachments/Batiri Battle Stack.png",
     "Tomb-of-Anrufbeantworter"
   ]
 }

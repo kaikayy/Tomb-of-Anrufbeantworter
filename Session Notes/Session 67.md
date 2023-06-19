@@ -42,4 +42,27 @@ We ask [[Thyra Permafrost]] some questions
 	- Intimidation: 16
 		- [[Thyra Permafrost]] suggests not to fight the [[Frost Giants]]
 		- [[Kadrin]] suggests not to kill the woman with [[Artus Cimber]]
-- 
+- [[Thyra Permafrost]] leaves into the jungle and we say our goodbyes
+
+We start our travel for the day, searching for [[Orolunga]] along the [[Mistcliff Mountains]]
+
+On our travels
+- we find a variety of different fruits and berries at the mountainside
+- we find a Ziggurat by some waterfalls in the mountain
+- ![[Orolunga.png]]
+
+Does anyone know what a Naga is, Religion:
+- [[Talsen]]: 17
+	- [[Ssaztehsi]] warns him, that he has History with this Naga of [[Orolunga]]
+		- [[Yuan-Ti]] and Naga are mortal enemies
+		- They are Serpents but nothing like [[Yuan-Ti]]
+	- [[Talsen]] tells the others this information, bullshitting that he knew that information from somewhere
+- [[Kadrin]]: 4
+- [[Delwyn]]: 3
+- [[Shadow]]: 15
+	- none of us know
+
+We discuss if we should go today or still rest a bit
+- [[Shago]] heard a legend that you can only climb [[Orolunga]] once, you can only receive the wisdom of [[Orolunga]] once
+- we decide to approach and see if anything is going
+
