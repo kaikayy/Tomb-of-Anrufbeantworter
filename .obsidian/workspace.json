@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "135b62761d8b7ad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 67.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "26330aa0de9f533b",
             "type": "leaf",
             "state": {
@@ -30,8 +18,69 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ad8d027c60282c60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "X_Stats/Nat.1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "38c5769e912c9b35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 67.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "6871efe8c58f3931"
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6c666fc3fd87d0cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47270b08567bc2b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 67.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "6871efe8c58f3931"
+          },
+          {
+            "id": "7396305601eef153",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Z_Canvas/Current Planning.canvas",
+                "viewState": {
+                  "x": -196.70833901284976,
+                  "y": -136.41954790734314,
+                  "zoom": -0.8368828265247346
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 67.md",
+                "file": "X_Stats/Nat.1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 67.md"
+                "file": "X_Stats/Nat.1.md"
               }
             }
           },
@@ -132,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 67.md",
+                "file": "X_Stats/Nat.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,10 +221,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "135b62761d8b7ad2",
+  "active": "1cf7fd4cac64a694",
   "lastOpenFiles": [
     "Session Notes/Session 66.md",
+    "Z_Canvas/Current Planning.canvas",
     "Session Notes/Session 67.md",
+    "X_Stats/Nat.1.md",
+    "X_Stats/Nat.20.md",
+    "X_Stats/{Nat.19}.md",
     "Z_Canvas/Plans.canvas",
     "Pirate Map.md",
     "Session Notes/Session 22.md",
@@ -190,7 +243,6 @@
     "Organizations/Trade Princes.md",
     "Items/Heart of the Wild.md",
     "Locations/Valley of Embers.md",
-    "Z_Canvas/Current Planning.canvas",
     "Locations/Ishau.md",
     "Locations/Refuge Bay.md",
     "_Attachments/Red Wizards of Thay Ziggurat.png",
@@ -203,10 +255,6 @@
     "desktop.ini",
     "NPCs/Artus Cimber.md",
     "NPCs/Ras Nsi.md",
-    "Organizations/Hag'se Organization.md",
-    "Plans.md",
-    "Locations/City of Mezro.md",
-    "Locations/Outside of Chult/Hag'se.md",
     "_Attachments/Guides 6.png",
     "_Attachments/Guides 5.png",
     "_Attachments/Guides 1.png",

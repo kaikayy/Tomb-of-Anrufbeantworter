@@ -319,11 +319,11 @@
 [[Fight_S54_55]] - 8
 [[Shadow]] to hit (26)
 [[Vegepygme]] / [[Gobta]] CHA SAV (18)
-[[DM]] to hit [[Shadow]] (24)
-[[DM]] to hit [[Shadow]] (24)
+[[DM]] to hit on [[Shadow]] (24)
+[[DM]] to hit on [[Shadow]] (24)
 [[Gobta]] to hit (24)
 [[Gobta]] WIS SAV (18)
-[[DM]] to hit [[Talsen]] (27)
+[[DM]] to hit on [[Talsen]] (27)
 [[Vegepygme]] / [[Shadow]] to hit (24)
 
 ---
