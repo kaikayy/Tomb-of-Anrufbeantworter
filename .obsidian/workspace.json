@@ -39,9 +39,9 @@
               "state": {
                 "file": "Z_Canvas/Plans.canvas",
                 "viewState": {
-                  "x": 412.34259453984475,
-                  "y": 1081.612673271545,
-                  "zoom": -1.036293436309547
+                  "x": 715.5,
+                  "y": -159,
+                  "zoom": -2.3696267696428803
                 }
               }
             }
@@ -173,8 +173,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,8 +188,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "097e99fbc3897fcc",
+  "active": "135b62761d8b7ad2",
   "lastOpenFiles": [
+    "Pirate Map.md",
+    "Z_Canvas/Plans.canvas",
+    "Session Notes/Session 22.md",
+    "Locations/Jahaka Bay.md",
     "Z_Canvas/General.canvas",
     "Session Notes/Session 9.md",
     "NPCs/Shissi.md",
@@ -199,12 +202,9 @@
     "Items/Shadowshiver.md",
     "NPCs/Jobal.md",
     "Organizations/Trade Princes.md",
-    "Z_Canvas/Plans.canvas",
     "Items/Heart of the Wild.md",
     "Locations/Valley of Embers.md",
     "Z_Canvas/Current Planning.canvas",
-    "Pirate Map.md",
-    "Session Notes/Session 22.md",
     "Locations/Ishau.md",
     "Locations/Refuge Bay.md",
     "_Attachments/Red Wizards of Thay Ziggurat.png",
@@ -222,7 +222,6 @@
     "Locations/City of Mezro.md",
     "Locations/Outside of Chult/Hag'se.md",
     "NPCs/Aremag the Dragon Turtle.md",
-    "X_Stats/Inspiration.md",
     "_Attachments/Guides 6.png",
     "_Attachments/Guides 5.png",
     "_Attachments/Guides 1.png",
