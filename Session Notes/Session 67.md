@@ -130,4 +130,35 @@ We leave [[Vorn]] and [[Stomps]] with [[Musharib]] and [[Shago]]
 - [[Delwyn]] goes around the platform to the other side to see what's there
 	- searches for feathers and find enough for all of us and 
 - [[Kadrin]] asks the parrot why he is repeating this
-	- he answers "It's the last thing I heard from the ot"
+	- he answers "It's the last thing I heard from the other group"
+- We all go up the next flight of stairs easily with the feather in hand
+- We can now clearly see the yellow standard and hear the wind if not drowned out by hissing of the snakes all over the last stairs
+- [[Shadow]] looks for another [[Chwinga]]
+	- Perception: 15
+		- doesn't see one
+- [[Kadrin]] still using speak with animals asks the Snakes if we may go through
+	- They don't answer
+- [[Talsen]] suggests to rip a little piece off of the banner and go through
+	- [[Kadrin]] tries to pull the banner out of the ground to reach it
+		- STR: 9 - Doesn't get it out
+	- [[Shadow]] tries to climb up the pole
+		- Athletics: 11
+		- gets up and gets a piece of cloth down
+- [[Delwyn]] looks out for another [[Chwinga]]
+	- Perception: 10
+- [[Kadrin]] holding the yellow piece of cloth approaches the snakes slowly, they seem to be aggressive
+- A [[Chwinga]] appears wearing a mongoose mask, holding the orange orchid, the parrots feather and a purple orchid
+	- it hits a single snake with the purple orchid and tickles it with the parrot feather, it rolls on the ground and makes a laughing motion, the [[Chwinga]] lies flat on the ground, the snake goes inside the [[Chwinga]] and it moves like a snake through the other snakes
+- [[Kadrin]] uses Misty Step to skip the snakes
+	- it gets redirected sideways
+- [[Kadrin]] won't like it but tries to do the thing the [[Chwinga]] did
+	- CON SAV: 17 - SAVE
+		- Snakes his way up the stairs and into the room
+- [[Talsen]] calls out for [[Kadrin]]
+	- no answer
+- [[Delwyn]] does the same to go in
+	- CON SAV: 7 - FAIL, chokes on the Snake and it turns into magical dust
+		- 27 Psychic DMG
+- [[Delwyn]] says he will wait here to take a rest
+	- We decide to all wait 10 minutes for [[Kadrin]] to return
+- After 10 minutes [[Kadrin]] doesn't appear
