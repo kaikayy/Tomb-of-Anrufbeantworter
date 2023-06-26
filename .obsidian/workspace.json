@@ -38,8 +38,21 @@
               }
             },
             "group": "bc5a54f7416ce870"
+          },
+          {
+            "id": "8c6b27f3138b8441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 56.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,8 +178,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,9 +195,16 @@
   },
   "active": "53def60e06c48a33",
   "lastOpenFiles": [
-    "NPCs/Lathender.md",
+    "Session Notes/Session 56.md",
+    "NPCs/Ras Nsi.md",
     "Session Notes/Session 68.md",
+    "Black Opal Crown.md",
+    "Opal Crown.md",
+    "NPCs/Dendar the Night Serpent.md",
+    "_Attachments/Saja N’baza.png",
+    "Saja N’baza.md",
     "Aratiel.md",
+    "NPCs/Lathender.md",
     "_Attachments/We're so fucked.png",
     "Session Notes/Session 67.md",
     "desktop.ini",
@@ -206,12 +225,6 @@
     "Locations/Snapping Turtle Bay.md",
     "NPCs/Jarl Storvald.md",
     "Z_Canvas/Current Planning.canvas",
-    "NPCs/Drufi.md",
-    "Session Notes/Watch_Vorlage.md",
-    "NPCs/Bravus Boulderhorn.md",
-    "Session Notes/Session 65.md",
-    "Items/Webway of Ubtao.md",
-    "Locations/Orolunga.md",
     "_Attachments/Orolunga Map.png",
     "_Attachments/Orolunga.png",
     "Z_Canvas/Plans.canvas",
@@ -224,7 +237,6 @@
     "_Attachments/Guides 1.png",
     "_Attachments/Guides 8.png",
     "_Attachments/Puzzle in Tomb of Kahuli.png",
-    "_Attachments/Reaction_Gannin DEAD.png",
     "Tomb-of-Anrufbeantworter"
   ]
 }

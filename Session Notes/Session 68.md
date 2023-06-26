@@ -35,4 +35,48 @@ A giant City in it's prime can be seen from a higher up perspective, he looks do
 - We deny it.
 - [[Kadrin]] tells us about his encounter and to ask the Naga Guardian
 
-We hear a voice behind us offering its assistance. Inside the Ziggurat w
+`Hanging lamps illuminate the room, while incense burners fill it with exotic scents and curling smoke. Cushions and reed mats cover the floor, pots of blooming flowers line the plastered walls, and singing birds flit from plant to plant. An immense snake with iridescent scales rests on a heap of cushions opposite the doorway. It rises slowly to a height of 5 feet, staring directly into your eyes as it moves. Its face is remarkably humanlike, and its tongue flicks before it speaks. “I am Saja N’baza. What do you seek in this ancient place? Speak truly, for I hear your hearts!”`
+We hear a voice behind us offering its assistance. Inside the Ziggurat we see the Naga Guardian of [[Orolunga]], [[Saja N’baza]]
+- It asks us to speak truly as it can tell if we're not
+	- Why have we come to this ancient place
+- It will only attack us in self-defense, we should have a seat as we have "All the time in the world"
+- [[Talsen]] asks what city this is?
+	- It is [[Orolunga]] in its prime, in our time only the Ziggurat remains
+	- Right now, we are in a place outside of time, so we have all the time in the world
+- [[Kadrin]] uses Divine Sense and he notices that also his normal senses have grown stronger.
+	- He can sense [[Hubris]] now, something in him, it is weird.
+- [[Shadow]] and [[Delwyn]] take a seat on the cushions on the ground
+- [[Delwyn]] casts Shape Water to create a curved lens to see the city better but it fails
+- [[Talsen]] History: 16 - A Long Lost civilization, no people around but the buildings in their prime, at least 500years old maybe 1000years. The previous inhabitants were Humans of Chultan heritage.
+- [[Delwyn]] INT: 5 - Can't really ascertain how many people lived here once
+- [[Kadrin]] sits down.
+
+[[Saja N’baza]] ask what Wisdom we seek in [[Orolunga]]
+- [[Kadrin]] asks about the thing that you can only ask one question
+	- We have all the time in the world
+- [[Talsen]] asks about repercussions for staying here
+	- None but that you can't go here again, as its master [[Ubtao]] said so
+- [[Kadrin]] asks if it gets lonely
+	- No i get quite a few visitors
+- [[Delwyn]] asks for the weather tomorrow
+	- That is something you'll have to find out
+- [[Talsen]] asks about the boundaries of it's knowledge
+	- It knows some things of our time, some things that have happened and some things that will happen, but not everything
+	- Some are obtained through visions, some through agents
+	- These Agents are snakes and can come and go how they want because [[Ubtao]] permitted it
+- [[Kadrin]] asks what it wants in return
+	- There is nothing we have to give her but there is something of urgency it wants to get done
+	- It is something we have to do for it, not just for it but for Chult and the entire world
+- [[Kadrin]] asks if it's the [[Death Curse]]
+	- It doesn't know what that is, it wants us to kill [[Ras Nsi]]
+- [[Talsen]] asks how we should be doing that?
+	- [[Ras Nsi]] is in [[Omu]], he is the leader of the [[Yuan-Ti]] there and he is seeking to end the world. He is attempting to awaken / release [[Dendar the Night Serpent]] to bring her to the material plane and devour the sun and usher in an age of eternal darkness.
+	- [[Dendar the Night Serpent]] was imprisoned deep beneath the [[Peaks of Flame]]
+	- [[Saja N’baza]] doesn't know if [[Ras Nsi]] is actually capable of this but the reports of [[Omu]] are getting worse, so it's finally time to get rid of him.
+- [[Talsen]] asks how much longer we have left
+	- It doesn't know, doesn't seem to be an easy task, they are looking for an artifact that is rumored to be in [[Omu]] but they have not found it yet.
+- [[Shadow]] asks if it's the [[Soulmongerer]]
+	- It doesn't know what this is, they ear searching for the [[Black Opal Crown]]
+- [[Talsen]] asks for its relationship with [[Yuan-Ti]]
+	- They are or were enemies and only seek pure evil
+- 
