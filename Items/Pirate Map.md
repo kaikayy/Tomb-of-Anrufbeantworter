@@ -4,8 +4,8 @@ Locations - Sketches and Drawings of the pirates
 - [[Jahaka Anchorage]], [[Jahaka Bay]] - Jolly Roger Sign
 - [[Shilku]], [[Shilku Bay]] - Line with a Treasure Chest and a Shovel
 - [[Snapping Turtle Bay]] - Turtle and a big face with one eye
-- [[Ishau]](app://obsidian.md/Ishau), [[Refuge Bay]](app://obsidian.md/Refuge%20Bay) - Broken Walls inside the bay and water
+- [[Ishau]], [[Refuge Bay]] - Broken Walls inside the bay and water
 - [[City of Mezro]] - Big Circle
 - [[Port Castigliar]] - Little waterbridge
 - [[The Hvalspyd]] - Viking Longboat at the shore (always avoided the location)
-- [[Fort Beluarian]] - Walterbridge
+- [[Fort Beluarian]] - Waterbridge
