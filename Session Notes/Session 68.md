@@ -79,4 +79,37 @@ We hear a voice behind us offering its assistance. Inside the Ziggurat we see th
 	- It doesn't know what this is, they ear searching for the [[Black Opal Crown]]
 - [[Talsen]] asks for its relationship with [[Yuan-Ti]]
 	- They are or were enemies and only seek pure evil
+- [[Talsen]] asks if it knows about [[The Hissing]]
+	- It was created by the former leader of the [[Yuan-Ti]], [[Ssaztehsi]], it is glad that his temple now crumbled into the ground
+
+Q&A
+- The [[Vegepygme]] were originally foreign in the jungle but they adapted nice
+- [[Ras Nsi]] was given immortality by [[Ubtao]], it still lingers but a little bit weaker. He is not invulnerable but immortal, he can die by sword but not by other natural causes.
+	- His ability include, raise and control the dead, he is quite versed in the arcane and divine art, he is also quite capable with a sword.
+	- He also wields a magical sword that ignites and cuts through enemies like butter
+	- He has the lower body of a [[Yuan-Ti]] and will be able to ensnare you if you get close
+- Looks at [[Talsen]] and advises him to caution with the knowledge and powers he dabbles in. They were originally created by [[Yuan-Ti]]. Do not use them for evil and do not pass them on.
+
+More Q&A
+- [[Delwyn]] asks about the 10 [[Aspects of Ubtao]]
+	- There are way more than just 10 Aspects. As he decided to split himself, he split into many Aspects to watch over the land. They can be found all over [[Chult]]
+		- Are they evil?
+			- Some are, some are not. [[Ubtao]] was a very whimsical god. But he wished for all living beings on [[Chult]] to thrive
+				- Are there 10 particularly bad or good ones?
+					- Hard to tell, which ones are good, which ones are bad. Some can be quite ill-tempered but I wouldn't classify any of them as bad per se.
+						- How strong are the Aspects?
+							- Why do you wish to know so much about these Aspects of my Master
+								- Just interested. Deception: 12
+									- [[Shadow]] Insight: 18
+										- Strange behaviour from [[Delwyn]]
+	- [[Saja N’baza]]: There is something you're not telling me
+- [[Delwyn]]: How forgiving are you? Be honest.
+	- That depends if your actions are deemed worth forgiving.
+- Lets just say I have a problem and its not that old. (Shows his hand)
+	- I see, she marked her, a [[Shade Mark]], it was given to you by the Goddess [[Shar]]. If it is left to grow you will become but a Shade and will be bound to [[Shar]] in the [[Shadowfell]]
+- [[Delwyn]] explains how he got the [[Shade Mark]] and asks if he can stop it and if he can safe his mother. He asked about the [[Aspects of Ubtao]] because he wanted to know if they are nice people as he doesn't want to kill nice people.
+	- Insight: 
+		- [[Kadrin]]: 5
+		- [[Shadow]]: 22
+	- Charisma [[Del]]
 - 
