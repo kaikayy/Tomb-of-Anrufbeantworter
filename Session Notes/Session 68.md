@@ -132,4 +132,22 @@ More Q&A
 	- The recent death of one of them has imbalanced the power
 	- The purge of the pirate threat has bettered the trade of the city but also more people in general and also cultists are coming into the city spreading dooming news. Which is probably related to the bad omens from [[Omu]].
 	- [[Jessamine]] has died
-- 
+- [[Talsen]] asks how she died
+	- It doesn't know how but it was 5 days ago
+- [[Kadrin]] asks what is going to happen to [[Jessamine]]'s family
+	- her daughter is now the current Trade Princess of Assassination
+	- The death is currently held as a secret from the public as the other [[Trade Princes]] fear it might cause mass trouble in the city.
+- We tell [[Saja N’baza]] about the [[Death Curse]] and [[Soulmongerer]]
+- [[Kadrin]] asks about [[Artus Cimber]]
+	- I know of him and he has been here before.
+	- I am aware that many people are looking for him but why are you looking for him
+- [[Kadrin]] Persuasion: 25, [[Talsen]] asks if it answered any of [[Artus Cimber]]'s questions as he seems to be working with evil intentions
+	- They asked how to bring back the [[City of Mezro]], I answered and set them on the path to bring back the city
+	- The [[City of Mezro]] was teleported to safety by the [[Bara]]s in protection of the City as [[Ras Nsi]] attacked the city.
+	- All that remains there now is a ruin that was created as a decoy to make people believe that it was destroyed but that is not the case.
+	- [[Artus Cimber]] was one of the people that helped in defense of the City way back then in 1385 DR.
+- [[Delwyn]] asked if the people of the city was teleported with it
+	- It was. And with the City was the [[Bara]] [[Alisanda]] the wife of [[Artus Cimber]].
+	- He seems to have found a way to survive and prolong his life since then.
+	- The City teleported away due to the hoards of Undead that [[Ras Nsi]] wanted to bring upon it to destroy it. In Order for the City to come back. [[Ras Nsi]] would have to die for the City to come back.
+	- 

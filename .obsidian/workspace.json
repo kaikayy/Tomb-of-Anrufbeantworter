@@ -17,8 +17,7 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "bc5a54f7416ce870"
+            }
           }
         ]
       },
@@ -26,19 +25,6 @@
         "id": "6345d2c9fcf7f89d",
         "type": "tabs",
         "children": [
-          {
-            "id": "ab297ff761637869",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 68.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "bc5a54f7416ce870"
-          },
           {
             "id": "8c6b27f3138b8441",
             "type": "leaf",
@@ -194,15 +180,18 @@
   },
   "active": "53def60e06c48a33",
   "lastOpenFiles": [
-    "Maztica.md",
+    "Alisanda.md",
     "Session Notes/Session 68.md",
+    "Z_Canvas/Plans.canvas",
+    "Opal Crown.md",
+    "NPCs/Jessamine.md",
+    "Maztica.md",
     "Eye of Zaltec.md",
     "Shar.md",
     "Shade Mark.md",
     "Session Notes/Session 56.md",
     "NPCs/Ras Nsi.md",
     "Black Opal Crown.md",
-    "Opal Crown.md",
     "NPCs/Dendar the Night Serpent.md",
     "_Attachments/Saja N’baza.png",
     "Saja N’baza.md",
@@ -221,12 +210,9 @@
     "Items/Pirate Map.md",
     "Locations/Fort Beluarian.md",
     "Locations/The Hvalspyd.md",
-    "Locations/Jahaka Bay.md",
-    "Locations/Jahaka Anchorage.md",
     "Z_Canvas/Current Planning.canvas",
     "_Attachments/Orolunga Map.png",
     "_Attachments/Orolunga.png",
-    "Z_Canvas/Plans.canvas",
     "Z_Canvas/General.canvas",
     "_Attachments/Red Wizards of Thay Ziggurat.png",
     "Z_Canvas/Main Story.canvas",
