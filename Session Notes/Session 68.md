@@ -150,4 +150,28 @@ More Q&A
 	- It was. And with the City was the [[Bara]] [[Alisanda]] the wife of [[Artus Cimber]].
 	- He seems to have found a way to survive and prolong his life since then.
 	- The City teleported away due to the hoards of Undead that [[Ras Nsi]] wanted to bring upon it to destroy it. In Order for the City to come back. [[Ras Nsi]] would have to die for the City to come back.
+- So where is [[Artus Cimber]] now and how can we chase him?
+	- They were here a tenday ago, they are en route to [[Omu]] at the moment
+	- [[Kadrin]]'s Sister was alright when she was here and she was following [[Artus Cimber]] out of her own will
+- [[Kadrin]] Insight: 11 - Can't quite tell how sure it is about knowing that she wasn't affected by a spell
+- [[Kadrin]] asks if his sister wanted to know anything
+	- She loosely wanted to acquire about [[Artus Cimber]]'s goal as well, she seemed interested in bringing back the [[City of Mezro]] as well. Her questions were mostly related to these topics, how life was in [[Orolunga]] and in the [[City of Mezro]].
+
+Q&A 3.0
+- [[Shadow]] tells about the [[Ring of Winter]] and what [[Artus Cimber]] did with it. Asks how to reverse [[Xandala]]'s Freezing
+	- If your are interested in gaining this ability remind me of this later
+	- It would be a boon I would grant you and aid you in general if you promise to accept my mission
+- [[Talsen]] asks about [[Acererak]]
+	- She doesn't know
+- [[Talsen]] asks about the [[Trade Princes]] / [[Yuan-Ti]] connection
+	- She doesn't know
+- [[Talsen]] asks who runs the [[Ytepka Society]]?
+	- [[Zhanthi]]
+- [[Shadow]] asks who are its members ?
+	- About 50 members left under them [[Zindar]] as a higher ranking members
+	- The Organizations seeks only the best for the people of [[Chult]]
+	- It was one of the most impactful factor in bringing the [[Trade Princes]] to power in [[Port Nyanzaru]]
+- [[Talsen]] asks if [[Zindar]] is in ranks with the [[Pirate Captains]] and [[The Flaming Fist]]
+	- He wants to get rid of them and [[Zhanthi]] provides the money
+- [[Delwyn]] asks how to find [[Shar]] in [[Port Nyanzaru]]
 	- 
