@@ -111,5 +111,25 @@ More Q&A
 	- Insight: 
 		- [[Kadrin]]: 5
 		- [[Shadow]]: 22
-	- Charisma [[Del]]
+	- Charisma [[Delwyn]]: 16
+		- [[Delwyn]] speaks the truth
+- [[Delwyn]] asks if he will get rid of the [[Shade Mark]] and free his mother if he destroys the [[Soulmongerer]]
+	- [[Saja N’baza]]: That I cannot say, however it seems like your mother has made some kind of pact with [[Shar]] before your birth and you were the price she paid.
+	- I recommend that you seek out [[Shar]] herself, I can sense her presence in [[Port Nyanzaru]]. It is most likely in a place where people go when they have lost everything.
+	- The Second Path would be to cleanse this [[Shade Mark]]. Whitin the City of [[Omu]] lies a hidden Temple that can cleanse corruption, impurity, people. It remains hidden to the [[Yuan-Ti]] as of now. There is an agent in [[Omu]] that can help you find the entrance. You will find her in the form of a Chultan Woman, adorned with many colorful feathers and a staff. her name is [[Eku]].
+- When I cleanse this mark, how do I save my mother?
+	- Maybe destroying the [[Soulmongerer]] will set her free
+	- Maybe you have to find a way to break the contract that she made with [[Shar]]
+	- For now you should free yourself from this contract and cleanse your hand or speak with [[Shar]]
+- [[Kadrin]] asks if this Temple might cleanse [[Hubris]]
+	- I have not seen corruption like this before, on you and the staff you carry. I do not believe the Shrine would be enough to safe your friend. There is an artifact in the city of [[Omu]], The [[Eye of Zaltec]] brought here from the continent of [[Maztica]] that is said to bring anyone back to life without boundaries.
+- [[Delwyn]] asks if there is any way to safe his mother
+	- I cannot say, there certainly is a possibility but I do not know how.
+	- I cannot tell for certain if you would lose the connection to your mother once you cleanse your [[Shade Mark]].
+- [[Delwyn]] asks how long it takes for this [[Shade Mark]] to corrupt him completely
+	- To my estimation it will consume you in roughly 30 days
+- [[Talsen]] asks of if it knows about the [[Trade Princes]]
+	- The recent death of one of them has imbalanced the power
+	- The purge of the pirate threat has bettered the trade of the city but also more people in general and also cultists are coming into the city spreading dooming news. Which is probably related to the bad omens from [[Omu]].
+	- [[Jessamine]] has died
 - 
