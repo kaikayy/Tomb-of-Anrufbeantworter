@@ -6,7 +6,7 @@ Recap - [[Talsen]]
 
 
 ---
-[[Talsen]] & [[Shadow]]:
+[[Shadow]] & [[Talsen]]:
 
 
 ---
