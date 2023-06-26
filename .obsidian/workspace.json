@@ -11,32 +11,15 @@
             "id": "38c5769e912c9b35",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Z_Canvas/Current Planning.canvas",
-                "viewState": {
-                  "x": 375.02828625457875,
-                  "y": -285.89254540357126,
-                  "zoom": -0.8368828265247346
-                }
-              }
-            }
-          },
-          {
-            "id": "876a480bc6c36904",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 68.md",
+                "file": "Pirate Map.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "4c6d481513aa6974"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1a3cd4228d5a69c1",
@@ -48,12 +31,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 68.md",
+                "file": "NPCs/Jarl Storvald.md",
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "4c6d481513aa6974"
+            }
           }
         ]
       }
@@ -121,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 68.md",
+                "file": "Pirate Map.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 68.md"
+                "file": "Pirate Map.md"
               }
             }
           },
@@ -156,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 68.md",
+                "file": "Pirate Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,9 +178,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5ed768432d344627",
+  "active": "38c5769e912c9b35",
   "lastOpenFiles": [
+    "NPCs/Jarl Storvald.md",
     "Z_Canvas/Current Planning.canvas",
+    "NPCs/Drufi.md",
     "Session 68.md",
     "X_Stats/_Vorlage.md",
     "X_Stats/{Nat.19}.md",
@@ -216,9 +200,7 @@
     "_Attachments/Orolunga Map.png",
     "_Attachments/Orolunga.png",
     "Locations/The Hvalspyd.md",
-    "Drufi.md",
     "Items/Ring of Winter.md",
-    "Jarl Storvald.md",
     "Thyrm's Blessed Ale.md",
     "Bestiary/Frost Giants.md",
     "Z_Canvas/Plans.canvas",
