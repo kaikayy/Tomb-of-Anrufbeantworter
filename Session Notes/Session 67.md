@@ -162,3 +162,22 @@ We leave [[Vorn]] and [[Stomps]] with [[Musharib]] and [[Shago]]
 - [[Delwyn]] says he will wait here to take a rest
 	- We decide to all wait 10 minutes for [[Kadrin]] to return
 - After 10 minutes [[Kadrin]] doesn't appear
+- [[Talsen]] screams out for [[Kadrin]]
+	- [[Shago]] answers that he is not down with them
+- [[Talsen]] & [[Shadow]] try to go after [[Kadrin]], while [[Delwyn]] goes down to [[Shago]] and [[Musharib]] to take a Short Rest
+	- CON SAV: [[Nat.20]] (22), 13 - SAVE
+		- We both make it inside
+			- [[Summerwise]] comes back down the stairs, [[Delwyn]] gets a picture in his head with a moss ridden empty room with no one inside
+
+---
+
+##### SHORT REST ([[Delwyn]])
+- No one has showed up yet and [[Delwyn]] tries again to get inside [[Orolunga]]
+	- CON SAV: 23
+		- makes it inside as well
+
+---
+Inside [[Orolunga]]
+- [[Kadrin]]
+- 10 minutes later: [[Shadow]], [[Talsen]]
+- 1 hour and 10 minutes later: [[Delwyn]]
