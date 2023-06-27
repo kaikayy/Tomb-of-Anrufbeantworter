@@ -1,1 +1,1 @@
-![[We're so fucked.png]]
+![[Aratiel.png]]

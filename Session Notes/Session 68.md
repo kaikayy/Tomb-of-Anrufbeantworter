@@ -5,7 +5,7 @@ Recap - [[Talsen]]
 [[Kadrin]]:
 Light blinging his eyes, then total darkness, he doesn't seem to have a body and sees nothing around him.
 A light approaches and flies towards him, looking closer it seems to be a creature with wings that first appeared in [[Hisari]] when he grabbed the [[Longsword of Purging]]. The creature looks similar to him but older, it has wings, glowing eyes and hair.
-![[We're so fucked.png]]
+![[Aratiel.png]]
 A voice appears as hear before by him, labeled as the "Betrayer God"
 - Finally I was able to reach you
 - I don't know what you did but you seem to have temporarily stunned her, or at least the corruption in your heart
@@ -174,4 +174,27 @@ Q&A 3.0
 - [[Talsen]] asks if [[Zindar]] is in ranks with the [[Pirate Captains]] and [[The Flaming Fist]]
 	- He wants to get rid of them and [[Zhanthi]] provides the money
 - [[Delwyn]] asks how to find [[Shar]] in [[Port Nyanzaru]]
-	- 
+	- There is possibly a worshipper or a shrine within the city, you will be able to feel her presence if you grow near
+- [[Shadow]] asks about [[Skaldric]] and the [[Red Wizards of Thay]]
+	- [[Skaldric]] was seen in the City of [[Omu]]
+- [[Shadow]] asks how to get to [[Maztica]]
+	- I might know a way on how you get home, Young Princess
+- [[Talsen]] asks if the people in [[Port Nyanzaru]] are in imminent danger
+	- They don't seem to be as the Guard has it under control
+	- Though the recent earthquake has damaged the city, injured many and killed some
+	- The earthquake came from the [[Kobold Mountains]] and does not seem to be stopping if nothing is to be done about it
+	- It would seem that all the volcanoes around [[Chult]] have ignited at once and caused this to happen and the origin seems to be in the [[Kobold Mountains]]
+- [[Kadrin]] asks if the [[Eye of Zaltec]] can only be used once
+	- She doesn't know
+- [[Kadrin]] asks if it knows the [[Soul Warden]]
+	- I mostly heard this name from you and the [[Hag'se Organization]] who have appeared in [[Port Nyanzaru]] with the [[Red Wizards of Thay]]. It would seem like they are working together.
+- [[Kadrin]] asks about [[Aratiel]] and how he stunned the [[Soul Warden]]
+	- I cannot say for certain as I know little about her
+	- Perhaps [[Aratiel]] is your divine guardian
+	- I can sense the corruption you have in you is not from this world, it seems to have been effected by the magic of [[Orolunga]], mainly the odd specifics of time around here.
+	- It seems to have a hard time adjusting to the time here.
+	- Magic effecting time is quite high up and rare, it's powerful
+- [[Kadrin]] asks about [[Kairi]]
+	- She doesn't know anything outside of [[Chult]]
+
+[[Saja N’baza]] asks us if we accept the mission to kill [[Ras Nsi]]

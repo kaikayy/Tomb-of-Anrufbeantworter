@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ae4b79a33f581217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 68.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6345d2c9fcf7f89d",
@@ -191,16 +178,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ae4b79a33f581217",
+  "active": "53def60e06c48a33",
   "lastOpenFiles": [
-    "Locations/Port Nyanzaru.md",
+    "NPCs/Jessamine.md",
     "Session Notes/Session 68.md",
+    "Aratiel.md",
+    "_Attachments/Aratiel.png",
+    "NPCs/Soul Warden.md",
+    "PCs/Shadow.md",
+    "Maztica.md",
+    "desktop.ini",
+    "Locations/Port Nyanzaru.md",
     "Organizations/Ytepka Society.md",
     "Alisanda.md",
     "Z_Canvas/Plans.canvas",
     "Opal Crown.md",
-    "NPCs/Jessamine.md",
-    "Maztica.md",
     "Eye of Zaltec.md",
     "Shar.md",
     "Shade Mark.md",
@@ -210,19 +202,13 @@
     "NPCs/Dendar the Night Serpent.md",
     "_Attachments/Saja N’baza.png",
     "Saja N’baza.md",
-    "Aratiel.md",
     "NPCs/Lathender.md",
-    "_Attachments/We're so fucked.png",
     "Session Notes/Session 67.md",
-    "desktop.ini",
     "X_Stats/Nat.1.md",
     "X_Stats/Nat.20.md",
     "X_Stats/_Vorlage.md",
     "X_Stats/Inspiration.md",
     "X_Stats/{Nat.19}.md",
-    "Items/Thyrm's Blessed Ale.md",
-    "Plans.md",
-    "Items/Pirate Map.md",
     "Z_Canvas/Current Planning.canvas",
     "_Attachments/Orolunga Map.png",
     "_Attachments/Orolunga.png",
