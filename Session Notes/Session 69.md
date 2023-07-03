@@ -42,4 +42,32 @@ Last Questions
 - [[Saja N’baza]] offers us to stay for a "night" as time only passes here and not outside as long as we stay
 - [[Kadrin]] asks about [[Delwyn]]'s Time
 	- She does believe this time doesn't affect the [[Shade Mark]]
-- 
+
+---
+[[Kadrin]] and [[Talsen]] decide to leave and not stay for the night
+- [[Talsen]] asks one last thing, if his daughter is safe
+	- She doesn't know about her current state but knows about her wedding about 25 years
+- They leave the room and disappear from the other peoples vision
+
+---
+[[Shadow]] and [[Delwyn]] stay behind to rest
+#### LONG REST -> Day 9 (everyone except [[Kadrin]] & [[Talsen]])
+- [[Musharib]] is now at [[Exhaustion 1]]
+- [[Shago]] is no longer exhausted
+- [[Delwyn]] is now at [[Exhaustion 1]]
+
+- [[Shadow]] asks if the Scroll of Greater Restoration is able to remove the [[Shade Mark]]
+	- It is not
+- [[Delwyn]] asks why [[Shar]] wants the [[Aspects of Ubtao]] dead
+	- She stole the Shadow of [[Ubtao]] ([[Eshowdow]]) which became an Aspect itself and [[Shar]] consumed it
+	- She seems to have gotten a taste and probably grew stronger absorbing the Aspect and now wants more
+- [[Shadow]] leaves as she leaves [[Delwyn]] behind to ask a last personal question
+---
+- [[Delwyn]] looks [[Saja N’baza]] up and down to see if he could take her
+	- Religion: 8
+		- Looks like a big snake with a human face but she did give us magical boons and lives between time, hard to tell how powerful she is
+	- Arcana: 
+
+
+Weather:
+[[Kadrin]] cooks, DEX: 
