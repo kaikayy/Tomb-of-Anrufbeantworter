@@ -66,7 +66,10 @@ Last Questions
 - [[Delwyn]] looks [[Saja N’baza]] up and down to see if he could take her
 	- Religion: 8
 		- Looks like a big snake with a human face but she did give us magical boons and lives between time, hard to tell how powerful she is
-	- Arcana: 
+	- Arcana: Nat.1 (4)
+		- Doesn't know how to contact the [[Shadowfell]] for power or isn't able to
+	-Leaves the area
+---
 
 
 Weather:
