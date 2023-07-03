@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Black Opal Crown.md",
+                "file": "Session Notes/Session 68.md",
                 "mode": "source",
                 "source": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Black Opal Crown.md",
+                "file": "Session Notes/Session 68.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Black Opal Crown.md"
+                "file": "Session Notes/Session 68.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Black Opal Crown.md",
+                "file": "Session Notes/Session 68.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,6 +190,8 @@
   },
   "active": "e31775f63a248a32",
   "lastOpenFiles": [
+    "Session Notes/Session 69.md",
+    "Black Opal Crown.md",
     "Cleansing Temple_Shrine in Omu.md",
     "NPCs/Dendar the Night Serpent.md",
     "Plans.md",
@@ -203,7 +205,6 @@
     "Glossary/Shade Mark.md",
     "NPCs/Shar.md",
     "Locations/Outside of Chult/Maztica.md",
-    "Black Opal Crown.md",
     "NPCs/Alisanda.md",
     "Z_Canvas/Current Planning.canvas",
     "Z_Canvas/General.canvas",
@@ -211,7 +212,6 @@
     "X_Stats/Nat.1.md",
     "X_Stats/Nat.20.md",
     "X_Stats/{Nat.19}.md",
-    "Session Notes/Session 69.md",
     "NPCs/Jessamine.md",
     "_Attachments/Aratiel.png",
     "NPCs/Soul Warden.md",
