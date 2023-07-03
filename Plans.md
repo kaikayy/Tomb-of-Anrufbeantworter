@@ -8,10 +8,6 @@ Get the dwarven mine, [[Hrakhamar]] running again or see what happened there
 Info from a Guide [[Musharib]], [[Hew Hackinstone]]
 Near [[Kobold Mountains]]
 
-Find the Naga Guardian of [[Orolunga]] near the [[Mistcliff Mountains]]
-- Find [[Vorn]] on the way
-	- Search for [[Orolunga]], [[Artus Cimber]] with [[Kadrin]]'s sister and the [[City of Mezro]]
-
 Raid [[Fort Beluarian]] and steal the Evidence of [[The Flaming Fist]] and their Leader [[Liara Portyr]] working together with the [[Pirate Captains]] and bring it back to [[Zhanthi]]
 - Maybe just accompany [[Rokah]] the spy to cause a distraction for him
 
@@ -22,7 +18,7 @@ Raid [[Fort Beluarian]] and steal the Evidence of [[The Flaming Fist]] and their
 	- Commander [[Liara Portyr]]
 
 
-Additional Plans
+Additionals
 - Visit [[Mbala]]
 - [[Shadow]] Storyline to find and maybe kill [[Skaldric]]
 - [[Shadowshiver]] and the shady [[Trade Princes]] (singular)

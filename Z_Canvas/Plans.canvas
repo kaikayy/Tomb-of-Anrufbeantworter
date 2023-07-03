@@ -150,7 +150,8 @@
 		{"type":"file","file":"PCs/Kairi.md","id":"47c1573ccf97c00b","x":1391,"y":2088,"width":130,"height":62,"color":"4"},
 		{"type":"file","file":"Items/Heart of the Wild.md","id":"c445a3365877ad26","x":1409,"y":2312,"width":345,"height":50,"color":"6"},
 		{"type":"file","file":"PCs/Kadrin.md","id":"08b04146108f1149","x":1619,"y":2094,"width":170,"height":50,"color":"1"},
-		{"type":"file","file":"Plans.md","id":"806cddc702d8b482","x":2197,"y":1938,"width":840,"height":1137}
+		{"type":"file","file":"Plans.md","id":"806cddc702d8b482","x":2197,"y":1938,"width":840,"height":1137},
+		{"id":"31fffffd6ba4e49e","x":-2580,"y":2092,"width":140,"height":54,"color":"4","type":"file","file":"NPCs/Troy.md"}
 	],
 	"edges":[
 		{"id":"7e03bdd89aa2bde2","fromNode":"b7a55706110dd281","fromSide":"right","toNode":"e0e875df3d82bf32","toSide":"left","label":"Sell to"},
@@ -301,6 +302,7 @@
 		{"id":"5b82563d4e2fa92a","fromNode":"64f6aec1f3b90ba6","fromSide":"bottom","toNode":"6ec77123a1de8d56","toSide":"top"},
 		{"id":"53552ba0010fe734","fromNode":"e977b27d08f79322","fromSide":"left","toNode":"64f6aec1f3b90ba6","toSide":"left"},
 		{"id":"0797abc20d8aaa3e","fromNode":"e785d429add16582","fromSide":"left","toNode":"58c2d75326bfa247","toSide":"right"},
-		{"id":"5ddbee0b19168e4f","fromNode":"d3883e0bcb384c65","fromSide":"top","toNode":"d3cff3833b0e45b4","toSide":"bottom"}
+		{"id":"5ddbee0b19168e4f","fromNode":"d3883e0bcb384c65","fromSide":"top","toNode":"d3cff3833b0e45b4","toSide":"bottom"},
+		{"id":"0327a6ea8069bc6a","fromNode":"31fffffd6ba4e49e","fromSide":"right","toNode":"5364d22cb7c8f21a","toSide":"left"}
 	]
 }
