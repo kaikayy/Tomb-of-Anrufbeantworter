@@ -12,3 +12,14 @@ Recap - [[Kadrin]]
 	2. The [[Bara]]e of the City must deem that [[Chult]] is in no further danger
 - It seems like we all want [[Ras Nsi]] gone but find it hard to image what would happen if the [[City of Mezro]] would come back
 - We agree to kill [[Ras Nsi]]
+- [[Saja N’baza]] assures us that [[Chult]] has never seen much inter-city conflict aside from [[Omu]]
+	- She bestows a boon upon us and declares us "Heroes of [[Chult]]"
+	- d100
+		- [[Kadrin]]: 50
+			- 
+		- [[Shadow]]: 80
+			- 
+		- [[Delwyn]]: 38
+			- 
+		- [[Talsen]]: 91
+			- 
