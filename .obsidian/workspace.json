@@ -8,103 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53def60e06c48a33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Saja N’baza.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "94d393c2328fdf29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Eye of Zaltec.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "44be41df7fcbdbf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cleansing Shrine in Omu.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "7fb0209d1bdbd852",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Session Notes/Session 68.md",
-                "mode": "source",
-                "source": true
+                "file": "Z_Canvas/Plans.canvas",
+                "viewState": {
+                  "x": 301.28943669827913,
+                  "y": 1335.442278727696,
+                  "zoom": -2.0575649865168946
+                }
               }
             }
           },
           {
-            "id": "349a9cc4a81df4a7",
+            "id": "9d7040c4b1f3ccdb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Items/Eye of Zaltec.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "83b35c48483958f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Black Opal Crown.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f1a637a1b016c2c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 68.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "24a726903e92163a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Shade Mark.md",
-                "mode": "source",
-                "source": true
+                "file": "Z_Canvas/Plans.canvas",
+                "viewState": {
+                  "x": 1117,
+                  "y": 887.5,
+                  "zoom": -2.5737178541456784
+                }
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 68.md",
+                "file": "Z_Canvas/Plans.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 68.md"
+                "file": "Z_Canvas/Plans.canvas"
               }
             }
           },
@@ -205,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 68.md",
+                "file": "Z_Canvas/Plans.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,20 +179,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f1a637a1b016c2c6",
+  "active": "9d7040c4b1f3ccdb",
   "lastOpenFiles": [
-    "Glossary/Shade Mark.md",
-    "Session Notes/Session 68.md",
-    "Cleansing Shrine in Omu.md",
-    "Items/Eye of Zaltec.md",
-    "NPCs/Shar.md",
-    "NPCs/Saja N’baza.md",
     "Plans.md",
+    "Z_Canvas/Plans.canvas",
+    "Session Notes/Session 68.md",
+    "NPCs/Saja N’baza.md",
+    "Items/Eye of Zaltec.md",
+    "Cleansing Temple_Shrine in Omu.md",
+    "NPCs/Aratiel.md",
+    "Glossary/Shade Mark.md",
+    "NPCs/Shar.md",
     "Locations/Outside of Chult/Maztica.md",
     "Black Opal Crown.md",
     "NPCs/Alisanda.md",
-    "NPCs/Aratiel.md",
-    "Z_Canvas/Plans.canvas",
     "Z_Canvas/Current Planning.canvas",
     "Z_Canvas/General.canvas",
     "Locations/City of Mezro.md",
@@ -278,7 +212,6 @@
     "NPCs/Ras Nsi.md",
     "NPCs/Dendar the Night Serpent.md",
     "_Attachments/Saja N’baza.png",
-    "NPCs/Lathender.md",
     "_Attachments/Orolunga Map.png",
     "_Attachments/Orolunga.png",
     "_Attachments/Red Wizards of Thay Ziggurat.png",

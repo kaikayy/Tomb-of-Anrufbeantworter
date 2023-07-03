@@ -117,7 +117,7 @@ More Q&A
 - [[Delwyn]] asks if he will get rid of the [[Shade Mark]] and free his mother if he destroys the [[Soulmongerer]]
 	- [[Saja N’baza]]: That I cannot say, however it seems like your mother has made some kind of pact with [[Shar]] before your birth and you were the price she paid.
 	- I recommend that you seek out [[Shar]] herself, I can sense her presence in [[Port Nyanzaru]]. It is most likely in a place where people go when they have lost everything.
-	- The Second Path would be to cleanse this [[Shade Mark]]. Whitin the City of [[Omu]] lies a hidden Temple that can cleanse corruption, impurity, people. It remains hidden to the [[Yuan-Ti]] as of now. There is an agent in [[Omu]] that can help you find the entrance. You will find her in the form of a Chultan Woman, adorned with many colorful feathers and a staff. her name is [[Eku]].
+	- The Second Path would be to cleanse this [[Shade Mark]]. Within the City of [[Omu]] lies a hidden Temple that can cleanse corruption ([[Cleansing Temple_Shrine in Omu|Temple Name]]), impurity, people. It remains hidden to the [[Yuan-Ti]] as of now. There is an agent in [[Omu]] that can help you find the entrance. You will find her in the form of a Chultan Woman, adorned with many colorful feathers and a staff. her name is [[Eku]].
 - When I cleanse this mark, how do I save my mother?
 	- Maybe destroying the [[Soulmongerer]] will set her free
 	- Maybe you have to find a way to break the contract that she made with [[Shar]]

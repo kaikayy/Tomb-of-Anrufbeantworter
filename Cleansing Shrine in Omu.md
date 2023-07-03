@@ -1,1 +1,0 @@
-Hidden somewhere with the powers to cleanse all corruption but the one affecting [[Kadrin]] and [[Hubris]]
