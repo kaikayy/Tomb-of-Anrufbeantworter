@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Dendar the Night Serpent.md",
+                "file": "Black Opal Crown.md",
                 "mode": "source",
                 "source": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Dendar the Night Serpent.md",
+                "file": "Black Opal Crown.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Dendar the Night Serpent.md"
+                "file": "Black Opal Crown.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Dendar the Night Serpent.md",
+                "file": "Black Opal Crown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,6 +190,8 @@
   },
   "active": "e31775f63a248a32",
   "lastOpenFiles": [
+    "Cleansing Temple_Shrine in Omu.md",
+    "NPCs/Dendar the Night Serpent.md",
     "Plans.md",
     "NPCs/Inete.md",
     "Z_Canvas/Plans.canvas",
@@ -197,7 +199,6 @@
     "Session Notes/Session 68.md",
     "NPCs/Saja N’baza.md",
     "Items/Eye of Zaltec.md",
-    "Cleansing Temple_Shrine in Omu.md",
     "NPCs/Aratiel.md",
     "Glossary/Shade Mark.md",
     "NPCs/Shar.md",
@@ -220,7 +221,6 @@
     "Organizations/Ytepka Society.md",
     "Opal Crown.md",
     "Session Notes/Session 56.md",
-    "NPCs/Ras Nsi.md",
     "_Attachments/Saja N’baza.png",
     "_Attachments/Orolunga Map.png",
     "_Attachments/Orolunga.png",
