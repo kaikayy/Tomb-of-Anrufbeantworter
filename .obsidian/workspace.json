@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 68.md",
+                "file": "Session Notes/Session 69.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 68.md",
+                "file": "Session Notes/Session 69.md",
                 "mode": "preview",
                 "source": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 68.md",
+                "file": "Session Notes/Session 69.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 68.md"
+                "file": "Session Notes/Session 69.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 68.md",
+                "file": "Session Notes/Session 69.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,10 +197,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "097e99fbc3897fcc",
+  "active": "9e0c3c67d41ff86b",
   "lastOpenFiles": [
-    "Session Notes/Session 69.md",
     "Session Notes/Session 68.md",
+    "Session Notes/Session 69.md",
     "Locations/City of Mezro.md",
     "Cleansing Temple_Shrine in Omu.md",
     "Plans.md",

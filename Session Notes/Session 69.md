@@ -16,10 +16,30 @@ Recap - [[Kadrin]]
 	- She bestows a boon upon us and declares us "Heroes of [[Chult]]"
 	- d100
 		- [[Kadrin]]: 50
-			- 
+			- Mole Charm
+			- 2 use, action, gain a burrowing speed of 15 ft and blindsight out to 15 ft for 1 hour
 		- [[Shadow]]: 80
-			- 
+			- Switcheroo Charm
+			- 3 uses, action, choose one creature within 90 feet of you, you and that creature instantly swap positions
 		- [[Delwyn]]: 38
-			- 
+			- Charm of Glibness
+			- 3 uses, action, you have advantage on all charisma checks for 1 hour
 		- [[Talsen]]: 91
-			- 
+			- Charm of Constitution
+			- 1 use, action, your constitution score increases by 6 for 1 hour, you can end the effect early when you take damage to reduce the damage you take to zero.
+	- She produces a scroll of greater restoration to help us help [[Xandala]]
+
+Last Questions
+- [[Talsen]] asks about the [[Black Opal Crown]]
+	- It is needed to resurrect [[Dendar the Night Serpent]]
+	- The [[Yuan-Ti]] have found a group of adventurers that were searching for it
+	- She doesn't know its origin, location or purpose
+- [[Kadrin]] asks if she knows anything important about [[Lathender]]
+	- He is also referred to as "The Dawn Lord"
+	- Good Aligned God
+	- Resides on "Mount Celestia"
+	- He is not known for tricks but wishing for good in the world
+- [[Saja N’baza]] offers us to stay for a "night" as time only passes here and not outside as long as we stay
+- [[Kadrin]] asks about [[Delwyn]]'s Time
+	- She does believe this time doesn't affect the [[Shade Mark]]
+- 
