@@ -11,29 +11,14 @@
             "id": "53def60e06c48a33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Session Notes/Session 68.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "6345d2c9fcf7f89d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8c6b27f3138b8441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 56.md",
-                "mode": "source",
-                "source": true
+                "file": "Z_Canvas/Current Planning.canvas",
+                "viewState": {
+                  "x": 349.4258890671697,
+                  "y": -266.2944048354646,
+                  "zoom": -0.5035494931914013
+                }
               }
             }
           }
@@ -103,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 68.md",
+                "file": "Z_Canvas/Current Planning.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 68.md"
+                "file": "Z_Canvas/Current Planning.canvas"
               }
             }
           },
@@ -138,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 68.md",
+                "file": "Z_Canvas/Current Planning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,8 +165,14 @@
   },
   "active": "53def60e06c48a33",
   "lastOpenFiles": [
-    "NPCs/Jessamine.md",
     "Session Notes/Session 68.md",
+    "Locations/City of Mezro.md",
+    "Z_Canvas/Current Planning.canvas",
+    "X_Stats/Nat.1.md",
+    "X_Stats/Nat.20.md",
+    "X_Stats/{Nat.19}.md",
+    "Session Notes/Session 69.md",
+    "NPCs/Jessamine.md",
     "Aratiel.md",
     "_Attachments/Aratiel.png",
     "NPCs/Soul Warden.md",
@@ -204,12 +195,7 @@
     "Saja N’baza.md",
     "NPCs/Lathender.md",
     "Session Notes/Session 67.md",
-    "X_Stats/Nat.1.md",
-    "X_Stats/Nat.20.md",
     "X_Stats/_Vorlage.md",
-    "X_Stats/Inspiration.md",
-    "X_Stats/{Nat.19}.md",
-    "Z_Canvas/Current Planning.canvas",
     "_Attachments/Orolunga Map.png",
     "_Attachments/Orolunga.png",
     "Z_Canvas/General.canvas",

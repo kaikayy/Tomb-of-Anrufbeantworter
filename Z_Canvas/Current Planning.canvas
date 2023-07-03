@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"group","id":"ae36d22180189616","x":-780,"y":-610,"width":902,"height":1090,"color":"5","label":"Start->Now"},
+		{"type":"group","id":"ae36d22180189616","x":-780,"y":-610,"width":1100,"height":1090,"color":"5","label":"Start->Now"},
 		{"type":"group","id":"3b6b0199212a3ecd","x":-1180,"y":-610,"width":350,"height":500,"color":"#ffff00","label":"Key / Legende"},
 		{"type":"file","file":"Locations/Hrakhamar.md","id":"fd0f5936bc79229e","x":485,"y":-135,"width":255,"height":60},
 		{"type":"file","file":"NPCs/Artus Cimber.md","id":"7f6384c52e35fc9b","x":1100,"y":-135,"width":400,"height":60},
@@ -16,19 +16,18 @@
 		{"type":"text","text":"## Get Boat","id":"6636ff90c6def45a","x":2241,"y":1,"width":250,"height":79},
 		{"type":"file","file":"NPCs/Wakanga O’tamu.md","id":"e29ba8ca341f9903","x":2189,"y":390,"width":355,"height":60},
 		{"type":"text","text":"## Get Metal Armor","id":"0eb3584fb0d84a83","x":2275,"y":-380,"width":182,"height":81},
-		{"type":"text","text":"## Find Information on [[Artus Cimber]]'s location","id":"a35368ada2a64c15","x":-47,"y":-570,"width":337,"height":100},
-		{"type":"file","file":"Locations/City of Mezro.md","id":"97afcb5a6b96b57b","x":1100,"y":-550,"width":400,"height":60},
-		{"type":"text","text":"## Place where [[Artus Cimber]] is","id":"bc7eddf1cca028b0","x":1120,"y":-280,"width":360,"height":80},
 		{"type":"text","text":"## Keep cool Shield Guardian","id":"34cdb30ae06abd70","x":2189,"y":520,"width":355,"height":90},
 		{"type":"file","file":"Z_Canvas/Plans.canvas","id":"ca8e80bc0a3e02e4","x":2840,"y":-305,"width":400,"height":400,"color":"6"},
+		{"type":"text","text":"## Inform at [[The Hvalspyd]]","id":"9c1d13938ab17416","x":580,"y":-490,"width":250,"height":92},
+		{"type":"text","text":"## Find Information on [[Artus Cimber]]'s location","id":"a35368ada2a64c15","x":-47,"y":-570,"width":337,"height":100,"color":"4"},
 		{"type":"text","text":"## Map out Area for [[Lerek Dashlynd]]","id":"3cf192e00c639af3","x":-15,"y":1,"width":270,"height":79},
 		{"type":"file","file":"Locations/Orolunga.md","id":"3f1747e3101e465e","x":-9,"y":-135,"width":260,"height":60,"color":"4"},
 		{"type":"file","file":"NPCs/Vorn.md","id":"f81ac4f15209f8a1","x":-400,"y":-135,"width":140,"height":60,"color":"4"},
 		{"type":"file","file":"Items/Vorn's Amulet.md","id":"20c5e9550e410519","x":-490,"y":390,"width":320,"height":60,"color":"4"},
 		{"type":"file","file":"NPCs/Thyra Permafrost.md","id":"68193ca24cc7a861","x":-500,"y":-550,"width":340,"height":60,"color":"3"},
-		{"type":"text","text":"## Naga Guardian","id":"e32cb10cd9e7544e","x":20,"y":-380,"width":201,"height":81},
+		{"type":"text","text":"## Naga Guardian","id":"e32cb10cd9e7544e","x":20,"y":-380,"width":201,"height":81,"color":"4"},
 		{"type":"text","text":"# Start","id":"507d694c8bbcced4","x":-760,"y":-135,"width":139,"height":60,"color":"4"},
-		{"id":"9c1d13938ab17416","x":580,"y":-490,"width":250,"height":92,"type":"text","text":"## Inform at [[The Hvalspyd]]"}
+		{"id":"0f9575fc2bb20cfb","x":1100,"y":-550,"width":400,"height":60,"type":"file","file":"Locations/Omu.md"}
 	],
 	"edges":[
 		{"id":"8454453503105ffc","fromNode":"3f1747e3101e465e","fromSide":"bottom","toNode":"3cf192e00c639af3","toSide":"top"},
@@ -48,18 +47,17 @@
 		{"id":"7c402b52d35f8e66","fromNode":"f81ac4f15209f8a1","fromSide":"bottom","toNode":"20c5e9550e410519","toSide":"top","color":"4","label":"find & get"},
 		{"id":"448e97b1d3ff4001","fromNode":"993f0672cd5cd241","fromSide":"bottom","toNode":"e29ba8ca341f9903","toSide":"top"},
 		{"id":"b512d3957aed387a","fromNode":"7f6384c52e35fc9b","fromSide":"left","toNode":"e83040a4ad3a86cb","toSide":"top","label":"find"},
-		{"id":"bd042f44ef469b71","fromNode":"a35368ada2a64c15","fromSide":"right","toNode":"97afcb5a6b96b57b","toSide":"left","label":"maybe go to"},
-		{"id":"25197556220dfd2b","fromNode":"97afcb5a6b96b57b","fromSide":"bottom","toNode":"bc7eddf1cca028b0","toSide":"top","toEnd":"none","label":"or"},
-		{"id":"5f660f3712946c49","fromNode":"bc7eddf1cca028b0","fromSide":"bottom","toNode":"7f6384c52e35fc9b","toSide":"top"},
 		{"id":"f7a6e5ad5085be30","fromNode":"e32cb10cd9e7544e","fromSide":"top","toNode":"a35368ada2a64c15","toSide":"bottom"},
 		{"id":"c456ca6acd32a175","fromNode":"f81ac4f15209f8a1","fromSide":"top","toNode":"68193ca24cc7a861","toSide":"bottom","color":"3","label":"meet"},
-		{"id":"15b9ccaae8fa00f7","fromNode":"3f1747e3101e465e","fromSide":"top","toNode":"e32cb10cd9e7544e","toSide":"bottom","label":"search & find"},
+		{"id":"15b9ccaae8fa00f7","fromNode":"3f1747e3101e465e","fromSide":"top","toNode":"e32cb10cd9e7544e","toSide":"bottom","color":"4","label":"search & find"},
 		{"id":"f9c29abd74164d0f","fromNode":"507d694c8bbcced4","fromSide":"right","toNode":"f81ac4f15209f8a1","toSide":"left","color":"4","label":"Go to"},
 		{"id":"822294aee8b0f046","fromNode":"20c5e9550e410519","fromSide":"right","toNode":"34cdb30ae06abd70","toSide":"left","label":"or don't idk"},
 		{"id":"2a50e8c7e3800551","fromNode":"34cdb30ae06abd70","fromSide":"right","toNode":"e29ba8ca341f9903","toSide":"right","label":"🖕\n"},
 		{"id":"5ec177f0a9aae212","fromNode":"993f0672cd5cd241","fromSide":"right","toNode":"ca8e80bc0a3e02e4","toSide":"left","label":"What's next?"},
-		{"id":"c93f3d323e0a95a5","fromNode":"9c1d13938ab17416","fromSide":"right","toNode":"97afcb5a6b96b57b","toSide":"left"},
 		{"id":"36714b63063761bb","fromNode":"68193ca24cc7a861","fromSide":"right","toNode":"a35368ada2a64c15","toSide":"left","color":"1"},
-		{"id":"f3f043ae888015d9","fromNode":"68193ca24cc7a861","fromSide":"bottom","toNode":"9c1d13938ab17416","toSide":"left"}
+		{"id":"f3f043ae888015d9","fromNode":"68193ca24cc7a861","fromSide":"bottom","toNode":"9c1d13938ab17416","toSide":"left"},
+		{"id":"208322395dcf85c4","fromNode":"0f9575fc2bb20cfb","fromSide":"bottom","toNode":"7f6384c52e35fc9b","toSide":"top","label":"find"},
+		{"id":"34a551ca04bf793d","fromNode":"a35368ada2a64c15","fromSide":"right","toNode":"0f9575fc2bb20cfb","toSide":"left","label":"go to"},
+		{"id":"c9990a194fa4a68c","fromNode":"9c1d13938ab17416","fromSide":"right","toNode":"0f9575fc2bb20cfb","toSide":"left"}
 	]
 }

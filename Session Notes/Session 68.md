@@ -27,6 +27,7 @@ _The sound of ice cracking can be heard and [[Aratiel]]_
 _Black tendrils break the connection between [[Aratiel]] and [[Kadrin]] as he reaches out for him. Another loud cracking sound is heard.
 A giant City in it's prime can be seen from a higher up perspective, he looks down a Ziggurat, [[Orolunga]], in it's prime. The sun rising in front of us._
 
+---
 [[Talsen]], [[Shadow]] and [[Delwyn]] all cough up smoke beside him at the same time.
 
 [[Kadrin]] grants [[Delwyn]] 7 HP
