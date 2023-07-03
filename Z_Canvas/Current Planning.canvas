@@ -19,6 +19,7 @@
 		{"type":"text","text":"## Keep cool Shield Guardian","id":"34cdb30ae06abd70","x":2189,"y":520,"width":355,"height":90},
 		{"type":"file","file":"Z_Canvas/Plans.canvas","id":"ca8e80bc0a3e02e4","x":2840,"y":-305,"width":400,"height":400,"color":"6"},
 		{"type":"text","text":"## Inform at [[The Hvalspyd]]","id":"9c1d13938ab17416","x":580,"y":-490,"width":250,"height":92},
+		{"type":"file","file":"Locations/Omu.md","id":"0f9575fc2bb20cfb","x":1100,"y":-550,"width":400,"height":60},
 		{"type":"text","text":"## Find Information on [[Artus Cimber]]'s location","id":"a35368ada2a64c15","x":-47,"y":-570,"width":337,"height":100,"color":"4"},
 		{"type":"text","text":"## Map out Area for [[Lerek Dashlynd]]","id":"3cf192e00c639af3","x":-15,"y":1,"width":270,"height":79},
 		{"type":"file","file":"Locations/Orolunga.md","id":"3f1747e3101e465e","x":-9,"y":-135,"width":260,"height":60,"color":"4"},
@@ -27,7 +28,7 @@
 		{"type":"file","file":"NPCs/Thyra Permafrost.md","id":"68193ca24cc7a861","x":-500,"y":-550,"width":340,"height":60,"color":"3"},
 		{"type":"text","text":"## Naga Guardian","id":"e32cb10cd9e7544e","x":20,"y":-380,"width":201,"height":81,"color":"4"},
 		{"type":"text","text":"# Start","id":"507d694c8bbcced4","x":-760,"y":-135,"width":139,"height":60,"color":"4"},
-		{"id":"0f9575fc2bb20cfb","x":1100,"y":-550,"width":400,"height":60,"type":"file","file":"Locations/Omu.md"}
+		{"id":"97808503072c68d3","x":-260,"y":-369,"width":251,"height":60,"color":"4","type":"file","file":"NPCs/Saja N’baza.md"}
 	],
 	"edges":[
 		{"id":"8454453503105ffc","fromNode":"3f1747e3101e465e","fromSide":"bottom","toNode":"3cf192e00c639af3","toSide":"top"},
@@ -58,6 +59,7 @@
 		{"id":"f3f043ae888015d9","fromNode":"68193ca24cc7a861","fromSide":"bottom","toNode":"9c1d13938ab17416","toSide":"left"},
 		{"id":"208322395dcf85c4","fromNode":"0f9575fc2bb20cfb","fromSide":"bottom","toNode":"7f6384c52e35fc9b","toSide":"top","label":"find"},
 		{"id":"34a551ca04bf793d","fromNode":"a35368ada2a64c15","fromSide":"right","toNode":"0f9575fc2bb20cfb","toSide":"left","label":"go to"},
-		{"id":"c9990a194fa4a68c","fromNode":"9c1d13938ab17416","fromSide":"right","toNode":"0f9575fc2bb20cfb","toSide":"left"}
+		{"id":"c9990a194fa4a68c","fromNode":"9c1d13938ab17416","fromSide":"right","toNode":"0f9575fc2bb20cfb","toSide":"left"},
+		{"id":"5020de20cdf44b7f","fromNode":"97808503072c68d3","fromSide":"right","toNode":"e32cb10cd9e7544e","toSide":"left","toEnd":"none","color":"4"}
 	]
 }

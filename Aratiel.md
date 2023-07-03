@@ -1,1 +1,0 @@
-![[Aratiel.png]]

@@ -77,7 +77,7 @@ We hear a voice behind us offering its assistance. Inside the Ziggurat we see th
 - [[Talsen]] asks how much longer we have left
 	- It doesn't know, doesn't seem to be an easy task, they are looking for an artifact that is rumored to be in [[Omu]] but they have not found it yet.
 - [[Shadow]] asks if it's the [[Soulmongerer]]
-	- It doesn't know what this is, they ear searching for the [[Black Opal Crown]]
+	- It doesn't know what this is, they are searching for the [[Black Opal Crown]]
 - [[Talsen]] asks for its relationship with [[Yuan-Ti]]
 	- They are or were enemies and only seek pure evil
 - [[Talsen]] asks if it knows about [[The Hissing]]

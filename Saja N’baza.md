@@ -1,1 +1,0 @@
-![[Saja N’baza.png]]
