@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Z_Canvas/Current Planning.canvas",
+                "file": "Z_Canvas/Plans.canvas",
                 "viewState": {
-                  "x": 349.4258890671697,
-                  "y": -266.2944048354646,
-                  "zoom": -0.5035494931914013
+                  "x": -1593.2418558226784,
+                  "y": 1706.420150432156,
+                  "zoom": -0.40719189000911155
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z_Canvas/Current Planning.canvas",
+                "file": "NPCs/Lathender.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z_Canvas/Current Planning.canvas"
+                "file": "NPCs/Lathender.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z_Canvas/Current Planning.canvas",
+                "file": "NPCs/Lathender.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +165,12 @@
   },
   "active": "53def60e06c48a33",
   "lastOpenFiles": [
+    "Z_Canvas/General.canvas",
+    "Alisanda.md",
+    "Z_Canvas/Plans.canvas",
+    "Z_Canvas/Current Planning.canvas",
     "Session Notes/Session 68.md",
     "Locations/City of Mezro.md",
-    "Z_Canvas/Current Planning.canvas",
     "X_Stats/Nat.1.md",
     "X_Stats/Nat.20.md",
     "X_Stats/{Nat.19}.md",
@@ -181,8 +184,6 @@
     "desktop.ini",
     "Locations/Port Nyanzaru.md",
     "Organizations/Ytepka Society.md",
-    "Alisanda.md",
-    "Z_Canvas/Plans.canvas",
     "Opal Crown.md",
     "Eye of Zaltec.md",
     "Shar.md",
@@ -195,10 +196,8 @@
     "Saja N’baza.md",
     "NPCs/Lathender.md",
     "Session Notes/Session 67.md",
-    "X_Stats/_Vorlage.md",
     "_Attachments/Orolunga Map.png",
     "_Attachments/Orolunga.png",
-    "Z_Canvas/General.canvas",
     "_Attachments/Red Wizards of Thay Ziggurat.png",
     "Z_Canvas/Main Story.canvas",
     "Z_Canvas",
