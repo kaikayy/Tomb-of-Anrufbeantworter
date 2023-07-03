@@ -71,6 +71,17 @@ Last Questions
 	-Leaves the area
 ---
 
+Weather: Light Ash Fall
+The Snakes are gone and the stairwell is free, behind us is an empty room overgrown with moss.
+We look down and see our companions where we left them with a burned out campfire. [[Shago]] is digging graves for us.
+We move down the Ziggurat, no challenges oppose us on our way down.
+[[Shago]] is glad we're alive and hugs us, [[Musharib]] asks what we found out, [[Stomps]] is hungry.
 
-Weather:
-[[Kadrin]] cooks, DEX: 
+[[Kadrin]] cooks, Rations
+
+We discuss where we want to go while we eat
+- [[Musharib]] mentions [[Hrakhamar]] and points out where it is on the Map
+	- We all decide to keep our promise and go towards [[Hrakhamar]]
+	- [[Musharib]] talks about a Dragon ([[Tzindelor]]) sitting in the Adamantine Mine and the [[Firenewt]] taking over the mine
+		- They made the [[Wyrmheart Mine]] where they found an Adamantine vein
+		- The main focus is getting back the [[Gauntlet of Moradin]]
