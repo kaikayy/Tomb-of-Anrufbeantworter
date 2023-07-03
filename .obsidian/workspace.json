@@ -28,26 +28,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e31775f63a248a32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 68.md",
+                "file": "Session Notes/Session 69.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 68.md",
+                "file": "Session Notes/Session 69.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 68.md"
+                "file": "Session Notes/Session 69.md"
               }
             }
           },
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 68.md",
+                "file": "Session Notes/Session 69.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,17 +176,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e31775f63a248a32",
+  "active": "8754d3feff6adcf1",
   "lastOpenFiles": [
-    "Session Notes/Session 69.md",
+    "Plans.md",
     "Black Opal Crown.md",
+    "Session Notes/Session 68.md",
+    "NPCs/Zhanthi.md",
+    "Session Notes/Session 69.md",
     "Cleansing Temple_Shrine in Omu.md",
     "NPCs/Dendar the Night Serpent.md",
-    "Plans.md",
     "NPCs/Inete.md",
     "Z_Canvas/Plans.canvas",
     "NPCs/Soulblade.md",
-    "Session Notes/Session 68.md",
     "NPCs/Saja N’baza.md",
     "Items/Eye of Zaltec.md",
     "NPCs/Aratiel.md",
@@ -220,7 +209,6 @@
     "Locations/Port Nyanzaru.md",
     "Organizations/Ytepka Society.md",
     "Opal Crown.md",
-    "Session Notes/Session 56.md",
     "_Attachments/Saja N’baza.png",
     "_Attachments/Orolunga Map.png",
     "_Attachments/Orolunga.png",
