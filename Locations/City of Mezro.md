@@ -1,6 +1,8 @@
 - Location in [[Chult]]
 - Built by [[Ubtao]]
 - Former Capital of [[Chult]]
-- Ancient Ruin, long fallen to the Spellplague
+- Ancient Ruin, long fallen to the Spellplague (false)
+- Was teleported to a Demi plane by the [[Bara]]e in the City 
+	- among them [[Alisanda]], [[Artus Cimber]]'s Wife
 - [[Artus Cimber]] asked how to bring the City back
 - Marked on the Map of [[Zaroum Al-Saryak]] by a big Circle
