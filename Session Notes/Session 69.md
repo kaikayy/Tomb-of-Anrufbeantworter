@@ -1,5 +1,7 @@
 Recap - [[Kadrin]]
 
+![[69.png]]
+
 [[Talsen]] asks if we can get a bit of distance to talk amongst ourselves about this question
 - We cannot as leaving this rooms means leaving this place entirely
 - We discuss here
@@ -85,3 +87,18 @@ We discuss where we want to go while we eat
 	- [[Musharib]] talks about a Dragon ([[Tzindelor]]) sitting in the Adamantine Mine and the [[Firenewt]] taking over the mine
 		- They made the [[Wyrmheart Mine]] where they found an Adamantine vein
 		- The main focus is getting back the [[Gauntlet of Moradin]]
+		- It's not known where it is. It's last known location is inside the vault of the forge.
+
+[[Talsen]] activates the [[Webway of Ubtao]] towards the [[Ruin of Bolnirtecla]]
+- [[Talsen]] hears [[Ssaztehsi]]'s voice in his head
+	- It is nice that you finally see how annoying Naga can be
+	- I do agree with her goal of killing [[Ras Nsi]] although we might have different reasons
+	- I will continue teaching you and I think it is time for you to improve yourself as she talked about him
+		- [[Talsen]] gets Bloodscale Teachings
+
+We arrive at the [[Ruin of Bolnirtecla]]
+- [[Shadow]] leads the way
+- [[Kadrin]] CON SAV: 7
+	- [[Exhaustion 1]]
+- We decide to make camp, wait for night and then take a rest
+- [[Talsen]] CON SAV: 20
