@@ -1,6 +1,6 @@
 # Last Session: 69
 
-Recap - Kadrin
+Recap - [Kadrin](PCs/Kadrin.md)
 
 ![69](https://github.com/kaikayy/Tomb-of-Anrufbeantworter/blob/main/_Attachments/69.png)
 
