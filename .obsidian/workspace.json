@@ -14,25 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "Welcome.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b41c8693814a7d5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plans.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +162,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "097e99fbc3897fcc",
+  "active": "540684f0c808b5d4",
   "lastOpenFiles": [
     "Welcome.md",
     "_Attachments/Logo BP.jpeg",
