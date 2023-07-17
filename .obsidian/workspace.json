@@ -19,6 +19,18 @@
               }
             },
             "group": "842ebe833607206c"
+          },
+          {
+            "id": "e842fc7f057d1d34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ayen Hervalur.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       },
@@ -184,8 +196,9 @@
   },
   "active": "bc60e20cde41d720",
   "lastOpenFiles": [
-    "PCs/Delwyn.md",
+    "Ayen Hervalur.md",
     "Session Notes/Session 70.md",
+    "PCs/Delwyn.md",
     "Session Notes/Session 69.md",
     "Welcome.md",
     "desktop.ini",
@@ -223,7 +236,6 @@
     "NPCs/Dendar the Night Serpent.md",
     "NPCs/Inete.md",
     "NPCs/Soulblade.md",
-    "NPCs/Saja N’baza.md",
     "Z_Canvas/Current Planning.canvas",
     "Z_Canvas/General.canvas",
     "_Attachments/Aratiel.png",

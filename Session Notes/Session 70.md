@@ -31,3 +31,33 @@ We continue to have light conversation until mid afternoon
 - [[Kadrin]] play his drums, Performance: 13
 ---
 [[Kadrin]] trains with [[Hubris]] and the [[Longsword of Purging]]
+- [[Talsen]] tries to copy the Map of [[Orolunga]] again, DEX: 9, 
+- [[Delwyn]] plays around with Shape Water and extinguishes the campfire and lights it again with Prestidigitation before someone notices
+- [[Shadow]] notices an [[Almiraj]] sitting beside [[Musharib]] glowing faintly blue and transparent
+	- observes it
+		- it lays down beside [[Musharib]]
+- [[Kadrin]] hears a sound behind him, bushes being pushed aside, footsteps stomping twigs, a person breathing heavily
+	- Asks who they are
+		- No answer
+	- An Elf carrying a spear stumbles over a root
+- [[Shadow]] and [[Talsen]] draw weapons, [[Delwyn]] tries to talk to him in Elvish
+	- The Elf has cuts all over his body and is out of breath
+	- [[Talsen]] takes the Spear from the Elf
+	- His name is [[Ayen Hervalur]], he was part of an expedition but they were attacked and something was chasing him
+		- It was like the entire jungle was attacking them, they heard a flute only playing one note and the plants started moving and attacking them
+		- They were trying to find [[Omu]], they got a Map from the [[Red Wizards of Thay]] that said there is treasure there
+		- He is not from [[Chult]]
+			- [[Kadrin]], Insight: 13
+				- He seems genuine and frightened
+		- The rest of his group is probably all dead
+		- The plants seemed like they were sucking out the insides of his companion
+	- We invite him in to eat and look at him
+- [[Shadow]], [[Delwyn]] look out for anything nearby, [[Kadrin]] uses Divine Sense
+	- Perception: 18, 17
+		- Nothing of note
+- [[Talsen]] asks [[Ayen Hervalur]] where he is from
+	- [[Baldur's Gate]], they have been here for 3-4 weeks
+	- He came here to stop the [[Death Curse]]
+- [[Kadrin]] takes a loot at [[Ayen Hervalur]]'s wounds
+	- Medicine: 11
+		- Few thorns, acid burns, 
