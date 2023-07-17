@@ -2,5 +2,7 @@
   "siteId": "ac7f6845f7e1c870f6bfc222bc249fcb",
   "host": "publish-01.obsidian.md",
   "included": [],
-  "excluded": []
+  "excluded": [
+    "Z_Canvas"
+  ]
 }
