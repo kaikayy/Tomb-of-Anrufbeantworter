@@ -23,9 +23,11 @@
             "id": "b41c8693814a7d5f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_Attachments/Logo BP.jpeg"
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Attachments/Logo BP.jpeg",
+                "file": "Welcome.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Attachments/Logo BP.jpeg"
+                "file": "Welcome.md"
               }
             }
           },
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Attachments/Logo BP.jpeg",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,11 +177,11 @@
   },
   "active": "b41c8693814a7d5f",
   "lastOpenFiles": [
+    "_Attachments/Logo BP.jpeg",
     "Welcome.md",
     "_Attachments/Logo P cut.png",
     "_Attachments/Logo W.png",
     "_Attachments/Logo W cut.png",
-    "_Attachments/Logo BP.jpeg",
     "_Attachments/Logo GIF.gif",
     "_Attachments/Logo P.png",
     "_Attachments/Logo Video.mp4",
