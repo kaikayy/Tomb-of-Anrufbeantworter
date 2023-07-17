@@ -101,8 +101,11 @@ It gets dark
 	- I heard that too, didn't even know he had a Wife or a Girlfriend
 - [[Shadow]] starts hearing a monotone sound and leaves rustling, footsteps approach fast
 	- An Orc with a panicked face tells her that the jungle is attacking him
-- [[Ayen Hervalur]] wakes up and recognizes the Orc as [[Zug'an]]
+- [[Ayen Hervalur]] wakes up and recognizes the Orc as [[Zuhgan]], he approaches him as [[Zuhgan]] attacks [[Ayen Hervalur]]
+	- [[Ayen Hervalur]] goes down
+	- As [[Kadrin]] approaches he can see a root growing out of [[Zuhgan]]'s back and hears the sound in the bushes
 
+---
 2. Watch - [[Delwyn]], [[Shago]]
 - Perc.: 
 
