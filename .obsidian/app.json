@@ -13,7 +13,8 @@
   "livePreview": false,
   "spellcheckLanguages": [
     "en-US",
-    "en-GB"
+    "en-GB",
+    "de-DE"
   ],
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
