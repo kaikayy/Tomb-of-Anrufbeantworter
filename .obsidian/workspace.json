@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Talsen's Shield.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Talsen's Shield.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Talsen's Shield.md"
+                "file": "README.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Talsen's Shield.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,11 +175,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "097e99fbc3897fcc",
+  "active": "6c5b02261b750917",
   "lastOpenFiles": [
+    "Items/Talsen's Shield.md",
     "README.md",
     "Session Notes/Session 69.md",
-    "Items/Talsen's Shield.md",
     "NPCs/Lathender.md",
     "Session Notes/Session 68.md",
     "Locations/Outside of Chult/Mount Celestia.md",
