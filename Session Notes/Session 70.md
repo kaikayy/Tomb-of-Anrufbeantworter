@@ -60,4 +60,15 @@ We continue to have light conversation until mid afternoon
 	- He came here to stop the [[Death Curse]]
 - [[Kadrin]] takes a loot at [[Ayen Hervalur]]'s wounds
 	- Medicine: 11
-		- Few thorns, acid burns, 
+		- Few thorns, acid burns, weird puncture wound that seemed like the life energy was sucked from him
+	- Uses Lay on Hands to heal him for 5 HP
+		- The wounds close a bit but are still very much there
+- [[Talsen]] tells him where we are heading right now
+- [[Shadow]] takes out her flute and plays it badly
+	- [[Ayen Hervalur]] looks terrified but it didn't sound similar
+- [[Talsen]] is fed up with him as he asks what [[Vorn]] is and goes to weave some plants
+- [[Shadow]] and [[Kadrin]] discuss weather to let him stay or send him on his way
+	- [[Ayen Hervalur]] begs for them to let him stay
+		- he offers to hold watch for us
+- [[Kadrin]] offers him a bedroll
+- 
