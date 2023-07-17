@@ -71,4 +71,44 @@ We continue to have light conversation until mid afternoon
 	- [[Ayen Hervalur]] begs for them to let him stay
 		- he offers to hold watch for us
 - [[Kadrin]] offers him a bedroll
-- 
+---
+_(Break)_
+_Spirit Suff with [[Shadow]]_
+_[[Musharib]] faintly remembers a fairy-tail related to [[Ayen Hervalur]]'s story_
+
+---
+We discuss further what to do with [[Ayen Hervalur]]
+- We decide for him to stay with us
+
+It gets dark
+
+1. Watch - [[Kadrin]], [[Shadow]]
+- Perc.: 7, 16
+- [[Kadrin]] asks [[Shadow]] what he wants to do with [[Skaldric]] when we meet him
+	- She wants to kill him?
+- He tells her that he will support her in whatever she wants to do with [[Skaldric]]
+- Asks about her being a Princess
+	- She was supposed to be leader of the tribe she grew up in
+	- [[Maztica]] once was a kingdom but that was really long ago
+- Why did you leave [[Maztica]] and your people
+	- I got abducted by Slave Traders and was sold in [[Thay]]
+	- I escaped and the [[Red Wizards of Thay]] didn't like that
+- Do [[Skaldric]]'s people have a name?
+	- He is the leader of the Thieves' Guild in [[Thay]] and he uses slaves in horrible ways
+- So you have no idea why [[Saja N’baza]] called you that?
+	- No not really
+- After hearing about [[Talsen]]'s kids I realized that I don't really know much about everyone
+	- I heard that too, didn't even know he had a Wife or a Girlfriend
+- [[Shadow]] starts hearing a monotone sound and leaves rustling, footsteps approach fast
+	- An Orc with a panicked face tells her that the jungle is attacking him
+- [[Ayen Hervalur]] wakes up and recognizes the Orc as [[Zug'an]]
+
+2. Watch - [[Delwyn]], [[Shago]]
+- Perc.: 
+
+3. Watch -  [[Musharib]], [[Ayen Hervalur]]
+- Perc.: 
+
+#### LONG REST -> Day 10
+Weather:
+[[Kadrin]] cooks, DEX: 
