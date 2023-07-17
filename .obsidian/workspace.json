@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
+                "file": "Session Notes/Session 69.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Session Notes/Session 69.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Session Notes/Session 69.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Session Notes/Session 69.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,8 +164,8 @@
   },
   "active": "540684f0c808b5d4",
   "lastOpenFiles": [
-    "desktop.ini",
     "Welcome.md",
+    "desktop.ini",
     "_Attachments/Logo BP.jpeg",
     "_Attachments/Logo P cut.png",
     "_Attachments/Logo W.png",
