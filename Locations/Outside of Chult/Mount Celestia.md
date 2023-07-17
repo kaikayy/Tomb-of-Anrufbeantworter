@@ -1,0 +1,1 @@
+The Seven Heavens of Mount Celestia is a Plane of Existence dedicated to goodness shaped by law and justice tempered with mercy.

@@ -84,7 +84,7 @@ We move down the Ziggurat, no challenges oppose us on our way down.
 We discuss where we want to go while we eat
 - [[Musharib]] mentions [[Hrakhamar]] and points out where it is on the Map
 	- We all decide to keep our promise and go towards [[Hrakhamar]]
-	- [[Musharib]] talks about a Dragon ([[Tzindelor]]) sitting in the Adamantine Mine and the [[Firenewt]] taking over the mine
+	- [[Musharib]] talks about a Dragon ([[Tzindelor]]) sitting in the Adamantine Mine and the [[Firenewt]] taking over the forge
 		- They made the [[Wyrmheart Mine]] where they found an Adamantine vein
 		- The main focus is getting back the [[Gauntlet of Moradin]]
 		- It's not known where it is. It's last known location is inside the vault of the forge.
