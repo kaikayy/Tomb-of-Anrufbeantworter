@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b41c8693814a7d5f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_Attachments/Logo BP.jpeg"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "_Attachments/Logo BP.jpeg",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "_Attachments/Logo BP.jpeg"
               }
             }
           },
@@ -120,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "_Attachments/Logo BP.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,8 +173,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "540684f0c808b5d4",
+  "active": "b41c8693814a7d5f",
   "lastOpenFiles": [
+    "Welcome.md",
+    "_Attachments/Logo P cut.png",
     "_Attachments/Logo W.png",
     "_Attachments/Logo W cut.png",
     "_Attachments/Logo BP.jpeg",
@@ -172,7 +185,6 @@
     "_Attachments/Logo Video.mp4",
     "_Attachments/Logo_PB.png",
     "Session Notes/Session 69.md",
-    "Welcome.md",
     "#publish.css",
     "tomb-of-anrufbeantworter.md",
     "README.md",
@@ -206,8 +218,6 @@
     "_Attachments/Aratiel.png",
     "desktop.ini",
     "_Attachments/Saja N’baza.png",
-    "_Attachments/Orolunga Map.png",
-    "_Attachments/Orolunga.png",
     "Z_Canvas/Main Story.canvas",
     "Z_Canvas",
     "Tomb-of-Anrufbeantworter"
