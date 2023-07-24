@@ -6,7 +6,7 @@ Battlemap:
 Enemies:
 Long Name (referred to as Short Name)
 ~~[[Zuhgan]] - Z~~
-Mantrap A-x, Ma,b,c,d
+~~Mantrap A-x, Ma,b,c,d~~
 Assassin Vine A-x, AVa,b
 Tiefling - T
 
@@ -22,17 +22,18 @@ Initiative:
 ---
 Conditions:
 [[Shadow]]:
-- [[Blinded]], [[Restrained]]
+- ~~[[Blinded]], [[Restrained]]~~
 
 [[Talsen]]:
 - [[Exhaustion 2]]
 
 [[Delwyn]]:
 - [[Exhaustion 1]]
+- [[Restrained]]
 
 [[Kadrin]]:
 - [[Exhaustion 1]]
-- [[Grappled]]
+- ~~[[Grappled]]~~
 ---
 Dodge/Ready:
 
@@ -98,7 +99,46 @@ Dodge/Ready:
 	- 11 to hit, miss
 - Md backs off
 - AVa casts something on [[Delwyn]] & [[Vorn]]
-	- STR SAV: 2, 20
+	- STR SAV: 2, 20 - FAIL, SAVE
+		- [[Delwyn]] is [[Restrained]]
+- AVb attacks [[Talsen]]
+	- 15 to hit, miss
+- [[Shago]] takes 10 Acid DMG, attacks Md
+	- 13 to hit, 9 DMG 
+		- Md is [[Dead]]
+			- Is no longer [[Blinded]] and [[Restrained]]
+	- attacks T
+		- 25 to hit, 9 DMG
+			- STR SAV: Nat.20 - SAVE
+		- Nat.20 (27) to hit, 17 DMG
+			- STR SAV: Nat.20 - SAVE
+- [[Delwyn]] casts Fireball on Ma, Mb, Mc, AVa, [[Musharib]]
+	- DEX SAV: FAIL, SAVE, FAIL, FAIL, 20
+		- 13 / 27 Fire DMG
+			- Ma,b,c is [[Dead]], [[Dead]], [[Dead]]
+				- [[Shadow]] is no longer [[Blinded]] and [[Restrained]]
+	- Quickened Mind Sliver on AVa
+		- INT SAV: 1 - FAIL
+			- 6 Psychic DMG
+- [[Kadrin]] takes 23 Poison DMG
+	- Armor of Agathys disperses
+	- casts Misty Step
+		- is no longer [[Grappled]]
+	- attacks AVa
+		- 26 to hit, 11 DMG, SMITE (1st LvL), 14 Radiant DMG
+		- 27 to hit, 13 DMG
+- T attacks [[Shago]]
+	- 16 to hit, R: Parry, miss
+	- 12 to hit, miss
+- _The Whistle sounds move to AVa, it moves_
+	- R: AoO, [[Kadrin]], 21 to hit, 10 DMG
+		- AVa is [[Dead]]
+			-  _The Whistle sounds move to AVb, it moves_
+- [[Stomps]] attacks AVb
+	- 24 to hit, 10 DMG
+- [[Musharib]] tries to release [[Delwyn]]
+	- WIS: 4
+- [[Talsen]]
 
 **Round 3**
 - asd
