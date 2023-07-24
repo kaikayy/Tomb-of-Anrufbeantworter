@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Session Notes/Watch_Vorlage.md",
                 "mode": "source",
                 "source": true
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Session Notes/Watch_Vorlage.md",
                 "mode": "preview",
                 "source": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Session Notes/Watch_Vorlage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Session Notes/Watch_Vorlage.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Session Notes/Watch_Vorlage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,6 +208,7 @@
   },
   "active": "bc60e20cde41d720",
   "lastOpenFiles": [
+    "Welcome.md",
     "Session Notes/Session 70.md",
     "Zuhgan.md",
     "Session Notes/Watch_Vorlage.md",
@@ -217,7 +218,6 @@
     "desktop.ini",
     "Ayen Hervalur.md",
     "PCs/Delwyn.md",
-    "Welcome.md",
     "_Attachments/Logo BP.jpeg",
     "_Attachments/Logo P cut.png",
     "_Attachments/Logo W.png",
