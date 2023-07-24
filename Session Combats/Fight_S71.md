@@ -8,7 +8,7 @@ Long Name (referred to as Short Name)
 ~~[[Zuhgan]] - Z~~
 Mantrap A-x, Ma,b,c,d
 Assassin Vine A-x, AVa,b
-
+Tiefling - T
 
 Initiative:
 [[Talsen]] - Nat.1 (2)
@@ -22,7 +22,7 @@ Initiative:
 ---
 Conditions:
 [[Shadow]]:
-- 
+- [[Blinded]], [[Restrained]]
 
 [[Talsen]]:
 - [[Exhaustion 2]]
@@ -48,10 +48,10 @@ Dodge/Ready:
 - Md attacks [[Shago]]
 	- 20 to hit, is swallowed
 		- Is [[Blinded]] and [[Restrained]]
-- Mc tries to lure us to come to it
+- Mc tries to lure us to come to it (Pollen)
 	- WIS SAV: [[Kadrin]], [[Shadow]], [[Talsen]], [[Stomps]]
 		- 17, Nat.20 (23), 8, 5
-			- INSPIRATION fronm [[Kadrin]] on [[Talsen]]
+			- INSPIRATION from [[Kadrin]] on [[Talsen]]
 				- Nat.20 (19)
 		- [[Stomps]] fails
 - AVa,b appear
@@ -63,18 +63,42 @@ Dodge/Ready:
 	- 13 to hit, 8 DMG
 	- 19 to hit, 14 DMG
 	- 10 to hit, miss
-- [[Delwyn]] casts Fireball AVa, Mc
-	- DEX SAV: 12, 10
-		- 36 Fire DMG
-- [[Kadrin]]
-- [[Stomps]]
-- [[Musharib]]
-- [[Talsen]]
-
-
+- [[Delwyn]] casts Fireball AVa, Mc, Ma
+	- DEX SAV: 12, 10, 15+ - FAIL, FAIL, SAVE
+		- 18 /36 Fire DMG
+	- Quickened Fire Bolt on Md
+		- Nat.1 (8) to hit, miss
+- Ma tries to lure us to come to it (Pollen)
+	- WIS SAV: [[Kadrin]], [[Shadow]]
+		- Nat.1 (3), 16 - FAIL, SAVE
+- Mb appears
+- [[Kadrin]] takes 22 Poison DMG
+	- casts Armor of Agathys
+	- drinks Healing Potion
+		- 6 HP
+- T appears, attacks [[Stomps]]
+	- 22 to hit, 3 DMG
+	- 6 to hit, miss
+- _The Whistle sounds seem to be emanating from Mb, it moves closer_
+- [[Stomps]] tries to move towards Mc but is bound
+	- attacks Md
+		- 14 to hit, 14 DMG
+- [[Musharib]] casts Speak with Plants to free [[Shago]] from Md
+	- Spell Casting Check: WIS: 4
+- [[Talsen]] attacks the vine grappling [[Kadrin]]
+	- Athletics.: 11, INSIRATION: Nat.1 (10)
 
 **Round 2**
-- asd
+- [[Shadow]] backs off
+	- R: AoO, Mb, 23 to hit, is swallowed, is [[Blinded]] and [[Restrained]]
+	- R: SENTINEL, [[Kadrin]], 24 to hit, 13 DMG
+	- casts Primal Savagery
+		- 19 to hit, 15 Acid DMG
+- Mc attacks [[Musharib]]
+	- 11 to hit, miss
+- Md backs off
+- AVa casts something on [[Delwyn]] & [[Vorn]]
+	- STR SAV: 2, 20
 
 **Round 3**
 - asd
