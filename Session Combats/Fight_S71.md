@@ -7,8 +7,9 @@ Enemies:
 Long Name (referred to as Short Name)
 ~~[[Zuhgan]] - Z~~
 ~~Mantrap A-x, Ma,b,c,d~~
-Assassin Vine A-x, AVa,b
-Tiefling - T
+~~Assassin Vine A-x, AVa,b~~
+![[Assassin Vine.png]]
+~~Tiefling - T~~
 
 Initiative:
 [[Talsen]] - Nat.1 (2)
@@ -23,6 +24,7 @@ Initiative:
 Conditions:
 [[Shadow]]:
 - ~~[[Blinded]], [[Restrained]]~~
+- [[Grappled]]
 
 [[Talsen]]:
 - [[Exhaustion 2]]
@@ -138,11 +140,27 @@ Dodge/Ready:
 	- 24 to hit, 10 DMG
 - [[Musharib]] tries to release [[Delwyn]]
 	- WIS: 4
-- [[Talsen]]
+	- attacks [[Delwyn]] with his light crossbow
+		- 17 to hit, R: SHIELD, miss
+- [[Talsen]] attacks AVb, amplified, 5 dmg
+	- 15 to hit, 14 DMG + 5 Fire DMG
+	- 15 to hit, 13 DMG + 1 Fire DMG
 
-**Round 3**
-- asd
-
+**Round 3** - _The ground starts to shake and another earthquake is imminent_
+- [[Shadow]] attacks T
+	- SHARPSHOOTER, 18 to hit, 19 DMG
+		- T is [[Dead]]
+	- Runs towards the Vine
+	- attacks AVb
+		- SHARPSHOOTER, 24 to hit, 20 DMG
+- AVb attacks [[Shadow]]
+	- 20 to hit, 12 DMG
+		- Is [[Grappled]]
+- [[Shago]] attacks AVb
+	- 15 to hit, 13 DMG 
+	- 13 to hit, 13 DMG  
+		- AVb is [[Dead]]
+- _All vines on the ground and the whistle sounds move west into the jungle._
 **Round 4**
 - asd
 

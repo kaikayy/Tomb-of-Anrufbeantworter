@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f1e5b54befa3b5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Combats/Fight_S71.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "1494730d7168eb7c",
             "type": "leaf",
             "state": {
@@ -29,25 +17,27 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "eb19ff7945c973ec"
           }
         ]
       },
       {
-        "id": "db4439a2e2128784",
+        "id": "8c2b255f5c4e0ef8",
         "type": "tabs",
         "children": [
           {
-            "id": "0c55af2e5b6d3f96",
+            "id": "0f1bd4aa4f77a648",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S71.md",
-                "mode": "source",
+                "file": "Session Notes/Session 71.md",
+                "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "eb19ff7945c973ec"
           }
         ]
       }
@@ -115,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Combats/Fight_S71.md",
+                "file": "Session Notes/Session 71.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Combats/Fight_S71.md"
+                "file": "Session Notes/Session 71.md"
               }
             }
           },
@@ -150,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Combats/Fight_S71.md",
+                "file": "Session Notes/Session 71.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,10 +181,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4f1e5b54befa3b5a",
+  "active": "1494730d7168eb7c",
   "lastOpenFiles": [
-    "_Official Conditions/Restrained.md",
     "Session Combats/Fight_S71.md",
+    "_Attachments/Assassin Vine.png",
+    "_Official Conditions/Restrained.md",
     "_Attachments/Fight_S71.png",
     "Session Notes/Session 71.md",
     "Session Notes/Session 70.md",
@@ -233,10 +224,8 @@
     "Locations/Hrakhamar.md",
     "Z_Canvas/Plans.canvas",
     "_Attachments/69.png",
-    "Session Notes/Session 67.md",
     "Z_Canvas/Current Planning.canvas",
     "Z_Canvas/General.canvas",
-    "_Attachments/Aratiel.png",
     "Z_Canvas/Main Story.canvas",
     "Z_Canvas",
     "Tomb-of-Anrufbeantworter"
