@@ -57,4 +57,40 @@ We continue on towards [[Hrakhamar]]
 						- 12 HP
 			- [[Shadow]] gives her Goodberries
 - We hear footsteps, someone running 50ft away from us
-- 
+	- [[Talsen]], Perception: 5
+		- Can't make out what it is from the sound
+	- [[Shadow]], Perception: 25
+		- Seems to be a bush moving
+		- Pulls out her bow to aim it at the bush
+	- [[Kadrin]] uses Divine Sense
+		- nothing
+	- [[Shadow]] runs after the bush
+		- The bush runs away, she goes after it
+		- [[Kadrin]] rides after her on [[Stomps]] 
+	- [[Delwyn]] casts Hypnotic Pattern on the Bush
+		- WIS SAV: 2
+			- The bush is [[Charmed]] & [[Incapacitated]]
+	- [[Shadow]] catches up to the Bush
+		- multiple fruits hang from it, lemon shaped but about twice the size of a lemon and red on the outside
+		- before it stopped, the Bush talked
+		- picks up the Bush
+			- brings it back to the group
+	- [[Talsen]] tries to argue with [[Shadow]] why she ran away and brought a bush back
+	- [[Delwyn]]'s Spell fades
+		- The Bush tries to flee [[Shadow]]'s grapple
+			- Athletics: 12 vs. 11
+				- It stays put
+		- The bush says that it's [[Ubtao]]' nephew
+			- [[Kadrin]], Insight: 10
+				- seems genuine
+			- It says it was planted by [[Ubtao]] and he gave him the name "[[Ubtao]]'s nephew"
+		- [[Kadrin]] asks it if it is an [[Aspects of Ubtao]] or a [[Bara]]
+			- It doesn't know what that is but it goes around feeding Dinosaurs
+		- [[Kadrin]], Persuasion: Nat.20 (28)
+			- It believes that it is being let go whether we get its fruit or not
+		- The bush gives us 7 of its big red lemons ([[Ubtao Fruits]]) and then leaves to feed more dinosaurs
+- At the end of the day we see a small heard of Triceratops, one of them is the injured one that we helped earlier
+	- They approach and follow us for the last part of the day to escort us
+
+---
+We make Camp
