@@ -49,19 +49,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "9bfb4770981b53ae",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Combats/Fight_S72.md",
+                "file": "Welcome.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Combats/Fight_S72.md"
+                "file": "Welcome.md"
               }
             }
           },
@@ -162,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Combats/Fight_S72.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +193,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c529393e4b10ef3a",
+  "active": "097e99fbc3897fcc",
   "lastOpenFiles": [
     "Welcome.md",
     "README.md",
