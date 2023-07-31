@@ -5,11 +5,11 @@ Battlemap:
 
 Enemies:
 Long Name (referred to as Short Name)
-[[Firenewt]] Warrior A,x - FWa,x
-[[Firenewt]] Archer A,x - FAa,x
-[[Firenewt]] Cavalry A,x - FCa,x
-[[Firenewt]] Warlock - FWL
-Giant Strider A,x - GSa,x
+~~[[Firenewt]] Warrior A,x - FWa,x~~
+~~[[Firenewt]] Archer A,x - FAa,x~~
+~~[[Firenewt]] Cavalry A,x - FCa,x~~
+~~[[Firenewt]] Warlock - FWL~~
+~~Giant Strider A,x - GSa,x~~
 
 Initiative:
 [[Talsen]] - 3
@@ -32,7 +32,7 @@ Conditions:
 - 
 
 [[Kadrin]]:
-- 
+- [[Concentration]] (Spirit Shroud)
 ---
 Dodge/Ready:
 
@@ -178,24 +178,27 @@ Dodge/Ready:
 - FCc disengages and runs away
 - GSa breathes fire on [[Kadrin]], [[Stomps]], [[Talsen]]
 	- DEX SAV: 16, 4, 12 - SAVE, FAIL, SAVE
-		- 8 / 17 Fir
+		- 8 / 17 Fire DMG
+			- Conc. SAVE: [[Kadrin]] 20
+- GSb attacks [[Talsen]]
+	- 20 to hit, 5 DMG
+		- R: SENTINEL, [[Kadrin]], 18 to hit, 19 DMG
+- FWd dashes away
+	- R: AoO, [[Shago]], 14 to hit, miss
+	- R: AoO, [[Musharib]], 21 to hit, 11 DMG
+- [[Talsen]] attacks GSb
+	- 12 to hit, miss
+	- 27 to hit, 17 DMG
+		- GSb is [[Dead]]
 
 **Round 4**
-- asd
-
-**Round 5**
-- asd
-
-**Round 6**
-asd
-asd
-asd
-**Round 7**
-asd
-asd
-asd
-**Round 8**
-asd
-asd
-asd
-**Round 9**
+- [[Shadow]] moves Hunter's Mark to FAc, attacks
+	- SHARPSHOOTER, 21 to hit, 24 DMG
+		- FAc is [[Dead]]
+		- attacks GSa
+			- SHARPSHOOTER, 10 to hit, miss
+- [[Delwyn]] casts Magic Missile (3rd LvL) on GSa
+	- 17 Force DMG
+- [[Kadrin]] casts Hexblade's Curse on GSa, attacks
+	- 14 to hit, 27 DMG
+		- GSa is [[Dead]]

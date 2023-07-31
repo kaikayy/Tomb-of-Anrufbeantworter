@@ -11,6 +11,8 @@ Initiative:
 [[Kadrin]] - 
 [[Shadow]] - 
 [[Delwyn]] - 
+[[Shago]] - 
+[[Musharib]] - 
 
 ---
 Conditions:
