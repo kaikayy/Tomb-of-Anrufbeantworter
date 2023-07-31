@@ -1,0 +1,1 @@
+ only entrance to the north into the [[Valley of Lost Honor]]

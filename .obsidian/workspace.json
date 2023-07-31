@@ -8,7 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f1bd4aa4f77a648",
+            "id": "962f57b2cfc76687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 72.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "1d5355d817fe024e"
+          }
+        ]
+      },
+      {
+        "id": "675b583ab97f1cf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0247affe2b2204c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,22 +36,10 @@
                 "mode": "preview",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "a46ef3c712ac84ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 71.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
+            },
+            "group": "1d5355d817fe024e"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 71.md",
+                "file": "Session Notes/Session 72.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 71.md"
+                "file": "Session Notes/Session 72.md"
               }
             }
           },
@@ -133,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 71.md",
+                "file": "Session Notes/Session 72.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,25 +182,28 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a46ef3c712ac84ab",
+  "active": "962f57b2cfc76687",
   "lastOpenFiles": [
+    "Underdark.md",
     "Session Notes/Session 72.md",
-    "Session Notes/Session 71.md",
+    "Valley of Lost Honor.md",
+    "Ataaz Yklwazi.md",
     "Ubtao Fruits.md",
-    "Welcome.md",
     "Session Notes/Watch_Vorlage.md",
+    "Session Notes/Session 71.md",
+    "Welcome.md",
+    "Zuhgan.md",
+    "README.md",
+    "Ayen Hervalur.md",
     "Session Combats/Fight_S71.md",
     "_Attachments/Assassin Vine.png",
     "_Official Conditions/Restrained.md",
     "_Attachments/Fight_S71.png",
     "Session Notes/Session 70.md",
-    "Zuhgan.md",
-    "README.md",
     "Session Notes/Session 69.md",
     "Plans.md",
     "X_Stats/_Vorlage.md",
     "desktop.ini",
-    "Ayen Hervalur.md",
     "PCs/Delwyn.md",
     "_Attachments/Logo BP.jpeg",
     "_Attachments/Logo P cut.png",
@@ -214,9 +224,6 @@
     "Locations/Cleansing Temple_Shrine in Omu.md",
     "Items/Gauntlet of Moradin.md",
     "Locations/Wyrmheart Mine.md",
-    "Bestiary/Tzindelor.md",
-    "NPCs/Eshowdow.md",
-    "Items/Black Opal Crown.md",
     "Z_Canvas/Plans.canvas",
     "_Attachments/69.png",
     "Z_Canvas/Current Planning.canvas",
