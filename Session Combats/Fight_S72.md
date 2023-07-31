@@ -9,6 +9,7 @@ Long Name (referred to as Short Name)
 [[Firenewt]] Archer A,x - FAa,x
 [[Firenewt]] Cavalry A,x - FCa,x
 [[Firenewt]] Warlock - FWL
+Giant Strider A,x - GSa,x
 
 Initiative:
 [[Talsen]] - 3
@@ -67,11 +68,62 @@ Dodge/Ready:
 			- INT SAV: 14 - FAIL
 				- 9 Psychic DMG
 - [[Kadrin]] mounts [[Stomps]]
-- [[Talsen]]
+	- uses Necrotic Shroud
+		- [[Stomps]], CHA SAV: 11 - FAIL
+	- casts Sanctuary on [[Talsen]]
+- FCa attacks [[Kadrin]]
+	- 10 to hit, miss
+- FCb attacks [[Talsen]]
+	- WIS SAV: 10 - FAIL
+	- R: SENTINEL, [[Kadrin]], 20 to hit, 16 DMG
+		- attacks [[Kadrin]]
+			- 6 to hit, miss
+- FCc attacks [[Kadrin]]
+	- 15 to hit, miss
+- FWL casts Flaming Sphere
+	- DEX SAV: [[Shadow]] 19, [[Delwyn]] 13 - SAVE, SAVE
+		- 3 Fire DMG
+			- Conc. SAV: [[Shadow]] 18
+	- DEX SAV: [[Delwyn]] 6 - FAIL
+		- 3 Fire DMG
+- FWb stands up, uses Breath Weapon on [[Shago]]
+	- DEX SAV: 14 - SAVE
+		- 5 Fire DMG
+- FWd uses Breath Weapon on [[Shago]]
+	- DEX SAV: 8 - FAIL
+		- 10 Fire DMG
+- FWc shoves [[Musharib]] into the spikes
+	- Athletics: 8 - FAIL
+		- 5 DMG
+	- attacks [[Musharib]]
+		- 15 to hit, 2 DMG
+			- Conc. SAV: Nat.1 (4)
+- [[Talsen]] freezes his weapon, attacks FCb
+	- 19 to hit, 16 DMG
+	- 29 to hit, 17 DMG
+		- FCb is [[Dead]]
 
 **Round 2**
-- [[Shadow]]
-- [[Shago]]
+- [[Shadow]] attacks FWL
+	- SHARPSHOOTER, 18 to hit, 22 DMG
+		- FWL drops [[Concentration]]
+	- shifts Hunter's Mark to FWL
+	- SHARPSHOOTER, 19 to hit, 25 DMG
+		- FWL is [[Dead]] and casts Hellish Rebuke 
+			- DEX SAV: 16 - SAVE
+				- 9 Fire DMG
+	- Uses Feline Agility to run up the slope
+		- R: AoO, GSb, 10 to hit, miss
+- [[Shago]] attacks FWc
+	- 21 to hit, 12 DMG
+		- FWc is [[Dead]]
+		- attacks FWb
+			- 10 to hit, miss
+			- 26 to hit, 12 DMG
+				- STR SAV: 9 - FAIL
+					- FWb is [[Prone]]
+- FAb,c attack [[Shadow]]
+	- 19 to hit, 
 - [[Musharib]]
 - [[Delwyn]]
 - [[Kadrin]]
