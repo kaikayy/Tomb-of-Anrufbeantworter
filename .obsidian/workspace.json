@@ -13,12 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 72.md",
+                "file": "Session Combats/Fight_S72.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "1d5355d817fe024e"
+            }
           }
         ]
       },
@@ -32,12 +31,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 72.md",
-                "mode": "preview",
+                "file": "Session Combats/Fight_S72.md",
+                "mode": "source",
                 "source": true
               }
-            },
-            "group": "1d5355d817fe024e"
+            }
           }
         ]
       }
@@ -105,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 72.md",
+                "file": "Session Combats/Fight_S72.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 72.md"
+                "file": "Session Combats/Fight_S72.md"
               }
             }
           },
@@ -140,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 72.md",
+                "file": "Session Combats/Fight_S72.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,9 +182,12 @@
   },
   "active": "962f57b2cfc76687",
   "lastOpenFiles": [
+    "_Attachments/Battlemap_Fight_S72.png",
+    "Session Combats/Fight_S72.md",
+    "Session Combats/Fight_S.md",
+    "Session Notes/Session 72.md",
     "Ataaz Yklwazi.md",
     "Valley of Lost Honor.md",
-    "Session Notes/Session 72.md",
     "Underdark.md",
     "Ubtao Fruits.md",
     "Session Notes/Watch_Vorlage.md",
@@ -221,11 +222,7 @@
     "NPCs/Lathender.md",
     "Session Notes/Session 68.md",
     "Locations/Outside of Chult/Mount Celestia.md",
-    "Locations/Cleansing Temple_Shrine in Omu.md",
-    "Items/Gauntlet of Moradin.md",
-    "Locations/Wyrmheart Mine.md",
     "Z_Canvas/Plans.canvas",
-    "_Attachments/69.png",
     "Z_Canvas/Current Planning.canvas",
     "Z_Canvas/General.canvas",
     "Z_Canvas/Main Story.canvas",

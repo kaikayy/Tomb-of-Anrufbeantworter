@@ -36,4 +36,7 @@ We arrive at [[Ataaz Yklwazi]]
 		- [[Musharib]]: 13 - SAVE
 			- [[Delwyn]], [[Kadrin]] take 8 DMG
 - Some stones are ashen black and filled with dead dinosaurs, burned to a crisp, some pierced on giant spikes
-- [[Talsen]] spear heading the marching order, sees 20ft away
+- [[Talsen]] spear heading the marching order, sees an armored [[Firenewt]] 20ft away on a ledge 10ft high
+	- We walk a bit further and be wary
+	- He pulls out a horn and starts blowing it, numerous [[Firenewt]]s emerge in front of us and behind us
+	- ### [[Fight_S72]]
