@@ -56,7 +56,7 @@ Dodge/Ready:
 					- FWb is [[Prone]]
 - FAb,c attack [[Shadow]]
 	- 15 to hit, miss
-	- 4 to hit, miss
+	- Nat.1(4) to hit, miss
 	- 9 to hit, miss
 	- 12 to hit, miss
 - [[Musharib]] attacks FWb

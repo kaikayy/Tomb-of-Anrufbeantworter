@@ -11,11 +11,7 @@
   },
   "legacyEditor": false,
   "livePreview": false,
-  "spellcheckLanguages": [
-    "en-US",
-    "en-GB",
-    "de-DE"
-  ],
+  "spellcheckLanguages": null,
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "showUnsupportedFiles": true
