@@ -122,16 +122,63 @@ Dodge/Ready:
 			- 26 to hit, 12 DMG
 				- STR SAV: 9 - FAIL
 					- FWb is [[Prone]]
-- FAb,c attack [[Shadow]]
-	- 19 to hit, 
-- [[Musharib]]
-- [[Delwyn]]
-- [[Kadrin]]
-- [[Stomps]]
-- [[Talsen]]
+- FAb attacks [[Shadow]]
+	- 19 to hit, 8 DMG
+	- 8 to hit, miss
+- FAc attacks [[Kadrin]]
+	- 21 to hit, 8 DMG
+	- 15 to hit, miss
+- [[Musharib]] attacks FWb
+	- 10 to hit, miss
+- [[Delwyn]] casts Mage Armor
+- [[Kadrin]] casts Spirit Shroud, attacks FCa
+	- 21 to hit, 24 DMG
+	- 12 to hit, miss
+- FCa,c attacks [[Kadrin]]
+	- R: Curse of the Eyeless [[Talsen]], 5 Necrotic DMG
+	- 20 to hit, Curse of the Eyeless, 16 to hit, miss
+	- 10 to hit, Curse of the Eyeless, 9 to hit, miss
+	- 5 to hit, miss
+	- 12 to hit, miss
+- GSb attacks [[Talsen]]
+	- DEX SAV: 7
+		- 14 Fire DMG
+- FWb stands up, attacks [[Shago]]
+	- 5 to hit, miss
+	- 13 to hit, miss
+- FWd attacks [[Musharib]]
+	- 21 to hit, 4 DMG
+	- Nat.1 (4) to hit, miss
+- [[Talsen]] attacks FCc
+	- 26 to hit, 14 DMG
+	- 28 to hit, 16 DMG
 
 **Round 3**
-- asd
+- [[Shadow]] moves Hunter's Mark to FAb, attacks
+	- SHARPSHOOTER, 20 to hit, 21 DMG
+	- SHARPSHOOTER, 22 to hit, 27 DMG
+- [[Shago]] attacks FWb
+	- 9 to hit, miss
+	- 20 to hit, 15 DMG
+		- FWb is [[Dead]]
+		- attacks FWd
+			- 25 to hit, 9 DMG
+- FAc blows a horn and runs towards the others
+- [[Musharib]] attacks FWd
+	- 15 to hit, miss
+- [[Delwyn]] casts Magic Missile (2nd LvL) on FAc
+	- 17 Force DMG
+		- Casts Quickened Mind Sliver
+			- INT SAV: 10 - FAIL
+				- 5 Psychic DMG
+- [[Kadrin]] attacks FCa
+	- 12 to hit, miss
+	- Nat.20 (29) to hit, 30 DMG
+		- FCa is [[Dead]]
+- FCc disengages and runs away
+- GSa breathes fire on [[Kadrin]], [[Stomps]], [[Talsen]]
+	- DEX SAV: 16, 4, 12 - SAVE, FAIL, SAVE
+		- 8 / 17 Fir
 
 **Round 4**
 - asd
