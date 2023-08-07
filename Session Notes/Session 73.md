@@ -73,4 +73,44 @@ We travel and make haste to arrive at [[Hrakhamar]] in the evening
 
 ### We enter [[Hrakhamar]]
 ![[Hrakhamar 1.png]]
+![[Hrakhamar 1 fixed.png]]
 
+MA: [[Talsen]], [[Kadrin]], [[Shadow]], [[Delwyn]], [[Musharib]], [[Shago]]
+
+We try to sneak
+- [[Kadrin]] casts Silent Image around [[Talsen]] and himself
+- [[Musharib]] casts Pass without a trace on everyone
+	- Stealth:
+		- [[Talsen]]: Nat.1 (12)
+		- [[Kadrin]]: 25
+		- [[Shadow]]: 40
+		- [[Delwyn]]: 25
+		- [[Musharib]]: 30
+		- [[Shago]]: 27
+			- ⌀: 26,5
+- [[Talsen]] looks around the first corner
+	- more minecart track
+- On the other side of the bridge something scratches at the ground and looks up occasionally
+	- Like the guardian of the bridge, we see a rooster
+	- [[Talsen]] asks [[Shadow]] to shoot it down
+		- SHARPSHOOTER, 23 to hit, 21 DMG
+			- the rooster poofs away
+- [[Talsen]] looks into the next area
+	- it's filled with smoke and we can make out a lantern further down
+	- `The size and shape of this area are impossible to determine. Clouds of roiling smoke sting your eyes, and drifting embers burn your throat as you breathe. You can, however, barely make out what looks like a lantern farther back in the smoke.`
+- We keep going onto the bridge
+	- `A cavern of molten magma bubbles and flames before you. The cavern walls are lined with metal gantries and cranes that support immense crucibles of scorched clay. Huge chains stretch across the cavern, apparently to shuttle multi-ton buckets of ore across the lava. The heat takes your breath away, brings water to your eyes, and bakes your skin. From where you stand, the only obvious way across is via a narrow stone trestle built for rail carts. The sound of rhythmic hammering comes from somewhere beyond the magma rift.`
+- [[Kadrin]] looks around and uses Divine Sense
+	- Perception: 2
+	- nothing
+	- changes the Silent Image to a smoke wall around us
+- We cross the bridge at the brink of melting alive
+- Following more minecart tracks we arrive at another crossing and look into the large room to our right
+	- `The hammering sound grows louder, but it’s not coming from the chamber ahead. This enormous, rectangular chamber is a working smelter. A rectangular pit in the center of the room is filled with molten iron. Six devices of dwarven design and make, arranged around the pit, siphon off the liquid metal and draw out the impurities. A smaller pool in the southeast corner holds what appears to be molten silver. Creatures that look like a mix of humanoid amphibians and elemental fire are tending to the machines. So far, they haven’t noticed you.`
+	- ![[Hrakhamar 2.png]]
+	- ![[Snake ffucker.png]]
+- [[Talsen]] passes down tactics through the Marching Order
+- [[Delwyn]] warns for backup but [[Shadow]] doesn't pass it through
+- [[Talsen]] grabs [[Kadrin]]'s arm and rushes into the battle
+	- [[Kadrin]] shifts the smoke cloud forward one last time
+	- [[Shadow]]
