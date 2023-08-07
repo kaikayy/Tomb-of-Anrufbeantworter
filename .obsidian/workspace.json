@@ -4,37 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "8c2b255f5c4e0ef8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "962f57b2cfc76687",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c529393e4b10ef3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 72.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "79ddd42899c1762c",
         "type": "tabs",
         "children": [
@@ -50,8 +19,21 @@
               }
             },
             "group": "26b5fde4b6ef664d"
+          },
+          {
+            "id": "dab0caf1ce331e0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 73.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "effcd1dc65756bed",
@@ -196,8 +178,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,15 +194,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "68e9a00f0b672212",
+  "active": "dab0caf1ce331e0c",
   "lastOpenFiles": [
-    "Session Notes/Session 72.md",
+    "Session Notes/Watch_Vorlage.md",
     "Session Notes/Session 73.md",
+    "Session Combats/Fight_S72.md",
+    "Session Notes/Session 72.md",
     "Welcome.md",
     "README.md",
-    "Session Notes/Watch_Vorlage.md",
     "Session Combats/Fight_S.md",
-    "Session Combats/Fight_S72.md",
     "_Attachments/Battlemap_Fight_S72.png",
     "Ataaz Yklwazi.md",
     "Valley of Lost Honor.md",
