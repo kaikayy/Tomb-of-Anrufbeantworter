@@ -67,4 +67,10 @@ We travel and make haste to arrive at [[Hrakhamar]] in the evening
 			- The address seems to be covered by rubble and there is no arch for the portal to be found
 	- [[Kadrin]] uses Divine Sense
 		- nothing
-	- 
+	- We discuss if we first alarm [[Musharib]]'s friends to back us up or not
+		- We decide not to until the situation looks dire
+	- We prepare for battle and leave [[Stomps]] and [[Vorn]] out of it
+
+### We enter [[Hrakhamar]]
+![[Hrakhamar 1.png]]
+

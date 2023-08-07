@@ -19,6 +19,18 @@
               }
             },
             "group": "26b5fde4b6ef664d"
+          },
+          {
+            "id": "bd64fb2e94ce89cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Hrakhamar.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       },
@@ -183,8 +195,10 @@
   },
   "active": "a1f932b4f8e85d89",
   "lastOpenFiles": [
-    "Locations/Shilku.md",
+    "_Attachments/Hrakhamar 1.png",
     "Session Notes/Session 73.md",
+    "Locations/Hrakhamar.md",
+    "Locations/Shilku.md",
     "Session Notes/Watch_Vorlage.md",
     "Session Notes/Session 72.md",
     "Session Notes/Session 4.md",
@@ -217,13 +231,10 @@
     "_Attachments/Logo GIF.gif",
     "_Attachments/Logo P.png",
     "_Attachments/Logo Video.mp4",
-    "_Attachments/Logo_PB.png",
     "#publish.css",
     "tomb-of-anrufbeantworter.md",
     "publish.css",
     "theme.css",
-    "Items/Talsen's Shield.md",
-    "NPCs/Lathender.md",
     "Z_Canvas/Plans.canvas",
     "Z_Canvas/Current Planning.canvas",
     "Z_Canvas/General.canvas",
