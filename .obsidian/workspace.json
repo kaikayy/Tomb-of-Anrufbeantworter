@@ -26,14 +26,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 73.md",
+                "file": "Session Notes/Watch_Vorlage.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "effcd1dc65756bed",
@@ -194,12 +193,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dab0caf1ce331e0c",
+  "active": "a1f932b4f8e85d89",
   "lastOpenFiles": [
     "Session Notes/Watch_Vorlage.md",
     "Session Notes/Session 73.md",
-    "Session Combats/Fight_S72.md",
     "Session Notes/Session 72.md",
+    "Session Notes/Session 4.md",
+    "Session Combats/Fight_S72.md",
     "Welcome.md",
     "README.md",
     "Session Combats/Fight_S.md",
@@ -236,7 +236,6 @@
     "Items/Talsen's Shield.md",
     "NPCs/Lathender.md",
     "Session Notes/Session 68.md",
-    "Locations/Outside of Chult/Mount Celestia.md",
     "Z_Canvas/Plans.canvas",
     "Z_Canvas/Current Planning.canvas",
     "Z_Canvas/General.canvas",
