@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 73.md",
+                "file": "NPCs/Zuhgan.md",
                 "mode": "source",
                 "source": true
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 73.md",
+                "file": "NPCs/Zuhgan.md",
                 "mode": "preview",
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 73.md",
+                "file": "NPCs/Zuhgan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 73.md"
+                "file": "NPCs/Zuhgan.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 73.md",
+                "file": "NPCs/Zuhgan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,10 +194,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a1f932b4f8e85d89",
+  "active": "097e99fbc3897fcc",
   "lastOpenFiles": [
-    "_Attachments/Snake ffucker.png",
+    "Welcome.md",
+    "README.md",
+    "Plans.md",
+    "Locations/Ataaz Yklwazi.md",
+    "NPCs/Ayen Hervalur.md",
+    "Locations/Outside of Chult/Underdark.md",
+    "Items/Ubtao Fruits.md",
+    "Locations/Valley of Lost Honor.md",
     "Session Notes/Session 73.md",
+    "_Attachments/Snake ffucker.png",
     "_Attachments/Hrakhamar 2.png",
     "Session Notes/Watch_Vorlage.md",
     "_Attachments/Hrakhamar 1 fixed.png",
@@ -206,24 +215,16 @@
     "Session Notes/Session 72.md",
     "Session Notes/Session 4.md",
     "Session Combats/Fight_S72.md",
-    "Welcome.md",
-    "README.md",
     "Session Combats/Fight_S.md",
     "_Attachments/Battlemap_Fight_S72.png",
-    "Ataaz Yklwazi.md",
-    "Valley of Lost Honor.md",
-    "Underdark.md",
-    "Ubtao Fruits.md",
     "Session Notes/Session 71.md",
-    "Zuhgan.md",
-    "Ayen Hervalur.md",
+    "NPCs/Zuhgan.md",
     "Session Combats/Fight_S71.md",
     "_Attachments/Assassin Vine.png",
     "_Official Conditions/Restrained.md",
     "_Attachments/Fight_S71.png",
     "Session Notes/Session 70.md",
     "Session Notes/Session 69.md",
-    "Plans.md",
     "X_Stats/_Vorlage.md",
     "desktop.ini",
     "PCs/Delwyn.md",

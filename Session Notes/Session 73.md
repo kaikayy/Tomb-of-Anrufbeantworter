@@ -113,4 +113,4 @@ We try to sneak
 - [[Delwyn]] warns for backup but [[Shadow]] doesn't pass it through
 - [[Talsen]] grabs [[Kadrin]]'s arm and rushes into the battle
 	- [[Kadrin]] shifts the smoke cloud forward one last time
-	- [[Shadow]]
+	- [[Shadow]] cocks and arrow
