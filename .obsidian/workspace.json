@@ -19,18 +19,6 @@
               }
             },
             "group": "26b5fde4b6ef664d"
-          },
-          {
-            "id": "dab0caf1ce331e0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Watch_Vorlage.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ]
       },
@@ -195,8 +183,9 @@
   },
   "active": "a1f932b4f8e85d89",
   "lastOpenFiles": [
-    "Session Notes/Watch_Vorlage.md",
+    "Locations/Shilku.md",
     "Session Notes/Session 73.md",
+    "Session Notes/Watch_Vorlage.md",
     "Session Notes/Session 72.md",
     "Session Notes/Session 4.md",
     "Session Combats/Fight_S72.md",
@@ -235,7 +224,6 @@
     "theme.css",
     "Items/Talsen's Shield.md",
     "NPCs/Lathender.md",
-    "Session Notes/Session 68.md",
     "Z_Canvas/Plans.canvas",
     "Z_Canvas/Current Planning.canvas",
     "Z_Canvas/General.canvas",

@@ -36,11 +36,35 @@ We make camp on one of the big spikes still jutting out of the ash
 - They both hear the flapping of wings in the distance, as suddenly 200-300 feet away the dunes are drenched in flame as the head of a red dragon flashes shortly. Screams erupt briefly and then silence. The wing sounds flap away westward.
 
 2. Watch - [[Delwyn]], [[Shago]]
-- Perc.: 
+- Perc.: 12, 10
+-  [[Delwyn]] whittles at his flute, DEX: 7
 
 3. Watch -  [[Talsen]], [[Musharib]]
-- Perc.: 
+- Perc.: 4, 6
 
 #### LONG REST -> Day 12
-Weather:
-[[Kadrin]] cooks, DEX: 
+Weather: Ash Fall, slight wind
+[[Kadrin]] cooks, DEX: 12
+
+[[Talsen]] asks [[Delwyn]] about the [[Firenewt]]s performance in darkness
+- They apparently can't see too much in the darkness
+
+We travel and make haste to arrive at [[Hrakhamar]] in the evening
+- Our footing grows more firm after some way as we discover a cobbled street under our feet
+- [[Musharib]] tells us it is the Street from [[Hrakhamar]] to [[Shilku]]
+	- It is covered in ash sometimes but it's more than usual
+	- A volcanic eruption forced the [[Albino Dwarfs]] to leave the forge and after they came back the [[Firenewt]] took it over
+	- There is hopefully a small pocket of still surviving dwarfs near the forge in a cave
+- At the end of the day we see a cave entrance in the distance
+	- `The entrance is a 10-foot-tall arched doorway beneath a massive relief carving of a crossed hammer and tongs. Two iron doors were fitted to the entrance, but one lies on the ground, completely rusted off its hinges, and the other sags so badly it appears as if it could collapse at any moment. Several buildings once stood outside the forge, but they’ve been reduced to their foundations.`
+	- [[Shadow]] sees the ghostly [[Almiraj]] again, it hops towards an area with a lot of rubble and makes a digging motion
+		- [[Shadow]] follows it, it hops up the stacked rubble
+			- Perception: 20
+				- A small man made podium can be seen on top of the rubble
+			- Cleans off the podium and takes a look at it
+				- A symbol of [[Ubtao]] can be seen on it
+		- [[Talsen]] comes up to the podium, it seems to be one of the [[Webway of Ubtao]], goes back down and tells the others
+			- The address seems to be covered by rubble and there is no arch for the portal to be found
+	- [[Kadrin]] uses Divine Sense
+		- nothing
+	- 
