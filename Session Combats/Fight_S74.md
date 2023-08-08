@@ -5,9 +5,10 @@ Battlemap:
 
 Enemies:
 Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
-Majordomo Ignitus - MI
+~~Majordomo Ignitus - MI~~
 [[Firenewt]] Warrior a,x - FWa,x
 [[Firenewt]] Warlock a,x - FWLa,x
+[[Ragnis]] - R
 ([[Firenewt]] Archer a,x - FAa,x)
 ([[Firenewt]] Cavalry a,x - FCa,x)
 
@@ -45,8 +46,9 @@ Conditions:
 Enemies:
 - Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
 - ~~FWa - [[Prone]]~~
-- MI - Hexblade's Curse
-- MI - Cold __V__
+- ~~MI - Hexblade's Curse~~
+- ~~MI - Cold __V__~~
+- 
 
 ---
 Dodge/Ready:
@@ -102,11 +104,38 @@ Dodge/Ready:
 		- 25 to hit, 7 DMG
 		- 22 to hit, 14 DMG
 			- FWb is [[Dead]]
-- [[Musharib]] 
-- FWL
-- FW
-- [[Kadrin]]
-- [[Delwyn]]
+- [[Musharib]] shifts Hunter's Mark to FWc, attacks
+	- 12 to hit, miss
+		- Moves towards the rope
+		- AoO: FWc, 19 to hit, 6 DMG
+			- Conc. SAV: 16
+- [[Delwyn's Mom]] attacks FWc
+	- 20 to hit, 6 DMG
+- FWLa casts Flaming Sphere on [[Delwyn's Mom]], [[Shago]], [[Musharib]]
+	- DEX SAV: 14, 5, Nat.20 (21) - SAVE, FAIL, SAVE
+		- 5 / 11 Fire DMG
+			- Conc. SAV ([[Musharib]]): 23
+- _The Lava bubbles more violently and from it, a Fire Elemental erupts. [[Ragnis]] does the Ragnaros speech and talks about causing the volcanic eruptions he is causing_
+- R attacks [[Musharib]]
+	- Nat.1 to hit, miss
+		- R: [[Talsen]], Eyeless
+	- 20 to hit, -4, 16 to hit, 16 DMG
+		- Conc. SAV: 21
+	- 11 to hit, miss
+- FWc grapples [[Shago]]
+	- Athletics: Nat.1 vs. Athletics: 22
+	- Athletics: 5 vs. Athletics: 9
+	- runs away
+		- R: AoO, [[Shago]], 17 to hit, 6 DMG, STR SAV: 2, falls [[Prone]]
+		- R: AoO, [[Delwyn's Mom]], 20 to hit, 8 DMG
+			- stands back up, runs away
+- [[Kadrin]] attacks MI
+	- 17 to hit, 14 DMG
+	- 19 to hit, 12 DMG
+		- MI is [[Dead]]
+- [[Delwyn]]'s Hand hungers more and more and a piercing pain emits from his [[Shade Mark]]. A dagger drops out of his [[Shade Mark]] to the ground and points towards [[Ragnis]]. A voice in his head says "I have decided to allow your mother to watch you. Let's see if you can be of use to me. Stab [[Ragnis]] in the heart. Defeat him, throw the dagger."
+	- throws the Dagger at R
+		- 9 to
 - [[Talsen]]
 
 **Round 3**
