@@ -38,12 +38,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "829c43393c72d6c5",
+            "id": "409c02d254e099fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Session Combats/Fight_S74.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "829c43393c72d6c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Combats/Fight_S.md",
                 "mode": "source",
                 "source": true
               }
@@ -204,23 +216,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a5425b2e0f343446",
+  "active": "409c02d254e099fb",
   "lastOpenFiles": [
+    "Session Notes/Session 74.md",
+    "Session Combats/Fight_S.md",
+    "Session Combats/Fight_S74.md",
     "_Attachments/Ragnis.png",
     "Ragnis.md",
-    "Session Combats/Fight_S74.md",
     "Session Combats/Fight_S49.md",
     "Session Combats/Fight_S72.md",
     "Delwyn's Mom.md",
     "_Attachments/Delwyns Mom.png",
     "Locations/Hrakhamar.md",
     "Session Notes/Session 73.md",
-    "Session Combats/Fight_S.md",
     "Session Combats/Fight_S71.md",
     "Session Combats/Fight_S63.md",
     "Session Combats/Fight_S62.md",
     "Session Combats/Fight_S65.md",
-    "Session Notes/Session 74.md",
     "NPCs/Zuhgan.md",
     "Welcome.md",
     "README.md",

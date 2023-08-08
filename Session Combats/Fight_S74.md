@@ -20,7 +20,8 @@ Initiative:
 [[Delwyn]] - 14
 [[Shago]] (Played by Katha) - 18
 [[Musharib]] - 18
-Hound ([[Delwyn's Mom]]) - 18
+~~Hound ([[Delwyn's Mom]]) - 18~~
+~~Hound  ([[Delwyn's Mom]]) - Nat.1 (3)~~
 
 ---
 Conditions:
@@ -29,6 +30,7 @@ Conditions:
 
 [[Talsen]]:
 - Bless
+- Sanctuary
 
 [[Delwyn]]:
 - 
@@ -49,11 +51,11 @@ Enemies:
 - ~~FWa - [[Prone]]~~
 - ~~MI - Hexblade's Curse~~
 - ~~MI - Cold __V__~~
-- R - [[Deafened]]
+- ~~R - [[Deafened]]~~
 
 ---
 Dodge/Ready:
-[[Shago]] R
+
 
 ---
 **Round 1**
@@ -83,7 +85,7 @@ Dodge/Ready:
 		- 14 Force DMG
 			- R: FWLb, Hellish Rebuke, DEX SAV ([[Delwyn]]), 12, SAVE, 5 Fire DMG
 			- FWLb is [[Dead]]
-	- uses Hound of Ill Omen
+	- uses Hound of Ill Omen, Target: FWc
 		- a ghostly female figure appears out of the [[Shade Mark]]
 		- ![[Delwyns Mom.png]]
 - [[Talsen]] runs up to MI, attacks
@@ -195,22 +197,69 @@ Dodge/Ready:
 - R attacks [[Shago]]
 	- STR SAV: Nat.1 (5)
 		- pulls [[Shago]] into the Lava
+			- 77 Fire DMG
+	- changes his whip back to two scimitars, attacks [[Kadrin]]
+		- 13 to hit, miss
+		- 19 to hit, 11 DMG
+			- Conc. SAV ([[Kadrin]]): 16
+			- takes 15 Cold DMG
+			- takes 3 Psychic DMG
+- DoDa attacks [[Talsen]]
+	- 14 to hit, miss
+	- 21 to hit, 5 DMG
+- DoDa attacks [[Kadrin]]
+	- 15 to hit miss
+	- 15 to hit, miss
+- FWe attacks [[Talsen]]
+	- DEX SAV: 17 - SAVE
+		- 5 Fire DMG
+- FWf attacks [[Kadrin]]
+	- DEX SAV: 21 - SAVE
+		-  6 Fire DMG
+			- Armor of Agathys fades
+- [[Kadrin]] moves
+	- R: FWf, AoO, Nat.1 to hit, miss
+	- tries to take [[Shago]] into divine custody
+		- grapples [[Shago]]
+		- STR: 12
+			- pulls [[Shago]] out of the lava
+	- casts Sanctuary on [[Talsen]]
+- [[Delwyn]] casts Magic Missile (3rd LvL)on R
+	- 18 Force DMG
+	- uses Hound of Ill Omen, Target: R
+- [[Talsen]] moves
+	- R: AoO, FWe, WIS SAV: 4 - FAIL
+	- uses Restorative Ointment on [[Shago]]
+		- 11 HP
+- [[Delwyn's Mom]] attacks R
+	- 19 to hit, 11 DMG
+
+**Round 5**
+- [[Shadow]] attacks R
+	- SHARPSHOOTER, 25 to hit, 24 DMG
+		- R is [[Dead]]
+			- [[Delwyn's Mom]] disappears
+			- The Dagger flies back to [[Delwyn]] and his [[Shade Mark]] lessens
+			- [[Ragnis]]' scimitars fuse into a Greatsword and fall down as they melt into the stone
+	- shifts Hunter's Mark to FWf
+	- SHARPSHOOTER, 21 to hit, 24 DMG 
+- [[Shago]] attacks FWf
+	- 
+- [[Musharib]] 
 - [[Kadrin]] 
 - [[Delwyn]] 
 - [[Talsen]] 
+- [[Delwyn's Mom]] 
 
-**Round 5**
+**Round 6**
 - [[Shadow]] 
 - [[Shago]] 
 - [[Musharib]] 
 - [[Kadrin]] 
 - [[Delwyn]] 
 - [[Talsen]] 
+- [[Delwyn's Mom]] 
 
-**Round 6**
-asd
-asd
-asd
 **Round 7**
 asd
 asd
