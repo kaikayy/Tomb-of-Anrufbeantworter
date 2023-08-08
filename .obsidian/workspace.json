@@ -30,18 +30,6 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "f04933098ffa2f4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 73.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ]
       },
@@ -216,17 +204,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "829c43393c72d6c5",
+  "active": "a5425b2e0f343446",
   "lastOpenFiles": [
+    "Session Combats/Fight_S49.md",
+    "Session Combats/Fight_S72.md",
+    "Session Combats/Fight_S74.md",
+    "Delwyn's Mom.md",
+    "_Attachments/Delwyns Mom.png",
     "Locations/Hrakhamar.md",
     "Session Notes/Session 73.md",
-    "Session Combats/Fight_S74.md",
     "Session Combats/Fight_S.md",
     "Session Combats/Fight_S71.md",
     "Session Combats/Fight_S63.md",
     "Session Combats/Fight_S62.md",
     "Session Combats/Fight_S65.md",
-    "Session Combats/Fight_S72.md",
     "Session Notes/Session 74.md",
     "NPCs/Zuhgan.md",
     "Welcome.md",
@@ -248,13 +239,10 @@
     "_Attachments/Battlemap_Fight_S72.png",
     "Session Notes/Session 71.md",
     "_Attachments/Assassin Vine.png",
-    "_Official Conditions/Restrained.md",
     "_Attachments/Fight_S71.png",
-    "Session Notes/Session 70.md",
     "desktop.ini",
     "_Attachments/Logo BP.jpeg",
     "_Attachments/Logo P cut.png",
-    "_Attachments/Logo W.png",
     "_Attachments/Logo Video.mp4",
     "#publish.css",
     "publish.css",

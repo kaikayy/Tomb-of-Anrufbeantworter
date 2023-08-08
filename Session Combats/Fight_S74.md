@@ -18,6 +18,7 @@ Initiative:
 [[Delwyn]] - 14
 [[Shago]] (Played by Katha) - 18
 [[Musharib]] - 18
+Hound ([[Delwyn's Mom]]) - 18
 
 ---
 Conditions:
@@ -45,6 +46,7 @@ Enemies:
 - Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
 - ~~FWa - [[Prone]]~~
 - MI - Hexblade's Curse
+- MI - Cold __V__
 
 ---
 Dodge/Ready:
@@ -58,7 +60,7 @@ Dodge/Ready:
 	- SHARPSHOOTER, 24 to hit, 25 DMG
 		- FWd is [[Dead]]
 	- attacks FWLb
-		- SHARPSHOOTER, Nat.20 () to hit, 36 DMG
+		- SHARPSHOOTER, Nat.20 (26) to hit, 36 DMG
 - [[Shago]] attacks FWa
 	- 17 to hit, 10 DMG
 		- STR SAV: 14
@@ -73,14 +75,34 @@ Dodge/Ready:
 - [[Kadrin]] casts Bless on [[Talsen]], [[Musharib]], [[Kadrin]]
 	- casts Hexblade's Curse on MI
 - [[Delwyn]] feels his [[Shade Mark]] hungering, the other hand emits warmth and a voice in his head promises to help him
-	- 
-- [[Talsen]]
+	- casts Magic Missile (1st LvL) on FWLb
+		- 14 Force DMG
+			- R: FWLb, Hellish Rebuke, DEX SAV ([[Delwyn]]), 12, SAVE, 5 Fire DMG
+			- FWLb is [[Dead]]
+	- uses Hound of Ill Omen
+		- a ghostly female figure appears out of the [[Shade Mark]]
+		- ![[Delwyns Mom.png]]
+- [[Talsen]] runs up to MI, attacks
+	- 25 to hit, 14 DMG, 5 Cold DMG
+	- Uses Blood Reading, 1 Necrotic DMG
+		- Very tough, __I__: Fire, __R__: BPSNM, __V__: Cold
+		- High temperature Blood, magical, heats itself
+	- 17 to hit, 14 DMG, 5 Cold DMG
 
 **Round 2**
-- MI
-- [[Shadow]]
-- [[Shago]]
-- [[Musharib]]
+- MI casts a Spell
+	- R: [[Kadrin]], COUNTERSPELL, 23, SUCCESS
+- [[Shadow]] shifts Hunter's Mark to MI, attacks
+	- SHARPSHOOTER, 22 to hit, 22 DMG
+	- SHARPSHOOTER, 24 to hit, 26 DMG
+- [[Shago]] shoves FWb
+	- Athletics: 21 vs. Acrobatics: 8
+	- FWb falls into the Lava and is fine
+	- attacks FWb
+		- 25 to hit, 7 DMG
+		- 22 to hit, 14 DMG
+			- FWb is [[Dead]]
+- [[Musharib]] 
 - FWL
 - FW
 - [[Kadrin]]
