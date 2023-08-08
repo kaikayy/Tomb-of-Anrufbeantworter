@@ -10,6 +10,7 @@ Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
 [[Firenewt]] Warlock a,x - FWLa,x
 [[Ragnis]] - R
 Dwarf of the Devourer a,x - DoDa,x
+[[Firenewt]] Flamelord - FF
 ([[Firenewt]] Archer a,x - FAa,x)
 ([[Firenewt]] Cavalry a,x - FCa,x)
 
@@ -52,6 +53,7 @@ Enemies:
 - ~~MI - Hexblade's Curse~~
 - ~~MI - Cold __V__~~
 - ~~R - [[Deafened]]~~
+- ~~FWe [[Prone]]~~
 
 ---
 Dodge/Ready:
@@ -244,21 +246,36 @@ Dodge/Ready:
 	- shifts Hunter's Mark to FWf
 	- SHARPSHOOTER, 21 to hit, 24 DMG 
 - [[Shago]] attacks FWf
-	- 
-- [[Musharib]] 
-- [[Kadrin]] 
-- [[Delwyn]] 
-- [[Talsen]] 
-- [[Delwyn's Mom]] 
+	- 16 to hit, 13 DMG
+		- FWf is [[Dead]]
+	- attacks FWe
+		- 26 to hit, 9 DMG
+			- STR SAV: 4 - FAIL
+				- FWe falls [[Prone]]
+		- 23 to hit, 14 DMG
+			- FWe is [[Dead]]
+- [[Musharib]] drags the dwarf into the corner of the room
+- DoDa slams the door shut
+- DoDb hides behind the now shut door
+- [[Kadrin]] casts Misty Step towards the door, opens it, goes inside, next door, opens it, goes inside, two doors
+	- Perception: 18
+		- the door ahead just fell closed
+		- goes towards it and opens it
+		- sees the two dwarfs, 4 [[Firenewt]] Warriors and a [[Firenewt]] Flamelord
+		- attacks DoDb
+			- 25 to hit, 9 DMG
+			- 26 to hit, 16 DMG
+- [[Delwyn]] casts Shape Water to wake up the [[Unconscious]] Dwarf
+	- he doesn't seem to wake up
+- [[Talsen]] calls out to put on some speed and clean up, dashes towards [[Kadrin]]
 
-**Round 6**
+**Round 6** - [[Session 75]]
 - [[Shadow]] 
 - [[Shago]] 
 - [[Musharib]] 
 - [[Kadrin]] 
 - [[Delwyn]] 
 - [[Talsen]] 
-- [[Delwyn's Mom]] 
 
 **Round 7**
 asd

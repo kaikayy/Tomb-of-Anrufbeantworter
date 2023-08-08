@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S74.md",
+                "file": "Session Combats/Fight_S74_75.md",
                 "mode": "source",
                 "source": true
               }
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S74.md",
+                "file": "Session Combats/Fight_S74_75.md",
                 "mode": "source",
                 "source": true
               }
@@ -67,13 +67,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 74.md",
+                "file": "Session Notes/Session 75.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Combats/Fight_S74.md",
+                "file": "Session Notes/Session 75.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Combats/Fight_S74.md"
+                "file": "Session Notes/Session 75.md"
               }
             }
           },
@@ -174,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Combats/Fight_S74.md",
+                "file": "Session Notes/Session 75.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,16 +217,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "409c02d254e099fb",
+  "active": "1cf7fd4cac64a694",
   "lastOpenFiles": [
+    "README.md",
+    "Plans.md",
+    "NPCs/Delwyn's Mom.md",
+    "NPCs/Ragnis.md",
     "Session Notes/Session 74.md",
     "Session Combats/Fight_S.md",
-    "Session Combats/Fight_S74.md",
+    "Session Combats/Fight_S74_75.md",
+    "Session Notes/Session 75.md",
+    "Welcome.md",
     "_Attachments/Ragnis.png",
-    "Ragnis.md",
     "Session Combats/Fight_S49.md",
     "Session Combats/Fight_S72.md",
-    "Delwyn's Mom.md",
     "_Attachments/Delwyns Mom.png",
     "Locations/Hrakhamar.md",
     "Session Notes/Session 73.md",
@@ -234,9 +239,6 @@
     "Session Combats/Fight_S62.md",
     "Session Combats/Fight_S65.md",
     "NPCs/Zuhgan.md",
-    "Welcome.md",
-    "README.md",
-    "Plans.md",
     "Locations/Ataaz Yklwazi.md",
     "NPCs/Ayen Hervalur.md",
     "Locations/Outside of Chult/Underdark.md",
