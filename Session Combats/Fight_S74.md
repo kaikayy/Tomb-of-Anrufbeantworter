@@ -6,9 +6,10 @@ Battlemap:
 Enemies:
 Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
 ~~Majordomo Ignitus - MI~~
-~~[[Firenewt]] Warrior a,x - FWa,x~~
+[[Firenewt]] Warrior a,x - FWa,x
 [[Firenewt]] Warlock a,x - FWLa,x
 [[Ragnis]] - R
+Dwarf of the Devourer a,x - DoDa,x
 ([[Firenewt]] Archer a,x - FAa,x)
 ([[Firenewt]] Cavalry a,x - FCa,x)
 
@@ -48,10 +49,11 @@ Enemies:
 - ~~FWa - [[Prone]]~~
 - ~~MI - Hexblade's Curse~~
 - ~~MI - Cold __V__~~
-- 
+- R - [[Deafened]]
 
 ---
 Dodge/Ready:
+[[Shago]] R
 
 ---
 **Round 1**
@@ -163,25 +165,47 @@ Dodge/Ready:
 		- R: [[Kadrin]], SENTINEL, 29 to hit, 16 DMG
 	- 22 to hit, 14 DMG
 	- 16 to hit, miss
-- [[Kadrin]] 
-- [[Delwyn]]
-- [[Talsen]]
+		- moves back
+		- fuses his two weapons into a sword-like whip
+- FWe,f appear
+- [[Kadrin]] runs towards R, regains a 3rd LvL Spellslot, casts Shatter (3rd LvL)
+	- CON SAV: FWe, FWf, DoDa, DoDb
+		- FAIL, SAVE, SAVE, FAIL
+			- 5 / 10 Thunder DMG
+- [[Delwyn]] throws the dagger at R
+	- 18 to hit
+		- WIS SAV: FAIL, d4(4)
+			- R is [[Deafened]]
+	- uses Track Divine to see if Gods or Demi-Gods are near
+		- the summoned dagger points at [[Ragnis]]
+- [[Talsen]] attacks R
+	- 16 to hit, miss
+	- Amplify, 1 Necrotic DMG
+	- 29 to hit, 19 DMG
+		- Brand of Castigation
 
 **Round 4**
-- [[Shadow]]
-- [[Shago]]
-- [[Musharib]]
-- [[Kadrin]]
-- [[Delwyn]]
-- [[Talsen]]
+- [[Shadow]] attacks R
+	- SHARPSHOOTER, 21 to hit, 22 DMG
+	- SHARPSHOOTER, 25 to hit, 26 DMG
+- [[Shago]] readies his cation
+- [[Musharib]] lowers the dwarf from the Ceiling, goes to him and shakes him
+	- R: AoO, R, 10 to hit, miss
+		- R: SENTINEL, [[Kadrin]], Nat.1 (12) to hit, miss
+- R attacks [[Shago]]
+	- STR SAV: Nat.1 (5)
+		- pulls [[Shago]] into the Lava
+- [[Kadrin]] 
+- [[Delwyn]] 
+- [[Talsen]] 
 
 **Round 5**
-- [[Shadow]]
-- [[Shago]]
-- [[Musharib]]
-- [[Kadrin]]
-- [[Delwyn]]
-- [[Talsen]]
+- [[Shadow]] 
+- [[Shago]] 
+- [[Musharib]] 
+- [[Kadrin]] 
+- [[Delwyn]] 
+- [[Talsen]] 
 
 **Round 6**
 asd
