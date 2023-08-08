@@ -6,7 +6,7 @@ Battlemap:
 Enemies:
 Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
 ~~Majordomo Ignitus - MI~~
-[[Firenewt]] Warrior a,x - FWa,x
+~~[[Firenewt]] Warrior a,x - FWa,x~~
 [[Firenewt]] Warlock a,x - FWLa,x
 [[Ragnis]] - R
 ([[Firenewt]] Archer a,x - FAa,x)
@@ -135,14 +135,35 @@ Dodge/Ready:
 		- MI is [[Dead]]
 - [[Delwyn]]'s Hand hungers more and more and a piercing pain emits from his [[Shade Mark]]. A dagger drops out of his [[Shade Mark]] to the ground and points towards [[Ragnis]]. A voice in his head says "I have decided to allow your mother to watch you. Let's see if you can be of use to me. Stab [[Ragnis]] in the heart. Defeat him, throw the dagger."
 	- throws the Dagger at R
-		- 9 to
-- [[Talsen]]
+		- 9 to hit, miss
+	- casts Magic Missile (3rd LvL) on R
+		- 18 Force DMG
+- [[Talsen]] calls out to [[Shadow]] for assistance on FWLa and "the big fucker", jumps over the wall, attacks FWc
+	- 24 to hit, 16 DMG
+		- FWc is [[Dead]]
+			- [[Delwyn's Mom]] disappears
+	- Amplify, 6 Necrotic DMG
+	- attacks R
+	- 29 to hit, 21 DMG
 
 **Round 3**
-- [[Shadow]]
-- [[Shago]]
-- [[Musharib]]
-- [[Kadrin]]
+- [[Shadow]] shifts Hunter's Mark to FWLa, attacks
+	- SHARPSHOOTER, 20 to hit, 27 DMG
+		- Conc. SAV: SAVE
+		- R: FWLa, Hellish Rebuke, DEX SAV: 25, SAVE, 8 Fire DMG
+	- SHARPSHOOTER, 15 to hit, 23 DMG
+		- FWLa is [[Dead]]
+- [[Shago]] attacks R
+	- 19 to hit, 14 DMG
+	- Nat.20 (27) to hit, 25 DMG
+	- 21 to hit, 14 DMG
+- [[Musharib]] shifts Hunter's Mark to R, blows his horn
+- R attacks [[Talsen]]
+	- 17 to hit, miss
+		- R: [[Kadrin]], SENTINEL, 29 to hit, 16 DMG
+	- 22 to hit, 14 DMG
+	- 16 to hit, miss
+- [[Kadrin]] 
 - [[Delwyn]]
 - [[Talsen]]
 
