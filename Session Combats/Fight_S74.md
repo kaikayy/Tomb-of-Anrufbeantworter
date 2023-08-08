@@ -1,10 +1,15 @@
 Session Link:
-[[]]
+[[Session 74]]
 Battlemap:
-[[!]]
+![[Hrakhamar 2.png]]
 
 Enemies:
 Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
+Majordomo Ignitus - MI
+[[Firenewt]] Warrior a,x - FWa,x
+[[Firenewt]] Warlock a,x - FWLa,x
+[[Firenewt]] Archer a,x - FAa,x
+[[Firenewt]] Cavalery a,x - FCa,x
 
 Initiative:
 [[Talsen]] - 
@@ -37,6 +42,7 @@ Conditions:
 Enemies:
 - Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
 - 
+
 ---
 Dodge/Ready:
 
