@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5425b2e0f343446",
+            "id": "8ccad7a25cb523e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Hammer's Bulwark of Golden Stout.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "27d3a56911f03d71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 75.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bd64fb2e94ce89cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Hrakhamar.md",
+                "file": "Session Combats/Fight_S74_75.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f4d57ac883217882",
@@ -61,33 +36,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "829c43393c72d6c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Combats/Fight_S.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "13e577aa3cd4b5be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 75.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 75.md",
+                "file": "Session Combats/Fight_S74_75.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 75.md"
+                "file": "Session Combats/Fight_S74_75.md"
               }
             }
           },
@@ -188,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 75.md",
+                "file": "Session Combats/Fight_S74_75.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,8 +180,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "27d3a56911f03d71",
+  "active": "8ccad7a25cb523e5",
   "lastOpenFiles": [
+    "Locations/Hrakhamar.md",
+    "Session Notes/Session 75.md",
     "Session 76.md",
     "Items/Hammer's Bulwark of Golden Stout.md",
     "Session Combats/Fight_S74_75.md",
@@ -241,13 +193,11 @@
     "NPCs/Ragnis.md",
     "Session Notes/Session 74.md",
     "Session Combats/Fight_S.md",
-    "Session Notes/Session 75.md",
     "Welcome.md",
     "_Attachments/Ragnis.png",
     "Session Combats/Fight_S49.md",
     "Session Combats/Fight_S72.md",
     "_Attachments/Delwyns Mom.png",
-    "Locations/Hrakhamar.md",
     "Session Notes/Session 73.md",
     "Session Combats/Fight_S71.md",
     "Session Combats/Fight_S63.md",
