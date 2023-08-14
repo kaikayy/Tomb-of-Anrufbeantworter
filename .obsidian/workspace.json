@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S74_75.md",
+                "file": "Items/Hammer's Bulwark of Golden Stout.md",
                 "mode": "source",
                 "source": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 75.md",
+                "file": "Items/Hammer's Bulwark of Golden Stout.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 75.md"
+                "file": "Items/Hammer's Bulwark of Golden Stout.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 75.md",
+                "file": "Items/Hammer's Bulwark of Golden Stout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,15 +217,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1cf7fd4cac64a694",
+  "active": "a5425b2e0f343446",
   "lastOpenFiles": [
+    "Session Combats/Fight_S74_75.md",
     "README.md",
     "Plans.md",
     "NPCs/Delwyn's Mom.md",
     "NPCs/Ragnis.md",
     "Session Notes/Session 74.md",
     "Session Combats/Fight_S.md",
-    "Session Combats/Fight_S74_75.md",
     "Session Notes/Session 75.md",
     "Welcome.md",
     "_Attachments/Ragnis.png",

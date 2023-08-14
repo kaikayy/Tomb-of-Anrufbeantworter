@@ -242,7 +242,7 @@ Dodge/Ready:
 		- R is [[Dead]]
 			- [[Delwyn's Mom]] disappears
 			- The Dagger flies back to [[Delwyn]] and his [[Shade Mark]] lessens
-			- [[Ragnis]]' scimitars fuse into a Greatsword and fall down as they melt into the stone
+			- [[Ragnis]]' scimitars fuse into a Longsword and fall down as they melt into the stone
 	- shifts Hunter's Mark to FWf
 	- SHARPSHOOTER, 21 to hit, 24 DMG 
 - [[Shago]] attacks FWf
