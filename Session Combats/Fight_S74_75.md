@@ -11,6 +11,7 @@ Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
 [[Ragnis]] - R
 Dwarf of the Devourer a,x - DoDa,x
 [[Firenewt]] Flamelord - FF
+~~Viper - V~~
 ([[Firenewt]] Archer a,x - FAa,x)
 ([[Firenewt]] Cavalry a,x - FCa,x)
 
@@ -31,7 +32,8 @@ Conditions:
 
 [[Talsen]]:
 - ~~Bless~~
-- Sanctuary
+- ~~Sanctuary~~
+- [[Frightened]]
 
 [[Delwyn]]:
 - 
@@ -58,7 +60,7 @@ Enemies:
 
 ---
 Dodge/Ready:
-Shago Dodge
+
 
 ---
 **Round 1**
@@ -292,18 +294,57 @@ Shago Dodge
 	- 18 to hit, 13 DMG
 	- 13 to hit, miss
 - [[Delwyn]] goes near [[Ragnis]] body, the [[Shade Mark]] doesn't react, dashes towards the fight
-- Something attacks [[Shadow]]
+- V attacks [[Shadow]]
 	- 18 to hit, 1 DMG 6 Necrotic DMG
-	- 
-- [[Talsen]] 
+		- Conc. SAVE: 17
+	- moves away
+		- R: AoO, [[Shadow]], 20 to hit, 5 DMG
+			- V is [[Dead]]
+- [[Talsen]] attacks DoDb
+	- 24 to hit, 18 DMG
+		- Sanctuary drops
+	- 22 to hit, 16 DMG
+		- DoDb is [[Dead]]
+	- moves into the room
 
 **Round 7**
-- [[Shadow]]
-- [[Shago]]
-- [[Musharib]]
-- [[Kadrin]]
-- [[Delwyn]]
-- [[Talsen]]
+- [[Shadow]] shifts Hunter's Mark to FWb,2 attacks
+	- SHARPSHOOTER, 17 to hit, 27 DMG
+	- SHARPSHOOTER, 16 to hit, 27 DMG
+		- FWb is [[Dead]]
+- [[Shago]] attacks FWc2 (crossbow)
+	- 20 to hit, 10 DMG
+- [[Musharib]] dashes behind [[Shago]]
+- FWd2 attacks [[Talsen]]
+	- DEX SAV: 8 - FAIL
+		- 9 Fire DMG
+- FWa2,c2 attack [[Talsen]]
+	- 10 to hit, miss
+	- 12 to hit, miss
+	- Nat.20 (23) to hit, 3 DMG
+	- 10 to hit, miss
+- FF is obscured
+- DoDa attacks [[Talsen]]
+	- 10 to hit, miss
+		- R: [[Kadrin]], SENTINEL, Nat.1 (10) to hit, miss
+	- 16 to hit, miss
+		- R: AoO, [[Talsen]], 25 to hit, 21 DMG
+- [[Kadrin]] restores a Spellslot, goes into the room
+	- R: AoO, FWc2, 18 to hit, 2 DMG, Conc. SAVE: 15
+	- looks into the corridor
+		- R: FF casts Fireball
+			- R: [[Kadrin]], COUNTERSPELL
+	- moves further
+		- R: AoO, FWa2, 12 to hit, miss
+	- uses Necrotic Shroud, FWa2, FWc2, FWd2, DoDa, [[Talsen]]
+		- CHA SAV: SAVE, FAIL, SAVE, SAVE, 14 - FAIL
+			- [[Talsen]] is [[Frightened]]
+- [[Delwyn]] runs towards the room [[Musharib]] pointed out
+	- sees a long hallway with a lever at the end and a small Pig standing before a bridge
+	- casts Magic Missile (2nd LvL) at FWa2
+		- 13 Force DMG
+- [[Talsen]] attacks FWc2
+	- 
 
 **Round 8**
 asd
