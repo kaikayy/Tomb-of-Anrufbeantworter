@@ -30,22 +30,23 @@ Conditions:
 - [[Concentration]] (Hunter's Mark)
 
 [[Talsen]]:
-- Bless
+- ~~Bless~~
 - Sanctuary
 
 [[Delwyn]]:
 - 
 
 [[Kadrin]]:
-- [[Concentration]] (Bless)
-- Bless
+- ~~[[Concentration]] (Bless)~~
+- ~~Bless~~
+- [[Concentration]] (Divine Favor)
 
 [[Shago]]: 
 - 
 
 [[Musharib]]:
 - [[Concentration]] (Hunter's Mark)
-- Bless
+- ~~Bless~~
 
 Enemies:
 - Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
@@ -57,7 +58,7 @@ Enemies:
 
 ---
 Dodge/Ready:
-
+Shago Dodge
 
 ---
 **Round 1**
@@ -270,17 +271,40 @@ Dodge/Ready:
 - [[Talsen]] calls out to put on some speed and clean up, dashes towards [[Kadrin]]
 
 **Round 6** - [[Session 75]]
-- [[Shadow]] 
-- [[Shago]] 
-- [[Musharib]] 
-- [[Kadrin]] 
-- [[Delwyn]] 
+- [[Shadow]] dashes after [[Kadrin]] & [[Talsen]]
+- [[Shago]] runs after [[Shadow]], dodges
+- [[Musharib]] dashes after the others
+- FWa2,b2,c2 spray fire at [[Kadrin]]
+	- DEX SAV: 23, 12, 7 - SAVE, SAVE, FAIL
+		- 5, 3, 11 Fire DMG
+			- Conc. SAV: 13, 9
+				- Bless drops
+- FWd2 runs into another room and alerts someone
+- FF casts Fireball
+	- R: [[Kadrin]], COUNTERSPELL
+	- goes to another room
+- DoDa,b attack [[Kadrin]]
+	- 9 to hit, miss
+	- 22 t o hit, 4 DMG
+	- 11 to hit, miss
+	- 7 to hit, miss
+- [[Kadrin]] uses Divine Favor, attacks DoDb
+	- 18 to hit, 13 DMG
+	- 13 to hit, miss
+- [[Delwyn]] goes near [[Ragnis]] body, the [[Shade Mark]] doesn't react, dashes towards the fight
+- Something attacks [[Shadow]]
+	- 18 to hit, 1 DMG 6 Necrotic DMG
+	- 
 - [[Talsen]] 
 
 **Round 7**
-asd
-asd
-asd
+- [[Shadow]]
+- [[Shago]]
+- [[Musharib]]
+- [[Kadrin]]
+- [[Delwyn]]
+- [[Talsen]]
+
 **Round 8**
 asd
 asd
