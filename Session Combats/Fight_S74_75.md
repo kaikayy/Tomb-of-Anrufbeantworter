@@ -10,7 +10,7 @@ Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
 [[Firenewt]] Warlock a,x - FWLa,x
 [[Ragnis]] - R
 Dwarf of the Devourer a,x - DoDa,x
-[[Firenewt]] Flamelord - FF
+~~[[Firenewt]] Flamelord - FF~~
 ~~Viper - V~~
 Small Pig - P
 ([[Firenewt]] Archer a,x - FAa,x)
@@ -36,14 +36,18 @@ Conditions:
 - ~~Sanctuary~~
 - ~~[[Frightened]]~~
 - Strange Metabolism (R8)
+- [[Unconscious]]
 
 [[Delwyn]]:
-- 
+- ~~[[Concentration]] (Hypnotic Pattern)~~
+- [[Concentration]] (Darkness)
 
 [[Kadrin]]:
 - ~~[[Concentration]] (Bless)~~
 - ~~Bless~~
 - ~~[[Concentration]] (Divine Favor)~~
+- ~~[[Unconscious]]~~
+- ~~[[Prone]]~~
 - ~~[[Unconscious]]~~
 - [[Prone]]
 
@@ -51,8 +55,9 @@ Conditions:
 - 
 
 [[Musharib]]:
-- [[Concentration]] (Hunter's Mark)
+- ~~[[Concentration]] (Hunter's Mark)~~
 - ~~Bless~~
+- [[Unconscious]]
 
 Enemies:
 - Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
@@ -64,7 +69,7 @@ Enemies:
 
 ---
 Dodge/Ready:
-
+R Shadow
 
 ---
 **Round 1**
@@ -415,14 +420,55 @@ Dodge/Ready:
 	- 17 to hit, miss
 	- 21 to hit, 3 DMG
 	- 12 to hit, miss
+- FF casts Fireball on [[Kadrin]], [[Shago]], [[Musharib]], [[Shadow]], [[Talsen]]
+	- DEX SAV: 12, 17, 3, 20, 8 - FAIL, SAVE, FAIL, SAVE, FAIL
+		- 22 / 11 DMG
+			- [[Talsen]], [[Kadrin]], [[Musharib]] is [[Unconscious]]
+				- Conc. SAV, [[Shadow]]: 18
+- [[Kadrin]], DEATH SAVE: ~
+- [[Delwyn]] casts Hypnotic Pattern on FWf2, FWg2, FWh2, FF
+	- WIS SAV: 18, 6, 2, 22 - SAVE, FAIL, FAIL, SAVE
+- [[Talsen]], DEATH SAVE: 12
+
+**Round 10**
+- [[Shadow]] shifts Hunter's Mark to FF, attacks
+	- SHARPSHOOTER, 24 to hit, 28 DMG
+		- R: FF, Hellish Rebuke, DEX SAV: 25 - SAVE, 12 Fire DMG, Conc. SAV: 12
+	- SHARPSHOOTER, Nat.20 (26) to hit, 34 DMG
+- [[Shago]] attacks FF (crossbow)
+	- 16 to hit, 8 DMG
+		- FF is [[Dead]]
+- [[Musharib]], DEATH SAVE: 10
+- FWf attacks [[Shago]]
+	- 15 to hit, miss
+		- R: [[Shago]], Parry
+	- 20 to hit, 2 DMG
+- [[Kadrin]], DEATH SAVE: ~
+- [[Delwyn]] casts Darkness (2nd LvL)
+	- Drops Hypnotic Pattern, still [[Concentration]]
+- [[Talsen]], DEATH SAVE: 12
+
+**Round 11**
+- [[Shadow]] casts Healing Word on [[Kadrin]]
+	- 8 HP
+		- [[Kadrin]] is no longer [[Unconscious]] but [[Prone]]
+	- Readies her action
+- [[Shago]] equips his Shield
+- [[Musharib]], DEATH SAVE: 
+- FWf
+- FWg
+- FWh
 - [[Kadrin]]
 - [[Delwyn]]
 - [[Talsen]]
 
-**Round 10**
+**Round 12**
 - [[Shadow]]
 - [[Shago]]
 - [[Musharib]]
-- [[Kadrin]]
+- FWf
+- FWg
+- FWh
 - [[Kadrin]]
 - [[Delwyn]]
+- [[Talsen]]
