@@ -44,7 +44,8 @@ Conditions:
 - ~~[[Concentration]] (Bless)~~
 - ~~Bless~~
 - ~~[[Concentration]] (Divine Favor)~~
-- [[Unconscious]]
+- ~~[[Unconscious]]~~
+- [[Prone]]
 
 [[Shago]]: 
 - 
@@ -387,3 +388,41 @@ Dodge/Ready:
 		- 28 to hit, 14 DMG
 
 **Round 9**
+- [[Shadow]] moves into the room, casts Healing Word on [[Kadrin]]
+	- 6 HP
+		- [[Kadrin]] is no longer [[Unconscious]], but [[Prone]]
+	- attacks FWd2
+		- SHARPSHOOTER, 19 to hit, 20 DMG
+			- FWd2 is [[Dead]]
+	- attacks DoDa
+		- SHARPSHOOTER, 21 to hit, 19 DMG
+			- DoDa is [[Dead]]
+- [[Shago]] moves into the room, attacks FWe2
+	- 8 to hit, miss
+- [[Musharib]] helps [[Kadrin]] stand up
+	- [[Kadrin]] is no longer [[Prone]]
+	- shifts his Hunter's Mark to FWe2
+- FWe2,f2,g2,h2 attack [[Talsen]], switching positions as they do
+	- 18 to hit, 2 DMG
+		- R: [[Kadrin]], SENTINEL, 21 to hit, 12 DMG
+		- R: [[Nankore, Spear of Lost Love]], 21 to hit, 10 Force DMG
+	- 21 to hit, 4 DMG
+		- R: [[Talsen]], AoO, 29 to hit, 14 DMG
+			- FWe2 is [[Dead]]
+	- 6 to hit, miss
+	- 13 to hit, miss
+	- 11 to hit, miss
+	- 17 to hit, miss
+	- 21 to hit, 3 DMG
+	- 12 to hit, miss
+- [[Kadrin]]
+- [[Delwyn]]
+- [[Talsen]]
+
+**Round 10**
+- [[Shadow]]
+- [[Shago]]
+- [[Musharib]]
+- [[Kadrin]]
+- [[Kadrin]]
+- [[Delwyn]]
