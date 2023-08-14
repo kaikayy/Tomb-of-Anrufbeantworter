@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "27d3a56911f03d71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 75.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "bd64fb2e94ce89cb",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f4d57ac883217882",
@@ -140,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Hammer's Bulwark of Golden Stout.md",
+                "file": "Session Notes/Session 75.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Hammer's Bulwark of Golden Stout.md"
+                "file": "Session Notes/Session 75.md"
               }
             }
           },
@@ -175,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Hammer's Bulwark of Golden Stout.md",
+                "file": "Session Notes/Session 75.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,8 +230,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a5425b2e0f343446",
+  "active": "27d3a56911f03d71",
   "lastOpenFiles": [
+    "Session 76.md",
+    "Items/Hammer's Bulwark of Golden Stout.md",
     "Session Combats/Fight_S74_75.md",
     "README.md",
     "Plans.md",
@@ -249,8 +264,6 @@
     "Session Notes/Watch_Vorlage.md",
     "_Attachments/Hrakhamar 1 fixed.png",
     "_Attachments/Hrakhamar 1.png",
-    "Locations/Shilku.md",
-    "Session Notes/Session 72.md",
     "_Attachments/Battlemap_Fight_S72.png",
     "_Attachments/Assassin Vine.png",
     "_Attachments/Fight_S71.png",
