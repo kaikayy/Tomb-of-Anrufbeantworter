@@ -12,6 +12,7 @@ Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
 Dwarf of the Devourer a,x - DoDa,x
 [[Firenewt]] Flamelord - FF
 ~~Viper - V~~
+Small Pig - P
 ([[Firenewt]] Archer a,x - FAa,x)
 ([[Firenewt]] Cavalry a,x - FCa,x)
 
@@ -33,7 +34,8 @@ Conditions:
 [[Talsen]]:
 - ~~Bless~~
 - ~~Sanctuary~~
-- [[Frightened]]
+- ~~[[Frightened]]~~
+- Strange Metabolism (R8)
 
 [[Delwyn]]:
 - 
@@ -41,7 +43,8 @@ Conditions:
 [[Kadrin]]:
 - ~~[[Concentration]] (Bless)~~
 - ~~Bless~~
-- [[Concentration]] (Divine Favor)
+- ~~[[Concentration]] (Divine Favor)~~
+- [[Unconscious]]
 
 [[Shago]]: 
 - 
@@ -308,7 +311,7 @@ Dodge/Ready:
 	- moves into the room
 
 **Round 7**
-- [[Shadow]] shifts Hunter's Mark to FWb,2 attacks
+- [[Shadow]] shifts Hunter's Mark to FWb2, attacks
 	- SHARPSHOOTER, 17 to hit, 27 DMG
 	- SHARPSHOOTER, 16 to hit, 27 DMG
 		- FWb is [[Dead]]
@@ -344,10 +347,43 @@ Dodge/Ready:
 	- casts Magic Missile (2nd LvL) at FWa2
 		- 13 Force DMG
 - [[Talsen]] attacks FWc2
-	- 
+	- 13 to hit, miss
+	- 13 to hit, miss
 
 **Round 8**
-asd
-asd
-asd
+- [[Shadow]] shifts Hunter's Mark to FWa2, attacks
+	- SHARPSHOOTER, 20 to hit, 26 DMG 
+		- FWa2 is [[Dead]]
+		- attacks FWc2
+		- SHARPSHOOTER, 19 to hit, 21 DMG 
+- P runs onto the bridge
+- [[Shago]] attacks FWc2 (crossbow)
+	- 17 to hit, 6 DMG
+		- FWc2 is [[Dead]]
+- [[Musharib]] shifts Hunter's Mark to FWd2, attacks
+	- 19 to hit, 15 DMG
+- FWe2,f2,g2,h2 appear, attack [[Kadrin]]
+	- DEX SAV: Nat.20 (22), 9, 7, 4
+		- 2, 30
+			- Conc. SAV: 6
+				- [[Kadrin]] drops [[Concentration]]
+			- [[Kadrin]] is [[Unconscious]]
+- FWd2 attacks [[Musharib]]
+	- 22 to hit, 2 DMG
+		- Conc. SAV: 22
+	- 7 to hit, miss
+- FF is obscured
+- DoDa attacks [[Kadrin]]
+	- 19 to hit, -2, 17 to hit, miss
+		- R: Curse of the Eyeless, [[Talsen]], 1 DMG
+	- 12 to hit, -2, 10 to hit, miss
+- [[Kadrin]]  DEATH SAVE: ~
+	- [[Frightened]] drops
+- [[Delwyn]] goes into the room, casts Mind Sliver on FWd2
+	- INT SAV: 14 - FAIL
+		- 7 Psychic DMG
+- [[Talsen]] shoves [[Kadrin]] to the Side and gives [[Musharib]] a Potion of Healing, uses Strange Metabolism, [[Nankore, Spear of Lost Love]] comes out of the Backpack
+	- attacks DoDa
+		- 28 to hit, 14 DMG
+
 **Round 9**
