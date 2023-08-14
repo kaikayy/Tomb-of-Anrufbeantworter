@@ -1,20 +1,18 @@
 Session Link:
-[[Session 74]]
+[[Session 74]], [[Session 75]]
 Battlemap:
 ![[Hrakhamar 2.png]]
 
 Enemies:
 Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
 ~~Majordomo Ignitus - MI~~
-[[Firenewt]] Warrior a,x - FWa,x
-[[Firenewt]] Warlock a,x - FWLa,x
-[[Ragnis]] - R
-Dwarf of the Devourer a,x - DoDa,x
+~~[[Firenewt]] Warrior a,x - FWa,x~~
+~~[[Firenewt]] Warlock a,x - FWLa,x~~
+~~[[Ragnis]] - R~~
+~~Dwarf of the Devourer a,x - DoDa,x~~
 ~~[[Firenewt]] Flamelord - FF~~
 ~~Viper - V~~
 Small Pig - P
-([[Firenewt]] Archer a,x - FAa,x)
-([[Firenewt]] Cavalry a,x - FCa,x)
 
 Initiative:
 [[Talsen]] - 9
@@ -36,7 +34,8 @@ Conditions:
 - ~~Sanctuary~~
 - ~~[[Frightened]]~~
 - Strange Metabolism (R8)
-- [[Unconscious]]
+- ~~[[Unconscious]]~~
+- [[Prone]]
 
 [[Delwyn]]:
 - ~~[[Concentration]] (Hypnotic Pattern)~~
@@ -49,7 +48,7 @@ Conditions:
 - ~~[[Unconscious]]~~
 - ~~[[Prone]]~~
 - ~~[[Unconscious]]~~
-- [[Prone]]
+- ~~[[Prone]]~~
 
 [[Shago]]: 
 - 
@@ -57,7 +56,9 @@ Conditions:
 [[Musharib]]:
 - ~~[[Concentration]] (Hunter's Mark)~~
 - ~~Bless~~
-- [[Unconscious]]
+- ~~[[Unconscious]]~~
+	- ~~Stable~~
+- [[Prone]]
 
 Enemies:
 - Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
@@ -454,21 +455,48 @@ R Shadow
 		- [[Kadrin]] is no longer [[Unconscious]] but [[Prone]]
 	- Readies her action
 - [[Shago]] equips his Shield
-- [[Musharib]], DEATH SAVE: 
-- FWf
-- FWg
-- FWh
-- [[Kadrin]]
-- [[Delwyn]]
-- [[Talsen]]
+- [[Musharib]], DEATH SAVE:  14
+- FWf2 steps out of the Darkness
+	- R: Readied, [[Shadow]], SHARPSHOOTER, 23 to hit, 22 DMG
+	- attacks [[Talsen]]
+		- 16 to hit, miss
+			- R: [[Kadrin]], SENTINEL, 15 to hit, miss
+		- 11 to hit, miss
+		- runs back into the darkness
+			- R: [[Shago]], AoO, 23 to hit, 7 DMG, STR SAV: Nat.1 - FAIL, FWf2 is [[Prone]], stands back up
+- FWg2 is obscured
+- FWh2 is obscured
+- [[Kadrin]] stands up from [[Prone]]
+	- uses Healing Hands, 7 HP
+		- [[Talsen]] is no longer [[Unconscious]] but [[Prone]]
+	- regains a Spellslot
+- [[Delwyn]] tries to help [[Musharib]]
+	- Medicine: 18
+		- [[Musharib]] is [[Unconscious]] but Stable
+- [[Talsen]] stands up, charges into the Darkness, attacks FWf2
+	- 29 to hit, 16 DMG
+		- FWf2 is [[Dead]]
+	- hits into the air
 
 **Round 12**
-- [[Shadow]]
-- [[Shago]]
-- [[Musharib]]
-- FWf
-- FWg
-- FWh
-- [[Kadrin]]
-- [[Delwyn]]
-- [[Talsen]]
+- [[Shadow]] casts Healing Word on [[Musharib]]
+	- 7 HP
+		- [[Musharib]] is no longer [[Unconscious]], but [[Prone]]
+	- [[Delwyn]] drops Darkness
+		- [[Shadow]] attacks FWg2
+			- SHARPSHOOTER, 19 to hit, 22 DMG 
+			- SHARPSHOOTER, 16 to hit, 20 DMG
+				- FWg is [[Dead]]
+- [[Shago]] goes after [[Talsen]]
+	- attacks FWh
+		- 17 to hit, 10 DMG
+			- STR SAV: 11 - FAIL
+				- FWh is [[Prone]]
+		- 23 to hit, 14 DMG
+		- 23 to hit, 8 DMG
+- [[Musharib]] is [[Unconscious]]
+- FWh2 attacks [[Talsen]]
+	- 14 to hit, miss
+	- 22 to hit, 2 DMG
+		- R: [[Nankore, Spear of Lost Love]], 23 to hit, 11 DMG
+			- FWh2 is [[Dead]]
