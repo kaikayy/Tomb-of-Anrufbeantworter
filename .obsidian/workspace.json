@@ -17,6 +17,19 @@
                 "mode": "source",
                 "source": true
               }
+            },
+            "group": "c193ea01d9e05aac"
+          },
+          {
+            "id": "de81593601686f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ebonfang.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
@@ -34,69 +47,23 @@
         ]
       },
       {
-        "id": "f4d57ac883217882",
+        "id": "f6d20b8725bf3f84",
         "type": "tabs",
         "children": [
           {
-            "id": "60e2d7d2c4454494",
+            "id": "0188b2c40f661f16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S76.md",
-                "mode": "source",
+                "file": "Session Notes/Session 76.md",
+                "mode": "preview",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "ce64df2cef2eb097",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fake Kordelia.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f847acb18b8b5ee1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Sewn Sisters.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "62c7321250581cc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Baggy Nanna.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ddc99aee5012c443",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_Attachments/Baggy Nana.png"
-              }
-            }
+            },
+            "group": "c193ea01d9e05aac"
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,8 +208,10 @@
   },
   "active": "ae5b8a5fc124eca2",
   "lastOpenFiles": [
-    "Session Notes/Watch_Vorlage.md",
+    "Ebonfang.md",
     "Session Notes/Session 76.md",
+    "Sithi Vinecutter.md",
+    "Session Notes/Watch_Vorlage.md",
     "NPCs/Baggy Nanna.md",
     "Glossary/Sewn Sisters.md",
     "Fake Kordelia.md",
@@ -270,7 +239,6 @@
     "Session Combats/Fight_S72.md",
     "_Attachments/Delwyns Mom.png",
     "Session Combats/Fight_S71.md",
-    "Session Combats/Fight_S63.md",
     "_Attachments/Snake ffucker.png",
     "_Attachments/Hrakhamar 2.png",
     "_Attachments/Hrakhamar 1 fixed.png",

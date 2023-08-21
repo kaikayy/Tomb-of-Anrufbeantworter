@@ -37,6 +37,7 @@ We go towards the Pig, being led by [[Musharib]] through the complex
 - We arrive at the metal bridge and see a pulled-down lever
 - We cross the bridge without a problem
 - We see an adamantine branded Iron double Door in front of us, it seems to be flanked by two suits of armor that have seen better days
+	- `Two suits of dwarven half plate armor stand on either side of an adamantine-banded iron door. These suits of armor were beautiful once, but now they’re scarred by weapons, scorched by fire, and smeared with filth. The door has two locks, one above the other.`
 	- The door seems to have two locks
 	- [[Musharib]] tells us that this is the Vault and that it needs keys the former forge master possessed before he died in the attack
 	- We hear clattering behind us and the bridge retracts from the other side
@@ -50,10 +51,40 @@ The Fight ends, [[Kadrin]] collapses as [[Shadow]] catches him and carries him a
 	- 11 HP
 	- goes back into the room and collects [[Fake Kordelia]]'s blood
 - [[Musharib]] explains that the door we where at, requires two keys but if the lower lock is attempted with the wrong key, the bridge retracts
+- We discuss if we keep looking for survivors or take a rest
+	- We decide to take a rest
 - [[Talsen]] writes "Smeltery" on a piece of Paper and sticks it to the end of the minecart track
+	- For when [[Musharib]]'s reinforcements arrive
 
 ##### SHORT REST (Start)
-- asd
-- asd
-- asd
+- [[Kadrin]] commends [[Shadow]] on her Healing abilities
+- [[Kadrin]] looks at [[Nankore, Spear of Lost Love]]
+	- [[Talsen]] explains that it might have something for [[Kadrin]] when [[Talsen]]'s gone
+- Many [[Albino Dwarfs]] lead by a female dwarf called [[Sithi Vinecutter]]
+- [[Musharib]] and [[Sithi Vinecutter]] argue over him running away
+	- asks where his companions are and for them to better not be [[Firenewt]]'s
+		- [[Talsen]] tries to make a hissing noise
+			- Performance: 19
+		- [[Sithi Vinecutter]] throws a Light Hammer at [[Talsen]]
+			- 12 to hit, miss
+			- [[Talsen]] pockets the Light Hammer
+- [[Kadrin]] drops the Illusion around us
+- [[Sithi Vinecutter]] wants to scour the other rooms
+	- The party makes clear that that would be foolish without them
+	- They "parked" a new guardian at the door, [[Ebonfang]]
+	- They are mostly workers but an "impromptu militia" in the current circumstance
+- [[Talsen]] asks who of them are the best smiths
+	- [[Sithi Vinecutter]] was going to be a new forge master
+	- [[Talsen]] asks [[Sithi Vinecutter]] if she could reforge the two damaged armor pieces
+		- It is possible, they will talk about it later
+- [[Sithi Vinecutter]] asks where the keys to the door went and asks [[Talsen]] to look through the rubble in the adjacent room with her
+	- He finds a box in a corner, made of iron, looks like a book
+		- "Beginnings" and "Endings" is written on the sides of the box
+		- In both compartments is the mold for a key
+	- [[Talsen]] tells her that he jumped the bridge before
+		- [[Sithi Vinecutter]] says that that is impressive
+			- [[Talsen]], Insight: Nat.1 (0)
+
 ##### SHORT REST (End)
+
+Reminder: P
