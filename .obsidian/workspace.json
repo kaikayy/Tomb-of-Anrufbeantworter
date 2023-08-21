@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 76.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ebonfang.md",
+                "file": "NPCs/Ebonfang.md",
                 "mode": "source",
                 "source": true
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foznem Axeshaper.md",
+                "file": "NPCs/Foznem Axeshaper.md",
                 "mode": "source",
                 "source": true
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 76.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 76.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 76.md"
+                "file": "README.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 76.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,21 +208,22 @@
   },
   "active": "ae5b8a5fc124eca2",
   "lastOpenFiles": [
-    "Ebonfang.md",
+    "NPCs/Ebonfang.md",
+    "Welcome.md",
+    "NPCs/Sithi Vinecutter.md",
+    "NPCs/Foznem Axeshaper.md",
+    "NPCs/Fake Kordelia.md",
+    "README.md",
     "Session Notes/Session 76.md",
-    "Sithi Vinecutter.md",
     "Session Notes/Watch_Vorlage.md",
     "NPCs/Baggy Nanna.md",
     "Glossary/Sewn Sisters.md",
-    "Fake Kordelia.md",
     "_Attachments/Baggy Nana.png",
     "NPCs/Peggy Deadbells.md",
     "Session Combats/Fight_S76.md",
     "_Attachments/Pasted image 20230821194116.png",
     "_Attachments/Battlemap S76.png",
-    "Foznem Axeshaper.md",
     "Session Combats/Fight_S74_75.md",
-    "README.md",
     "Untitled.md",
     "Session Notes/Session 75.md",
     "Session Notes/Session 73.md",
@@ -233,7 +234,6 @@
     "NPCs/Delwyn's Mom.md",
     "NPCs/Ragnis.md",
     "Session Combats/Fight_S.md",
-    "Welcome.md",
     "_Attachments/Ragnis.png",
     "Session Combats/Fight_S49.md",
     "Session Combats/Fight_S72.md",

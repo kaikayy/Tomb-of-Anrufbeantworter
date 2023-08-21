@@ -21,7 +21,7 @@ Recap - [[Talsen]]
 We go to get the Unconscious Albino Dwarf ([[Foznem Axeshaper]]) from the main chamber to leave him in the area we were before with [[Shago]] and then push on for survivors
 - We go back through the metal smithing and armory rooms
 - [[Talsen]] takes a look at the armor
-	- Well made armor for Dwarfs, Half Plate Armor, a bit scrached
+	- Well made armor for Dwarfs, Half Plate Armor, a bit scratched
 	- There also seems to be a lot of weapons here
 		- `This chamber includes six each of battleaxes, greataxes, mauls, morningstars, war picks, warhammers, and heavy crossbows, plus two hundred crossbow bolts and four suits of dwarven half-plate armor.`
 
