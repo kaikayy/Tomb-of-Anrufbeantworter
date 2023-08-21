@@ -9,13 +9,16 @@ Bridge Length: 40ft.
 Enemies:
 Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
 [[Kordelia]]
+Cockerel - C
+Viper - V
+Pig - P
 
 Initiative:
 [[Talsen]] - 10
 [[Kadrin]] - 19
 [[Shadow]] - 26
 [[Delwyn]] - 22
-[[Shago]] - 17
+[[Shago]] - 17 (played by Katha)
 [[Musharib]] - 9
 
 ---
@@ -40,7 +43,10 @@ Conditions:
 
 Enemies:
 - Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
-- [[Kordelia]] - [[Concentration]]
+- ~~[[Kordelia]] - [[Concentration]]~~
+- [[Kordelia]] - Cold __R__
+- 
+
 ---
 Dodge/Ready:
 D Shago
@@ -91,28 +97,66 @@ D Shago
 - [[Delwyn]] dashes towards [[Shago]]
 - [[Kadrin]] uses Divine Sense
 	- Nothing
-- [[Shago]] 
+- [[Shago]] dodges
+- [[Talsen]] looks into the rooms, dashes
+	- Finds [[Kordelia]] as well as C, V & P
+	- Backs off
+		- R: AoO, V, Nat.1 to hit, miss
+- [[Musharib]] dashes through the corridor onto the platform by the lava river
+- P attacks [[Musharib]]
+	- 7 to hit, miss
+- C goes past [[Talsen]]
+	- AoO: [[Talsen]], 29 to hit, 21 DMG
+		- C poofs away
+
+**Round 5**
+- [[Shadow]] jumps onto the platform
+	- shifts Hunter's Mark to P, attacks P
+		- SHARPSHOOTER, 25 to hit, 27 DMG
+- [[Delwyn]] dashes towards [[Shadow]] and [[Musharib]]
+- [[Kadrin]] dashes to [[Kordelia]] and tries to talk to her
+- [[Shago]] attacks V
+	- 19 to hit, 14 DMG
+		- V poofs away
+	- throws the spear at [[Kordelia]]
+		- 24 to hit, 11 DMG
+			- R: [[Kadrin]] tries to parry the spear, 19 to hit, miss
+- [[Kordelia]] casts a Spell at [[Shago]], [[Kadrin]] "in the Name of the Devourer"
+	- DEX SAV: 12, 4 - FAIL, FAIL
+		- 25 Lightning DMG
+			- [[Shago]] is [[Unconscious]]
+			- Conc. SAV: 18
+- [[Talsen]] runs into the room, attacks [[Kordelia]], amplified, 3 Necrotic DMG
+	- 14 to hit, miss
+	- 29 to hit, 17 DMG, 6 Cold DMG
+- [[Musharib]] tries to help [[Shago]] up
+	- Medicine: 4
+
+**Round 6**
+- [[Shadow]] 
+- [[Delwyn]]
+- [[Kadrin]]
+- [[Shago]]
+- [[Kordelia]]
 - [[Talsen]]
 - [[Musharib]]
 
-**Round 5**
+**Round 7**
 - [[Shadow]]
 - [[Delwyn]]
 - [[Kadrin]]
 - [[Shago]]
+- [[Kordelia]]
 - [[Talsen]]
 - [[Musharib]]
 
-**Round 6**
-asd
-asd
-asd
-**Round 7**
-asd
-asd
-asd
 **Round 8**
-asd
-asd
-asd
+- [[Shadow]]
+- [[Delwyn]]
+- [[Kadrin]]
+- [[Shago]]
+- [[Kordelia]]
+- [[Talsen]]
+- [[Musharib]]
+
 **Round 9**
