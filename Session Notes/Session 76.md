@@ -41,5 +41,5 @@ We go towards the Pig, being led by [[Musharib]] through the complex
 	- [[Musharib]] tells us that this is the Vault and that it needs keys the former forge master possessed before he died in the attack
 	- We hear clattering behind us and the bridge retracts from the other side
 		- We see a young female person, lever in hand on the other side of the bridge
-		- We see [[Cordelia]], [[Kadrin]]'s Sister
+		- We see [[Kordelia]], [[Kadrin]]'s Sister
 		- ### [[Fight_S76]]
