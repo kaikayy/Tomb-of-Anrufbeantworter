@@ -87,4 +87,4 @@ The Fight ends, [[Kadrin]] collapses as [[Shadow]] catches him and carries him a
 
 ##### SHORT REST (End)
 
-Reminder: P
+Reminder: Prepared Muatgens in Other Inventory!!!
