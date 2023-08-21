@@ -1,5 +1,5 @@
 Part of a Chultan Fairy tail
-3 "Ladies"
+3 "Ladies" (Hags)
 
 1. [[Widow Groat]]
 has tarnished gold coins covering her eyes and ants nesting in her skull. The ants serve as her spies, and their presence often portends her arrival.

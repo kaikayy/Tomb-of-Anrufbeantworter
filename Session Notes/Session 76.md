@@ -41,5 +41,19 @@ We go towards the Pig, being led by [[Musharib]] through the complex
 	- [[Musharib]] tells us that this is the Vault and that it needs keys the former forge master possessed before he died in the attack
 	- We hear clattering behind us and the bridge retracts from the other side
 		- We see a young female person, lever in hand on the other side of the bridge
-		- We see [[Kordelia]], [[Kadrin]]'s Sister
+		- We see [[Fake Kordelia]], [[Kadrin]]'s Sister
 		- ### [[Fight_S76]]
+
+The Fight ends, [[Kadrin]] collapses as [[Shadow]] catches him and carries him away
+- We group up again
+- [[Talsen]] applies the last Restorative Ointment to [[Kadrin]]
+	- 11 HP
+	- goes back into the room and collects [[Fake Kordelia]]'s blood
+- [[Musharib]] explains that the door we where at, requires two keys but if the lower lock is attempted with the wrong key, the bridge retracts
+- [[Talsen]] writes "Smeltery" on a piece of Paper and sticks it to the end of the minecart track
+
+##### SHORT REST (Start)
+- asd
+- asd
+- asd
+##### SHORT REST (End)

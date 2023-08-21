@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S76.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a17c1388b1e446cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kordelia.md",
+                "file": "Session Notes/Session 76.md",
                 "mode": "source",
                 "source": true
               }
@@ -60,8 +48,55 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ce64df2cef2eb097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fake Kordelia.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f847acb18b8b5ee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/Sewn Sisters.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "62c7321250581cc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Baggy Nanna.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ddc99aee5012c443",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_Attachments/Baggy Nana.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Combats/Fight_S76.md",
+                "file": "Session Notes/Session 76.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Combats/Fight_S76.md"
+                "file": "Session Notes/Session 76.md"
               }
             }
           },
@@ -162,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Combats/Fight_S76.md",
+                "file": "Session Notes/Session 76.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,14 +241,18 @@
   },
   "active": "ae5b8a5fc124eca2",
   "lastOpenFiles": [
-    "Kordelia.md",
+    "Session Notes/Watch_Vorlage.md",
+    "Session Notes/Session 76.md",
+    "NPCs/Baggy Nanna.md",
+    "Glossary/Sewn Sisters.md",
+    "Fake Kordelia.md",
+    "_Attachments/Baggy Nana.png",
+    "NPCs/Peggy Deadbells.md",
     "Session Combats/Fight_S76.md",
     "_Attachments/Pasted image 20230821194116.png",
     "_Attachments/Battlemap S76.png",
-    "Session Notes/Session 76.md",
     "Foznem Axeshaper.md",
     "Session Combats/Fight_S74_75.md",
-    "Session Notes/Watch_Vorlage.md",
     "README.md",
     "Untitled.md",
     "Session Notes/Session 75.md",
@@ -232,15 +271,11 @@
     "_Attachments/Delwyns Mom.png",
     "Session Combats/Fight_S71.md",
     "Session Combats/Fight_S63.md",
-    "Session Combats/Fight_S62.md",
-    "Session Combats/Fight_S65.md",
-    "NPCs/Zuhgan.md",
     "_Attachments/Snake ffucker.png",
     "_Attachments/Hrakhamar 2.png",
     "_Attachments/Hrakhamar 1 fixed.png",
     "_Attachments/Hrakhamar 1.png",
     "_Attachments/Battlemap_Fight_S72.png",
-    "_Attachments/Assassin Vine.png",
     "desktop.ini",
     "_Attachments/Logo Video.mp4",
     "#publish.css",
