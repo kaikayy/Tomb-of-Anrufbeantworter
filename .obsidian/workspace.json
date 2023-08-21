@@ -13,12 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 76.md",
+                "file": "Session Combats/Fight_S76.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "3044efd2ab01ffae"
+            }
+          },
+          {
+            "id": "198d32956f65513c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cordelia.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a17c1388b1e446cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cordelia.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           },
           {
             "id": "0921f30a7bf1f7e7",
@@ -44,12 +67,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 76.md",
-                "mode": "preview",
+                "file": "Session Combats/Fight_S76.md",
+                "mode": "source",
                 "source": true
               }
-            },
-            "group": "3044efd2ab01ffae"
+            }
           }
         ]
       }
@@ -117,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 76.md",
+                "file": "Session Combats/Fight_S76.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 76.md"
+                "file": "Session Combats/Fight_S76.md"
               }
             }
           },
@@ -152,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 76.md",
+                "file": "Session Combats/Fight_S76.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,8 +218,12 @@
   },
   "active": "ae5b8a5fc124eca2",
   "lastOpenFiles": [
-    "Foznem Axeshaper.md",
+    "Cordelia.md",
+    "Session Combats/Fight_S76.md",
+    "_Attachments/Pasted image 20230821194116.png",
+    "_Attachments/Battlemap S76.png",
     "Session Notes/Session 76.md",
+    "Foznem Axeshaper.md",
     "Session Combats/Fight_S74_75.md",
     "Session Notes/Watch_Vorlage.md",
     "README.md",
@@ -221,18 +247,13 @@
     "Session Combats/Fight_S62.md",
     "Session Combats/Fight_S65.md",
     "NPCs/Zuhgan.md",
-    "Locations/Ataaz Yklwazi.md",
-    "NPCs/Ayen Hervalur.md",
-    "Locations/Outside of Chult/Underdark.md",
     "_Attachments/Snake ffucker.png",
     "_Attachments/Hrakhamar 2.png",
     "_Attachments/Hrakhamar 1 fixed.png",
     "_Attachments/Hrakhamar 1.png",
     "_Attachments/Battlemap_Fight_S72.png",
     "_Attachments/Assassin Vine.png",
-    "_Attachments/Fight_S71.png",
     "desktop.ini",
-    "_Attachments/Logo BP.jpeg",
     "_Attachments/Logo Video.mp4",
     "#publish.css",
     "publish.css",
