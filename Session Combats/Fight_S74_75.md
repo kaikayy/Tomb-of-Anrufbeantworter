@@ -494,7 +494,7 @@ R Shadow
 				- FWh is [[Prone]]
 		- 23 to hit, 14 DMG
 		- 23 to hit, 8 DMG
-- [[Musharib]] is [[Unconscious]]
+- [[Musharib]] is [[Prone]]
 - FWh2 attacks [[Talsen]]
 	- 14 to hit, miss
 	- 22 to hit, 2 DMG

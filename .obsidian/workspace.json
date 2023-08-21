@@ -19,6 +19,18 @@
               }
             },
             "group": "3044efd2ab01ffae"
+          },
+          {
+            "id": "0921f30a7bf1f7e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foznem Axeshaper.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       },
@@ -26,18 +38,6 @@
         "id": "f4d57ac883217882",
         "type": "tabs",
         "children": [
-          {
-            "id": "409c02d254e099fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Combats/Fight_S74_75.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
           {
             "id": "60e2d7d2c4454494",
             "type": "leaf",
@@ -196,8 +196,9 @@
   },
   "active": "ae5b8a5fc124eca2",
   "lastOpenFiles": [
-    "Session Combats/Fight_S74_75.md",
+    "Foznem Axeshaper.md",
     "Session Notes/Session 76.md",
+    "Session Combats/Fight_S74_75.md",
     "Session Notes/Watch_Vorlage.md",
     "README.md",
     "Untitled.md",
@@ -223,7 +224,6 @@
     "Locations/Ataaz Yklwazi.md",
     "NPCs/Ayen Hervalur.md",
     "Locations/Outside of Chult/Underdark.md",
-    "Items/Ubtao Fruits.md",
     "_Attachments/Snake ffucker.png",
     "_Attachments/Hrakhamar 2.png",
     "_Attachments/Hrakhamar 1 fixed.png",
