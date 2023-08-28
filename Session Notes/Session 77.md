@@ -106,3 +106,20 @@ We go back towards the first crossing to look at the smoke-filled room again
 	- [[Delwyn]], Acrobatics: 12
 	- [[Musharib]], Athletics: 13
 		- everyone makes it over the lava river
+	- They arrive in a room with a statue flanked by two torches, the statue is made of iron, copper, gold and silver, it looks humanoid and slightly fiery
+	- There is a dead [[Firenewt]] Warrior lying on the ground
+		- `The reek of sulfur and burning flesh assaults your nostrils as the tunnel opens into a small chamber. At the northern end of the room is a five-foot-tall statue made of iron, copper, gold, and silver, crudely hammered together into a form suggesting something vaguely humanoid but also fiery.`
+	- [[Shadow]] takes a look at the Statue
+		- Religion: Nat.20 (22)
+			- It is a depiction of [[Imix]]
+			- Sees a deformed adamantine Key sticking out of the statue, after looking around it the other one seems to be incorporated in it as well
+	- They topple the statue, it doesn't break
+	- They go back towards the balcony
+		- they realise that they have no easy way back
+	- [[Shadow]] blocks the mechanism with her crowbar
+- They try to go across
+	- [[Delwyn]], Acrobatics: 20, 17
+	- [[Shadow]], Acrobatics: 17, 25
+	- [[Musharib]], Athletics: 18, 18
+
+# [Level Up 8]

@@ -1,92 +1,127 @@
-# Last Session: 76
+# Last Session: 77
 
-Recap - Talsen
+Recap - Kadrin
 
-Talsen finds garbage piles as nests which the Firenewts use as sleeping accommodations
-Musharib tells us the rooms ahead were storage rooms and the Gauntlet of Moradin should be over the bridge where the Pig was
+Sithi Vinecutter and the others have started forging replacement Keys
 
-Shadow takes a look in the other trashed rooms
-- Finds a few barrels that are still intact with dice on top
-- The Firenewts used them as sleeping quarters
-- Goes through the corridor
-	- Perception: 19
-		- Hears the grunting of the Pig
-		- Hears the clashing of metal from the other side of the lava river
+We see the Longsword of Ragnis stuck in the stone near the forge
+- Delwyn tries to lift it out with Mage Hand
+	- it won't budge
 
-Delwyn tries to leave for the Pig
-- Kadrin advises against it
+We go look for survivors in the room adjacent to the forge
+- we see a lot of sleeping striders, one awake looking at us angrily
+- none of them have saddles or armor
+- Kadrin tries to calm the awake one down
+	- It puts its head back down but keeps a lookout
+- Musharib tells us that this was the minecart bay
 
-Talsen levies to push on to look for more survivors
-- Kadrin agrees and heals Talsen for 5 HP
-	- heals himself for 4 HP
+We go back to the start to explore the other areas
+- Talsen wants to go into the smoke-filled room to test it out
+	- it is very hard to breathe and see in there
+- Delwyn, Arcana: 8 - Hard to tell if the smoke is magical
+- Musharib tells us that the smoke wasn't there when he left
 
-We go to get the Unconscious Albino Dwarf (Foznem Axeshaper) from the main chamber to leave him in the area we were before with Shago and then push on for survivors
-- We go back through the metal smithing and armory rooms
-- Talsen takes a look at the armor
-	- Well made armor for Dwarfs, Half Plate Armor, a bit scratched
-	- There also seems to be a lot of weapons here
-		- `This chamber includes six each of battleaxes, greataxes, mauls, morningstars, war picks, warhammers, and heavy crossbows, plus two hundred crossbow bolts and four suits of dwarven half-plate armor.`
-
-We go towards the Pig, being led by Musharib through the complex
-- Kadrin casts Armor of Agathys on himself
-- Talsen drinks a Potion of Healing, 7 HP
-- The Pig starts squeaking and runs onto the bridge
+We go the opposite way first following minecart tracks
+- a lot of empty alcoves where ore once was
+- we get to a bigger junction and Musharib tells us that this is the passage to the Wyrmheart Mine
+- another alcove is barred with makeshift metal bars
+	- we look inside and see two tied up and gagged dwarves, blood covers part of the floors
+	- Talsen tries to pull the bars out, STR: 18
+		- they fall out
+		- together with Kadrin and Shadow the rest of the bars don't bend they just fall apart
 	- Kadrin uses Divine Sense
-		- The Pig smells of Sulphur
-- Kadrin casts Eldritch Blast on the Pig
-	- 16 to hit, 7 Force DMG
-		- It poofs away
-- We arrive at the metal bridge and see a pulled-down lever
-- We cross the bridge without a problem
-- We see an adamantine branded Iron double Door in front of us, it seems to be flanked by two suits of armor that have seen better days
-	- `Two suits of dwarven half plate armor stand on either side of an adamantine-banded iron door. These suits of armor were beautiful once, but now they’re scarred by weapons, scorched by fire, and smeared with filth. The door has two locks, one above the other.`
-	- The door seems to have two locks
-	- Musharib tells us that this is the Vault and that it needs keys the former forge master possessed before he died in the attack
-	- We hear clattering behind us and the bridge retracts from the other side
-		- We see a young female person, lever in hand on the other side of the bridge
-		- We see Fake Kordelia, Kadrin's Sister
-		- ### Fight_S76
+		- nothing
+	- Kadrin and Musharib take a closer look at the dwarves
+		- Medicine:  18, 12
+			- Musharib tells us that he knows them, their names are Laz Drumthunder and Malkar Stonegrist
+			- Kadrin notices that Laz Drumthunder is still breathing faintly, Malkar Stonegrist is dead
+				- uses Lay on Hands to heal Laz Drumthunder for 1 HP
+		- Shadow casts Goodberry and gives one to Laz Drumthunder
+			- gives him some water as well
+		- They unbind and ungag him
+		- Shago carries both back to the other dwarves
 
-The Fight ends, Kadrin collapses as Shadow catches him and carries him away
-- We group up again
-- Talsen applies the last Restorative Ointment to Kadrin
-	- 11 HP
-	- goes back into the room and collects Fake Kordelia's blood
-- Musharib explains that the door we where at, requires two keys but if the lower lock is attempted with the wrong key, the bridge retracts
-- We discuss if we keep looking for survivors or take a rest
-	- We decide to take a rest
-- Talsen writes "Smeltery" on a piece of Paper and sticks it to the end of the minecart track
-	- For when Musharib's reinforcements arrive
+We go back towards the first crossing to look at the smoke-filled room again
+- Shadow jumps towards the next balcony ans starts casting Detect Magic
+- Talsen and Kadrin go through the smoke, holding their breaths and eye(s) closed
+	- We hear the flapping of wings, 16 to hit on Talsen, is forced to breathe in
+		- Kadrin, 19 to hit, is also forced to breathe in
+		-  ### Fight_S77
+- Delwyn assists Musharib in holding the rope
+- Talsen attacks Kadrin for asking too many questions
+	- 16 to hit, 7 DMG
+- Kadrin tries to grapple Talsen
+	- 21 vs. Nat.20 (29)
+- Talsen shoves Kadrin
+	- Nat.20 (29) vs. 7
+- Shadow stops her ritual to get back to us
+	- whispers to Kadrin
+- Talsen sits in the corner drinking beer
+- Kadrin uses Divine Sense
+	- nothing
+- Talsen eats a Goodberry
+	- wants to get his pickaxe back
+- Shadow tells Talsen she'll get the pickaxe back
+	- jumps back and starts casting her ritual instead
+- Talsen tries to push past Delwyn and Kadrin
+	- Kadrin tries to grapple Talsen
+		- 19 vs. 28
+	- goes past
+		- 2 DMG
+		- CON SAV: 5
+			- Exhaustion 1
+	- finds the pickaxe
+		- 1 DMG
+- Kadrin follows behind
+	- 3 DMG
+- Talsen picks up his pickaxe and goes out towards Shadow
+	- attacks Shadow with the pickaxe
+		- 26 to hit, Reroll: 24 to hit, 7 DMG
+			- Kadrin intervenes by stopping Talsen's Pickaxe, 26
+				- Reroll: 21
+- Talsen goes back through the smoke and out of it
+	- 2 DMG
+- Shadow jumps over again and goes back to Kadrin and Talsen
+- Kadrin wants to protect Talsen, Talsen doesn't want him near him
+- Talsen tries to go out, Kadrin grapples Talsen
+	- 17 vs. 12, INSPIRATION, 16
+		- Talsen is Grappled
+			- Talsen tries to break out
+				- 23 vs. 27
+		- Talsen attacks Kadrin
+			- 26 to hit, 7 DMG
+				- 15 Cold DMG back
+		- Talsen attacks Kadrin
+			- 14 to hit, miss
+		- Talsen tries to break out
+			- 23 vs. 14
+				- Talsen is no longer Grappled
+	- Talsen goes outside and sees Stomps cowering behind Vorn and Ebonfangchomping on a Stegosaurus
+		- goes into Vorn and continues drinking beer
+- Kadrin stays inside sits with his back to the wall
 
-##### SHORT REST (Start)
-- Kadrin commends Shadow on her Healing abilities
-- Kadrin looks at Nankore, Spear of Lost Love
-	- Talsen explains that it might have something for Kadrin when Talsen's gone
-- Many Albino Dwarfs lead by a female dwarf called Sithi Vinecutter
-- Musharib and Sithi Vinecutter argue over him running away
-	- asks where his companions are and for them to better not be Firenewt's
-		- Talsen tries to make a hissing noise
-			- Performance: 19
-		- Sithi Vinecutter throws a Light Hammer at Talsen
-			- 12 to hit, miss
-			- Talsen pockets the Light Hammer
-- Kadrin drops the Illusion around us
-- Sithi Vinecutter wants to scour the other rooms
-	- The party makes clear that that would be foolish without them
-	- They "parked" a new guardian at the door, Ebonfang
-	- They are mostly workers but an "impromptu militia" in the current circumstance
-- Talsen asks who of them are the best smiths
-	- Sithi Vinecutter was going to be a new forge master
-	- Talsen asks Sithi Vinecutter if she could reforge the two damaged armor pieces
-		- It is possible, they will talk about it later
-- Sithi Vinecutter asks where the keys to the door went and asks Talsen to look through the rubble in the adjacent room with her
-	- He finds a box in a corner, made of iron, looks like a book
-		- "Beginnings" and "Endings" is written on the sides of the box
-		- In both compartments is the mold for a key
-	- Talsen tells her that he jumped the bridge before
-		- Sithi Vinecutter says that that is impressive
-			- Talsen, Insight: Nat.1 (0)
+---
+- The rest of the party goes back to the balcony
+- The Albino Dwarfs have successfully forged the first key
+- The party tries to get towards the other side over the chains
+	- Shadow, Acrobatics: 26
+	- Delwyn, Acrobatics: 12
+	- Musharib, Athletics: 13
+		- everyone makes it over the lava river
+	- They arrive in a room with a statue flanked by two torches, the statue is made of iron, copper, gold and silver, it looks humanoid and slightly fiery
+	- There is a dead Firenewt Warrior lying on the ground
+		- `The reek of sulfur and burning flesh assaults your nostrils as the tunnel opens into a small chamber. At the northern end of the room is a five-foot-tall statue made of iron, copper, gold, and silver, crudely hammered together into a form suggesting something vaguely humanoid but also fiery.`
+	- Shadow takes a look at the Statue
+		- Religion: Nat.20 (22)
+			- It is a depiction of Imix
+			- Sees a deformed adamantine Key sticking out of the statue, after looking around it the other one seems to be incorporated in it as well
+	- They topple the statue, it doesn't break
+	- They go back towards the balcony
+		- they realise that they have no easy way back
+	- Shadow blocks the mechanism with her crowbar
+- They try to go across
+	- Delwyn, Acrobatics: 20, 17
+	- Shadow, Acrobatics: 17, 25
+	- Musharib, Athletics: 18, 18
 
-##### SHORT REST (End)
-
-Reminder: Prepared Muatgens in Other Inventory!!!
+# [Level Up 8]

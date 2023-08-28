@@ -13,9 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 77.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "6be161aa722848cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Imix.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7020b6c3310b6d22",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_Attachments/Imix depiction in Forge.png"
               }
             }
           },
@@ -25,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laz Drumthunder.md",
+                "file": "NPCs/Laz Drumthunder.md",
                 "mode": "source",
                 "source": true
               }
@@ -115,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 77.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 77.md"
+                "file": "README.md"
               }
             }
           },
@@ -150,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 77.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,15 +216,17 @@
   },
   "active": "8bd9e9b51bdbdc90",
   "lastOpenFiles": [
-    "NPCs/Ebonfang.md",
     "Session Notes/Session 77.md",
+    "NPCs/Malkar Stonegrist.md",
+    "NPCs/Laz Drumthunder.md",
+    "README.md",
+    "NPCs/Imix.md",
+    "_Attachments/Imix depiction in Forge.png",
+    "NPCs/Ebonfang.md",
     "Session Combats/Fight_S77.md",
-    "Laz Drumthunder.md",
-    "Malkar Stonegrist.md",
     "NPCs/Sithi Vinecutter.md",
     "NPCs/Musharib.md",
     "Session Notes/Session 76.md",
-    "README.md",
     "Welcome.md",
     "NPCs/Foznem Axeshaper.md",
     "NPCs/Fake Kordelia.md",
@@ -221,15 +245,12 @@
     "Locations/Hrakhamar.md",
     "Items/Hammer's Bulwark of Golden Stout.md",
     "Plans.md",
-    "NPCs/Delwyn's Mom.md",
-    "NPCs/Ragnis.md",
     "_Attachments/Ragnis.png",
     "_Attachments/Delwyns Mom.png",
     "_Attachments/Snake ffucker.png",
     "_Attachments/Hrakhamar 2.png",
     "_Attachments/Hrakhamar 1 fixed.png",
     "_Attachments/Hrakhamar 1.png",
-    "_Attachments/Battlemap_Fight_S72.png",
     "desktop.ini",
     "_Attachments/Logo Video.mp4",
     "#publish.css",

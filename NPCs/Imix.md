@@ -3,3 +3,4 @@
 	- The Eternal Flame
 - Worshipped by the [[Firenewt]]
 - His followers like to burn people as sacrifice for their god
+- ![[Imix depiction in Forge.png]]
