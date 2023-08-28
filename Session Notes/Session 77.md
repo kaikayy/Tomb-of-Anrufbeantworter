@@ -61,4 +61,48 @@ We go back towards the first crossing to look at the smoke-filled room again
 	- wants to get his pickaxe back
 - [[Shadow]] tells [[Talsen]] she'll get the pickaxe back
 	- jumps back and starts casting her ritual instead
-- 
+- [[Talsen]] tries to push past [[Delwyn]] and [[Kadrin]]
+	- [[Kadrin]] tries to grapple [[Talsen]]
+		- 19 vs. 28
+	- goes past
+		- 2 DMG
+		- CON SAV: 5
+			- [[Exhaustion 1]]
+	- finds the pickaxe
+		- 1 DMG
+- [[Kadrin]] follows behind
+	- 3 DMG
+- [[Talsen]] picks up his pickaxe and goes out towards [[Shadow]]
+	- attacks [[Shadow]] with the pickaxe
+		- 26 to hit, Reroll: 24 to hit, 7 DMG
+			- [[Kadrin]] intervenes by stopping [[Talsen]]'s Pickaxe, 26
+				- Reroll: 21
+- [[Talsen]] goes back through the smoke and out of it
+	- 2 DMG
+- [[Shadow]] jumps over again and goes back to [[Kadrin]] and [[Talsen]]
+- [[Kadrin]] wants to protect [[Talsen]], [[Talsen]] doesn't want him near him
+- [[Talsen]] tries to go out, [[Kadrin]] grapples [[Talsen]]
+	- 17 vs. 12, INSPIRATION, 16
+		- [[Talsen]] is [[Grappled]]
+			- [[Talsen]] tries to break out
+				- 23 vs. 27
+		- [[Talsen]] attacks [[Kadrin]]
+			- 26 to hit, 7 DMG
+				- 15 Cold DMG back
+		- [[Talsen]] attacks [[Kadrin]]
+			- 14 to hit, miss
+		- [[Talsen]] tries to break out
+			- 23 vs. 14
+				- [[Talsen]] is no longer [[Grappled]]
+	- [[Talsen]] goes outside and sees [[Stomps]] cowering behind [[Vorn]] and [[Ebonfang]]chomping on a Stegosaurus
+		- goes into [[Vorn]] and continues drinking beer
+- [[Kadrin]] stays inside sits with his back to the wall
+
+---
+- The rest of the party goes back to the balcony
+- The [[Albino Dwarfs]] have successfully forged the first key
+- The party tries to get towards the other side over the chains
+	- [[Shadow]], Acrobatics: 26
+	- [[Delwyn]], Acrobatics: 12
+	- [[Musharib]], Athletics: 13
+		- everyone makes it over the lava river
