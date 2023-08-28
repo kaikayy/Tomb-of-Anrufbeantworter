@@ -78,28 +78,17 @@ Dodge/Ready:
 			- EnemyB falls [[Prone]]
 		- 15 to hit, 9 DMG
 			- EnemyB is [[Dead]]
-- [[Talsen]] CON SAV: Nat.20 (22)
-	- 
+- [[Talsen]], CON SAV: Nat.20 (22)
+	- dashes towards the exit keeping to the left wall
+		- 6 DMG
+- [[Musharib]] pulls in the rope, tries to get [[Shadow]]'s attention
 
 **Round 3**
-- asd
-
-**Round 4**
-- asd
-
-**Round 5**
-- asd
-
-**Round 6**
-asd
-asd
-asd
-**Round 7**
-asd
-asd
-asd
-**Round 8**
-asd
-asd
-asd
-**Round 9**
+- [[Shadow]]
+- [[Delwyn]] waits
+- [[Kadrin]] follows [[Talsen]]
+	- 6 DMG
+	- Takes [[Talsen]]'s Hand, he willingly accepts
+- [[Talsen]], CON SAV: 19
+	- drags [[Kadrin]] and himself towards [[Delwyn]]
+		- 3 DMG

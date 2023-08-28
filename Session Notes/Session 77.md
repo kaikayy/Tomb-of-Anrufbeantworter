@@ -46,3 +46,19 @@ We go back towards the first crossing to look at the smoke-filled room again
 		- [[Kadrin]], 19 to hit, is also forced to breathe in
 		-  ### [[Fight_S77]]
 - [[Delwyn]] assists [[Musharib]] in holding the rope
+- [[Talsen]] attacks [[Kadrin]] for asking too many questions
+	- 16 to hit, 7 DMG
+- [[Kadrin]] tries to grapple [[Talsen]]
+	- 21 vs. Nat.20 (29)
+- [[Talsen]] shoves [[Kadrin]]
+	- Nat.20 (29) vs. 7
+- [[Shadow]] stops her ritual to get back to us
+	- whispers to [[Kadrin]]
+- [[Talsen]] sits in the corner drinking beer
+- [[Kadrin]] uses Divine Sense
+	- nothing
+- [[Talsen]] eats a Goodberry
+	- wants to get his pickaxe back
+- [[Shadow]] tells [[Talsen]] she'll get the pickaxe back
+	- jumps back and starts casting her ritual instead
+- 

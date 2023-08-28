@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S77.md",
+                "file": "Session Notes/Session 77.md",
                 "mode": "source",
                 "source": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Combats/Fight_S77.md",
+                "file": "Session Notes/Session 77.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Combats/Fight_S77.md"
+                "file": "Session Notes/Session 77.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Combats/Fight_S77.md",
+                "file": "Session Notes/Session 77.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,10 +192,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1cf7fd4cac64a694",
+  "active": "8bd9e9b51bdbdc90",
   "lastOpenFiles": [
-    "Session Notes/Session 77.md",
     "Session Combats/Fight_S77.md",
+    "Session Notes/Session 77.md",
     "Laz Drumthunder.md",
     "Malkar Stonegrist.md",
     "NPCs/Sithi Vinecutter.md",
