@@ -29,4 +29,20 @@ We go the opposite way first following minecart tracks
 		- together with [[Kadrin]] and [[Shadow]] the rest of the bars don't bend they just fall apart
 	- [[Kadrin]] uses Divine Sense
 		- nothing
-	- [[Kadrin]] and [[Musharib]]
+	- [[Kadrin]] and [[Musharib]] take a closer look at the dwarves
+		- Medicine:  18, 12
+			- [[Musharib]] tells us that he knows them, their names are [[Laz Drumthunder]] and [[Malkar Stonegrist]]
+			- [[Kadrin]] notices that [[Laz Drumthunder]] is still breathing faintly, [[Malkar Stonegrist]] is dead
+				- uses Lay on Hands to heal [[Laz Drumthunder]] for 1 HP
+		- [[Shadow]] casts Goodberry and gives one to [[Laz Drumthunder]]
+			- gives him some water as well
+		- They unbind and ungag him
+		- [[Shago]] carries both back to the other dwarves
+
+We go back towards the first crossing to look at the smoke-filled room again
+- [[Shadow]] jumps towards the next balcony ans starts casting Detect Magic
+- [[Talsen]] and [[Kadrin]] go through the smoke, holding their breaths and eye(s) closed
+	- We hear the flapping of wings, 16 to hit on [[Talsen]], is forced to breathe in
+		- [[Kadrin]], 19 to hit, is also forced to breathe in
+		-  ### [[Fight_S77]]
+- [[Delwyn]] assists [[Musharib]] in holding the rope
