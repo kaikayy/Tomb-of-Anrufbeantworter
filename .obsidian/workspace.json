@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "61a65d286cd03fc9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          },
+          {
             "id": "6be161aa722848cc",
             "type": "leaf",
             "state": {
@@ -53,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1641be88085f82bf",
@@ -214,7 +225,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8bd9e9b51bdbdc90",
+  "active": "61a65d286cd03fc9",
   "lastOpenFiles": [
     "Session Notes/Session 77.md",
     "NPCs/Malkar Stonegrist.md",
