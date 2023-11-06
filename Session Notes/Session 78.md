@@ -34,4 +34,31 @@ A dwarf comes outside and runs by [[Talsen]] to give another dwarf standing by [
 - The Dwarf inspects [[Vorn]], [[Talsen]] plays around with the controls
 	- [[Talsen]] Intimidation: 9
 - [[Talsen]] exits [[Vorn]]
-- [[Talsen]]
+- [[Talsen]] gives the dwarf [[Vorn's Amulet]] to take [[Vorn]] for a spin but he shouldn't lose it
+- [[Talsen]] goes over to [[Kadrin]] and talks to him
+	- takes him with to the party
+
+---
+[[Delwyn]] dances on the Tables and tries to offer [[Shadow]] Alcohol the whole time and get her drunk.
+- CON SAV:
+	- [[Shadow]]: 21
+	- [[Delwyn]]: 24
+
+[[Shadow]] notices [[Delwyn]]'s scheme and tries to do the same
+
+---
+[[Kadrin]] and [[Talsen]] enter the room and see the feast and party going on.
+
+- [[Talsen]] says sorry to [[Shadow]]
+- [[Delwyn]] turns [[Talsen]]'s Drink to Ice as he wants to drink it and [[Shadow]] hits [[Delwyn]] in the shin
+	- [[Shadow]] Athletics: 18
+	- [[Delwyn]] Acrobatics: 10
+- [[Talsen]] & [[Kadrin]] sit down
+- We see [[Foznem Axeshaper]], the Dwarf who hung over the lava pit
+- He cheers to us for saving him
+- [[Delwyn]] asks [[Kadrin]] to pet [[Velcro]]
+- [[Kadrin]] looks after [[Velcro]] in this hot enviroment
+	- [[Delwyn]] casts Shape Water to "cool [[Velcro]] down" and splashes Ale into [[Kadrin]]'s Backpack
+- [[Delwyn]] tries to fix his mistake, it doesn't work that well
+- [[Delwyn]]pets [[Velcro]] in the Backpack while [[Kadrin]] looks at his now ale-stained book
+	- d10000 (8339) - All magic garments within 1 mile burst into flame
