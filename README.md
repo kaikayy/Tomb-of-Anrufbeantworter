@@ -1,127 +1,116 @@
-# Last Session: 77
+# Last Session: 78
 
-Recap - Kadrin
+Recap - Talsen
 
-Sithi Vinecutter and the others have started forging replacement Keys
-
-We see the Longsword of Ragnis stuck in the stone near the forge
-- Delwyn tries to lift it out with Mage Hand
-	- it won't budge
-
-We go look for survivors in the room adjacent to the forge
-- we see a lot of sleeping striders, one awake looking at us angrily
-- none of them have saddles or armor
-- Kadrin tries to calm the awake one down
-	- It puts its head back down but keeps a lookout
-- Musharib tells us that this was the minecart bay
-
-We go back to the start to explore the other areas
-- Talsen wants to go into the smoke-filled room to test it out
-	- it is very hard to breathe and see in there
-- Delwyn, Arcana: 8 - Hard to tell if the smoke is magical
-- Musharib tells us that the smoke wasn't there when he left
-
-We go the opposite way first following minecart tracks
-- a lot of empty alcoves where ore once was
-- we get to a bigger junction and Musharib tells us that this is the passage to the Wyrmheart Mine
-- another alcove is barred with makeshift metal bars
-	- we look inside and see two tied up and gagged dwarves, blood covers part of the floors
-	- Talsen tries to pull the bars out, STR: 18
-		- they fall out
-		- together with Kadrin and Shadow the rest of the bars don't bend they just fall apart
-	- Kadrin uses Divine Sense
-		- nothing
-	- Kadrin and Musharib take a closer look at the dwarves
-		- Medicine:  18, 12
-			- Musharib tells us that he knows them, their names are Laz Drumthunder and Malkar Stonegrist
-			- Kadrin notices that Laz Drumthunder is still breathing faintly, Malkar Stonegrist is dead
-				- uses Lay on Hands to heal Laz Drumthunder for 1 HP
-		- Shadow casts Goodberry and gives one to Laz Drumthunder
-			- gives him some water as well
-		- They unbind and ungag him
-		- Shago carries both back to the other dwarves
-
-We go back towards the first crossing to look at the smoke-filled room again
-- Shadow jumps towards the next balcony ans starts casting Detect Magic
-- Talsen and Kadrin go through the smoke, holding their breaths and eye(s) closed
-	- We hear the flapping of wings, 16 to hit on Talsen, is forced to breathe in
-		- Kadrin, 19 to hit, is also forced to breathe in
-		-  ### Fight_S77
-- Delwyn assists Musharib in holding the rope
-- Talsen attacks Kadrin for asking too many questions
-	- 16 to hit, 7 DMG
-- Kadrin tries to grapple Talsen
-	- 21 vs. Nat.20 (29)
-- Talsen shoves Kadrin
-	- Nat.20 (29) vs. 7
-- Shadow stops her ritual to get back to us
-	- whispers to Kadrin
-- Talsen sits in the corner drinking beer
-- Kadrin uses Divine Sense
-	- nothing
-- Talsen eats a Goodberry
-	- wants to get his pickaxe back
-- Shadow tells Talsen she'll get the pickaxe back
-	- jumps back and starts casting her ritual instead
-- Talsen tries to push past Delwyn and Kadrin
-	- Kadrin tries to grapple Talsen
-		- 19 vs. 28
-	- goes past
-		- 2 DMG
-		- CON SAV: 5
-			- Exhaustion 1
-	- finds the pickaxe
-		- 1 DMG
-- Kadrin follows behind
-	- 3 DMG
-- Talsen picks up his pickaxe and goes out towards Shadow
-	- attacks Shadow with the pickaxe
-		- 26 to hit, Reroll: 24 to hit, 7 DMG
-			- Kadrin intervenes by stopping Talsen's Pickaxe, 26
-				- Reroll: 21
-- Talsen goes back through the smoke and out of it
-	- 2 DMG
-- Shadow jumps over again and goes back to Kadrin and Talsen
-- Kadrin wants to protect Talsen, Talsen doesn't want him near him
-- Talsen tries to go out, Kadrin grapples Talsen
-	- 17 vs. 12, INSPIRATION, 16
-		- Talsen is Grappled
-			- Talsen tries to break out
-				- 23 vs. 27
-		- Talsen attacks Kadrin
-			- 26 to hit, 7 DMG
-				- 15 Cold DMG back
-		- Talsen attacks Kadrin
-			- 14 to hit, miss
-		- Talsen tries to break out
-			- 23 vs. 14
-				- Talsen is no longer Grappled
-	- Talsen goes outside and sees Stomps cowering behind Vorn and Ebonfangchomping on a Stegosaurus
-		- goes into Vorn and continues drinking beer
-- Kadrin stays inside sits with his back to the wall
+- Shadow, Delwyn & Musharib get back to a cheerful scene of the Albino Dwarfs celebrating in the main room.
+- Sithi Vinecutter tells us that the keys are done forging and she wants to check the contents of the vault soon
+- No one answers to the question where Kadrin and Talsen are
+- Shago comes over with some Ale, Delwyn grabs one out of his hand and chugs it down
+- No one answers to the question where Kadrin and Talsen are, again
+-  Shadow and Delwyn sit and drink with the other Dwarfs
+- Delwyn asks if he can drink the Lava as well
+- Food also seems to prepared from the Striders who were killed
 
 ---
-- The rest of the party goes back to the balcony
-- The Albino Dwarfs have successfully forged the first key
-- The party tries to get towards the other side over the chains
-	- Shadow, Acrobatics: 26
-	- Delwyn, Acrobatics: 12
-	- Musharib, Athletics: 13
-		- everyone makes it over the lava river
-	- They arrive in a room with a statue flanked by two torches, the statue is made of iron, copper, gold and silver, it looks humanoid and slightly fiery
-	- There is a dead Firenewt Warrior lying on the ground
-		- `The reek of sulfur and burning flesh assaults your nostrils as the tunnel opens into a small chamber. At the northern end of the room is a five-foot-tall statue made of iron, copper, gold, and silver, crudely hammered together into a form suggesting something vaguely humanoid but also fiery.`
-	- Shadow takes a look at the Statue
-		- Religion: Nat.20 (22)
-			- It is a depiction of Imix
-			- Sees a deformed adamantine Key sticking out of the statue, after looking around it the other one seems to be incorporated in it as well
-	- They topple the statue, it doesn't break
-	- They go back towards the balcony
-		- they realise that they have no easy way back
-	- Shadow blocks the mechanism with her crowbar
-- They try to go across
-	- Delwyn, Acrobatics: 20, 17
-	- Shadow, Acrobatics: 17, 25
-	- Musharib, Athletics: 18, 18
+Kadrin tends to his wounds and tells Hubris about recent events
+- Hubris acknowledges that it has been a rough time for Kadrin and warns him to be prepared for everything and that he is "proud" of him, he became a real Paladin
+- He should be wary that we might find his sister in an unfavourable state
+- Kadrin compares the current situation with Talsen to the one with Shadow and he doesn't know what to do
+- Hubris starts to answer and gets cut off suddenly, as the eyes of the staff turn from yellow to grey to purple
+- The Soul Warden talks to Kadrin
+	- She also says that he has become an excellent Paladin at this point and pressures him to come back to her
+	- Kadrin says that she abandoned him as he needed her the most and he can't trust her again until she proves that she doesn't just tell lies to him
+	- She wants to save every soul in the entire realm and just needs a little bit of help that he can give
+		- Kadrin Insight: 3
+	- Kadrin says that he also believed that once and that he is not going to fall for that again until she has proven to him that she has the power to bring his friends back
+	- She says that she is very disappointed but she will show him power if he wants to witness it
+	- She threatens that she will have what she wants and needs to accomplish her goal
+	- She will take away Hubris and assign him to another "more worthy" individual as he is under her "Contract"
+- The Staff disappears out of Kadrin's hands
+- He mutters "fuck you" under his breath
+- After some time a Dwarf with two mugs of ale staggers past him, telling him about the party
 
-# [Level Up 8]
+---
+A dwarf comes outside and runs by Talsen to give another dwarf standing by Ebonfang an Ale and switches positions with them.
+- Talsen flushes his Toxins and his mind clears up
+- The Dwarf inspects Vorn, Talsen plays around with the controls
+	- Talsen Intimidation: 9
+- Talsen exits Vorn
+- Talsen gives the dwarf Vorn's Amulet to take Vorn for a spin but he shouldn't lose it
+- Talsen goes over to Kadrin and talks to him
+	- takes him with to the party
+
+---
+Delwyn dances on the Tables and tries to offer Shadow Alcohol the whole time and get her drunk.
+- CON SAV:
+	- Shadow: 21
+	- Delwyn: 24
+
+Shadow notices Delwyn's scheme and tries to do the same
+
+---
+Kadrin and Talsen enter the room and see the feast and party going on.
+
+- Talsen says sorry to Shadow
+- Delwyn turns Talsen's Drink to Ice as he wants to drink it and Shadow hits Delwyn in the shin
+	- Shadow Athletics: 18
+	- Delwyn Acrobatics: 10
+- Talsen & Kadrin sit down
+- We see Foznem Axeshaper, the Dwarf who hung over the lava pit
+- He cheers to us for saving him
+- Delwyn asks Kadrin to pet Velcro
+- Kadrin looks after Velcro in this hot enviroment
+	- Delwyn casts Shape Water to "cool Velcro down" and splashes Ale into Kadrin's Backpack
+- Delwyn tries to fix his mistake, it doesn't work that well
+- Delwynpets Velcro in the Backpack while Kadrin looks at his now ale-stained book
+	- d10000 (8339) - All magic garments within 1 mile burst into flame
+- Delwyn's Veil of Night and Talsen's Beggar Princes' clothes burst into flame
+- We try to quench the flames with ale and water
+- Both items are destroyed
+- Delwyn tries to dry his backpack again
+- Talsen smuggles Water into Delwyn's Mug so he drinks less. It works.
+
+Shadow notices Hubris is missing
+- Kadrin stammers that he got a visit by "Soul Scourge" and tells that she took him
+- They and Talsen talk a bit about it
+
+Delwyn plays dice games with the Albino Dwarfs
+- loses 30gp
+- thanks them for the game and passes out
+- Shadow tries to shake him awake to no avail
+
+Sithi Vinecutter calls out to Talsen to accompany her for a reward, holding two keys in her hand
+- Talsen tells Kadrin that he should take a look at the Longsword Ragnis dropped
+- Talsen goes with Sithi Vinecutter to the vault
+- Shadow offers Summerwise Ale
+	- Animal Handling: 15
+	- Summerwise declines the offer
+
+Kadrin tries to pull out the Sword
+- STR: 2
+	- doesn't budge
+- tries to pull it again with the chains on it
+	- STR: 2
+- starts to look around the Sword to see what it does or what holds it there
+
+Talsen and Sithi Vinecutter go towards the vault
+- they talk a bit and she opens the vault
+- green plate armor carved with runes all over
+- lots of bits and bobs here that all seem very expensive
+- The Gauntlet of Moradin is also here and seems safe
+	- est. to be about 2500gp, wealthy dwarf would pay 2-3 times the amount
+- She rewards Talsen with the Adamantine Armor, a quiver with 12 adamantine arrows and 3 other arrows tipped with a glass bead swirling with magical energy for Shadow
+- Talsen says that Delwyn could use a cask of Ale as a reward
+- Kadrin can have a human sized armor forged for him in about a day
+- She also gives Talsen 10 1lb. Adamantine Bars to sell in Port Nyanzaru
+- The Runes on the Armor tell the Story how Hrakhamar was founded and how Moradin gave his Gauntlet to the Dwarves
+	- You have advantage on CHA Checks while interacting with Dwarves
+- Talsen dons the armor and sends Sithi Vinecutter back to the others with their rewards
+---
+
+As Talsen comes back, Sithi Vinecutter does a little speech and all the dwarves cheer to their heroes.
+- Kadrin gets his measurements taken
+- Delwyn gets an adamantine Dagger stuffed into his pocket
+- Sithi Vinecutter searches out Shadow and gives her the quiver
+	- explains the arrows to her
+- Shago gets an Adamantine Spear

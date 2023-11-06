@@ -97,7 +97,7 @@ A dwarf comes outside and runs by [[Talsen]] to give another dwarf standing by [
 - lots of bits and bobs here that all seem very expensive
 - The [[Gauntlet of Moradin]] is also here and seems safe
 	- est. to be about 2500gp, wealthy dwarf would pay 2-3 times the amount
-- She rewards [[Talsen]] with the Adamantine Armor, a quiver with 12 adamantine arrows and 2 other arrows tipped with a glass bead swirling with magical energy for [[Shadow]]
+- She rewards [[Talsen]] with the Adamantine Armor, a quiver with 12 adamantine arrows and 3 other arrows tipped with a glass bead swirling with magical energy for [[Shadow]]
 - [[Talsen]] says that [[Delwyn]] could use a cask of Ale as a reward
 - [[Kadrin]] can have a human sized armor forged for him in about a day
 - She also gives [[Talsen]] 10 1lb. Adamantine Bars to sell in [[Port Nyanzaru]]
@@ -109,4 +109,6 @@ A dwarf comes outside and runs by [[Talsen]] to give another dwarf standing by [
 As [[Talsen]] comes back, [[Sithi Vinecutter]] does a little speech and all the dwarves cheer to their heroes.
 - [[Kadrin]] gets his measurements taken
 - [[Delwyn]] gets an adamantine Dagger stuffed into his pocket
-- [[Sithi Vinecutter]] searches out 
+- [[Sithi Vinecutter]] searches out [[Shadow]] and gives her the quiver
+	- explains the arrows to her
+- [[Shago]] gets an Adamantine Spear
