@@ -8,65 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8bd9e9b51bdbdc90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "61a65d286cd03fc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 69.md",
+                "file": "Session Notes/Session 77.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "6be161aa722848cc",
+            "id": "cf75962963b51a3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Imix.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7020b6c3310b6d22",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_Attachments/Imix depiction in Forge.png"
-              }
-            }
-          },
-          {
-            "id": "77f8df628178c1d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Laz Drumthunder.md",
+                "file": "Session Notes/Session 78.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tals",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -133,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Session Notes/Session 77.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Session Notes/Session 77.md"
               }
             }
           },
@@ -168,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Session Notes/Session 77.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,11 +184,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "921e982f620fe210",
+  "active": "61a65d286cd03fc9",
   "lastOpenFiles": [
+    "Session Combats/Fight_S77.md",
+    "Session Notes/Session 77.md",
+    "Session Notes/Session 78.md",
+    "Session Notes/Session 69.md",
+    "NPCs/Imix.md",
+    "NPCs/Laz Drumthunder.md",
+    "_Attachments/Imix depiction in Forge.png",
+    "README.md",
     "Session Notes/Session 68.md",
     "Session Notes/Session 67.md",
-    "Session Notes/Session 69.md",
     "Session Notes/Session 70.md",
     "Session Notes/Session 71.md",
     "Session Notes/Session 72.md",
@@ -238,21 +209,14 @@
     "Z_Canvas/General.canvas",
     "Z_Canvas/Main Story.canvas",
     "Plans.md",
-    "Session Notes/Session 77.md",
     "NPCs/Malkar Stonegrist.md",
-    "NPCs/Laz Drumthunder.md",
-    "README.md",
-    "NPCs/Imix.md",
-    "_Attachments/Imix depiction in Forge.png",
     "NPCs/Ebonfang.md",
-    "Session Combats/Fight_S77.md",
     "NPCs/Sithi Vinecutter.md",
     "NPCs/Musharib.md",
     "Session Notes/Session 76.md",
     "Welcome.md",
     "NPCs/Foznem Axeshaper.md",
     "NPCs/Fake Kordelia.md",
-    "Session Notes/Watch_Vorlage.md",
     "_Attachments/Baggy Nana.png",
     "_Attachments/Pasted image 20230821194116.png",
     "_Attachments/Battlemap S76.png",
