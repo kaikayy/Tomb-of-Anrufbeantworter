@@ -62,3 +62,21 @@ A dwarf comes outside and runs by [[Talsen]] to give another dwarf standing by [
 - [[Delwyn]] tries to fix his mistake, it doesn't work that well
 - [[Delwyn]]pets [[Velcro]] in the Backpack while [[Kadrin]] looks at his now ale-stained book
 	- d10000 (8339) - All magic garments within 1 mile burst into flame
+- [[Delwyn]]'s [[Veil of Night]] and [[Talsen]]'s [[Beggar Princes]]' clothes burst into flame
+- We try to quench the flames with ale and water
+- Both items are destroyed
+- [[Delwyn]] tries to dry his backpack again
+- [[Talsen]] smuggles Water into [[Delwyn]]'s Mug so he drinks less. It works.
+
+[[Shadow]] notices [[Hubris]] is missing
+- [[Kadrin]] stammers that he got a visit by "Soul Scourge" and tells that she took him
+- They and [[Talsen]] talk a bit about it
+
+[[Delwyn]] plays dice games with the [[Albino Dwarfs]]
+- loses 30gp
+- thanks them for the game and passes out
+- [[Shadow]] tries to shake him awake to no avail
+
+[[Sithi Vinecutter]] calls out to [[Talsen]] to accompany her for a reward, holding two keys in her hand
+- [[Talsen]] tells [[Kadrin]] to take a look at the Longsword [[Ragnis]] dropped
+- 
