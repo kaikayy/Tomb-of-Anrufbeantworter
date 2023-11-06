@@ -18,9 +18,15 @@
                 "source": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "304af6a87bd4dc80",
+        "type": "tabs",
+        "children": [
           {
-            "id": "cf75962963b51a3f",
+            "id": "d0d5398128de8e1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 77.md",
+                "file": "Session Notes/Session 78.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 77.md"
+                "file": "Session Notes/Session 78.md"
               }
             }
           },
@@ -132,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 77.md",
+                "file": "Session Notes/Session 78.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,10 +190,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "61a65d286cd03fc9",
+  "active": "d0d5398128de8e1f",
   "lastOpenFiles": [
-    "Session Combats/Fight_S77.md",
     "Session Notes/Session 77.md",
+    "Session Combats/Fight_S77.md",
     "Session Notes/Session 78.md",
     "Session Notes/Session 69.md",
     "NPCs/Imix.md",
