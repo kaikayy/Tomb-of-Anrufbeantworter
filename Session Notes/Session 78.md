@@ -78,5 +78,23 @@ A dwarf comes outside and runs by [[Talsen]] to give another dwarf standing by [
 - [[Shadow]] tries to shake him awake to no avail
 
 [[Sithi Vinecutter]] calls out to [[Talsen]] to accompany her for a reward, holding two keys in her hand
-- [[Talsen]] tells [[Kadrin]] to take a look at the Longsword [[Ragnis]] dropped
+- [[Talsen]] tells [[Kadrin]] that he should take a look at the Longsword [[Ragnis]] dropped
+- [[Talsen]] goes with [[Sithi Vinecutter]] to the vault
+- [[Shadow]] offers [[Summerwise]] Ale
+	- Animal Handling: 15
+	- [[Summerwise]] declines the offer
+
+[[Kadrin]] tries to pull out the Sword
+- STR: 2
+	- doesn't budge
+- tries to pull it again with the chains on it
+	- STR: 2
+- starts to look around the Sword to see what it does or what holds it there
+
+[[Talsen]] and [[Sithi Vinecutter]] go towards the vault
+- they talk a bit and she opens the vault
+- green plate armor carved with runes all over
+- lots of bits and bobs here that all seem very expensive
+- The [[Gauntlet of Moradin]] is also here and seems safe
+	- est. to be about 2500gp, wealthy dwarf would pay 2-3 times the amount
 - 
