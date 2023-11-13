@@ -73,7 +73,7 @@ We arrive in the [[Tomb of Kahuli]] after an hour and travel further to [[Port N
 - Devil's Detail Eyepatch - 370 gp
 - Amulet of Proof against Detection and Location - 980 gp
 - Eversmoking Bottle - 320 gp
-- Bag of Tricks - Silver (chult edition) - 2500 gp
+- Bag of Tricks - Silver (ToA edition) - 2500 gp
 	- 1.Almiraj
 	- 2.Flying monkey
 	- 3.Zorbo
@@ -81,3 +81,5 @@ We arrive in the [[Tomb of Kahuli]] after an hour and travel further to [[Port N
 	- 5.Allosaurus
 	- 6.Flying Snake
 	- 7.Hadrosaurus
+
+Adamantine Bars are worth 10gp per bar to an exporter
