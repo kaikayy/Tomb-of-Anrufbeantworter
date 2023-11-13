@@ -17,8 +17,7 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "b35d4713040cdcad"
+            }
           },
           {
             "id": "74a35437be77b696",
@@ -53,25 +52,6 @@
                 "source": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "3a4b1edc90a3b3ef",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c952a800c6a47858",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 79.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "b35d4713040cdcad"
           }
         ]
       }

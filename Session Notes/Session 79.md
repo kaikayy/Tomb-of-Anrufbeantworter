@@ -55,9 +55,9 @@ We arrive in the [[Tomb of Kahuli]] after an hour and travel further to [[Port N
 	- [[Talsen]] postpones the deal until he has seen his wares
 
 [[Wakanga O’tamu]]'s Wares:
-- Healing Potion - 50 gp
-- Greater Healing Potion - 100 gp (3)
-- Superior Healing Potion - 500 gp (1)
+- Healing Potion - 50 gp x
+- Greater Healing Potion - 100 gp (3) x
+- Superior Healing Potion - 500 gp (1) x
 - Supreme Healing Potion - 1350 gp (1)
 - Potion, common - 80 gp
 - Potion, uncommon - 300 gp
@@ -85,10 +85,29 @@ We arrive in the [[Tomb of Kahuli]] after an hour and travel further to [[Port N
 Adamantine Bars are worth 10gp per bar to an exporter
 ![[DnD Math.png]]
 
-We make the deal.
+We buy:
+- Alchemy Jug (Crimson)
+- 5x Potion of Healing x
+- 1x Greater Potion of Healing [[Kadrin]]
+- 1x Superior Potion of Healing [[Talsen]]
+- 1x Potion of Growth [[Kadrin]]
+- 1x 1st LvL Absorb Elements Scroll [[Delwyn]]
+- 1x 1st LvL Feather Fall Scroll [[Delwyn]]
+- 1x 1st LvL Comprehend Languages Scroll [[Kadrin]]
+- 1x 2nd LvL Lesser Restoration Scroll [[Shadow]]
+- Ring of Jumping 
+- Hat of Disguise [[Delwyn]]
+- Devil's Detail Eyepatch [[Talsen]]
+- Amulet of Proof against Detection and Location [[Shadow]]
+- Cape of the Mountebank [[Kadrin]]
+- Wand of Secrets [[Delwyn]]
+- Cloak of the Manta Ray [[Shadow]]
+- Headband of Intellect [[Shadow]]
+
+We make the deal and sell [[Vorn]] for 6000gp.
 
 - [[Wakanga O’tamu]] asks us how we are progressing with the [[Death Curse]]
 	- We tell him that we are on the last stretch
 	- [[Syndra Sylvane]] won't have long anymore
 
-We load everything onto [[Stomps]] and 
+We load everything onto [[Stomps]] and sit in [[Wakanga O’tamu]] front garden to distribute the items.
