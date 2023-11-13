@@ -46,4 +46,38 @@ We arrive in the [[Tomb of Kahuli]] after an hour and travel further to [[Port N
 - The Guards recognize us and let us through
 - We head to [[Wakanga O’tamu]]
 	- The Manor is packet full with crates
-	- 
+	- He notices [[Vorn]] and asks us what we want for him
+	- He offers 5000gp
+		- [[Talsen]], Persuasion: 17
+			- [[Wakanga O’tamu]] offers a cup of tea from a crimson vase floating into the room, very familiar to us
+		- [[Kadrin]], Persuasion: 26
+	- He offers 6000gp
+	- [[Talsen]] postpones the deal until he has seen his wares
+
+[[Wakanga O’tamu]]'s Wares:
+- Healing Potion - 50 gp
+- Greater Healing Potion - 100 gp (3)
+- Superior Healing Potion - 500 gp (1)
+- Supreme Healing Potion - 1350 gp (1)
+- Potion, common - 80 gp
+- Potion, uncommon - 300 gp
+- Spell scroll, 1st-level - 100 gp
+- Spell scroll, 2nd-level - 550 gp
+- Wand of secrets - 270 gp
+- Ring of Jumping - 290 gp
+- Cloak of the Manta Ray - 520 gp
+- Headband of Intellect - 1700 gp
+- Hat of Disguise - 340 gp
+- Oil of etherealness - 520 gp
+- Cape of the Mountebank - 2450 gp
+- Devil's Detail Eyepatch - 370 gp
+- Amulet of Proof against Detection and Location - 980 gp
+- Eversmoking Bottle - 320 gp
+- Bag of Tricks - Silver (chult edition) - 2500 gp
+	- 1.Almiraj
+	- 2.Flying monkey
+	- 3.Zorbo
+	- 4.Deinonychus
+	- 5.Allosaurus
+	- 6.Flying Snake
+	- 7.Hadrosaurus
