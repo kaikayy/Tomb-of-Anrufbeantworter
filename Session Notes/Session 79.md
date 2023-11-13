@@ -34,5 +34,16 @@ We make our way towards the [[Webway of Ubtao]] in [[Valley of Lost Honor]]
 - We help clearing out the rockslide at the Webway
 - The [[Chwinga]] disappear as the place is cleared
 - [[Talsen]] copies the [[Webway of Ubtao]] Address
-	- inputs the [[Tomb of Kahuli]] / [[Port Nyanzaru]] Address
-- 
+	- inputs the [[Tomb of Kahuli]] / [[Port Nyanzaru]] Address and travels through
+---
+We arrive in the [[Tomb of Kahuli]] after an hour and travel further to [[Port Nyanzaru]]
+- As we arrive in [[Malar's Throat]] we are greeted by some people applauding us
+- [[Talsen]] gives 4 gold to the 4 children they knew from before, they say we should check out the new paintings on the wall
+- As we arrive at the gate we see the painting of [[Malar's Throat]] with the party fighting Skeletons and other undead
+- [[Talsen]] takes a look at his house passing through, there is a note at his door reading
+	- "Come see me next time you're in the Port. It's about [[Tia]] - [[Alji Wiggleback]]"
+	- [[Talsen]] takes the note
+- The Guards recognize us and let us through
+- We head to [[Wakanga O’tamu]]
+	- The Manor is packet full with crates
+	- 

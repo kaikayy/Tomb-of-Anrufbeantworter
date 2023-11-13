@@ -4,7 +4,7 @@
 	- [[Mbala]]
 	- [[Omu]]
 	- [[Hisari]]
-	- [[Tomb of Kahuli]]
+	- [[Tomb of Kahuli]] / [[Port Nyanzaru]]
 	- [[Ruin of Bolnirtecla]]
 	- [[Orolunga]]
 	- [[Valley of Lost Honor]] / [[Hrakhamar]]
