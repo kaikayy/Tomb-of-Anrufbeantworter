@@ -7,3 +7,4 @@
 	- [[Tomb of Kahuli]]
 	- [[Ruin of Bolnirtecla]]
 	- [[Orolunga]]
+	- [[Valley of Lost Honor]] / [[Hrakhamar]]
