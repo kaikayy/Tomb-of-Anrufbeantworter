@@ -63,15 +63,15 @@ We arrive in the [[Tomb of Kahuli]] after an hour and travel further to [[Port N
 - Potion, uncommon - 300 gp
 - Spell scroll, 1st-level - 100 gp
 - Spell scroll, 2nd-level - 550 gp
-- Wand of secrets - 270 gp
-- Ring of Jumping - 290 gp
-- Cloak of the Manta Ray - 520 gp
-- Headband of Intellect - 1700 gp
-- Hat of Disguise - 340 gp
+- Wand of secrets - 270 gp x
+- Ring of Jumping - 290 gp x
+- Cloak of the Manta Ray - 520 gp x
+- Headband of Intellect - 1700 gp x
+- Hat of Disguise - 340 gp x
 - Oil of etherealness - 520 gp
-- Cape of the Mountebank - 2450 gp
-- Devil's Detail Eyepatch - 370 gp
-- Amulet of Proof against Detection and Location - 980 gp
+- Cape of the Mountebank - 2450 gp x
+- Devil's Detail Eyepatch - 370 gp x
+- Amulet of Proof against Detection and Location - 980 gp x
 - Eversmoking Bottle - 320 gp
 - Bag of Tricks - Silver (ToA edition) - 2500 gp
 	- 1.Almiraj
@@ -83,3 +83,12 @@ We arrive in the [[Tomb of Kahuli]] after an hour and travel further to [[Port N
 	- 7.Hadrosaurus
 
 Adamantine Bars are worth 10gp per bar to an exporter
+![[DnD Math.png]]
+
+We make the deal.
+
+- [[Wakanga O’tamu]] asks us how we are progressing with the [[Death Curse]]
+	- We tell him that we are on the last stretch
+	- [[Syndra Sylvane]] won't have long anymore
+
+We load everything onto [[Stomps]] and 

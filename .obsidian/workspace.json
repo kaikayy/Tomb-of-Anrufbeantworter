@@ -21,6 +21,16 @@
             "group": "b35d4713040cdcad"
           },
           {
+            "id": "74a35437be77b696",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_Attachments/DnD Math.png"
+              }
+            }
+          },
+          {
             "id": "1680a0d624c12e8a",
             "type": "leaf",
             "state": {
@@ -217,8 +227,9 @@
   },
   "active": "a4415caa45bcd3fe",
   "lastOpenFiles": [
-    "Tia.md",
+    "_Attachments/DnD Math.png",
     "Session Notes/Session 79.md",
+    "Tia.md",
     "Session Notes/Session 68.md",
     "NPCs/Eku.md",
     "Items/Webway of Ubtao.md",
@@ -245,7 +256,6 @@
     "Session Notes/Session 70.md",
     "Session Notes/Session 71.md",
     "Session Notes/Session 72.md",
-    "Session Notes/Session 43.md",
     "Z_Canvas/Plans.canvas",
     "Z_Canvas/Current Planning.canvas",
     "Z_Canvas/General.canvas",
@@ -256,7 +266,6 @@
     "_Attachments/Ragnis.png",
     "_Attachments/Delwyns Mom.png",
     "_Attachments/Snake ffucker.png",
-    "_Attachments/Hrakhamar 2.png",
     "desktop.ini",
     "_Attachments/Logo Video.mp4",
     "#publish.css",
