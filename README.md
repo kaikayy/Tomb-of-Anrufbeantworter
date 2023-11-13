@@ -1,116 +1,115 @@
-# Last Session: 78
+# Last Session: 79
 
-Recap - Talsen
+Recap - Kadrin
 
-- Shadow, Delwyn & Musharib get back to a cheerful scene of the Albino Dwarfs celebrating in the main room.
-- Sithi Vinecutter tells us that the keys are done forging and she wants to check the contents of the vault soon
-- No one answers to the question where Kadrin and Talsen are
-- Shago comes over with some Ale, Delwyn grabs one out of his hand and chugs it down
-- No one answers to the question where Kadrin and Talsen are, again
--  Shadow and Delwyn sit and drink with the other Dwarfs
-- Delwyn asks if he can drink the Lava as well
-- Food also seems to prepared from the Striders who were killed
+Kadrin didn't manage to get the Sword out, Talsen wants to try it in the morning
+- Talsen wants to go to Port Nyanzaru tomorrow but first, sleep
+- Kadrin checks for life signs on Delwyn
+	- Medicine: Nat.1 (0)
+		- He is sure Delwyn is not breathing
+	- Panicked, Kadrin asks around
+	- Musharib casts Cure Wounds on Delwyn
+		- Delwyn receives 7 HP
+- Talsen goes to bed
 
+Kadrin goes to look for Shadow
+- tells her we are spending the night here and want to go to bed & that we will leave for Port Nyanzaru tomorrow
+
+We make camp inside the storage rooms and start resting
+
+#### LONG REST -> Day 13
+Weather: Sunshine, Normal Temp, Slight Wind
+
+We awake to a few Dwarfs around us and a few already working on Kadrin's new armor
+- Talsen tries to pull out the Sword
+	- STR: 23
+	- The Sword pulls out, shattering some of the floor with it
 ---
-Kadrin tends to his wounds and tells Hubris about recent events
-- Hubris acknowledges that it has been a rough time for Kadrin and warns him to be prepared for everything and that he is "proud" of him, he became a real Paladin
-- He should be wary that we might find his sister in an unfavourable state
-- Kadrin compares the current situation with Talsen to the one with Shadow and he doesn't know what to do
-- Hubris starts to answer and gets cut off suddenly, as the eyes of the staff turn from yellow to grey to purple
-- The Soul Warden talks to Kadrin
-	- She also says that he has become an excellent Paladin at this point and pressures him to come back to her
-	- Kadrin says that she abandoned him as he needed her the most and he can't trust her again until she proves that she doesn't just tell lies to him
-	- She wants to save every soul in the entire realm and just needs a little bit of help that he can give
-		- Kadrin Insight: 3
-	- Kadrin says that he also believed that once and that he is not going to fall for that again until she has proven to him that she has the power to bring his friends back
-	- She says that she is very disappointed but she will show him power if he wants to witness it
-	- She threatens that she will have what she wants and needs to accomplish her goal
-	- She will take away Hubris and assign him to another "more worthy" individual as he is under her "Contract"
-- The Staff disappears out of Kadrin's hands
-- He mutters "fuck you" under his breath
-- After some time a Dwarf with two mugs of ale staggers past him, telling him about the party
+Outside, Vorn is lying face-first in the mud, Stomps seems fine
+- the party sees Ebonfang for the first time wondering why it isn't attacking them
+- Kadrin wakes Stomps and the party applies Insect Repellant
+- Talsen wakes the Dwarf sleeping inside Vorn and takes his Vorn's Amulet back, Vorn is covered in puke, Delwyn cleans it up
 
+We make our way towards the Webway of Ubtao in Valley of Lost Honor
+- We see the sun for the first time in some days
+- As we arrive at the Webway we spot a Conga Line of Chwinga carrying stones
+- We help clearing out the rockslide at the Webway
+- The Chwinga disappear as the place is cleared
+- Talsen copies the Webway of Ubtao Address
+	- inputs the Tomb of Kahuli / Port Nyanzaru Address and travels through
 ---
-A dwarf comes outside and runs by Talsen to give another dwarf standing by Ebonfang an Ale and switches positions with them.
-- Talsen flushes his Toxins and his mind clears up
-- The Dwarf inspects Vorn, Talsen plays around with the controls
-	- Talsen Intimidation: 9
-- Talsen exits Vorn
-- Talsen gives the dwarf Vorn's Amulet to take Vorn for a spin but he shouldn't lose it
-- Talsen goes over to Kadrin and talks to him
-	- takes him with to the party
+We arrive in the Tomb of Kahuli after an hour and travel further to Port Nyanzaru
+- As we arrive in Malar's Throat we are greeted by some people applauding us
+- Talsen gives 4 gold to the 4 children they knew from before, they say we should check out the new paintings on the wall
+- As we arrive at the gate we see the painting of Malar's Throat with the party fighting Skeletons and other undead
+- Talsen takes a look at his house passing through, there is a note at his door reading
+	- "Come see me next time you're in the Port. It's about Tia - Alji Wiggleback"
+	- Talsen takes the note
+- The Guards recognize us and let us through
+- We head to Wakanga O’tamu
+	- The Manor is packet full with crates
+	- He notices Vorn and asks us what we want for him
+	- He offers 5000gp
+		- Talsen, Persuasion: 17
+			- Wakanga O’tamu offers a cup of tea from a crimson vase floating into the room, very familiar to us
+		- Kadrin, Persuasion: 26
+	- He offers 6000gp
+	- Talsen postpones the deal until he has seen his wares
 
----
-Delwyn dances on the Tables and tries to offer Shadow Alcohol the whole time and get her drunk.
-- CON SAV:
-	- Shadow: 21
-	- Delwyn: 24
+Wakanga O’tamu's Wares:
+- Healing Potion - 50 gp x
+- Greater Healing Potion - 100 gp (3) x
+- Superior Healing Potion - 500 gp (1) x
+- Supreme Healing Potion - 1350 gp (1)
+- Potion, common - 80 gp
+- Potion, uncommon - 300 gp
+- Spell scroll, 1st-level - 100 gp
+- Spell scroll, 2nd-level - 550 gp
+- Wand of secrets - 270 gp x
+- Ring of Jumping - 290 gp x
+- Cloak of the Manta Ray - 520 gp x
+- Headband of Intellect - 1700 gp x
+- Hat of Disguise - 340 gp x
+- Oil of etherealness - 520 gp
+- Cape of the Mountebank - 2450 gp x
+- Devil's Detail Eyepatch - 370 gp x
+- Amulet of Proof against Detection and Location - 980 gp x
+- Eversmoking Bottle - 320 gp
+- Bag of Tricks - Silver (ToA edition) - 2500 gp
+	- 1.Almiraj
+	- 2.Flying monkey
+	- 3.Zorbo
+	- 4.Deinonychus
+	- 5.Allosaurus
+	- 6.Flying Snake
+	- 7.Hadrosaurus
 
-Shadow notices Delwyn's scheme and tries to do the same
+Adamantine Bars are worth 10gp per bar to an exporter
+!DnD Math.png
 
----
-Kadrin and Talsen enter the room and see the feast and party going on.
+We buy:
+- Alchemy Jug (Crimson)
+- 5x Potion of Healing x
+- 1x Greater Potion of Healing Kadrin
+- 1x Superior Potion of Healing Talsen
+- 1x Potion of Growth Kadrin
+- 1x 1st LvL Absorb Elements Scroll Delwyn
+- 1x 1st LvL Feather Fall Scroll Delwyn
+- 1x 1st LvL Comprehend Languages Scroll Kadrin
+- 1x 2nd LvL Lesser Restoration Scroll Shadow
+- Ring of Jumping Delwyn
+- Hat of Disguise Delwyn
+- Devil's Detail Eyepatch Talsen
+- Amulet of Proof against Detection and Location Shadow
+- Cape of the Mountebank Kadrin
+- Wand of Secrets Delwyn
+- Cloak of the Manta Ray Shadow
+- Headband of Intellect Shadow / Talsen
 
-- Talsen says sorry to Shadow
-- Delwyn turns Talsen's Drink to Ice as he wants to drink it and Shadow hits Delwyn in the shin
-	- Shadow Athletics: 18
-	- Delwyn Acrobatics: 10
-- Talsen & Kadrin sit down
-- We see Foznem Axeshaper, the Dwarf who hung over the lava pit
-- He cheers to us for saving him
-- Delwyn asks Kadrin to pet Velcro
-- Kadrin looks after Velcro in this hot enviroment
-	- Delwyn casts Shape Water to "cool Velcro down" and splashes Ale into Kadrin's Backpack
-- Delwyn tries to fix his mistake, it doesn't work that well
-- Delwynpets Velcro in the Backpack while Kadrin looks at his now ale-stained book
-	- d10000 (8339) - All magic garments within 1 mile burst into flame
-- Delwyn's Veil of Night and Talsen's Beggar Princes' clothes burst into flame
-- We try to quench the flames with ale and water
-- Both items are destroyed
-- Delwyn tries to dry his backpack again
-- Talsen smuggles Water into Delwyn's Mug so he drinks less. It works.
+We make the deal and sell Vorn for 6000gp.
 
-Shadow notices Hubris is missing
-- Kadrin stammers that he got a visit by "Soul Scourge" and tells that she took him
-- They and Talsen talk a bit about it
+- Wakanga O’tamu asks us how we are progressing with the Death Curse
+	- We tell him that we are on the last stretch
+	- Syndra Sylvane won't have long anymore
 
-Delwyn plays dice games with the Albino Dwarfs
-- loses 30gp
-- thanks them for the game and passes out
-- Shadow tries to shake him awake to no avail
-
-Sithi Vinecutter calls out to Talsen to accompany her for a reward, holding two keys in her hand
-- Talsen tells Kadrin that he should take a look at the Longsword Ragnis dropped
-- Talsen goes with Sithi Vinecutter to the vault
-- Shadow offers Summerwise Ale
-	- Animal Handling: 15
-	- Summerwise declines the offer
-
-Kadrin tries to pull out the Sword
-- STR: 2
-	- doesn't budge
-- tries to pull it again with the chains on it
-	- STR: 2
-- starts to look around the Sword to see what it does or what holds it there
-
-Talsen and Sithi Vinecutter go towards the vault
-- they talk a bit and she opens the vault
-- green plate armor carved with runes all over
-- lots of bits and bobs here that all seem very expensive
-- The Gauntlet of Moradin is also here and seems safe
-	- est. to be about 2500gp, wealthy dwarf would pay 2-3 times the amount
-- She rewards Talsen with the Adamantine Armor, a quiver with 12 adamantine arrows and 3 other arrows tipped with a glass bead swirling with magical energy for Shadow
-- Talsen says that Delwyn could use a cask of Ale as a reward
-- Kadrin can have a human sized armor forged for him in about a day
-- She also gives Talsen 10 1lb. Adamantine Bars to sell in Port Nyanzaru
-- The Runes on the Armor tell the Story how Hrakhamar was founded and how Moradin gave his Gauntlet to the Dwarves
-	- You have advantage on CHA Checks while interacting with Dwarves
-- Talsen dons the armor and sends Sithi Vinecutter back to the others with their rewards
----
-
-As Talsen comes back, Sithi Vinecutter does a little speech and all the dwarves cheer to their heroes.
-- Kadrin gets his measurements taken
-- Delwyn gets an adamantine Dagger stuffed into his pocket
-- Sithi Vinecutter searches out Shadow and gives her the quiver
-	- explains the arrows to her
-- Shago gets an Adamantine Spear
+We load everything onto Stomps and sit in Wakanga O’tamu front garden to distribute the items.

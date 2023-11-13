@@ -95,14 +95,14 @@ We buy:
 - 1x 1st LvL Feather Fall Scroll [[Delwyn]]
 - 1x 1st LvL Comprehend Languages Scroll [[Kadrin]]
 - 1x 2nd LvL Lesser Restoration Scroll [[Shadow]]
-- Ring of Jumping 
+- Ring of Jumping [[Delwyn]]
 - Hat of Disguise [[Delwyn]]
 - Devil's Detail Eyepatch [[Talsen]]
 - Amulet of Proof against Detection and Location [[Shadow]]
 - Cape of the Mountebank [[Kadrin]]
 - Wand of Secrets [[Delwyn]]
 - Cloak of the Manta Ray [[Shadow]]
-- Headband of Intellect [[Shadow]]
+- Headband of Intellect [[Shadow]] / [[Talsen]]
 
 We make the deal and sell [[Vorn]] for 6000gp.
 
