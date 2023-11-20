@@ -179,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +194,11 @@
   },
   "active": "a4415caa45bcd3fe",
   "lastOpenFiles": [
-    "Session Notes/Session 79.md",
+    "Dinosaur Nuggets.md",
     "Session Notes/Session 80.md",
+    "Locations/Dinosaur Stables.md",
+    "NPCs/Stomps.md",
+    "Session Notes/Session 79.md",
     "README.md",
     "_Attachments/DnD Math.png",
     "Tia.md",
@@ -220,9 +224,6 @@
     "NPCs/Laz Drumthunder.md",
     "_Attachments/Imix depiction in Forge.png",
     "Session Notes/Session 67.md",
-    "Session Notes/Session 70.md",
-    "Session Notes/Session 71.md",
-    "Session Notes/Session 72.md",
     "Z_Canvas/Plans.canvas",
     "Z_Canvas/Current Planning.canvas",
     "Z_Canvas/General.canvas",
