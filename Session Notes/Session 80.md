@@ -9,7 +9,7 @@ We split up to take care of our own businesses faster
 - [[Delwyn]] can't find a Divine Being around and tries to find the shrine or altar
 - [[Shadow]] follows behind [[Talsen]]
 
-We all agree to meet back at [[Talsen]]'s House before Sundown to start our travel fast
+We all agree to meet back at [[Talsen]]'s Shack before Sundown to start our travel fast
 
 ---
 [[Kadrin]], [[Shago]] and [[Musharib]] arrive at the Gate of [[Tiryki Anchorage]] and see another mural of the Undead T-Rex fight with [[Kairi]] and [[Gannin]] on the walls.
@@ -77,3 +77,8 @@ We eat together
 	- 14 to hit, miss
 	- a claw tries to attack [[Delwyn]] as a Ghoul jumps out of the garbage
 	- [[Fight_S80]]
+- Perception: 13
+	- looks down the [[Refuse Pit]] and can't make out how many or what creatures are dwelling down there
+	- sees a cave entrance at the other side of the Pit
+- [[Delwyn]] goes back towards [[Talsen]]'s Shack
+---
