@@ -13,12 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Session Combats/Fight_S80.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "de576b27c15888db",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_Attachments/Battlemap_S80.png"
+              }
+            }
+          },
+          {
+            "id": "46b12b00cba5e607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Session Notes/Session 80.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "91fa16eba74f918b"
+            }
           }
         ]
       },
@@ -32,12 +53,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 80.md",
-                "mode": "preview",
+                "file": "Session Combats/Fight_S80.md",
+                "mode": "source",
                 "source": true
               }
-            },
-            "group": "91fa16eba74f918b"
+            }
           }
         ]
       }
@@ -105,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 80.md",
+                "file": "Session Combats/Fight_S80.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 80.md"
+                "file": "Session Combats/Fight_S80.md"
               }
             }
           },
@@ -140,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 80.md",
+                "file": "Session Combats/Fight_S80.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,8 +214,14 @@
   },
   "active": "a4415caa45bcd3fe",
   "lastOpenFiles": [
-    "Refuse Pit.md",
+    "NPCs/Delwyn's Mom.md",
+    "Session Combats/Fight_S80.md",
+    "_Attachments/Battlemap_S80.png",
     "Session Notes/Session 80.md",
+    "Refuse Pit.md",
+    "NPCs/Elok Jaharwon.md",
+    "_Attachments/masked elf.png",
+    "Session Notes/Session 79.md",
     "Locations/Old City.md",
     "NPCs/Ymezra.md",
     "NPCs/Jessamine.md",
@@ -204,7 +230,6 @@
     "Dinosaur Nuggets.md",
     "Locations/Dinosaur Stables.md",
     "NPCs/Stomps.md",
-    "Session Notes/Session 79.md",
     "README.md",
     "_Attachments/DnD Math.png",
     "Session Notes/Session 68.md",
@@ -219,10 +244,7 @@
     "Session Notes/Session 78.md",
     "Items/Gauntlet of Moradin.md",
     "_Attachments/Gauntlet of Moradin.png",
-    "NPCs/Soul Warden.md",
     "_Attachments/Soul Warden.png",
-    "NPCs/Foznem Axeshaper.md",
-    "NPCs/Ragnis.md",
     "_Attachments/Imix depiction in Forge.png",
     "Z_Canvas/Plans.canvas",
     "Z_Canvas/Current Planning.canvas",
@@ -232,8 +254,6 @@
     "_Attachments/Pasted image 20230821194116.png",
     "_Attachments/Battlemap S76.png",
     "_Attachments/Ragnis.png",
-    "_Attachments/Delwyns Mom.png",
-    "_Attachments/Snake ffucker.png",
     "desktop.ini",
     "_Attachments/Logo Video.mp4",
     "#publish.css",
