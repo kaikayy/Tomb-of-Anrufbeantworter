@@ -21,6 +21,18 @@ We all agree to meet back at [[Talsen]]'s House before Sundown to start our trav
 	- [[Stomps]] asks for food and says he'll try to not cause any trouble
 ---
 [[Talsen]] & [[Shadow]] arrive at the [[Kebab Kamadan]]
-- There are four kids playing at one Table, [[Tia]] is among them
+- There are four kids playing at one Table, [[Helya]] is among them
 - [[Alji Wiggleback]] made [[Dinosaur Nuggets]] for the kids
-	- [[Tia]] greets [[Talsen]] with a hug and says that she has been staying at [[Alji Wiggleback]]'s until
+	- [[Helya]] greets [[Talsen]] with a hug and says that she has been staying at [[Alji Wiggleback]]'s since her mom ([[Tia]]) fell asleep
+
+[[Talsen]] & [[Alji Wiggleback]] talk
+- [[Tia]] is [[Dead]] and her body is at the [[Temple of Savras]]
+- [[Alji Wiggleback]] notes that [[Helya]] has made some influential friends nodding at assassins on the roofs nearby, one of the kids is [[Ymezra]]
+- [[Talsen]] gives [[Alji Wiggleback]] the Maps to [[Orolunga]] and [[Nangalore]] to give to [[Lerek Dashlynd]] to exchange for funds for [[Helya]]
+- [[Summerwise]] plays with the kids
+
+We eat together
+
+---
+[[Delwyn]] goes towards the Graveyard, the [[Refuse Pit]] in the [[Old City]]
+- 
