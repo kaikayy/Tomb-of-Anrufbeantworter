@@ -1,115 +1,104 @@
-# Last Session: 79
+# Last Session: 80
+Recap - Talsen
 
-Recap - Kadrin
+We sell stuff and organize Items
+We give out some Rations to the poor in Port Nyanzaru
 
-Kadrin didn't manage to get the Sword out, Talsen wants to try it in the morning
-- Talsen wants to go to Port Nyanzaru tomorrow but first, sleep
-- Kadrin checks for life signs on Delwyn
-	- Medicine: Nat.1 (0)
-		- He is sure Delwyn is not breathing
-	- Panicked, Kadrin asks around
-	- Musharib casts Cure Wounds on Delwyn
-		- Delwyn receives 7 HP
-- Talsen goes to bed
+We split up to take care of our own businesses faster
+- Kadrin goes towards Tiryki Anchorage to store Stomps in the Dinosaur Stables
+- Talsen goes to Alji Wiggleback
+- Delwyn can't find a Divine Being around and tries to find the shrine or altar
+- Shadow follows behind Talsen
 
-Kadrin goes to look for Shadow
-- tells her we are spending the night here and want to go to bed & that we will leave for Port Nyanzaru tomorrow
+We all agree to meet back at Talsen's Shack before Sundown to start our travel fast
 
-We make camp inside the storage rooms and start resting
-
-#### LONG REST -> Day 13
-Weather: Sunshine, Normal Temp, Slight Wind
-
-We awake to a few Dwarfs around us and a few already working on Kadrin's new armor
-- Talsen tries to pull out the Sword
-	- STR: 23
-	- The Sword pulls out, shattering some of the floor with it
 ---
-Outside, Vorn is lying face-first in the mud, Stomps seems fine
-- the party sees Ebonfang for the first time wondering why it isn't attacking them
-- Kadrin wakes Stomps and the party applies Insect Repellant
-- Talsen wakes the Dwarf sleeping inside Vorn and takes his Vorn's Amulet back, Vorn is covered in puke, Delwyn cleans it up
-
-We make our way towards the Webway of Ubtao in Valley of Lost Honor
-- We see the sun for the first time in some days
-- As we arrive at the Webway we spot a Conga Line of Chwinga carrying stones
-- We help clearing out the rockslide at the Webway
-- The Chwinga disappear as the place is cleared
-- Talsen copies the Webway of Ubtao Address
-	- inputs the Tomb of Kahuli / Port Nyanzaru Address and travels through
+Kadrin, Shago and Musharib arrive at the Gate of Tiryki Anchorage and see another mural of the Undead T-Rex fight with Kairi and Gannin on the walls.
+- Kadrin quietly recites a song he composed
+- They arrive at the Dinosaur Stables and Kadrin leaves Stomps with the gold Talsen gave him
+	- Stomps will have a safe home for the next 300 days if we are to not return
+- Kadrin casts Speak with Animals and talks to Stomps
+	- He explains the situation and promises that he will be back soon
+	- Stomps asks for food and says he'll try to not cause any trouble
 ---
-We arrive in the Tomb of Kahuli after an hour and travel further to Port Nyanzaru
-- As we arrive in Malar's Throat we are greeted by some people applauding us
-- Talsen gives 4 gold to the 4 children they knew from before, they say we should check out the new paintings on the wall
-- As we arrive at the gate we see the painting of Malar's Throat with the party fighting Skeletons and other undead
-- Talsen takes a look at his house passing through, there is a note at his door reading
-	- "Come see me next time you're in the Port. It's about Tia - Alji Wiggleback"
-	- Talsen takes the note
-- The Guards recognize us and let us through
-- We head to Wakanga O’tamu
-	- The Manor is packet full with crates
-	- He notices Vorn and asks us what we want for him
-	- He offers 5000gp
-		- Talsen, Persuasion: 17
-			- Wakanga O’tamu offers a cup of tea from a crimson vase floating into the room, very familiar to us
-		- Kadrin, Persuasion: 26
-	- He offers 6000gp
-	- Talsen postpones the deal until he has seen his wares
+Talsen & Shadow arrive at the Kebab Kamadan
+- There are four kids playing at one Table, Helya is among them
+- Alji Wiggleback made Dinosaur Nuggets for the kids
+	- Helya greets Talsen with a hug and says that she has been staying at Alji Wiggleback's since her mom (Tia) fell asleep
 
-Wakanga O’tamu's Wares:
-- Healing Potion - 50 gp x
-- Greater Healing Potion - 100 gp (3) x
-- Superior Healing Potion - 500 gp (1) x
-- Supreme Healing Potion - 1350 gp (1)
-- Potion, common - 80 gp
-- Potion, uncommon - 300 gp
-- Spell scroll, 1st-level - 100 gp
-- Spell scroll, 2nd-level - 550 gp
-- Wand of secrets - 270 gp x
-- Ring of Jumping - 290 gp x
-- Cloak of the Manta Ray - 520 gp x
-- Headband of Intellect - 1700 gp x
-- Hat of Disguise - 340 gp x
-- Oil of etherealness - 520 gp
-- Cape of the Mountebank - 2450 gp x
-- Devil's Detail Eyepatch - 370 gp x
-- Amulet of Proof against Detection and Location - 980 gp x
-- Eversmoking Bottle - 320 gp
-- Bag of Tricks - Silver (ToA edition) - 2500 gp
-	- 1.Almiraj
-	- 2.Flying monkey
-	- 3.Zorbo
-	- 4.Deinonychus
-	- 5.Allosaurus
-	- 6.Flying Snake
-	- 7.Hadrosaurus
+Talsen & Alji Wiggleback talk
+- Tia is Dead and her body is at the Temple of Savras
+- Alji Wiggleback notes that Helya has made some influential friends nodding at assassins on the roofs nearby, one of the kids is Ymezra
+- Talsen gives Alji Wiggleback the Maps to Orolunga and Nangalore to give to Lerek Dashlynd to exchange for funds for Helya
+- Summerwise plays with the kids
 
-Adamantine Bars are worth 10gp per bar to an exporter
-!DnD Math.png
+We eat together
 
-We buy:
-- Alchemy Jug (Crimson)
-- 5x Potion of Healing x
-- 1x Greater Potion of Healing Kadrin
-- 1x Superior Potion of Healing Talsen
-- 1x Potion of Growth Kadrin
-- 1x 1st LvL Absorb Elements Scroll Delwyn
-- 1x 1st LvL Feather Fall Scroll Delwyn
-- 1x 1st LvL Comprehend Languages Scroll Kadrin
-- 1x 2nd LvL Lesser Restoration Scroll Shadow
-- Ring of Jumping Delwyn
-- Hat of Disguise Delwyn
-- Devil's Detail Eyepatch Talsen
-- Amulet of Proof against Detection and Location Shadow
-- Cape of the Mountebank Kadrin
-- Wand of Secrets Delwyn
-- Cloak of the Manta Ray Shadow
-- Headband of Intellect Shadow / Talsen
+---
+Delwyn goes towards the Graveyard, the Refuse Pit in the Old City
+- Sees an elf putting on a mask coming out of a Ziggurat
+	- he preaches to the "people of chult" about the "Cult of the devourer"
+	- !masked elf.png
+	- two burly dudes unmask him, take his amulet and throw him down the first flight of the Ziggurat into the trash piles
+	- A new person emerges from the Ziggurat with defined muscles for his old age and talks about his stupid preaching being in common and no one speaking it ~_something like that_
+- Delwyn runs after the elf and catches him as he is held up at the gate
+	- he tries to overhear some words
+		- Perception: 16
+			- The Elf complains about just being robbed, the guards don't care about his ramblings
+			- The Flaming Fist guards stop his entrance into the City and demand money for being let in
+	- he pulls the Elf away from the guards and asks about his Cult
+		- more doomer ramblings and offers to join the Cult
+	- Delwyn asks for other names of the Elf's deity
+		- Persuasion: 25
+			- The Devourer's true name is "Acererak the Eternal", the most powerful being in all the realms
+	- Delwyn shows his arm and asks if his god has something to do with this
+		- The Elf hasn't seen something like this before but he deems it possible if not likely that Acererak has done this
+	- Delwyn asks to talk to Acererak
+		- Only the most worthy servants are able to talk to him themselves
+	- Delwyn asks why they are practicing their religion here
+		- Look at all this agony around here, I want to tell them all that their salvation will come and all of the suffering will end soon
+	- Delwyn asks if they have some kind of Shrine here
+		- Persuasion: 19
+			- The Elf leads Delwyn away from most people and tells him that there is a little Shrine within the City, but it has to be kept secret because the guards have arrested some of their members recently
+			- The Elf writes down the address to the Shrine at the Harbor
+				- their meetings are held at the evening and Delwyn should be aware of the guards
+- Delwyn, Arcana: 17
+	- As the elf leaves for the gate, the Shade Mark doesn't seem to respond to the situation
 
-We make the deal and sell Vorn for 6000gp.
+Delwyn continues on to the Refuse Pit
+- the stench in indescribable
+- inside the pit is scrambled furniture, cadaver of dinosaurs, humanoids and everything else imaginable
+- there are ways to descent into the pit
 
-- Wakanga O’tamu asks us how we are progressing with the Death Curse
-	- We tell him that we are on the last stretch
-	- Syndra Sylvane won't have long anymore
+Delwyn descents down into the Pit
+- There is heaps of vermin down there feasting on the decomposing trash
+- Perception: 8
+	- There seem to be some alcoves to the side of the pit
+- As he travels further...
+	- 14 to hit, miss
+	- a claw tries to attack Delwyn as a Ghoul jumps out of the garbage
+	- Fight_S80
+- Perception: 13
+	- looks down the Refuse Pit and can't make out how many or what creatures are dwelling down there
+	- sees a cave entrance at the other side of the Pit
+- Delwyn goes back towards Talsen's Shack
+---
 
-We load everything onto Stomps and sit in Wakanga O’tamu front garden to distribute the items.
+We all meet back up in the evening
+- Talsen gives his neighbour 100gp to keep quiet and as a thank you for the repairing the door
+- Delwyn arrives cut open and damaged
+- Delwyn wants to stay and needs our help with his dealings in the city
+	- Talsen says that he will be going with our without him
+- We discuss
+- Delwyn decides to come with us
+
+We start traveling back to Hrakhamar pushing through the night
+- We arrive in the middle of the night and make camp there
+- We shortly talk about our day and who we said our goodbyes to
+
+Talsen finds something in his bag, a doll made of fabric. It looks like Helya.
+
+#### LONG REST -> Day 1
+Weather: Slight Rain, Normal Temp, No wind
+
+Kadrin receives his Adamantine Half-Plate Armor from the Albino Dwarfs.

@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 80.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
             },
             "group": "7ee381887f2da336"
+          },
+          {
+            "id": "206d3d32991f2a33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Watch_Vorlage.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       },
@@ -32,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 80.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 80.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 80.md"
+                "file": "README.md"
               }
             }
           },
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 80.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,21 +206,23 @@
   },
   "active": "a4415caa45bcd3fe",
   "lastOpenFiles": [
-    "Session Combats/Fight_S80.md",
+    "Plans.md",
     "Session Notes/Session 80.md",
+    "Session Notes/Watch_Vorlage.md",
+    "NPCs/Tia.md",
+    "Session Combats/Fight_S80.md",
     "Locations/Outpost.md",
     "NPCs/Delwyn's Mom.md",
     "_Attachments/Battlemap_S80.png",
-    "Refuse Pit.md",
+    "Locations/Refuse Pit.md",
     "NPCs/Elok Jaharwon.md",
     "_Attachments/masked elf.png",
     "Session Notes/Session 79.md",
     "Locations/Old City.md",
     "NPCs/Ymezra.md",
     "NPCs/Jessamine.md",
-    "Helya.md",
-    "Tia.md",
-    "Dinosaur Nuggets.md",
+    "NPCs/Helya.md",
+    "Items/Dinosaur Nuggets.md",
     "Locations/Dinosaur Stables.md",
     "NPCs/Stomps.md",
     "README.md",
@@ -216,13 +230,11 @@
     "Session Notes/Session 68.md",
     "NPCs/Eku.md",
     "Items/Webway of Ubtao.md",
-    "Session Notes/Watch_Vorlage.md",
     "Session Notes/Session 73.md",
     "Session Notes/Session 74.md",
     "Session Notes/Session 75.md",
     "Session Notes/Session 76.md",
     "Session Notes/Session 77.md",
-    "Session Notes/Session 78.md",
     "_Attachments/Gauntlet of Moradin.png",
     "_Attachments/Soul Warden.png",
     "_Attachments/Imix depiction in Forge.png",

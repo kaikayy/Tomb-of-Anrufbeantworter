@@ -82,3 +82,22 @@ We eat together
 	- sees a cave entrance at the other side of the Pit
 - [[Delwyn]] goes back towards [[Talsen]]'s Shack
 ---
+
+We all meet back up in the evening
+- [[Talsen]] gives his neighbour 100gp to keep quiet and as a thank you for the repairing the door
+- [[Delwyn]] arrives cut open and damaged
+- [[Delwyn]] wants to stay and needs our help with his dealings in the city
+	- [[Talsen]] says that he will be going with our without him
+- We discuss
+- [[Delwyn]] decides to come with us
+
+We start traveling back to [[Hrakhamar]] pushing through the night
+- We arrive in the middle of the night and make camp there
+- We shortly talk about our day and who we said our goodbyes to
+
+[[Talsen]] finds something in his bag, a doll made of fabric. It looks like [[Helya]].
+
+#### LONG REST -> Day 1
+Weather: Slight Rain, Normal Temp, No wind
+
+[[Kadrin]] receives his Adamantine Half-Plate Armor from the [[Albino Dwarfs]].
