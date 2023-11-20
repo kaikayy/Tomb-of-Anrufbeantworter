@@ -1,4 +1,5 @@
 # Last Session: 80
+
 Recap - Talsen
 
 We sell stuff and organize Items
