@@ -9,9 +9,10 @@ Crocadilian Snapjaw - CS
 Crocadilian Scavager - CSC
 Crocadilian Shaman - CSH
 Crocodile a,x - Ca,x
-Zhentarim Thug - ZTa,x
+Zhentarim Thug - ZT
 Blackdigger Cutthroat - BC
 Blackdigger Smasher - BS
+Allosaurus - A (summoned)
 
 ![[crocodile people.png]]
 
@@ -69,26 +70,84 @@ Dodge/Ready:
 		- WIS SAV: 20 - SAVE
 - [[Shago]] attacks CS
 	- 21 to hit, 15 DMG
-- [[Talsen]]
+	- 19 to hit, 14 DMG
+- [[Talsen]] activates his rite (Flame), attacks CSC
+	- 26 to hit, 15 DMG
+		- Insight: 13 - CSC seems to be the master of the C
+	- 20 to hit, 20 DMG
+		- WIS SAV: 15 - SAVE
+- CSC is no longer surprised
+- CS is no longer surprised
+- BC is no longer surprised
+- BS is no longer surprised
+- ZT is no longer surprised
 
 **Round 2**
-- [[Shadow]]
-- [[Delwyn]]
-- [[Musharib]]
-- [[Kadrin]]
-- [[Shago]]
-- [[Talsen]]
+- _We sense giant footsteps vibrating the ground_
+- [[Shadow]] attacks BS
+	- SHARPSHOOTER, 20 to hit, 24 DMG
+		- BS is [[Dead]]
+	- shifts Hunter's Mark to CS, attacks
+		- 25 to hit, 23 DMG
+			- CS is [[Dead]]
+- [[Delwyn]] casts Mage Armor
+- CSH casts 
+	- [[Kadrin]], Arcana: 7 - no clue
+	- summons A
+- A attacks [[Kadrin]]
+	- 15 to hit, miss
+- Ca attacks [[Talsen]]
+	- 6 to hit, miss
+- Cb attacks [[Talsen]]
+	- 20 to hit, miss
+- [[Musharib]] dodges
+- [[Kadrin]] talks to BC
+	- Persuasion: 15
+		- BC seems unsure
+- [[Shago]] attacks A
+	- 12 to hit, miss
+	- 16 to hit, 7 DMG
+- [[Talsen]] attacks CSC
+	- 28 to hit, 16 DMG
+		- Uses Hemokinesis on BC
+			- CON SAV: 5 - FAIL
+			- He is pushed 5ft away
+	- Nat.20 (30) to hit, 21 DM
+	- moves to CSH
+		- R: AoO, Ca, 20 to hit, miss
+		- R. AoO, Cb, Nat.1 to hit, miss
+- CSC 
+- BC
+- ZT
 
 **Round 3**
 - [[Shadow]]
 - [[Delwyn]]
+- CSH
+- A
+- Ca
+- Cb
 - [[Musharib]]
 - [[Kadrin]]
 - [[Shago]]
 - [[Talsen]]
-
+- CSC
+- BC
+- ZT
 **Round 4**
-- asd
+- [[Shadow]]
+- [[Delwyn]]
+- CSH
+- A
+- Ca
+- Cb
+- [[Musharib]]
+- [[Kadrin]]
+- [[Shago]]
+- [[Talsen]]
+- CSC
+- BC
+- ZT
 
 **Round 5**
 - asd
