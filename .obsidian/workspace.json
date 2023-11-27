@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PCs/Delwyn.md",
                 "mode": "source",
                 "source": true
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PCs/Delwyn.md",
                 "mode": "preview",
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "PCs/Delwyn.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "PCs/Delwyn.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "PCs/Delwyn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,6 +205,7 @@
   },
   "active": "a4415caa45bcd3fe",
   "lastOpenFiles": [
+    "README.md",
     "Plans.md",
     "Session Notes/Session 80.md",
     "Session Notes/Watch_Vorlage.md",
@@ -224,7 +225,6 @@
     "Items/Dinosaur Nuggets.md",
     "Locations/Dinosaur Stables.md",
     "NPCs/Stomps.md",
-    "README.md",
     "_Attachments/DnD Math.png",
     "Session Notes/Session 68.md",
     "NPCs/Eku.md",
