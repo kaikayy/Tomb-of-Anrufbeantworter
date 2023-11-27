@@ -17,8 +17,17 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "047561371a7fa028"
+            }
+          },
+          {
+            "id": "785abc0f0cf19052",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_Attachments/F81_Battlemap.png"
+              }
+            }
           }
         ]
       },
@@ -33,11 +42,10 @@
               "type": "markdown",
               "state": {
                 "file": "Session Combats/Fight_S81.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
-            },
-            "group": "047561371a7fa028"
+            }
           }
         ]
       }
@@ -179,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,11 +202,13 @@
   },
   "active": "35301f7c4e9e95d4",
   "lastOpenFiles": [
+    "_Attachments/crocodile people.png",
+    "Session Combats/Fight_S81.md",
+    "_Attachments/F81_Battlemap.png",
     "Session Notes/Session 81.md",
     "Zorbo.md",
     "_Attachments/Zorbo.png",
     "Locations/Omu.md",
-    "Session Combats/Fight_S81.md",
     "PCs/Delwyn.md",
     "Session Notes/Session 80.md",
     "NPCs/Alji Wiggleback.md",
@@ -221,7 +232,6 @@
     "NPCs/Jessamine.md",
     "NPCs/Helya.md",
     "Items/Dinosaur Nuggets.md",
-    "Locations/Dinosaur Stables.md",
     "_Attachments/DnD Math.png",
     "_Attachments/Gauntlet of Moradin.png",
     "_Attachments/Soul Warden.png",
@@ -231,8 +241,6 @@
     "Z_Canvas/General.canvas",
     "Z_Canvas/Main Story.canvas",
     "_Attachments/Baggy Nana.png",
-    "_Attachments/Pasted image 20230821194116.png",
-    "_Attachments/Battlemap S76.png",
     "desktop.ini",
     "_Attachments/Logo Video.mp4",
     "#publish.css",
