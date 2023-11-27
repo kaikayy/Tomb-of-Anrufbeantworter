@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCs/Delwyn.md",
+                "file": "Session Notes/Session 81.md",
                 "mode": "source",
                 "source": true
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCs/Delwyn.md",
+                "file": "Session Notes/Session 81.md",
                 "mode": "preview",
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCs/Delwyn.md",
+                "file": "Session Notes/Session 81.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCs/Delwyn.md"
+                "file": "Session Notes/Session 81.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCs/Delwyn.md",
+                "file": "Session Notes/Session 81.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,6 +205,8 @@
   },
   "active": "a4415caa45bcd3fe",
   "lastOpenFiles": [
+    "PCs/Delwyn.md",
+    "Session Notes/Session 81.md",
     "README.md",
     "Plans.md",
     "Session Notes/Session 80.md",
@@ -232,8 +234,6 @@
     "Session Notes/Session 73.md",
     "Session Notes/Session 74.md",
     "Session Notes/Session 75.md",
-    "Session Notes/Session 76.md",
-    "Session Notes/Session 77.md",
     "_Attachments/Gauntlet of Moradin.png",
     "_Attachments/Soul Warden.png",
     "_Attachments/Imix depiction in Forge.png",
