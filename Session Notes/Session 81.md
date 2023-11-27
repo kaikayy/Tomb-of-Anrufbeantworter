@@ -54,9 +54,19 @@ We make our way to [[Omu]] through the [[Webway of Ubtao]]
 		- [[Shadow]]: 38
 		- [[Delwyn]]: 32
 		- [[Shago]]: 14
-		- [[Talsen]]: 
-
-
-
-
+		- [[Talsen]]: 21
+			- 22,8333
+- Something made out of clay shatters and we hear muffled speaking
+	- [[Kadrin]], Perception: 16
+		- It seems to be common
+- [[Shadow]] peeks through the window
+	- Perception: 19
+		- looks into a hallway, hears another shattering sound and laughter
+		- at least 3 people
+- We decide to go though the door to the inside of the building
+- [[Shadow]] opens the door quietly
+	- Sleight of Hand: 17
+- We try to listen to the voices
+	- We hear dwarvish voices talking about collecting broken jars and to sell them to scholars
+- We breach
 - ### [[Fight_S81]]
