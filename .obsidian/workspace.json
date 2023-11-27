@@ -19,18 +19,6 @@
               }
             },
             "group": "7ee381887f2da336"
-          },
-          {
-            "id": "206d3d32991f2a33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Watch_Vorlage.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ]
       },
@@ -50,8 +38,21 @@
               }
             },
             "group": "7ee381887f2da336"
+          },
+          {
+            "id": "378ea4966c067756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 80.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,11 +206,13 @@
   },
   "active": "a4415caa45bcd3fe",
   "lastOpenFiles": [
-    "PCs/Delwyn.md",
+    "Session Notes/Session 69.md",
+    "NPCs/Ssaztehsi.md",
     "Session Notes/Session 81.md",
+    "Session Notes/Session 80.md",
+    "PCs/Delwyn.md",
     "README.md",
     "Plans.md",
-    "Session Notes/Session 80.md",
     "Session Notes/Watch_Vorlage.md",
     "NPCs/Tia.md",
     "Session Combats/Fight_S80.md",
@@ -232,8 +235,6 @@
     "NPCs/Eku.md",
     "Items/Webway of Ubtao.md",
     "Session Notes/Session 73.md",
-    "Session Notes/Session 74.md",
-    "Session Notes/Session 75.md",
     "_Attachments/Gauntlet of Moradin.png",
     "_Attachments/Soul Warden.png",
     "_Attachments/Imix depiction in Forge.png",
