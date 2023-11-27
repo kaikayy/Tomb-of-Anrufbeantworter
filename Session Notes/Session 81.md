@@ -25,4 +25,38 @@ Recap - [[Kadrin]]
 - [[Kadrin]] is not related to [[Fake Kordelia]]
 
 We make our way to [[Omu]] through the [[Webway of Ubtao]]
-- 
+- We see the etchings on the walls again
+	- `“Fear the fangs of Ras Nsi!” “Erik, I’ve gone in search of the nine shrines. V.” “The puzzle cubes are the key.” “Beware the frog monster!” “Who is Unkh?” “All hail the King of Feathers!” “The snakes are not what they seem.” “Kubazan = bravery. Shagambi = wisdom. Moa = ?”`
+- [[Kadrin]] casts Silent Image around us to seem like a boulder
+- We decide to take care of the Guards first and move out
+- We all look around for enemies as we aren't attacked immediately
+	- [[Kadrin]], Perception: 11
+	- [[Shadow]], Perception: 25
+		- notices blackened stone on one of the [[Yuan-Ti]] positions
+- [[Delwyn]], History: Nat.1 (4)
+	- Doesn't know what languages these snake people speak
+- As we look out onto the city, there is smoke rising from a nearby compound
+- We advance to the next building
+	- it seems fortified and seems to have had a military purpose once
+	- [[Shadow]], [[Kadrin]] look into the broken windows
+		- Perception: Nat.1 (7), 18
+		- [[Kadrin]] sees six small creatures with five even smaller baby creatures [[Zorbo]]
+		- ![[Zorbo.png]]
+		- to one of the walls are rusted old weapons
+		- this was once a barracks
+- A Warehouse next to it, seems less fortified
+	- [[Shadow]], Perception: 22
+		- It seems collapsed and completely ransacked
+- [[Musharib]] casts pass without a trace and we advance further
+	- Stealth:
+		- [[Kadrin]]: Nat.1 (13)
+		- [[Musharib]]: 19
+		- [[Shadow]]: 38
+		- [[Delwyn]]: 32
+		- [[Shago]]: 14
+		- [[Talsen]]: 
+
+
+
+
+- ### [[Fight_S81]]
