@@ -14,3 +14,15 @@ Recap - [[Kadrin]]
 	- If we find out who did this, there is a Bounty on this Spellcasters and [[Bolnir Copperhandle]]'s Head for 1000gp each
 	- The Footprints were Humanoid, wearing shoes, human sized
 - [[Talsen]] offers [[Zindar]] to spar when they are back in town.
+- [[Talsen]] wraps things up with [[Alji Wiggleback]], goes to speak with [[Helya]]
+- [[Talsen]] leaves with [[Shadow]]
+---
+[[Talsen]] uses a Blood Ritual to track [[Fake Kordelia]]
+- [[Talsen]] offers [[Kadrin]] to grab a Knife
+	- tries to hide it, Sleight of Hand: 19
+		- tries to cut him with the knife "accidentally"
+- [[Fake Kordelia]] is more than 100 miles eastward
+- [[Kadrin]] is not related to [[Fake Kordelia]]
+
+We make our way to [[Omu]] through the [[Webway of Ubtao]]
+- 

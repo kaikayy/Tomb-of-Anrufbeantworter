@@ -18,16 +18,16 @@
                 "source": true
               }
             },
-            "group": "7ee381887f2da336"
+            "group": "e19595621ce21b10"
           }
         ]
       },
       {
-        "id": "bf9583dd1f46e800",
+        "id": "cae92a33e15832a6",
         "type": "tabs",
         "children": [
           {
-            "id": "d309a4f64b3b8619",
+            "id": "0ce80c66bc5c24b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,22 +37,9 @@
                 "source": true
               }
             },
-            "group": "7ee381887f2da336"
-          },
-          {
-            "id": "378ea4966c067756",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 80.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
+            "group": "e19595621ce21b10"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,11 +193,13 @@
   },
   "active": "a4415caa45bcd3fe",
   "lastOpenFiles": [
-    "Session Notes/Session 69.md",
-    "NPCs/Ssaztehsi.md",
+    "PCs/Delwyn.md",
     "Session Notes/Session 81.md",
     "Session Notes/Session 80.md",
-    "PCs/Delwyn.md",
+    "NPCs/Alji Wiggleback.md",
+    "Locations/Kebab Kamadan.md",
+    "Session Notes/Session 69.md",
+    "NPCs/Ssaztehsi.md",
     "README.md",
     "Plans.md",
     "Session Notes/Watch_Vorlage.md",
@@ -233,8 +222,6 @@
     "_Attachments/DnD Math.png",
     "Session Notes/Session 68.md",
     "NPCs/Eku.md",
-    "Items/Webway of Ubtao.md",
-    "Session Notes/Session 73.md",
     "_Attachments/Gauntlet of Moradin.png",
     "_Attachments/Soul Warden.png",
     "_Attachments/Imix depiction in Forge.png",
