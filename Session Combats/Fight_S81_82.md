@@ -2,17 +2,19 @@ Session Link:
 [[Session 81]]
 Battlemap:
 ![[F81_Battlemap.png]]
+![[Ruined Villa.png]]
 
 Enemies:
 Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
-Crocadilian Snapjaw - CS
+~~Crocadilian Snapjaw - CS~~
 Crocadilian Scavager - CSC
 Crocadilian Shaman - CSH
 Crocodile a,x - Ca,x
-Zhentarim Thug - ZT
+~~Zhentarim Thug - ZT~~
 Blackdigger Cutthroat - BC
-Blackdigger Smasher - BS
-Allosaurus - A (summoned)
+~~Blackdigger Smasher - BS~~
+~~Allosaurus - A (summoned)~~
+Hugo - H
 
 ![[crocodile people.png]]
 
@@ -49,7 +51,8 @@ Enemies:
 - R1 - All Enemies - Surprised
 ---
 Dodge/Ready:
-
+R - [[Shadow]]
+R - [[Delwyn]]
 
 ---
 **Round 1**
@@ -122,27 +125,35 @@ Dodge/Ready:
 	- 19 to hit, miss
 - BC drops his weapons and surrenders
 - ZT dashes out of the door to the other side
+	- ZT is [[Dead]]
 
 **Round 3**
 - _The Footsteps grow closer and faster, we see a gush of fog (like Misty Step) and a giant creature chomps on ZT and breaks down the wall_
-- [[Shadow]]
-- [[Delwyn]]
-- CSH
-- A
-- Ca
-- Cb
-- [[Musharib]]
-- [[Kadrin]]
+- ![[Hugo's Foot.png]]
+- ![[Hugo's Feet.png]]
+- _CSH falls with his back to the wall, holds his finger over his mouth and drops his [[Concentration]]_
+- _BC asks us to be VERY quiet_
+- [[Shadow]] readies an Action to attack anyone who attacks [[Kadrin]]
+- [[Delwyn]] readies Magic Missile on Cb if it attacks the party OR if Cb flees behind a wall
+- CSH gestures to be quiet, sneaks and dashes
+- Ca,b back off
+- [[Musharib]] dodges and goes towards the wall to [[Shadow]]
+- [[Kadrin]] tries to grapple CSH with Divine Custody
+	- CHA: 16 vs. 12
+		- CSH is [[Grappled]]
+	- Sleight of Hand: 12
+		- The Chains don't make "too much" noise
+- H looks into the room
+	- 
 - [[Shago]]
 - [[Talsen]]
 - CSC
 - BC
-- ZT
+
 **Round 4**
 - [[Shadow]]
 - [[Delwyn]]
 - CSH
-- A
 - Ca
 - Cb
 - [[Musharib]]
@@ -151,7 +162,6 @@ Dodge/Ready:
 - [[Talsen]]
 - CSC
 - BC
-- ZT
 
 **Round 5**
 - asd

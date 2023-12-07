@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "b5088d5df8448f0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 81.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5a41bf8ea8358d03",
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 81.md",
+                "file": "Session Combats/Fight_S81_82.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 81.md"
+                "file": "Session Combats/Fight_S81_82.md"
               }
             }
           },
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 81.md",
+                "file": "Session Combats/Fight_S81_82.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,12 +190,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b5088d5df8448f0a",
+  "active": "e955ede245123147",
   "lastOpenFiles": [
+    "_Attachments/Hugo's Feet.png",
     "Session Combats/Fight_S81_82.md",
+    "_Attachments/Hugo's Foot.png",
+    "_Attachments/Ruined Villa.png",
+    "Session Notes/Session 81.md",
     "Session Notes/Session 82.md",
     "_Attachments/F81_Battlemap.png",
-    "Session Notes/Session 81.md",
     "_Attachments/crocodile people.png",
     "Zorbo.md",
     "_Attachments/Zorbo.png",
@@ -237,13 +227,10 @@
     "NPCs/Helya.md",
     "_Attachments/DnD Math.png",
     "_Attachments/Gauntlet of Moradin.png",
-    "_Attachments/Soul Warden.png",
-    "_Attachments/Imix depiction in Forge.png",
     "Z_Canvas/Plans.canvas",
     "Z_Canvas/Current Planning.canvas",
     "Z_Canvas/General.canvas",
     "Z_Canvas/Main Story.canvas",
-    "_Attachments/Baggy Nana.png",
     "desktop.ini",
     "_Attachments/Logo Video.mp4",
     "#publish.css",
