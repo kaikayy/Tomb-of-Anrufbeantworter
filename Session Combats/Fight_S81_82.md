@@ -16,6 +16,7 @@ Blackdigger Cutthroat - BC
 ~~Blackdigger Smasher - BS~~
 ~~Allosaurus - A (summoned)~~
 Hugo - H - [[Hugo]]
+Swarm of Bees - SoB (Summoned)
 
 ![[crocodile people.png]]
 
@@ -51,6 +52,7 @@ Conditions:
 Enemies:
 - Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
 - R1 - All Enemies - Surprised
+- BC - [[Unconscious]] (Stable)
 ---
 Dodge/Ready:
 
@@ -196,11 +198,22 @@ Dodge/Ready:
 	- 15 to hit, miss
 - [[Shago]] dodges
 - [[Talsen]] dashes to H, uses Reconstruction Mutagen, taunts H
-- BC 
-- H 
+- BC runs away
+	- R: AoO, [[Shadow]], 17 to hit, 10 DMG
+	- R: AoO, [[Talsen]], 21 to hit, 21 DMG, NON LETHAL
+		- BC is [[Unconscious]] but Stable
+- H attacks [[Talsen]]
+	- 28 to hit, 35 DMG
+		- STR SAV: Nat.20 (26)
+	- attacks [[Musharib]]
+		- 19 to hit, 23 DMG
+	- uses Bellowing Roar on [[Delwyn]]
+		- summons SoB
 
 **Round 5**
-- [[Shadow]]
+- [[Shadow]] shifts Hunter's Mark on H, attacks
+	- SHARPSHOOTER, 
+	- SHARPSHOOTER, 
 - [[Delwyn]]
 - [[Musharib]]
 - [[Kadrin]]
