@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41041b0d2788615f",
+            "id": "e955ede245123147",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,26 @@
             }
           },
           {
-            "id": "785abc0f0cf19052",
+            "id": "b5088d5df8448f0a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_Attachments/F81_Battlemap.png"
+                "file": "Session Notes/Session 81.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "6288bf7c2ca7f4ad",
+        "id": "5a41bf8ea8358d03",
         "type": "tabs",
         "children": [
           {
-            "id": "35301f7c4e9e95d4",
+            "id": "7de684dbbb9d945f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -113,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Combats/Fight_S81_82.md",
+                "file": "Session Notes/Session 81.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Combats/Fight_S81_82.md"
+                "file": "Session Notes/Session 81.md"
               }
             }
           },
@@ -148,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Combats/Fight_S81_82.md",
+                "file": "Session Notes/Session 81.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,12 +203,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "41041b0d2788615f",
+  "active": "b5088d5df8448f0a",
   "lastOpenFiles": [
-    "_Attachments/crocodile people.png",
     "Session Combats/Fight_S81_82.md",
+    "Session Notes/Session 82.md",
     "_Attachments/F81_Battlemap.png",
     "Session Notes/Session 81.md",
+    "_Attachments/crocodile people.png",
     "Zorbo.md",
     "_Attachments/Zorbo.png",
     "Locations/Omu.md",
@@ -231,7 +235,6 @@
     "NPCs/Ymezra.md",
     "NPCs/Jessamine.md",
     "NPCs/Helya.md",
-    "Items/Dinosaur Nuggets.md",
     "_Attachments/DnD Math.png",
     "_Attachments/Gauntlet of Moradin.png",
     "_Attachments/Soul Warden.png",
