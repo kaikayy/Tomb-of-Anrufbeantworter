@@ -3,18 +3,19 @@ Session Link:
 Battlemap:
 ![[F81_Battlemap.png]]
 ![[Ruined Villa.png]]
+![[F81_2.png]]
 
 Enemies:
 Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
 ~~Crocadilian Snapjaw - CS~~
-Crocadilian Scavager - CSC
-Crocadilian Shaman - CSH
-Crocodile a,x - Ca,x
+~~Crocadilian Scavager - CSC~~
+~~Crocadilian Shaman - CSH~~
+~~Crocodile a,x - Ca,x~~
 ~~Zhentarim Thug - ZT~~
 Blackdigger Cutthroat - BC
 ~~Blackdigger Smasher - BS~~
 ~~Allosaurus - A (summoned)~~
-Hugo - H
+Hugo - H - [[Hugo]]
 
 ![[crocodile people.png]]
 
@@ -29,7 +30,7 @@ Initiative:
 ---
 Conditions:
 [[Shadow]]:
-- 
+- [[Concentration]]
 
 [[Talsen]]:
 - 
@@ -44,15 +45,14 @@ Conditions:
 - 
 
 [[Musharib]]:
-- 
+- [[Concentration]]
 
 Enemies:
 - Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
 - R1 - All Enemies - Surprised
 ---
 Dodge/Ready:
-R - [[Shadow]]
-R - [[Delwyn]]
+
 
 ---
 **Round 1**
@@ -143,16 +143,45 @@ R - [[Delwyn]]
 		- CSH is [[Grappled]]
 	- Sleight of Hand: 12
 		- The Chains don't make "too much" noise
-- H looks into the room
-	- 
-- [[Shago]]
-- [[Talsen]]
-- CSC
-- BC
+- _H looks into the room_
+	- ![[Hugo's Eye.png]]
+- [[Shago]] goes to a wall and dodges
+- [[Talsen]] attacks CSC
+	- 14 to hit, miss
+		- Sleight of Hand: 10
+	- 17 to hit, 22 DMG
+		- Sleight of Hand: 20
+		- CSC is [[Dead]]
+- LA: H _Hugo Misty steps INTO the room breaking down several walls, the building starts to crumble_
+	- DEX SAV:
+		- [[Shadow]]: 23 - 7 DMG
+			- Conc. SAV: 17
+		- [[Kadrin]]: 7, INSPIRATION, 7 - 15 DMG
+		- [[Delwyn]]: Nat.20 (24) - 7 DMG
+		- [[Musharib]]: 16 - 7 DMG
+			- Conc. SAV: 12
+		- [[Shago]]: 24 - 7 DMG
+		- [[Talsen]]: 18 - 7 DMG
+		- CSH - 15 DMG
+		- Ca - 7 DMG
+		- Cb is buried under rubble, is [[Dead]]
+		- BC - 7 DMG
+	- _The whole Battlefield is now difficult Terrain_
+- BC starts running away
+	- R: AoO, [[Musharib]], 6 to hit, miss
+- H attacks CSH
+	- Nat.20 to hit
+		- CSH is [[Dead]]
+		- [[Kadrin]] dismisses hi grapple
+	- attacks Ca
+		- Ca is [[Dead]]
 
 **Round 4**
-- [[Shadow]]
-- [[Delwyn]]
+- [[Shadow]] shifts Hunter's Mark on BC, attacks
+	- SHARPSHOOTER, 17 to hit, 22 DMG
+	- SHARPSHOOTER, 22 to hit, 25 DMG
+		- moves in front of BC
+- [[Delwyn]] casts Sickening Radiance
 - CSH
 - Ca
 - Cb
@@ -160,7 +189,6 @@ R - [[Delwyn]]
 - [[Kadrin]]
 - [[Shago]]
 - [[Talsen]]
-- CSC
 - BC
 
 **Round 5**
