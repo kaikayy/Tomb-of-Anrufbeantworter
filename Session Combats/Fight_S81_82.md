@@ -246,53 +246,35 @@ Dodge/Ready:
 	- R: AoO, H, 29 to hit, -1, 28 to hit, 48 DMG
 		- R: Bloodcurse of the Eyeless
 		- [[Musharib]] is [[Unconscious]]
-- [[Kadrin]]
-- [[Delwyn's Mom]]
-- [[Shago]]
-- [[Talsen]]
-- BC
-- H
+			- STR SAV: Auto FAIL
+- [[Kadrin]] casts Sanctuary on [[Talsen]]
+	- flees
+- [[Delwyn's Mom]] takes 10 Acid DMG, attacks
+	- 11 to hit, miss
+- SoB attacks [[Talsen]]
+	- WIS SAV: 14 - FAIL
+- [[Shago]] flees
+- [[Talsen]] uses Hemokinesis to move H
+	- CON SAV: Nat.1 - FAIL
+		- [[Musharib]] is no longer grappled and drops 20ft.
+			- loses 1 Death Save
+	- grabs [[Musharib]] off of the ground and runs away with him
+		- R: AoO, SoB, WIS SAV: 15 - FAIL
+- H runs after [[Talsen]], attacks [[Musharib]]
+	- R: Bloodcurse of the Eyeless
+	- 31 to hit, -4, 27 to hit, [[Musharib]] looses two Death Saves
+		- [[Musharib]] is [[Dead]]
+		- R: Attack on H, Spear, 25 to hit, 9 Force DMG
+	- attacks [[Talsen]]
+		- WIS SAV: Nat.1 - FAIL
+	- swallows [[Musharib]]
 
 **Round 7**
-- [[Shadow]]
-- [[Delwyn]]
-- [[Musharib]]
-- [[Kadrin]]
-- [[Delwyn's Mom]]
-- [[Shago]]
-- [[Talsen]]
-- BC
-- H
-
-**Round 8**
-- [[Shadow]]
-- [[Delwyn]]
-- [[Musharib]]
-- [[Kadrin]]
-- [[Delwyn's Mom]]
-- [[Shago]]
-- [[Talsen]]
-- BC
-- H
-
-**Round 9**
-- [[Shadow]]
-- [[Delwyn]]
-- [[Musharib]]
-- [[Kadrin]]
-- [[Delwyn's Mom]]
-- [[Shago]]
-- [[Talsen]]
-- BC
-- H
-
-**Round 10**
-- [[Shadow]]
-- [[Delwyn]]
-- [[Musharib]]
-- [[Kadrin]]
-- [[Delwyn's Mom]]
-- [[Shago]]
-- [[Talsen]]
-- BC
-- H
+- [[Shadow]] -
+- [[Delwyn]] -
+- [[Musharib]] -
+- [[Kadrin]] -
+- [[Delwyn's Mom]] -
+- [[Shago]] -
+- [[Talsen]] flees
+	- R: AoO, H, WIS SAV- FAIL

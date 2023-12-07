@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S81_82.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Combats/Fight_S81_82.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Combats/Fight_S81_82.md"
+                "file": "README.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Combats/Fight_S81_82.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,10 +191,13 @@
   },
   "active": "e955ede245123147",
   "lastOpenFiles": [
-    "NPCs/Delwyn's Mom.md",
+    "Plans.md",
+    "Z_Canvas/Plans.canvas",
+    "Z_Canvas/Current Planning.canvas",
     "Session Combats/Fight_S81_82.md",
+    "NPCs/Delwyn's Mom.md",
     "_Official Conditions/Grappled.md",
-    "Hugo.md",
+    "NPCs/Hugo.md",
     "_Attachments/HUGO.png",
     "_Attachments/F81_2.png",
     "Session Notes/Session 81.md",
@@ -206,7 +208,7 @@
     "Session Notes/Session 82.md",
     "_Attachments/F81_Battlemap.png",
     "_Attachments/crocodile people.png",
-    "Zorbo.md",
+    "Bestiary/Zorbo.md",
     "_Attachments/Zorbo.png",
     "Locations/Omu.md",
     "PCs/Delwyn.md",
@@ -216,7 +218,6 @@
     "Session Notes/Session 69.md",
     "NPCs/Ssaztehsi.md",
     "README.md",
-    "Plans.md",
     "Session Notes/Watch_Vorlage.md",
     "NPCs/Tia.md",
     "Session Combats/Fight_S80.md",
@@ -227,9 +228,6 @@
     "Session Notes/Session 79.md",
     "Locations/Old City.md",
     "NPCs/Ymezra.md",
-    "NPCs/Jessamine.md",
-    "Z_Canvas/Plans.canvas",
-    "Z_Canvas/Current Planning.canvas",
     "Z_Canvas/General.canvas",
     "Z_Canvas/Main Story.canvas",
     "desktop.ini",

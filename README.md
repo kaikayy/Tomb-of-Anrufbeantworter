@@ -1,105 +1,282 @@
-# Last Session: 80
+# Last Session: Fight_S81_82
 
-Recap - Talsen
+Session Link:
+Session 81
+Battlemap:
+!F81_Battlemap.png
+!Ruined Villa.png
+!F81_2.png
 
-We sell stuff and organize Items
-We give out some Rations to the poor in Port Nyanzaru
+Enemies:
+Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
+~~Crocadilian Snapjaw - CS~~
+~~Crocadilian Scavager - CSC~~
+~~Crocadilian Shaman - CSH~~
+~~Crocodile a,x - Ca,x~~
+~~Zhentarim Thug - ZT~~
+Blackdigger Cutthroat - BC
+~~Blackdigger Smasher - BS~~
+~~Allosaurus - A (summoned)~~
+Hugo - H
+Swarm of Bees - SoB (Summoned)
 
-We split up to take care of our own businesses faster
-- Kadrin goes towards Tiryki Anchorage to store Stomps in the Dinosaur Stables
-- Talsen goes to Alji Wiggleback
-- Delwyn can't find a Divine Being around and tries to find the shrine or altar
-- Shadow follows behind Talsen
+!crocodile people.png
 
-We all agree to meet back at Talsen's Shack before Sundown to start our travel fast
-
----
-Kadrin, Shago and Musharib arrive at the Gate of Tiryki Anchorage and see another mural of the Undead T-Rex fight with Kairi and Gannin on the walls.
-- Kadrin quietly recites a song he composed
-- They arrive at the Dinosaur Stables and Kadrin leaves Stomps with the gold Talsen gave him
-	- Stomps will have a safe home for the next 300 days if we are to not return
-- Kadrin casts Speak with Animals and talks to Stomps
-	- He explains the situation and promises that he will be back soon
-	- Stomps asks for food and says he'll try to not cause any trouble
----
-Talsen & Shadow arrive at the Kebab Kamadan
-- There are four kids playing at one Table, Helya is among them
-- Alji Wiggleback made Dinosaur Nuggets for the kids
-	- Helya greets Talsen with a hug and says that she has been staying at Alji Wiggleback's since her mom (Tia) fell asleep
-
-Talsen & Alji Wiggleback talk
-- Tia is Dead and her body is at the Temple of Savras
-- Alji Wiggleback notes that Helya has made some influential friends nodding at assassins on the roofs nearby, one of the kids is Ymezra
-- Talsen gives Alji Wiggleback the Maps to Orolunga and Nangalore to give to Lerek Dashlynd to exchange for funds for Helya
-- Summerwise plays with the kids
-
-We eat together
+Initiative:
+Talsen - 13
+Kadrin - 14
+Shadow - 24
+Delwyn - Nat.20 (23)
+Shago - 13
+Musharib - 16
+Delwyn's Mom - 14
 
 ---
-Delwyn goes towards the Graveyard, the Refuse Pit in the Old City
-- Sees an elf putting on a mask coming out of a Ziggurat
-	- he preaches to the "people of chult" about the "Cult of the devourer"
-	- !masked elf.png
-	- two burly dudes unmask him, take his amulet and throw him down the first flight of the Ziggurat into the trash piles
-	- A new person emerges from the Ziggurat with defined muscles for his old age and talks about his stupid preaching being in common and no one speaking it ~_something like that_
-- Delwyn runs after the elf and catches him as he is held up at the gate
-	- he tries to overhear some words
-		- Perception: 16
-			- The Elf complains about just being robbed, the guards don't care about his ramblings
-			- The Flaming Fist guards stop his entrance into the City and demand money for being let in
-	- he pulls the Elf away from the guards and asks about his Cult
-		- more doomer ramblings and offers to join the Cult
-	- Delwyn asks for other names of the Elf's deity
-		- Persuasion: 25
-			- The Devourer's true name is "Acererak the Eternal", the most powerful being in all the realms
-	- Delwyn shows his arm and asks if his god has something to do with this
-		- The Elf hasn't seen something like this before but he deems it possible if not likely that Acererak has done this
-	- Delwyn asks to talk to Acererak
-		- Only the most worthy servants are able to talk to him themselves
-	- Delwyn asks why they are practicing their religion here
-		- Look at all this agony around here, I want to tell them all that their salvation will come and all of the suffering will end soon
-	- Delwyn asks if they have some kind of Shrine here
-		- Persuasion: 19
-			- The Elf leads Delwyn away from most people and tells him that there is a little Shrine within the City, but it has to be kept secret because the guards have arrested some of their members recently
-			- The Elf writes down the address to the Shrine at the Harbor
-				- their meetings are held at the evening and Delwyn should be aware of the guards
-- Delwyn, Arcana: 17
-	- As the elf leaves for the gate, the Shade Mark doesn't seem to respond to the situation
+Conditions:
+Shadow:
+- Concentration
 
-Delwyn continues on to the Refuse Pit
-- the stench in indescribable
-- inside the pit is scrambled furniture, cadaver of dinosaurs, humanoids and everything else imaginable
-- there are ways to descent into the pit
+Talsen:
+- 
 
-Delwyn descents down into the Pit
-- There is heaps of vermin down there feasting on the decomposing trash
-- Perception: 8
-	- There seem to be some alcoves to the side of the pit
-- As he travels further...
+Delwyn:
+- 
+
+Kadrin:
+- 
+
+Shago: 
+- 
+
+Musharib:
+- Unconscious
+
+Enemies:
+- Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
+- R1 - All Enemies - Surprised
+- BC - Unconscious (Stable)
+---
+Dodge/Ready:
+
+
+---
+**Round 1**
+- Shadow casts Hunter's Mark on BS, attacks
+	- SHARPSHOOTER, 25 to hit, 23 DMG
+	- SHARPSHOOTER, 18 to hit, 22 DMG
+	- SHARPSHOOTER, Nat.20 (26) to hit, 47 DMG
+- Delwyn casts Fireball on Ca, Cb, CSC, CS, CSH
+	- DEX SAV: FAIL, FAIL, FAIL, FAIL, FAIL
+		- 26 Fire DMG
+- CSH is no longer surprised
+- Ca,b are no longer surprised
+- Musharib dodges
+- Kadrin attacks CS
+	- 25 to hit, 12 DMG
+	- 21 to hit, 15 DMG
+	- casts Compel Duell on CSC
+		- WIS SAV: 20 - SAVE
+- Shago attacks CS
+	- 21 to hit, 15 DMG
+	- 19 to hit, 14 DMG
+- Talsen activates his rite (Flame), attacks CSC
+	- 26 to hit, 15 DMG
+		- Insight: 13 - CSC seems to be the master of the C
+	- 20 to hit, 20 DMG
+		- WIS SAV: 15 - SAVE
+- CSC is no longer surprised
+- CS is no longer surprised
+- BC is no longer surprised
+- BS is no longer surprised
+- ZT is no longer surprised
+
+**Round 2**
+- _We sense giant footsteps vibrating the ground_
+- Shadow attacks BS
+	- SHARPSHOOTER, 20 to hit, 24 DMG
+		- BS is Dead
+	- shifts Hunter's Mark to CS, attacks
+		- 25 to hit, 23 DMG
+			- CS is Dead
+- Delwyn casts Mage Armor
+- CSH casts 
+	- Kadrin, Arcana: 7 - no clue
+	- summons A
+- A attacks Kadrin
+	- 15 to hit, miss
+- Ca attacks Talsen
+	- 6 to hit, miss
+- Cb attacks Talsen
+	- 20 to hit, miss
+- Musharib dodges
+- Kadrin talks to BC
+	- Persuasion: 15
+		- BC seems unsure
+- Shago attacks A
+	- 12 to hit, miss
+	- 16 to hit, 7 DMG
+- Talsen attacks CSC
+	- 28 to hit, 16 DMG
+		- Uses Hemokinesis on BC
+			- CON SAV: 5 - FAIL
+			- He is pushed 5ft away
+	- Nat.20 (30) to hit, 21 DM
+	- moves to CSH
+		- R: AoO, Ca, 20 to hit, miss
+		- R. AoO, Cb, Nat.1 to hit, miss
+- CSC attacks Talsen
+	- 22 to hit, 11 DMG
+	- 23 to hit, 13 DMG
+	- 19 to hit, miss
+- BC drops his weapons and surrenders
+- ZT dashes out of the door to the other side
+	- ZT is Dead
+
+**Round 3**
+- _The Footsteps grow closer and faster, we see a gush of fog (like Misty Step) and a giant creature chomps on ZT and breaks down the wall_
+- !Hugo's Foot.png
+- !Hugo's Feet.png
+- _CSH falls with his back to the wall, holds his finger over his mouth and drops his Concentration_
+- _BC asks us to be VERY quiet_
+- Shadow readies an Action to attack anyone who attacks Kadrin
+- Delwyn readies Magic Missile on Cb if it attacks the party OR if Cb flees behind a wall
+- CSH gestures to be quiet, sneaks and dashes
+- Ca,b back off
+- Musharib dodges and goes towards the wall to Shadow
+- Kadrin tries to grapple CSH with Divine Custody
+	- CHA: 16 vs. 12
+		- CSH is Grappled
+	- Sleight of Hand: 12
+		- The Chains don't make "too much" noise
+- _H looks into the room_
+	- !Hugo's Eye.png
+- Shago goes to a wall and dodges
+- Talsen attacks CSC
 	- 14 to hit, miss
-	- a claw tries to attack Delwyn as a Ghoul jumps out of the garbage
-	- Fight_S80
-- Perception: 13
-	- looks down the Refuse Pit and can't make out how many or what creatures are dwelling down there
-	- sees a cave entrance at the other side of the Pit
-- Delwyn goes back towards Talsen's Shack
----
+		- Sleight of Hand: 10
+	- 17 to hit, 22 DMG
+		- Sleight of Hand: 20
+		- CSC is Dead
+- LA: H _Hugo Misty steps INTO the room breaking down several walls, the building starts to crumble_
+	- DEX SAV:
+		- Shadow: 23 - 7 DMG
+			- Conc. SAV: 17
+		- Kadrin: 7, INSPIRATION, 7 - 15 DMG
+		- Delwyn: Nat.20 (24) - 7 DMG
+		- Musharib: 16 - 7 DMG
+			- Conc. SAV: 12
+		- Shago: 24 - 7 DMG
+		- Talsen: 18 - 7 DMG
+		- CSH - 15 DMG
+		- Ca - 7 DMG
+		- Cb is buried under rubble, is Dead
+		- BC - 7 DMG
+	- _The whole Battlefield is now difficult Terrain_
+- BC starts running away
+	- R: AoO, Musharib, 6 to hit, miss
+- H attacks CSH
+	- Nat.20 to hit
+		- CSH is Dead
+		- Kadrin dismisses hi grapple
+	- attacks Ca
+		- Ca is Dead
 
-We all meet back up in the evening
-- Talsen gives his neighbour 100gp to keep quiet and as a thank you for the repairing the door
-- Delwyn arrives cut open and damaged
-- Delwyn wants to stay and needs our help with his dealings in the city
-	- Talsen says that he will be going with our without him
-- We discuss
-- Delwyn decides to come with us
+**Round 4**
+- Shadow shifts Hunter's Mark on BC, attacks
+	- SHARPSHOOTER, 17 to hit, 22 DMG
+	- SHARPSHOOTER, 22 to hit, 25 DMG
+		- moves in front of BC
+- Delwyn casts Sickening Radiance on H
+	- CON SAV - FAIL - LR (Legendary Resistance)
+	- Runs away and jumps through a Window outside
+	- Uses Hound of Ill Omen (Delwyn's Mom) on H
+- Musharib dashes towards Delwyn
+	- R: AoO, BC, 22 to hit, 3 DMG, Conc. SAV: 8, drops Concentration
+- LA: H casts Misty Step towards Musharib
+- Kadrin tries to speak to H in Celestial, H doesn't react
+	- goes to Shago, uses the Cape to cast Dimension Door
+		- teleports with Shago 100ft. away into bushes
+- Delwyn's Mom attacks H
+	- 15 to hit, miss
+- Shago dodges
+- Talsen dashes to H, uses Reconstruction Mutagen, taunts H
+- BC runs away
+	- R: AoO, Shadow, 17 to hit, 10 DMG
+	- R: AoO, Talsen, 21 to hit, 21 DMG, NON LETHAL
+		- BC is Unconscious but Stable
+- H attacks Talsen
+	- 28 to hit, 35 DMG
+		- STR SAV: Nat.20 (26)
+	- attacks Musharib
+		- 19 to hit, 23 DMG
+	- uses Bellowing Roar on Delwyn
+		- summons SoB
 
-We start traveling back to Hrakhamar pushing through the night
-- We arrive in the middle of the night and make camp there
-- We shortly talk about our day and who we said our goodbyes to
+**Round 5**
+- Shadow shifts Hunter's Mark on H, runs away
+	-  R: AoO, H, Nat.20 to hit, 66 DMG, STR SAV: 19
+		- Shadow goes to 1 HP and gains "Organ Damage"
+	- dashes further away
+		- CON SAV: 21 - SAVE
+- Delwyn uses Dagger of Despair on H
+	- 14 to hit, miss
+	- flees
+		- R: AoO, SoB, 21 to hit, SHIELD, miss
+		- drops Concentration
+- Musharib dashes away
+- Kadrin dashes towards the battlefield
+- Delwyn's Mom attacks H
+	- 17 to hit, miss
+- Shago dashes towards the battlefield
+- BoS dash towards Musharib
+- Talsen uses Strange Metabolism, dashes away
+- H attacks Delwyn's Mom
+	- 28 to hit, 25 DMG
+		- STR SAV: 9 - FAIL
+			- Delwyn's Mom is Grappled
+	- swallows Delwyn's Mom
+		- DEX SAV: 13 - FAIL
+	- uses Misty Step, goes to Musharib
 
-Talsen finds something in his bag, a doll made of fabric. It looks like Helya.
+**Round 6**
+- Shadow casts Rope Trick
+	- CON SAV: 18 - SAVE
+- Delwyn is out of Combat
+- Musharib flees
+	- R: AoO, SoB, 19 to hit, 8 DMG
+		- R: Attack on SoB, Spear, 12 to hit, 10 Force DMG
+	- R: AoO, H, 29 to hit, -1, 28 to hit, 48 DMG
+		- R: Bloodcurse of the Eyeless
+		- Musharib is Unconscious
+			- STR SAV: Auto FAIL
+- Kadrin casts Sanctuary on Talsen
+	- flees
+- Delwyn's Mom takes 10 Acid DMG, attacks
+	- 11 to hit, miss
+- SoB attacks Talsen
+	- WIS SAV: 14 - FAIL
+- Shago flees
+- Talsen uses Hemokinesis to move H
+	- CON SAV: Nat.1 - FAIL
+		- Musharib is no longer grappled and drops 20ft.
+			- loses 1 Death Save
+	- grabs Musharib off of the ground and runs away with him
+		- R: AoO, SoB, WIS SAV: 15 - FAIL
+- H runs after Talsen, attacks Musharib
+	- R: Bloodcurse of the Eyeless
+	- 31 to hit, -4, 27 to hit, Musharib looses two Death Saves
+		- Musharib is Dead
+		- R: Attack on H, Spear, 25 to hit, 9 Force DMG
+	- attacks Talsen
+		- WIS SAV: Nat.1 - FAIL
+	- swallows Musharib
 
-#### LONG REST -> Day 1
-Weather: Slight Rain, Normal Temp, No wind
-
-Kadrin receives his Adamantine Half-Plate Armor from the Albino Dwarfs.
+**Round 7**
+- Shadow -
+- Delwyn -
+- Musharib -
+- Kadrin -
+- Delwyn's Mom -
+- Shago -
+- Talsen flees
+	- R: AoO, H, WIS SAV- FAIL
