@@ -15,7 +15,7 @@ Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
 Blackdigger Cutthroat - BC
 ~~Blackdigger Smasher - BS~~
 ~~Allosaurus - A (summoned)~~
-Hugo - H - [[Hugo]]
+[[Hugo]] - H
 Swarm of Bees - SoB (Summoned)
 
 ![[crocodile people.png]]
@@ -38,7 +38,7 @@ Conditions:
 - 
 
 [[Delwyn]]:
-- [[Concentration]]
+- 
 
 [[Kadrin]]:
 - 
@@ -47,7 +47,7 @@ Conditions:
 - 
 
 [[Musharib]]:
-- 
+- [[Unconscious]]
 
 Enemies:
 - Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
@@ -211,22 +211,41 @@ Dodge/Ready:
 		- summons SoB
 
 **Round 5**
-- [[Shadow]] shifts Hunter's Mark on H, attacks
-	- SHARPSHOOTER, 
-	- SHARPSHOOTER, 
-- [[Delwyn]]
-- [[Musharib]]
-- [[Kadrin]]
-- [[Delwyn's Mom]]
-- [[Shago]]
-- [[Talsen]]
-- BC
-- H
+- [[Shadow]] shifts Hunter's Mark on H, runs away
+	-  R: AoO, H, Nat.20 to hit, 66 DMG, STR SAV: 19
+		- [[Shadow]] goes to 1 HP and gains "Organ Damage"
+	- dashes further away
+		- CON SAV: 21 - SAVE
+- [[Delwyn]] uses Dagger of Despair on H
+	- 14 to hit, miss
+	- flees
+		- R: AoO, SoB, 21 to hit, SHIELD, miss
+		- drops [[Concentration]]
+- [[Musharib]] dashes away
+- [[Kadrin]] dashes towards the battlefield
+- [[Delwyn's Mom]] attacks H
+	- 17 to hit, miss
+- [[Shago]] dashes towards the battlefield
+- BoS dash towards [[Musharib]]
+- [[Talsen]] uses Strange Metabolism, dashes away
+- H attacks [[Delwyn's Mom]]
+	- 28 to hit, 25 DMG
+		- STR SAV: 9 - FAIL
+			- [[Delwyn's Mom]] is [[Grappled]]
+	- swallows [[Delwyn's Mom]]
+		- DEX SAV: 13 - FAIL
+	- uses Misty Step, goes to [[Musharib]]
 
 **Round 6**
-- [[Shadow]]
-- [[Delwyn]]
-- [[Musharib]]
+- [[Shadow]] casts Rope Trick
+	- CON SAV: 18 - SAVE
+- [[Delwyn]] is out of Combat
+- [[Musharib]] flees
+	- R: AoO, SoB, 19 to hit, 8 DMG
+		- R: Attack on SoB, Spear, 12 to hit, 10 Force DMG
+	- R: AoO, H, 29 to hit, -1, 28 to hit, 48 DMG
+		- R: Bloodcurse of the Eyeless
+		- [[Musharib]] is [[Unconscious]]
 - [[Kadrin]]
 - [[Delwyn's Mom]]
 - [[Shago]]
