@@ -26,6 +26,7 @@ Initiative:
 [[Delwyn]] - Nat.20 (23)
 [[Shago]] - 13
 [[Musharib]] - 16
+[[Delwyn's Mom]] - 14
 
 ---
 Conditions:
@@ -36,7 +37,7 @@ Conditions:
 - 
 
 [[Delwyn]]:
-- 
+- [[Concentration]]
 
 [[Kadrin]]:
 - 
@@ -45,7 +46,7 @@ Conditions:
 - 
 
 [[Musharib]]:
-- [[Concentration]]
+- 
 
 Enemies:
 - Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
@@ -181,29 +182,85 @@ Dodge/Ready:
 	- SHARPSHOOTER, 17 to hit, 22 DMG
 	- SHARPSHOOTER, 22 to hit, 25 DMG
 		- moves in front of BC
-- [[Delwyn]] casts Sickening Radiance
-- CSH
-- Ca
-- Cb
+- [[Delwyn]] casts Sickening Radiance on H
+	- CON SAV - FAIL - LR (Legendary Resistance)
+	- Runs away and jumps through a Window outside
+	- Uses Hound of Ill Omen ([[Delwyn's Mom]]) on H
+- [[Musharib]] dashes towards [[Delwyn]]
+	- R: AoO, BC, 22 to hit, 3 DMG, Conc. SAV: 8, drops [[Concentration]]
+- LA: H casts Misty Step towards [[Musharib]]
+- [[Kadrin]] tries to speak to H in Celestial, H doesn't react
+	- goes to [[Shago]], uses the Cape to cast Dimension Door
+		- teleports with [[Shago]] 100ft. away into bushes
+- [[Delwyn's Mom]] attacks H
+	- 15 to hit, miss
+- [[Shago]] dodges
+- [[Talsen]] dashes to H, uses Reconstruction Mutagen, taunts H
+- BC 
+- H 
+
+**Round 5**
+- [[Shadow]]
+- [[Delwyn]]
 - [[Musharib]]
 - [[Kadrin]]
+- [[Delwyn's Mom]]
 - [[Shago]]
 - [[Talsen]]
 - BC
-
-**Round 5**
-- asd
+- H
 
 **Round 6**
-asd
-asd
-asd
+- [[Shadow]]
+- [[Delwyn]]
+- [[Musharib]]
+- [[Kadrin]]
+- [[Delwyn's Mom]]
+- [[Shago]]
+- [[Talsen]]
+- BC
+- H
+
 **Round 7**
-asd
-asd
-asd
+- [[Shadow]]
+- [[Delwyn]]
+- [[Musharib]]
+- [[Kadrin]]
+- [[Delwyn's Mom]]
+- [[Shago]]
+- [[Talsen]]
+- BC
+- H
+
 **Round 8**
-asd
-asd
-asd
+- [[Shadow]]
+- [[Delwyn]]
+- [[Musharib]]
+- [[Kadrin]]
+- [[Delwyn's Mom]]
+- [[Shago]]
+- [[Talsen]]
+- BC
+- H
+
 **Round 9**
+- [[Shadow]]
+- [[Delwyn]]
+- [[Musharib]]
+- [[Kadrin]]
+- [[Delwyn's Mom]]
+- [[Shago]]
+- [[Talsen]]
+- BC
+- H
+
+**Round 10**
+- [[Shadow]]
+- [[Delwyn]]
+- [[Musharib]]
+- [[Kadrin]]
+- [[Delwyn's Mom]]
+- [[Shago]]
+- [[Talsen]]
+- BC
+- H
