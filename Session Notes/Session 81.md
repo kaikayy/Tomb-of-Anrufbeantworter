@@ -69,4 +69,4 @@ We make our way to [[Omu]] through the [[Webway of Ubtao]]
 - We try to listen to the voices
 	- We hear dwarvish voices talking about collecting broken jars and to sell them to scholars
 - We breach
-- ### [[Fight_S81]]
+- ### [[Fight_S81_82]]

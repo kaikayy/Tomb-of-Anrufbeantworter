@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S81.md",
+                "file": "Session Combats/Fight_S81_82.md",
                 "mode": "source",
                 "source": true
               }
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S81.md",
+                "file": "Session Combats/Fight_S81_82.md",
                 "mode": "source",
                 "source": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Combats/Fight_S81.md",
+                "file": "Session Combats/Fight_S81_82.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Combats/Fight_S81.md"
+                "file": "Session Combats/Fight_S81_82.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Combats/Fight_S81.md",
+                "file": "Session Combats/Fight_S81_82.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,10 +200,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "35301f7c4e9e95d4",
+  "active": "41041b0d2788615f",
   "lastOpenFiles": [
     "_Attachments/crocodile people.png",
-    "Session Combats/Fight_S81.md",
+    "Session Combats/Fight_S81_82.md",
     "_Attachments/F81_Battlemap.png",
     "Session Notes/Session 81.md",
     "Zorbo.md",

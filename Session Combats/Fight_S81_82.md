@@ -116,11 +116,15 @@ Dodge/Ready:
 	- moves to CSH
 		- R: AoO, Ca, 20 to hit, miss
 		- R. AoO, Cb, Nat.1 to hit, miss
-- CSC 
-- BC
-- ZT
+- CSC attacks [[Talsen]]
+	- 22 to hit, 11 DMG
+	- 23 to hit, 13 DMG
+	- 19 to hit, miss
+- BC drops his weapons and surrenders
+- ZT dashes out of the door to the other side
 
 **Round 3**
+- _The Footsteps grow closer and faster, we see a gush of fog (like Misty Step) and a giant creature chomps on ZT and breaks down the wall_
 - [[Shadow]]
 - [[Delwyn]]
 - CSH
