@@ -13,21 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Session Combats/Fight_S83.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f9b529d9c6a9fe00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Session Notes/Session 83.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "1c60551daa9c0517"
+            "group": "389674c3d67ca93a"
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "9fd84ee83dd97d6e",
+        "id": "38dd2139c4896a5a",
         "type": "tabs",
         "children": [
           {
-            "id": "bfc47e88415dff64",
+            "id": "bd16ee23872083d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,7 +50,7 @@
                 "source": true
               }
             },
-            "group": "1c60551daa9c0517"
+            "group": "389674c3d67ca93a"
           }
         ]
       }
@@ -191,10 +204,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c600503c2d1d3b88",
+  "active": "f9b529d9c6a9fe00",
   "lastOpenFiles": [
-    "Session Combats/Fight_S81_82.md",
+    "Nexalan.md",
     "Session Notes/Session 83.md",
+    "Session Combats/Fight_S83.md",
+    "_Attachments/Battlemap_S83.png",
+    "Session Combats/Fight_S81_82.md",
     "Session Notes/Session 82.md",
     "Session Notes/Session 81.md",
     "Session Notes/Session 80.md",
@@ -226,11 +242,8 @@
     "NPCs/Tia.md",
     "Session Combats/Fight_S80.md",
     "Locations/Outpost.md",
-    "_Attachments/Battlemap_S80.png",
     "Locations/Refuse Pit.md",
     "NPCs/Elok Jaharwon.md",
-    "Locations/Old City.md",
-    "NPCs/Ymezra.md",
     "Z_Canvas/General.canvas",
     "Z_Canvas/Main Story.canvas",
     "desktop.ini",
