@@ -127,4 +127,23 @@ They go back to [[Orvex Ocrammas]]
 
 We get [[Orvex Ocrammas]] out of the rubble
 - he can move his legs, kept only his research notes and the map
-- 
+- we talk to him over survival in the jungle and live on [[Chult]]
+	- [[Kadrin]], Insight: 5, INSPIRATION ([[Talsen]]), 2
+		- He is really beat up and exhausted
+- [[Kadrin]] asks him if he would work for the [[Red Wizards of Thay]] again if he was to be living safe in [[Port Nyanzaru]]
+	- He says he would certainly not, they are pricks
+- [[Talsen]] gives him 9 Rations, a description on how to get to [[Port Nyanzaru]], a depiction of the address to the [[Webway of Ubtao]], 5 Torches, Tinderbox, Light Hammer, 2 Waterskins filled with Water, 1 Waterskin half filled with [[Tej]]
+	- He knows us as, Baaken, Bustin, Bolwin and, Bhago
+
+We leave him to stay there and rest, hopefully we see him again in [[Port Nyanzaru]].
+We go out of the house and see [[Shadow]] going into the walled compound.
+- [[Shadow]] goes into the house and doesn't see an [[Almiraj]] anymore
+- [[Talsen]] pulls [[Shadow]] out of the house and looks at her wounds
+	- he suggests to take a breather behind the wall
+
+We all make our way behind that wall and talk a bit
+- [[Talsen]] pours a pint of ale for everyone to honor [[Musharib]]
+- [[Shadow]] looks at [[Kadrin]] who is deeply lost in thought
+	- Insight: 19
+		- He seems to have feelings of guilt, those were also present before [[Talsen]] told about [[Musharib]]'s death
+- We all cheers to [[Musharib]]
