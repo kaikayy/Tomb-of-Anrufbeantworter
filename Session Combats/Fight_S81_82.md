@@ -276,5 +276,5 @@ Dodge/Ready:
 - [[Kadrin]] -
 - [[Delwyn's Mom]] -
 - [[Shago]] -
-- [[Talsen]] flees
+- [[Talsen]] flees, heals for 3 HP
 	- R: AoO, H, WIS SAV- FAIL
