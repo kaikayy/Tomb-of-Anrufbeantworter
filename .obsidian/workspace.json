@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c600503c2d1d3b88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Combats/Fight_S83.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "f9b529d9c6a9fe00",
             "type": "leaf",
             "state": {
@@ -30,17 +18,16 @@
                 "source": true
               }
             },
-            "group": "389674c3d67ca93a"
+            "group": "5eba0055d89e4028"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "38dd2139c4896a5a",
+        "id": "33d0a7502b03964f",
         "type": "tabs",
         "children": [
           {
-            "id": "bd16ee23872083d8",
+            "id": "da1f2a3357d37a00",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +37,7 @@
                 "source": true
               }
             },
-            "group": "389674c3d67ca93a"
+            "group": "5eba0055d89e4028"
           }
         ]
       }
@@ -208,6 +195,12 @@
   "lastOpenFiles": [
     "Nexalan.md",
     "Session Notes/Session 83.md",
+    "Session Notes/Watch_Vorlage.md",
+    "I'jin.md",
+    "I'janu.md",
+    "NPCs/Acererak.md",
+    "Prince Umbra.md",
+    "Items/Eye of Zaltec.md",
     "Session Combats/Fight_S83.md",
     "_Attachments/Battlemap_S83.png",
     "Session Combats/Fight_S81_82.md",
@@ -238,12 +231,6 @@
     "Locations/Kebab Kamadan.md",
     "Session Notes/Session 69.md",
     "NPCs/Ssaztehsi.md",
-    "Session Notes/Watch_Vorlage.md",
-    "NPCs/Tia.md",
-    "Session Combats/Fight_S80.md",
-    "Locations/Outpost.md",
-    "Locations/Refuse Pit.md",
-    "NPCs/Elok Jaharwon.md",
     "Z_Canvas/General.canvas",
     "Z_Canvas/Main Story.canvas",
     "desktop.ini",

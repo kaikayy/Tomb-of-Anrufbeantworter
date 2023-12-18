@@ -28,6 +28,32 @@ R2
 	- Two Tabaxi stand inside, noble clothing, one has a crown on his head
 	- The Vision is as if she was hiding under a cupboard
 	- The Tabaxi argue in [[Nexalan]]
-
-	- The Conversation is broken up by the Voice of [[Acererak]]
-- [[Shadow]] awakens inside her 
+	- Advisor: Prince Umbra, You have to calm down!
+	- [[Prince Umbra]]: Calm down? You want me to calm down, after my Father has been publicly killed and his body was stolen along with our most holy Relics? The Omuans have to pay for what they have done! 
+	- AD: I understand your anger my prince but we have heard ill tidings from our homeland. The other tribes are making their moves, you have to return Home to defend your throne. 
+	- PU: And how am I supposed to do that? Without the Eye of Zaltec, I don't have a claim to the throne, while the leaders of the other tribes still have their holy relics. 
+	- AD: But you are still your father's son! Please my prince, if not for the throne, return for the sake of your wife and children. We do not have enough troops or supplies to fight the Omuans, let alone their nine gods! 
+	- _A voice echoes through the room, as [[Acererak]] walks in_ 
+	- [[Acererak]]: Your advisor is right young Prince, you have neither the men nor power to take your revenge. But that is something I can provide... for a price. 
+	- PU: And why should I trust an undead abomination?
+	-  _Prince Umbra draws his blade and points it towards the Lich_ 
+	- AC: Because you cannot turst those who are giving you shelter right now. 
+	- _[[Acererak]] points towards [[I'janu]] and cause her tiny [[Almiraj]] body to fly into his hand where he chokes her_ 
+	- AD: Wait, I recegnise this almiraj. This is [[I'janu]] the daughter of [[I'jin]], we cannot harm her! 
+	- AC: The Omuans have been spying on you prince using their gods. They know of you intentions to take revenge. But they think you are too weak to act and so in their decadence they take their time to come up with the most entertaining way to get rid of you. Just like how they lured your father here for an "Alliance" only to kill him in front of the entire city. I guess they must have gotten bored of torturing the citizens of the other chultan cities. But you don't have to end up as another sacrifice for their little games. All you have to do is work with me. So what do you say future KING of [[Maztica]]? 
+	- _[[Acererak]] nudges his head towards [[I'janu]] who is still in his grasp. trying to find a way out_
+	- PU:... KILL IT! _[[Acererak]] begins to laugh and snaps [[I'janu]]'s neck with his boney fingers__
+- [[Shadow]] awakens inside her pocket dimension again. An [[Almiraj]], she can now identify as [[I'janu]], Daughter of [[I'jin]]
+	- History: 22
+		- Knows of the [[Eye of Zaltec]] from stories of her father, a fist sizes ruby that was the heritage of their family. It was given down from Tribe Leader to Tribe Leader in her family.
+	- Asks [[I'janu]] several questions with kind of confusion answers
+		- Insight: 16
+			- [[I'janu]]'s reaction conclude that she doesn't know everything [[Shadow]] is asking and communication seems difficult
+- ##### SHORT REST ([[Shadow]])
+- Rope Trick ends and they fall out of the pocket dimension
+- [[I'janu]] runs to a corner and seems to wait for [[Shadow]] to follow it
+	- She does so silently
+---
+[[Shago]], [[Delwyn]] & [[Talsen]] find themselves inside a walled compound. It smells of burned corpses and rot. There is a pile of charred bodies in a pagoda still smoking behind us.
+- [[Kadrin]] flies towards us, lands
+- 
