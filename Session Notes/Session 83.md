@@ -98,4 +98,33 @@ R2
 The Gargoyles look around the take to the air again after finding nothing, they circle the area once or twice, then leave.
 - [[Kadrin]] & [[Talsen]] meet outside, tell each other to be careful and signal if they get attacked
 ---
-Inside, [[Orvex Ocrammas]] tells [[Delwyn]] that the Gargoyles attack everything that is flying here
+Inside, [[Orvex Ocrammas]] tells [[Delwyn]] that the Gargoyles attack everything that is flying here, the [[Red Wizards of Thay]] also had a problem with them
+
+---
+As [[Kadrin]] flies up again he sees the Gargoyles flying away to the cliffside and new ones take flight.
+- He looks around for [[Shadow]] one last time
+	- Perception: 18
+		- Can't see any movement but the building we came from looks like a noble villa
+- comes back down and inside to [[Talsen]] and the others
+---
+Everyone hides again but the Gargoyles don't seem to know where we are
+- [[Talsen]] pulls [[Kadrin]] aside to talk about [[Orvex Ocrammas]]
+
+They go back to [[Orvex Ocrammas]]
+- [[Kadrin]] talks to him
+	- He is from [[Bezantur]]
+	- He is an Archeologist and the [[Red Wizards of Thay]] just hired him
+		- Insight: 6
+			- Hard to read
+- [[Talsen]] asks if he has any weapons
+	- Persuasion: 11
+		- He says he has a hand crossbow that he would've used it to shoot himself in the head if [[Yuan-Ti]] would've found him
+	- He has a Map of [[Omu]] with all of the Shrines marked on it
+	- He was here with the [[Red Wizards of Thay]] and some guys of the [[Hag'se Organization]]
+	- They were attacked by [[Yuan-Ti]] and the others were all killed
+- We discuss what to do with [[Orvex Ocrammas]] and offer to free him if he gives us his map
+- He accepts.
+
+We get [[Orvex Ocrammas]] out of the rubble
+- he can move his legs, kept only his research notes and the map
+- 
