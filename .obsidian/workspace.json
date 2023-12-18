@@ -8,31 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7de684dbbb9d945f",
+            "id": "c600503c2d1d3b88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S81_82.md",
-                "mode": "preview",
+                "file": "Session Notes/Session 83.md",
+                "mode": "source",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "90582d3734d4134c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Hugo.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
+            },
+            "group": "1c60551daa9c0517"
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "9fd84ee83dd97d6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfc47e88415dff64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 83.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "1c60551daa9c0517"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Hugo.md",
+                "file": "Session Notes/Session 83.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Hugo.md"
+                "file": "Session Notes/Session 83.md"
               }
             }
           },
@@ -133,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Hugo.md",
+                "file": "Session Notes/Session 83.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,9 +191,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "90582d3734d4134c",
+  "active": "c600503c2d1d3b88",
   "lastOpenFiles": [
     "Session Combats/Fight_S81_82.md",
+    "Session Notes/Session 83.md",
+    "Session Notes/Session 82.md",
+    "Session Notes/Session 81.md",
+    "Session Notes/Session 80.md",
+    "Session Notes/Session 79.md",
     "NPCs/Hugo.md",
     "README.md",
     "Plans.md",
@@ -196,19 +208,16 @@
     "_Official Conditions/Grappled.md",
     "_Attachments/HUGO.png",
     "_Attachments/F81_2.png",
-    "Session Notes/Session 81.md",
     "_Attachments/Hugo's Eye.png",
     "_Attachments/Hugo's Feet.png",
     "_Attachments/Hugo's Foot.png",
     "_Attachments/Ruined Villa.png",
-    "Session Notes/Session 82.md",
     "_Attachments/F81_Battlemap.png",
     "_Attachments/crocodile people.png",
     "Bestiary/Zorbo.md",
     "_Attachments/Zorbo.png",
     "Locations/Omu.md",
     "PCs/Delwyn.md",
-    "Session Notes/Session 80.md",
     "NPCs/Alji Wiggleback.md",
     "Locations/Kebab Kamadan.md",
     "Session Notes/Session 69.md",
@@ -220,7 +229,6 @@
     "_Attachments/Battlemap_S80.png",
     "Locations/Refuse Pit.md",
     "NPCs/Elok Jaharwon.md",
-    "Session Notes/Session 79.md",
     "Locations/Old City.md",
     "NPCs/Ymezra.md",
     "Z_Canvas/General.canvas",
