@@ -56,4 +56,46 @@ R2
 ---
 [[Shago]], [[Delwyn]] & [[Talsen]] find themselves inside a walled compound. It smells of burned corpses and rot. There is a pile of charred bodies in a pagoda still smoking behind us.
 - [[Kadrin]] flies towards us, lands
-- 
+- [[Talsen]] tells them that [[Musharib]] is dead
+- We go into a broken Building, we hear a voice asking us to get them out of the rubble
+	- [[Kadrin]], History: 15
+		- It does not seem to a Chultan Accent
+- [[Talsen]], Investigation: 13
+	- There seems to be a small hole inside the ceiling rubble
+	- Persuasion: 5
+- [[Kadrin]] uses Divine Sense
+	- Nothing immediate but the whole place lingers with sorrow and torment
+	- will float above here to look out for [[Shadow]]
+- [[Talsen]] shoves a Ration through the hole in the rubble
+	- Asks the Person Questions
+		- He is [[Orvex Ocrammas]], he is an archeologist
+		- he was hired by the [[Red Wizards of Thay]] to investigate the place
+		- he helped them find a way to the [[Tomb of Nine Gods]]
+		- He was born in [[Thay]] and they paid him to study Chultan Archeology here
+		- He is not really fond of the [[Red Wizards of Thay]]
+			- Insight: 1
+		- he is on [[Chult]] for about a month and a half, the [[Red Wizards of Thay]] teleported him here from the [[Heart of Ubtao]]
+		- He will help us find the [[Tomb of Nine Gods]] if we help him out of there
+	- [[Talsen]] gives [[Orvex Ocrammas]] a Waterskin
+---
+[[Kadrin]] looks out for [[Shadow]]
+- Perception: 9
+	- Can't see much
+	- circles around for a few minutes to look out for any dangers or [[Shadow]]
+	- sees three creatures flying towards him, fast, they are holding a net
+	- lands on the ground and hides around a corner
+		- Stealth: 11
+	- Sees the three creatures land
+	- ![[devourer gargoyle.png]]
+---
+[[Talsen]] tells everyone to be quiet and looks out the door
+- Stealth: 15
+- [[Delwyn]] hides
+	- Stealth: 15
+- [[Shago]] hides
+	- Stealth: 15
+---
+The Gargoyles look around the take to the air again after finding nothing, they circle the area once or twice, then leave.
+- [[Kadrin]] & [[Talsen]] meet outside, tell each other to be careful and signal if they get attacked
+---
+Inside, [[Orvex Ocrammas]] tells [[Delwyn]] that the Gargoyles attack everything that is flying here
