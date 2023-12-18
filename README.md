@@ -1,282 +1,151 @@
-# Last Session: Fight_S81_82
+# Last Session: 83
 
-Session Link:
-Session 81
-Battlemap:
-!F81_Battlemap.png
-!Ruined Villa.png
-!F81_2.png
+Recap - Kadrin
 
-Enemies:
-Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
-~~Crocadilian Snapjaw - CS~~
-~~Crocadilian Scavager - CSC~~
-~~Crocadilian Shaman - CSH~~
-~~Crocodile a,x - Ca,x~~
-~~Zhentarim Thug - ZT~~
-Blackdigger Cutthroat - BC
-~~Blackdigger Smasher - BS~~
-~~Allosaurus - A (summoned)~~
-Hugo - H
-Swarm of Bees - SoB (Summoned)
+## CHASE
 
-!crocodile people.png
+R1
+- Talsen runs through an Archway and tries to tear it down to block Hugo's way
+	- Athletics: 24 - SUCCESS
+- Kadrin casts Major Image to summon an Image of Tzindelor
+	- Deception: 7 - FAIL
+- Shago (Kata) tries to lure Hugo away from the Others
+	- Deception: Nat.1 (3) - FAIL
+- Delwyn casts Darkness to blind Hugo
+	- Stealth: 10 - SUCCESS
 
-Initiative:
-Talsen - 13
-Kadrin - 14
-Shadow - 24
-Delwyn - Nat.20 (23)
-Shago - 13
-Musharib - 16
-Delwyn's Mom - 14
+R2
+- Talsen tries to hide inside foliage
+	- Nature: 22 - SUCCESS
+- Kadrin casts Speak with Animals to intimidate Hugo
+	- Intimidation: 13 - FAIL
+
+### Fight_S83
+
+- Kadrin waits for half a minute, Hugo is nowhere to be seen, he flies back to the rest of the party
+---
+Shadow sits inside her Pocket Dimension, it looks like you are inside a giant ball of rope
+- Shadow's consciousness fades and she begins to dream
+	- She sees the room wer where fighting Hugo in before but in all of its original glory.
+	- Two Tabaxi stand inside, noble clothing, one has a crown on his head
+	- The Vision is as if she was hiding under a cupboard
+	- The Tabaxi argue in Nexalan
+	- Advisor: Prince Umbra, You have to calm down!
+	- Prince Umbra: Calm down? You want me to calm down, after my Father has been publicly killed and his body was stolen along with our most holy Relics? The Omuans have to pay for what they have done! 
+	- AD: I understand your anger my prince but we have heard ill tidings from our homeland. The other tribes are making their moves, you have to return Home to defend your throne. 
+	- PU: And how am I supposed to do that? Without the Eye of Zaltec, I don't have a claim to the throne, while the leaders of the other tribes still have their holy relics. 
+	- AD: But you are still your father's son! Please my prince, if not for the throne, return for the sake of your wife and children. We do not have enough troops or supplies to fight the Omuans, let alone their nine gods! 
+	- _A voice echoes through the room, as Acererak walks in_ 
+	- Acererak: Your advisor is right young Prince, you have neither the men nor power to take your revenge. But that is something I can provide... for a price. 
+	- PU: And why should I trust an undead abomination?
+	-  _Prince Umbra draws his blade and points it towards the Lich_ 
+	- AC: Because you cannot turst those who are giving you shelter right now. 
+	- _Acererak points towards I'janu and cause her tiny Almiraj body to fly into his hand where he chokes her_ 
+	- AD: Wait, I recegnise this almiraj. This is I'janu the daughter of I'jin, we cannot harm her! 
+	- AC: The Omuans have been spying on you prince using their gods. They know of you intentions to take revenge. But they think you are too weak to act and so in their decadence they take their time to come up with the most entertaining way to get rid of you. Just like how they lured your father here for an "Alliance" only to kill him in front of the entire city. I guess they must have gotten bored of torturing the citizens of the other chultan cities. But you don't have to end up as another sacrifice for their little games. All you have to do is work with me. So what do you say future KING of Maztica? 
+	- _Acererak nudges his head towards I'janu who is still in his grasp. trying to find a way out_
+	- PU:... KILL IT! _Acererak begins to laugh and snaps I'janu's neck with his boney fingers__
+- Shadow awakens inside her pocket dimension again. An Almiraj, she can now identify as I'janu, Daughter of I'jin
+	- History: 22
+		- Knows of the Eye of Zaltec from stories of her father, a fist sizes ruby that was the heritage of their family. It was given down from Tribe Leader to Tribe Leader in her family.
+	- Asks I'janu several questions with kind of confusion answers
+		- Insight: 16
+			- I'janu's reaction conclude that she doesn't know everything Shadow is asking and communication seems difficult
+- ##### SHORT REST (Shadow)
+- Rope Trick ends and they fall out of the pocket dimension
+- I'janu runs to a corner and seems to wait for Shadow to follow it
+	- She does so silently
+---
+Shago, Delwyn & Talsen find themselves inside a walled compound. It smells of burned corpses and rot. There is a pile of charred bodies in a pagoda still smoking behind us.
+- Kadrin flies towards us, lands
+- Talsen tells them that Musharib is dead
+- We go into a broken Building, we hear a voice asking us to get them out of the rubble
+	- Kadrin, History: 15
+		- It does not seem to a Chultan Accent
+- Talsen, Investigation: 13
+	- There seems to be a small hole inside the ceiling rubble
+	- Persuasion: 5
+- Kadrin uses Divine Sense
+	- Nothing immediate but the whole place lingers with sorrow and torment
+	- will float above here to look out for Shadow
+- Talsen shoves a Ration through the hole in the rubble
+	- Asks the Person Questions
+		- He is Orvex Ocrammas, he is an archeologist
+		- he was hired by the Red Wizards of Thay to investigate the place
+		- he helped them find a way to the Tomb of Nine Gods
+		- He was born in Thay and they paid him to study Chultan Archeology here
+		- He is not really fond of the Red Wizards of Thay
+			- Insight: 1
+		- he is on Chult for about a month and a half, the Red Wizards of Thay teleported him here from the Heart of Ubtao
+		- He will help us find the Tomb of Nine Gods if we help him out of there
+	- Talsen gives Orvex Ocrammas a Waterskin
+---
+Kadrin looks out for Shadow
+- Perception: 9
+	- Can't see much
+	- circles around for a few minutes to look out for any dangers or Shadow
+	- sees three creatures flying towards him, fast, they are holding a net
+	- lands on the ground and hides around a corner
+		- Stealth: 11
+	- Sees the three creatures land
+	- !devourer gargoyle.png
+---
+Talsen tells everyone to be quiet and looks out the door
+- Stealth: 15
+- Delwyn hides
+	- Stealth: 15
+- Shago hides
+	- Stealth: 15
+---
+The Gargoyles look around the take to the air again after finding nothing, they circle the area once or twice, then leave.
+- Kadrin & Talsen meet outside, tell each other to be careful and signal if they get attacked
+---
+Inside, Orvex Ocrammas tells Delwyn that the Gargoyles attack everything that is flying here, the Red Wizards of Thay also had a problem with them
 
 ---
-Conditions:
-Shadow:
-- Concentration
-
-Talsen:
-- 
-
-Delwyn:
-- 
-
-Kadrin:
-- 
-
-Shago: 
-- 
-
-Musharib:
-- Unconscious
-
-Enemies:
-- Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
-- R1 - All Enemies - Surprised
-- BC - Unconscious (Stable)
+As Kadrin flies up again he sees the Gargoyles flying away to the cliffside and new ones take flight.
+- He looks around for Shadow one last time
+	- Perception: 18
+		- Can't see any movement but the building we came from looks like a noble villa
+- comes back down and inside to Talsen and the others
 ---
-Dodge/Ready:
+Everyone hides again but the Gargoyles don't seem to know where we are
+- Talsen pulls Kadrin aside to talk about Orvex Ocrammas
 
+They go back to Orvex Ocrammas
+- Kadrin talks to him
+	- He is from Bezantur
+	- He is an Archeologist and the Red Wizards of Thay just hired him
+		- Insight: 6
+			- Hard to read
+- Talsen asks if he has any weapons
+	- Persuasion: 11
+		- He says he has a hand crossbow that he would've used it to shoot himself in the head if Yuan-Ti would've found him
+	- He has a Map of Omu with all of the Shrines marked on it
+	- He was here with the Red Wizards of Thay and some guys of the Hag'se Organization
+	- They were attacked by Yuan-Ti and the others were all killed
+- We discuss what to do with Orvex Ocrammas and offer to free him if he gives us his map
+- He accepts.
 
----
-**Round 1**
-- Shadow casts Hunter's Mark on BS, attacks
-	- SHARPSHOOTER, 25 to hit, 23 DMG
-	- SHARPSHOOTER, 18 to hit, 22 DMG
-	- SHARPSHOOTER, Nat.20 (26) to hit, 47 DMG
-- Delwyn casts Fireball on Ca, Cb, CSC, CS, CSH
-	- DEX SAV: FAIL, FAIL, FAIL, FAIL, FAIL
-		- 26 Fire DMG
-- CSH is no longer surprised
-- Ca,b are no longer surprised
-- Musharib dodges
-- Kadrin attacks CS
-	- 25 to hit, 12 DMG
-	- 21 to hit, 15 DMG
-	- casts Compel Duell on CSC
-		- WIS SAV: 20 - SAVE
-- Shago attacks CS
-	- 21 to hit, 15 DMG
-	- 19 to hit, 14 DMG
-- Talsen activates his rite (Flame), attacks CSC
-	- 26 to hit, 15 DMG
-		- Insight: 13 - CSC seems to be the master of the C
-	- 20 to hit, 20 DMG
-		- WIS SAV: 15 - SAVE
-- CSC is no longer surprised
-- CS is no longer surprised
-- BC is no longer surprised
-- BS is no longer surprised
-- ZT is no longer surprised
+We get Orvex Ocrammas out of the rubble
+- he can move his legs, kept only his research notes and the map
+- we talk to him over survival in the jungle and live on Chult
+	- Kadrin, Insight: 5, INSPIRATION (Talsen), 2
+		- He is really beat up and exhausted
+- Kadrin asks him if he would work for the Red Wizards of Thay again if he was to be living safe in Port Nyanzaru
+	- He says he would certainly not, they are pricks
+- Talsen gives him 9 Rations, a description on how to get to Port Nyanzaru, a depiction of the address to the Webway of Ubtao, 5 Torches, Tinderbox, Light Hammer, 2 Waterskins filled with Water, 1 Waterskin half filled with Tej
+	- He knows us as, Baaken, Bustin, Bolwin and, Bhago
 
-**Round 2**
-- _We sense giant footsteps vibrating the ground_
-- Shadow attacks BS
-	- SHARPSHOOTER, 20 to hit, 24 DMG
-		- BS is Dead
-	- shifts Hunter's Mark to CS, attacks
-		- 25 to hit, 23 DMG
-			- CS is Dead
-- Delwyn casts Mage Armor
-- CSH casts 
-	- Kadrin, Arcana: 7 - no clue
-	- summons A
-- A attacks Kadrin
-	- 15 to hit, miss
-- Ca attacks Talsen
-	- 6 to hit, miss
-- Cb attacks Talsen
-	- 20 to hit, miss
-- Musharib dodges
-- Kadrin talks to BC
-	- Persuasion: 15
-		- BC seems unsure
-- Shago attacks A
-	- 12 to hit, miss
-	- 16 to hit, 7 DMG
-- Talsen attacks CSC
-	- 28 to hit, 16 DMG
-		- Uses Hemokinesis on BC
-			- CON SAV: 5 - FAIL
-			- He is pushed 5ft away
-	- Nat.20 (30) to hit, 21 DM
-	- moves to CSH
-		- R: AoO, Ca, 20 to hit, miss
-		- R. AoO, Cb, Nat.1 to hit, miss
-- CSC attacks Talsen
-	- 22 to hit, 11 DMG
-	- 23 to hit, 13 DMG
-	- 19 to hit, miss
-- BC drops his weapons and surrenders
-- ZT dashes out of the door to the other side
-	- ZT is Dead
+We leave him to stay there and rest, hopefully we see him again in Port Nyanzaru.
+We go out of the house and see Shadow going into the walled compound.
+- Shadow goes into the house and doesn't see an Almiraj anymore
+- Talsen pulls Shadow out of the house and looks at her wounds
+	- he suggests to take a breather behind the wall
 
-**Round 3**
-- _The Footsteps grow closer and faster, we see a gush of fog (like Misty Step) and a giant creature chomps on ZT and breaks down the wall_
-- !Hugo's Foot.png
-- !Hugo's Feet.png
-- _CSH falls with his back to the wall, holds his finger over his mouth and drops his Concentration_
-- _BC asks us to be VERY quiet_
-- Shadow readies an Action to attack anyone who attacks Kadrin
-- Delwyn readies Magic Missile on Cb if it attacks the party OR if Cb flees behind a wall
-- CSH gestures to be quiet, sneaks and dashes
-- Ca,b back off
-- Musharib dodges and goes towards the wall to Shadow
-- Kadrin tries to grapple CSH with Divine Custody
-	- CHA: 16 vs. 12
-		- CSH is Grappled
-	- Sleight of Hand: 12
-		- The Chains don't make "too much" noise
-- _H looks into the room_
-	- !Hugo's Eye.png
-- Shago goes to a wall and dodges
-- Talsen attacks CSC
-	- 14 to hit, miss
-		- Sleight of Hand: 10
-	- 17 to hit, 22 DMG
-		- Sleight of Hand: 20
-		- CSC is Dead
-- LA: H _Hugo Misty steps INTO the room breaking down several walls, the building starts to crumble_
-	- DEX SAV:
-		- Shadow: 23 - 7 DMG
-			- Conc. SAV: 17
-		- Kadrin: 7, INSPIRATION, 7 - 15 DMG
-		- Delwyn: Nat.20 (24) - 7 DMG
-		- Musharib: 16 - 7 DMG
-			- Conc. SAV: 12
-		- Shago: 24 - 7 DMG
-		- Talsen: 18 - 7 DMG
-		- CSH - 15 DMG
-		- Ca - 7 DMG
-		- Cb is buried under rubble, is Dead
-		- BC - 7 DMG
-	- _The whole Battlefield is now difficult Terrain_
-- BC starts running away
-	- R: AoO, Musharib, 6 to hit, miss
-- H attacks CSH
-	- Nat.20 to hit
-		- CSH is Dead
-		- Kadrin dismisses hi grapple
-	- attacks Ca
-		- Ca is Dead
-
-**Round 4**
-- Shadow shifts Hunter's Mark on BC, attacks
-	- SHARPSHOOTER, 17 to hit, 22 DMG
-	- SHARPSHOOTER, 22 to hit, 25 DMG
-		- moves in front of BC
-- Delwyn casts Sickening Radiance on H
-	- CON SAV - FAIL - LR (Legendary Resistance)
-	- Runs away and jumps through a Window outside
-	- Uses Hound of Ill Omen (Delwyn's Mom) on H
-- Musharib dashes towards Delwyn
-	- R: AoO, BC, 22 to hit, 3 DMG, Conc. SAV: 8, drops Concentration
-- LA: H casts Misty Step towards Musharib
-- Kadrin tries to speak to H in Celestial, H doesn't react
-	- goes to Shago, uses the Cape to cast Dimension Door
-		- teleports with Shago 100ft. away into bushes
-- Delwyn's Mom attacks H
-	- 15 to hit, miss
-- Shago dodges
-- Talsen dashes to H, uses Reconstruction Mutagen, taunts H
-- BC runs away
-	- R: AoO, Shadow, 17 to hit, 10 DMG
-	- R: AoO, Talsen, 21 to hit, 21 DMG, NON LETHAL
-		- BC is Unconscious but Stable
-- H attacks Talsen
-	- 28 to hit, 35 DMG
-		- STR SAV: Nat.20 (26)
-	- attacks Musharib
-		- 19 to hit, 23 DMG
-	- uses Bellowing Roar on Delwyn
-		- summons SoB
-
-**Round 5**
-- Shadow shifts Hunter's Mark on H, runs away
-	-  R: AoO, H, Nat.20 to hit, 66 DMG, STR SAV: 19
-		- Shadow goes to 1 HP and gains "Organ Damage"
-	- dashes further away
-		- CON SAV: 21 - SAVE
-- Delwyn uses Dagger of Despair on H
-	- 14 to hit, miss
-	- flees
-		- R: AoO, SoB, 21 to hit, SHIELD, miss
-		- drops Concentration
-- Musharib dashes away
-- Kadrin dashes towards the battlefield
-- Delwyn's Mom attacks H
-	- 17 to hit, miss
-- Shago dashes towards the battlefield
-- BoS dash towards Musharib
-- Talsen uses Strange Metabolism, dashes away
-- H attacks Delwyn's Mom
-	- 28 to hit, 25 DMG
-		- STR SAV: 9 - FAIL
-			- Delwyn's Mom is Grappled
-	- swallows Delwyn's Mom
-		- DEX SAV: 13 - FAIL
-	- uses Misty Step, goes to Musharib
-
-**Round 6**
-- Shadow casts Rope Trick
-	- CON SAV: 18 - SAVE
-- Delwyn is out of Combat
-- Musharib flees
-	- R: AoO, SoB, 19 to hit, 8 DMG
-		- R: Attack on SoB, Spear, 12 to hit, 10 Force DMG
-	- R: AoO, H, 29 to hit, -1, 28 to hit, 48 DMG
-		- R: Bloodcurse of the Eyeless
-		- Musharib is Unconscious
-			- STR SAV: Auto FAIL
-- Kadrin casts Sanctuary on Talsen
-	- flees
-- Delwyn's Mom takes 10 Acid DMG, attacks
-	- 11 to hit, miss
-- SoB attacks Talsen
-	- WIS SAV: 14 - FAIL
-- Shago flees
-- Talsen uses Hemokinesis to move H
-	- CON SAV: Nat.1 - FAIL
-		- Musharib is no longer grappled and drops 20ft.
-			- loses 1 Death Save
-	- grabs Musharib off of the ground and runs away with him
-		- R: AoO, SoB, WIS SAV: 15 - FAIL
-- H runs after Talsen, attacks Musharib
-	- R: Bloodcurse of the Eyeless
-	- 31 to hit, -4, 27 to hit, Musharib looses two Death Saves
-		- Musharib is Dead
-		- R: Attack on H, Spear, 25 to hit, 9 Force DMG
-	- attacks Talsen
-		- WIS SAV: Nat.1 - FAIL
-	- swallows Musharib
-
-**Round 7**
-- Shadow -
-- Delwyn -
-- Musharib -
-- Kadrin -
-- Delwyn's Mom -
-- Shago -
-- Talsen flees
-	- R: AoO, H, WIS SAV- FAIL
+We all make our way behind that wall and talk a bit
+- Talsen pours a pint of ale for everyone to honor Musharib
+- Shadow looks at Kadrin who is deeply lost in thought
+	- Insight: 19
+		- He seems to have feelings of guilt, those were also present before Talsen told about Musharib's death
+- We all cheers to Musharib
