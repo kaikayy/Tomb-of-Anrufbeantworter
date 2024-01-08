@@ -42,7 +42,7 @@ R2
 	- AD: Wait, I recegnise this almiraj. This is [[I'janu]] the daughter of [[I'jin]], we cannot harm her! 
 	- AC: The Omuans have been spying on you prince using their gods. They know of you intentions to take revenge. But they think you are too weak to act and so in their decadence they take their time to come up with the most entertaining way to get rid of you. Just like how they lured your father here for an "Alliance" only to kill him in front of the entire city. I guess they must have gotten bored of torturing the citizens of the other chultan cities. But you don't have to end up as another sacrifice for their little games. All you have to do is work with me. So what do you say future KING of [[Maztica]]? 
 	- _[[Acererak]] nudges his head towards [[I'janu]] who is still in his grasp. trying to find a way out_
-	- PU:... KILL IT! _[[Acererak]] begins to laugh and snaps [[I'janu]]'s neck with his boney fingers__
+	- PU:... KILL IT! _[[Acererak]] begins to laugh and snaps [[I'janu]]'s neck with his boney fingers_
 - [[Shadow]] awakens inside her pocket dimension again. An [[Almiraj]], she can now identify as [[I'janu]], Daughter of [[I'jin]]
 	- History: 22
 		- Knows of the [[Eye of Zaltec]] from stories of her father, a fist sizes ruby that was the heritage of their family. It was given down from Tribe Leader to Tribe Leader in her family.

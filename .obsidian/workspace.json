@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5a41bf8ea8358d03",
+        "id": "a6185d086699ae3a",
         "type": "tabs",
         "children": [
           {
-            "id": "f9b529d9c6a9fe00",
+            "id": "8f6fa8aebd1d1da4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 83.md",
+                "file": "Session Notes/Session 84.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "5eba0055d89e4028"
+            "group": "c5d0c82ea124ef11"
           }
         ]
       },
@@ -26,6 +26,19 @@
         "id": "33d0a7502b03964f",
         "type": "tabs",
         "children": [
+          {
+            "id": "4dcebc840b42b2f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 84.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "c5d0c82ea124ef11"
+          },
           {
             "id": "da1f2a3357d37a00",
             "type": "leaf",
@@ -36,10 +49,10 @@
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "5eba0055d89e4028"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 83.md",
+                "file": "Session Notes/Session 84.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 83.md"
+                "file": "Session Notes/Session 84.md"
               }
             }
           },
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 83.md",
+                "file": "Session Notes/Session 84.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +184,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -191,18 +206,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f9b529d9c6a9fe00",
+  "active": "8f6fa8aebd1d1da4",
   "lastOpenFiles": [
-    "README.md",
+    "Session Notes/Watch_Vorlage.md",
+    "Session Notes/Session 84.md",
     "Session Notes/Session 83.md",
-    "Items/Tej.md",
     "Orvex Ocrammas.md",
+    "README.md",
+    "Items/Tej.md",
     "_Attachments/Orvex Ocrammas.png",
     "Bezantur.md",
     "_Attachments/devourer gargoyle.png",
     "Tomb of Nine Gods.md",
     "Nexalan.md",
-    "Session Notes/Watch_Vorlage.md",
     "I'jin.md",
     "I'janu.md",
     "NPCs/Acererak.md",
@@ -230,7 +246,6 @@
     "_Attachments/F81_Battlemap.png",
     "Bestiary/Zorbo.md",
     "Locations/Omu.md",
-    "PCs/Delwyn.md",
     "Z_Canvas/General.canvas",
     "Z_Canvas/Main Story.canvas",
     "desktop.ini",
