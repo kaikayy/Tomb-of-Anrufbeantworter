@@ -88,28 +88,12 @@ Dodge/Ready:
 	- STR SAV: 14 - FAIL
 	- 12 to hit, miss
 		- R: [[Kadrin]], SENTINEL, 26 to hit, SMITE, 22 DMG
-	- waddles away, tries to 
+	- waddles away, tries to flee
 		- R: [[Talsen]], AoO, 27 to hit, 7 DMG
 - [[Delwyn]], DEATH SAVE (19)
-- [[Kadrin]] 
-- [[Talsen]]
-
-**Round 4**
-- asd
-
-**Round 5**
-- asd
-
-**Round 6**
-asd
-asd
-asd
-**Round 7**
-asd
-asd
-asd
-**Round 8**
-asd
-asd
-asd
-**Round 9**
+- [[Kadrin]] follows FH, attacks
+	- 20 to hit, 10 DMG
+		- FH is [[Dead]]
+- [[Talsen]] goes to [[Delwyn]] and instills a Potion of Healing
+	- 8 HP
+	- [[Delwyn]] is no longer [[Unconscious]]

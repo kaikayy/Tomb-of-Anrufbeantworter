@@ -19,7 +19,7 @@ Recap - [[Kadrin]]
 - No one in the party knows the name
 - [[Delwyn]], History: 18
 	- Knows that the building was built for a deity that is kind of frog like or related to frogs
-- [[Talsen]] knows it was built by the Omuen (Human and Minotaurs)
+- [[Talsen]] knows it was built by the [[Omuen]] (Human and Minotaurs)
 - [[Kadrin]] uses Divine Sense
 	- Nothing
 
@@ -35,3 +35,25 @@ _A rectangular pool of murky water stretches before this vine-draped shrine. Rop
 	- A tongue jumps out of the water and grabs [[Delwyn]] to pull him in
 	- STR SAV: 8
 - ### [[Fight_S84]]
+- [[Kadrin]] takes [[Nankore, Spear of Lost Love]] back to [[Talsen]]
+- [[Shadow]] goes to check out the tongue of the frog
+	- There is a small stone key on it, she picks it up
+- There is a carving above the door in Old [[Omuen]]
+	- _“Kubazan urges us to tread without fear and to give back as much as we take.”_
+- [[Talsen]] checks the door for Traps
+	- Investigation: 13
+		- no traps
+- [[Shadow]] uses the key to open the door
+
+_Steps descend to a ledge overlooking a pit of sharpened stakes. An alcove on the far wall holds a pedestal with a stone cube resting on it. A relief carved into the back of the alcove shows a monstrous frog with tentacles fighting a crane. Wooden beams radiate from the walls at floor height, with four-foot gaps between them. Carved frog heads extrude from the walls above the beams._
+- [[Talsen]] jumps across the spike pit towards the cube on the pedestal
+- [[Shadow]] looks at the wooden beams
+	- Perception: 22 
+		- They seem solid enough
+	- Hops across, 
+		- Acrobatics: 20
+		- Acrobatics: 26
+		- Acrobatics: 17
+		- Acrobatics: 19
+	- As she lands on the second beam, the first one retracts into the wall, as does the second one after that, the others she landed on follow
+- 
