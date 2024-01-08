@@ -13,31 +13,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 84.md",
+                "file": "Session Combats/Fight_S84.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "c5d0c82ea124ef11"
+            }
           }
         ]
       },
       {
-        "id": "33d0a7502b03964f",
+        "id": "6b527069cb581b8f",
         "type": "tabs",
         "children": [
           {
-            "id": "4dcebc840b42b2f6",
+            "id": "9980176cec9e36ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 84.md",
-                "mode": "preview",
+                "file": "Session Combats/Fight_S84.md",
+                "mode": "source",
                 "source": true
               }
-            },
-            "group": "c5d0c82ea124ef11"
+            }
+          },
+          {
+            "id": "99afb4998821cf92",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_Attachments/Froghemoth.png"
+              }
+            }
           }
         ]
       }
@@ -105,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 84.md",
+                "file": "Session Combats/Fight_S84.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 84.md"
+                "file": "Session Combats/Fight_S84.md"
               }
             }
           },
@@ -140,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 84.md",
+                "file": "Session Combats/Fight_S84.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,11 +201,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8f6fa8aebd1d1da4",
+  "active": "9980176cec9e36ee",
   "lastOpenFiles": [
+    "Froghemoth.md",
+    "Session Combats/Fight_S84.md",
+    "_Attachments/Froghemoth.png",
+    "Session Notes/Session 84.md",
     "Kubazan’s Shrine.md",
     "_Attachments/Kubazan’s Shrine.png",
-    "Session Notes/Session 84.md",
     "Tomb of Nine Gods.md",
     "NPCs/Lathender.md",
     "NPCs/Aratiel.md",
@@ -223,7 +234,6 @@
     "Session Notes/Session 80.md",
     "Session Notes/Session 79.md",
     "NPCs/Hugo.md",
-    "Plans.md",
     "Z_Canvas/Plans.canvas",
     "Z_Canvas/Current Planning.canvas",
     "_Attachments/HUGO.png",
@@ -231,7 +241,6 @@
     "_Attachments/Hugo's Eye.png",
     "_Attachments/Hugo's Feet.png",
     "_Attachments/Hugo's Foot.png",
-    "_Attachments/Ruined Villa.png",
     "Z_Canvas/General.canvas",
     "Z_Canvas/Main Story.canvas",
     "desktop.ini",
