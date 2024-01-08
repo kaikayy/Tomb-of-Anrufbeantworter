@@ -9,3 +9,4 @@ usually build a burrow
 they can climb and ambush from trees
 
 ![[Kamadan.png]]
+![[Kamadan_Real.png]]

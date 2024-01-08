@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 84.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 84.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 84.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 84.md"
+                "file": "README.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 84.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,8 +195,13 @@
   },
   "active": "8f6fa8aebd1d1da4",
   "lastOpenFiles": [
-    "Shagambi’s Shrine.md",
     "Session Notes/Session 84.md",
+    "_Attachments/Inside the Shrine of Shagambi.png",
+    "Bestiary/Kamadan.md",
+    "_Attachments/Kamadan_Real.png",
+    "Shagambi’s Shrine.md",
+    "_Attachments/Shagambi’s Shrine.png",
+    "Session Notes/Watch_Vorlage.md",
     "Puzzle Cube of Kubazan.md",
     "Glossary/Omuen.md",
     "Session Combats/Fight_S84.md",
@@ -207,7 +212,6 @@
     "Tomb of Nine Gods.md",
     "NPCs/Lathender.md",
     "NPCs/Aratiel.md",
-    "Session Notes/Watch_Vorlage.md",
     "Session Notes/Session 83.md",
     "Orvex Ocrammas.md",
     "README.md",
@@ -224,15 +228,10 @@
     "Session Combats/Fight_S83.md",
     "_Attachments/Battlemap_S83.png",
     "Session Combats/Fight_S81_82.md",
-    "Session Notes/Session 82.md",
-    "Session Notes/Session 81.md",
     "Z_Canvas/Plans.canvas",
     "Z_Canvas/Current Planning.canvas",
     "_Attachments/HUGO.png",
     "_Attachments/F81_2.png",
-    "_Attachments/Hugo's Eye.png",
-    "_Attachments/Hugo's Feet.png",
-    "_Attachments/Hugo's Foot.png",
     "Z_Canvas/General.canvas",
     "Z_Canvas/Main Story.canvas",
     "desktop.ini",

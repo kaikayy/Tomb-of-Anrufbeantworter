@@ -76,10 +76,37 @@ We discuss where to go next and how safe it is to do with [[Delwyn]]
 We designate [[Kubazan’s Shrine]] as our spot to regroup if we lose each other
 
 We decide on [[Shagambi’s Shrine]] to be our next destination
-- We move towards the location quietly
+- We move towards the location quietly and attentively
 	- Stealth:
 		- [[Kadrin]]: 17
 		- [[Talsen]]: 17
 		- [[Shadow]]: 21
-		- [[Shago]]: 
+		- [[Shago]]: 19
 		- [[Delwyn]]: 18
+			- ⌀: 18,4
+	- Perception:
+		- [[Shadow]]:  Nat.20 (26)
+			- Hears [[Hugo]] roar far away
+		- [[Delwyn]]: 16
+
+We arrive at [[Shagambi’s Shrine]]
+- We see two adult [[Kamadan]] prowling around a destroyed cart guarding their three young
+- We sneak around the domed building to the other side
+- _A ruined shrine stands at the heart of this walled compound. Tall monoliths flank the entrance, decorated with images of a jaguar with six snakes sprouting from its shoulders. A stone door is set into the shrine beyond._
+- We move towards the door
+- [[Talsen]] checks the door for Traps
+	- Investigation: 24
+		- The Stone doors do not appear to be trapped
+- There are carvings in the monolith depicting a [[Kamadan]] protecting Chultan Fighters training
+	- The Text reads _"Shagambi teaches us to fight evil with honor.”_
+- [[Shadow]] tries to open the door, but isn't strong enough
+	- [[Kadrin]] joins in to try
+		- Sleight of Hand:
+			- [[Shadow]]: 18
+			- [[Kadrin]]: 7
+				- The Door still makes a sound while being opened
+	- As the door opens, there is silence, we seems to have avoided the [[Kamadan]]'s attention
+
+We go inside the Shrine
+- _Steps descend into a fifteen-foot-high, moss-covered room. Four statues of Omuan warriors stand in alcoves to either side, overlooking a barred gladiatorial pit in the floor. Each statue looks like it was meant to hold a spear, but its weapon is missing. On the far side of the chamber, a stone pedestal stands conspicuously bare. A relief on the wall behind it shows a monstrous jaguar with six snakes protruding from its shoulders, fighting off a squat, frog-like humanoid armed with a spear. To the left of the relief is a narrow tunnel with stairs leading down._
+- ![[Inside the Shrine of Shagambi.png]]
