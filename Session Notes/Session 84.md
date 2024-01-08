@@ -56,4 +56,30 @@ _Steps descend to a ledge overlooking a pit of sharpened stakes. An alcove on th
 		- Acrobatics: 17
 		- Acrobatics: 19
 	- As she lands on the second beam, the first one retracts into the wall, as does the second one after that, the others she landed on follow
-- 
+- [[Talsen]] takes a look at the cube without touching it
+	- 3in. cube with a depiction of the [[Froghemoth]] on all sides
+	- History: 20
+		- Knows that traps like these are usually triggered by weight
+	- Investigation: 22
+		- The Cube weighs about 0,5 lb.
+- [[Kadrin]] & [[Shago]] stand ready at the door to hold it open
+- [[Shadow]] gives [[Talsen]] 4 Darts and jumps back towards the door
+	- Acrobatics: 15
+	- Acrobatics: Nat.20 (28)
+	- Acrobatics: 25
+	- Acrobatics: 20
+- [[Talsen]] switches the cube with 2 Darts, runs and jumps
+	- Gets out safely with the [[Puzzle Cube of Kubazan]]
+- [[Kadrin]] heals [[Delwyn]] for 5 HP with Lay on Hands
+
+We discuss where to go next and how safe it is to do with [[Delwyn]]
+We designate [[Kubazan’s Shrine]] as our spot to regroup if we lose each other
+
+We decide on [[Shagambi’s Shrine]] to be our next destination
+- We move towards the location quietly
+	- Stealth:
+		- [[Kadrin]]: 17
+		- [[Talsen]]: 17
+		- [[Shadow]]: 21
+		- [[Shago]]: 
+		- [[Delwyn]]: 18
