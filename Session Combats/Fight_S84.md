@@ -25,7 +25,7 @@ Conditions:
 - 
 
 [[Delwyn]]:
-- [[Prone]]
+- [[Unconscious]]
 
 [[Kadrin]]:
 - 
@@ -62,17 +62,36 @@ Dodge/Ready:
 - FH attacks [[Delwyn]]
 	- R: [[Talsen]], Bloodcurse of the Eyeless, Amp., 2 Necrotic DMG
 	- 21 to hit, -3, 18 to hit, SHIELD, miss
-	- 25 to hit, -2, 23 to hit, 
-- [[Delwyn]]
-- [[Kadrin]]
-- [[Talsen]]
+	- 25 to hit, -2, 23 to hit, 18 DMG
+		- Strength of the Grave, CHA SAV: 20 - FAIL
+			- [[Delwyn]] is [[Unconscious]], [[Grappled]]
+- [[Delwyn]], DEATH SAVE (14)
+- [[Kadrin]] casts Misty Step to teleport onto FH, attacks the Tentacle that grapples [[Delwyn]]
+	- 19 to hit, 10 DMG
+	- 27 to hit, 10 DMG
+		- The tentacle drops [[Delwyn]]
+	- Jumps down
+		- Athletics: 9
+		- Lands in the Water
+- [[Talsen]] freezes [[Nankore, Spear of Lost Love]]
+	- attacks FH
+	- 21 to hit, 16 DMG
 
 **Round 3**
-- [[Shago]]
-- [[Shadow]]
-- FH
-- [[Delwyn]]
-- [[Kadrin]]
+- [[Shago]] pulls [[Delwyn]] out of the water, attacks FH
+	- 22 to hit, 9 DMG
+- [[Shadow]] attacks FH
+	- CON SAV: 21
+	- SHARPSHOOTER, 25 to hit, 26 DMG
+	- SHARPSHOOTER, 16 to hit, 23 DMG
+- FH attacks [[Talsen]]
+	- STR SAV: 14 - FAIL
+	- 12 to hit, miss
+		- R: [[Kadrin]], SENTINEL, 26 to hit, SMITE, 22 DMG
+	- waddles away, tries to 
+		- R: [[Talsen]], AoO, 27 to hit, 7 DMG
+- [[Delwyn]], DEATH SAVE (19)
+- [[Kadrin]] 
 - [[Talsen]]
 
 **Round 4**
