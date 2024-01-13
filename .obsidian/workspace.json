@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Plans.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Plans.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Plans.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Plans.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,35 +195,36 @@
   },
   "active": "8f6fa8aebd1d1da4",
   "lastOpenFiles": [
+    "README.md",
+    "Welcome.md",
+    "Locations/Tomb of Nine Gods.md",
+    "_Official Conditions/Shagambi’s Shrine.md",
+    "Items/Puzzle Cube of Kubazan.md",
+    "NPCs/Prince Umbra.md",
+    "NPCs/Orvex Ocrammas.md",
+    "Glossary/Nexalan.md",
+    "Locations/Kubazan’s Shrine.md",
+    "NPCs/I'janu.md",
+    "Bestiary/Froghemoth.md",
+    "Locations/Bezantur.md",
     "Session Notes/Session 84.md",
     "_Attachments/Inside the Shrine of Shagambi.png",
     "Bestiary/Kamadan.md",
     "_Attachments/Kamadan_Real.png",
-    "Shagambi’s Shrine.md",
     "_Attachments/Shagambi’s Shrine.png",
     "Session Notes/Watch_Vorlage.md",
-    "Puzzle Cube of Kubazan.md",
     "Glossary/Omuen.md",
     "Session Combats/Fight_S84.md",
-    "Froghemoth.md",
     "_Attachments/Froghemoth.png",
-    "Kubazan’s Shrine.md",
     "_Attachments/Kubazan’s Shrine.png",
-    "Tomb of Nine Gods.md",
     "NPCs/Lathender.md",
     "NPCs/Aratiel.md",
     "Session Notes/Session 83.md",
-    "Orvex Ocrammas.md",
-    "README.md",
     "Items/Tej.md",
     "_Attachments/Orvex Ocrammas.png",
-    "Bezantur.md",
     "_Attachments/devourer gargoyle.png",
-    "Nexalan.md",
-    "I'jin.md",
-    "I'janu.md",
+    "NPCs/I'jin.md",
     "NPCs/Acererak.md",
-    "Prince Umbra.md",
     "Items/Eye of Zaltec.md",
     "Session Combats/Fight_S83.md",
     "_Attachments/Battlemap_S83.png",
