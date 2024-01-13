@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"_Attachments/\" ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,7 +194,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8f6fa8aebd1d1da4",
+  "active": "921e982f620fe210",
   "lastOpenFiles": [
     "README.md",
     "Welcome.md",
