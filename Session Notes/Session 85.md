@@ -23,3 +23,10 @@ We go downstairs
 - The Gate before us opens as the one behind us close
 - Two Chultan Warriors step into the pit as the gate closes behind them too
 -  ###[[Fight_S85]]
+- The Gate to the rest of the party opens again
+- [[Kadrin]] looks through the other Gate, Perception: 14
+	- Sees gated cells
+- We think the Spears are for upstairs but we probably need 4 of them
+- [[Shadow]] enters the Arena as [[Talsen]] wants to investigate the Gate where the Clay Warriors came from
+	- Investigation: 
+- [[Kadrin]], [[Shago]] & [[Delwyn]] go back upstairs with the spears
