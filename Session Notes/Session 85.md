@@ -50,4 +50,19 @@ We go downstairs
 - As [[Kadrin]]'s Shatter Spell triggers, the eyes of the Clay Warriors light up red and disappear, the Pit resets
 - [[Kadrin]] switches with [[Shago]]
 - ### [[Fight_S85_2]]
+- We take the spears back up and give the other statues the spears
+- The Hatch on the Pedestal opens, it turns on the spot and a cube spirals out onto the top
+- [[Talsen]] takes the [[Puzzle Cube of Shagambi]] from the pedestal
+
+We leave [[Shagambi’s Shrine]] to get to the next building over stealthily
+- Stealth:
+		- [[Shadow]]: 30
+		- [[Kadrin]]: 8
+		- [[Delwyn]]: 6
+		- [[Talsen]]: Nat.1 (2)
+		- [[Shago]]: 4
+			- ⌀: 10
+- We hear footsteps running toward us
+- ### [[Fight_S85_3]]
+- We flee towards the building
 - 

@@ -18,16 +18,16 @@
                 "source": true
               }
             },
-            "group": "9ee02aaebf59b0db"
+            "group": "da60c36f0be518c7"
           }
         ]
       },
       {
-        "id": "8f8d550d2967f492",
+        "id": "e1b4d35b5e7d3746",
         "type": "tabs",
         "children": [
           {
-            "id": "0b3f479539dca9e4",
+            "id": "3df2f5064b8a9ee8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,7 +37,7 @@
                 "source": true
               }
             },
-            "group": "9ee02aaebf59b0db"
+            "group": "da60c36f0be518c7"
           }
         ]
       }
@@ -194,22 +194,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3a3402e2f005fd03",
+  "active": "3df2f5064b8a9ee8",
   "lastOpenFiles": [
-    "Session Combats/Fight_S85_2.md",
+    "Session Combats/Fight_S85_3.md",
+    "Bestiary/Kamadan.md",
     "Session Notes/Session 85.md",
+    "Session Notes/Watch_Vorlage.md",
+    "Locations/Shagambi’s Shrine.md",
+    "Puzzle Cube of Shagambi.md",
+    "Session Notes/Session 84.md",
+    "Session Combats/Fight_S85_2.md",
     "Session Combats/Fight_S85.md",
     "Session Combats/Fight_S.md",
     "X_Stats/{Nat.19}.md",
     "_Attachments/Pasted image 20240115192252.png",
-    "Session Notes/Session 84.md",
     "_Attachments/Omu Map.png",
     "Locations/Omu.md",
     "Plans.md",
     "README.md",
     "Welcome.md",
     "Locations/Tomb of Nine Gods.md",
-    "_Official Conditions/Shagambi’s Shrine.md",
     "Items/Puzzle Cube of Kubazan.md",
     "NPCs/Prince Umbra.md",
     "NPCs/Orvex Ocrammas.md",
@@ -219,16 +223,12 @@
     "Bestiary/Froghemoth.md",
     "Locations/Bezantur.md",
     "_Attachments/Inside the Shrine of Shagambi.png",
-    "Bestiary/Kamadan.md",
     "_Attachments/Kamadan_Real.png",
     "_Attachments/Shagambi’s Shrine.png",
-    "Session Notes/Watch_Vorlage.md",
     "Glossary/Omuen.md",
     "Session Combats/Fight_S84.md",
     "_Attachments/Froghemoth.png",
     "_Attachments/Kubazan’s Shrine.png",
-    "NPCs/Lathender.md",
-    "NPCs/Aratiel.md",
     "_Attachments/Orvex Ocrammas.png",
     "_Attachments/devourer gargoyle.png",
     "_Attachments/Battlemap_S83.png",
