@@ -4,42 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "a6185d086699ae3a",
+        "id": "c85a9e264653db41",
         "type": "tabs",
         "children": [
           {
-            "id": "8f6fa8aebd1d1da4",
+            "id": "99dd5a68e36f30ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans.md",
+                "file": "Session Notes/Session 85.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "5181b12779e8edd5"
+            "group": "5b54a4b5c13d505e"
           }
         ]
       },
       {
-        "id": "0bd7d654fd870890",
+        "id": "4d88f7f5e58ce735",
         "type": "tabs",
         "children": [
           {
-            "id": "a1407f8911f23ab4",
+            "id": "bcd119ba5bedcf7f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_Attachments/Omu Map.png"
+              }
+            }
+          },
+          {
+            "id": "7042cada58b34c69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans.md",
+                "file": "Session Notes/Session 85.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "5181b12779e8edd5"
+            "group": "5b54a4b5c13d505e"
+          },
+          {
+            "id": "2876e137173be6fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 84.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"_Attachments/\" ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plans.md",
+                "file": "Session Notes/Session 85.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plans.md"
+                "file": "Session Notes/Session 85.md"
               }
             }
           },
@@ -141,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plans.md",
+                "file": "Session Notes/Session 85.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +217,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "921e982f620fe210",
+  "active": "99dd5a68e36f30ea",
   "lastOpenFiles": [
+    "_Attachments/Pasted image 20240115192252.png",
+    "Session Notes/Session 84.md",
+    "Session Notes/Session 85.md",
+    "_Attachments/Omu Map.png",
+    "Locations/Omu.md",
+    "Plans.md",
     "README.md",
     "Welcome.md",
     "Locations/Tomb of Nine Gods.md",
@@ -208,7 +237,6 @@
     "NPCs/I'janu.md",
     "Bestiary/Froghemoth.md",
     "Locations/Bezantur.md",
-    "Session Notes/Session 84.md",
     "_Attachments/Inside the Shrine of Shagambi.png",
     "Bestiary/Kamadan.md",
     "_Attachments/Kamadan_Real.png",
@@ -225,15 +253,10 @@
     "_Attachments/Orvex Ocrammas.png",
     "_Attachments/devourer gargoyle.png",
     "NPCs/I'jin.md",
-    "NPCs/Acererak.md",
-    "Items/Eye of Zaltec.md",
-    "Session Combats/Fight_S83.md",
     "_Attachments/Battlemap_S83.png",
-    "Session Combats/Fight_S81_82.md",
     "Z_Canvas/Plans.canvas",
     "Z_Canvas/Current Planning.canvas",
     "_Attachments/HUGO.png",
-    "_Attachments/F81_2.png",
     "Z_Canvas/General.canvas",
     "Z_Canvas/Main Story.canvas",
     "desktop.ini",

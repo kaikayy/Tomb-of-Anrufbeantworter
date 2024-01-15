@@ -2,3 +2,4 @@
 - Hometown of the [[Yuan-Ti]]
 - Language [[Omuen]]
 ![[Omu.png]]
+![[Omu Map.png]]
