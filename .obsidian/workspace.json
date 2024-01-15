@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99dd5a68e36f30ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Combats/Fight_S85_2.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "3a3402e2f005fd03",
             "type": "leaf",
             "state": {
@@ -29,40 +17,29 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "9ee02aaebf59b0db"
           }
         ]
       },
       {
-        "id": "4d88f7f5e58ce735",
+        "id": "8f8d550d2967f492",
         "type": "tabs",
         "children": [
           {
-            "id": "70951b58494b8ca0",
+            "id": "0b3f479539dca9e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S85.md",
-                "mode": "source",
+                "file": "Session Notes/Session 85.md",
+                "mode": "preview",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "e01e5f99098cf0e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Combats/Fight_S85_2.md",
-                "mode": "source",
-                "source": true
-              }
-            }
+            },
+            "group": "9ee02aaebf59b0db"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Combats/Fight_S85_2.md",
+                "file": "Session Notes/Session 85.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Combats/Fight_S85_2.md"
+                "file": "Session Notes/Session 85.md"
               }
             }
           },
@@ -163,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Combats/Fight_S85_2.md",
+                "file": "Session Notes/Session 85.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,10 +194,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "99dd5a68e36f30ea",
+  "active": "3a3402e2f005fd03",
   "lastOpenFiles": [
-    "Session Notes/Session 85.md",
     "Session Combats/Fight_S85_2.md",
+    "Session Notes/Session 85.md",
     "Session Combats/Fight_S85.md",
     "Session Combats/Fight_S.md",
     "X_Stats/{Nat.19}.md",

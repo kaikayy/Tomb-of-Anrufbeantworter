@@ -50,3 +50,4 @@ We go downstairs
 - As [[Kadrin]]'s Shatter Spell triggers, the eyes of the Clay Warriors light up red and disappear, the Pit resets
 - [[Kadrin]] switches with [[Shago]]
 - ### [[Fight_S85_2]]
+- 
