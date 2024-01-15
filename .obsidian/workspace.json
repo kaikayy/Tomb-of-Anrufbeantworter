@@ -13,12 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Session Combats/Fight_S85_2.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3a3402e2f005fd03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Session Notes/Session 85.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "5b54a4b5c13d505e"
+            }
           }
         ]
       },
@@ -39,41 +50,19 @@
             }
           },
           {
-            "id": "bcd119ba5bedcf7f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_Attachments/Omu Map.png"
-              }
-            }
-          },
-          {
-            "id": "7042cada58b34c69",
+            "id": "e01e5f99098cf0e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 85.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "5b54a4b5c13d505e"
-          },
-          {
-            "id": "2876e137173be6fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 84.md",
+                "file": "Session Combats/Fight_S85_2.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 85.md",
+                "file": "Session Combats/Fight_S85_2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 85.md"
+                "file": "Session Combats/Fight_S85_2.md"
               }
             }
           },
@@ -174,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 85.md",
+                "file": "Session Combats/Fight_S85_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,9 +219,11 @@
   },
   "active": "99dd5a68e36f30ea",
   "lastOpenFiles": [
-    "Session Combats/Fight_S85.md",
-    "X_Stats/{Nat.19}.md",
     "Session Notes/Session 85.md",
+    "Session Combats/Fight_S85_2.md",
+    "Session Combats/Fight_S85.md",
+    "Session Combats/Fight_S.md",
+    "X_Stats/{Nat.19}.md",
     "_Attachments/Pasted image 20240115192252.png",
     "Session Notes/Session 84.md",
     "_Attachments/Omu Map.png",
@@ -261,8 +252,6 @@
     "_Attachments/Kubazan’s Shrine.png",
     "NPCs/Lathender.md",
     "NPCs/Aratiel.md",
-    "Session Notes/Session 83.md",
-    "Items/Tej.md",
     "_Attachments/Orvex Ocrammas.png",
     "_Attachments/devourer gargoyle.png",
     "_Attachments/Battlemap_S83.png",

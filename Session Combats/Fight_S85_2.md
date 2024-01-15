@@ -1,17 +1,18 @@
 Session Link:
-[[]]
+[[Session 85]]
 Battlemap:
 [[!]]
 
 Enemies:
 Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
+Clay Gladiator - CGc,d
 
 Initiative:
-[[Talsen]] - 
-[[Kadrin]] - 
-[[Shadow]] - 
-[[Delwyn]] - 
-[[Shago]] - 
+[[Talsen]] - 13
+[[Kadrin]] - 10
+[[Shadow]] - 21
+[[Delwyn]] - 5
+[[Shago]] - Nat.20 (22)
 
 ---
 Conditions:
@@ -36,16 +37,25 @@ Enemies:
 ---
 Dodge/Ready:
 
-
 ---
 **Round 1**
-- asd
+- [[Shago]] attacks CGd
+	- 25 to hit, 
+- [[Talsen]]
+- CGc
+- CGd
 
 **Round 2**
-- asd
+- [[Shago]]
+- [[Talsen]]
+- CGc
+- CGd
 
 **Round 3**
-- asd
+- [[Shago]]
+- [[Talsen]]
+- CGc
+- CGd
 
 **Round 4**
 - asd

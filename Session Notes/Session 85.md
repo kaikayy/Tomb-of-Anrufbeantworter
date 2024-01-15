@@ -28,5 +28,25 @@ We go downstairs
 	- Sees gated cells
 - We think the Spears are for upstairs but we probably need 4 of them
 - [[Shadow]] enters the Arena as [[Talsen]] wants to investigate the Gate where the Clay Warriors came from
-	- Investigation: 
+	- Investigation: 10, 22
+		- [[Talsen]] grasps that the mechanism is magical
+	- [[Talsen]] tries to to pry parts of the Gate open
+		- it doesn't budge
 - [[Kadrin]], [[Shago]] & [[Delwyn]] go back upstairs with the spears
+	- [[Kadrin]] casts Armor of Agathys
+	- As they position the spears with the statues they begin to glow
+	- [[Talsen]] throws [[Nankore, Spear of Lost Love]] up towards [[Kadrin]]
+		- 29 to hit, it sticks in the ceiling
+	- [[Delwyn]] uses Mage Hand to get [[Nankore, Spear of Lost Love]] back down
+	- [[Nankore, Spear of Lost Love]] doesn't work with the Statues
+	- They come back down and all enter the Pit
+- We all leave the pit, [[Shadow]] & [[Delwyn]] stands ready above the pit
+- [[Talsen]], [[Kadrin]] & [[Shago]] rush into the pit
+- The Gate closes behind us
+- [[Shago]] disappears and reappears on top of the pit
+- [[Kadrin]] readies a Shatter spell
+- [[Talsen]] readies an attack
+- [[Kadrin]] - Shatter, both fail, 18 Thunder DMG
+- As [[Kadrin]]'s Shatter Spell triggers, the eyes of the Clay Warriors light up red and disappear, the Pit resets
+- [[Kadrin]] switches with [[Shago]]
+- ### [[Fight_S85_2]]
