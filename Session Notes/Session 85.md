@@ -18,4 +18,8 @@ Recap - [[Talsen]]
 We go downstairs
 ![[Pasted image 20240115192252.png|300]]
 - [[Kadrin]] casts light on his weapon
-- 
+- [[Talsen]] and [[Kadrin]] string each other together with a rope
+	- [[Talsen]] takes [[Kadrin]] piggyback and runs into the pit before them
+- The Gate before us opens as the one behind us close
+- Two Chultan Warriors step into the pit as the gate closes behind them too
+-  ###[[Fight_S85]]
