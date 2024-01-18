@@ -65,4 +65,5 @@ We leave [[Shagambi’s Shrine]] to get to the next building over stealthily
 - We hear footsteps running toward us
 - ### [[Fight_S85_3]]
 - We flee towards the building
-- 
+
+We start preparing for a long rest
