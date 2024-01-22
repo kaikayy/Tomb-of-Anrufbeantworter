@@ -167,7 +167,21 @@ We reconvene in the entrance hall and share our findings
 	- gets 8 [[Kwalu]] Feathers
 3.  Watch -  [[Kadrin]], [[Shago]]
 - Perc.: 14, 3
-- [[Kad]]
+- [[Kadrin]] thinks about his sister, prepares food
+#### LONG REST -> Day 2
+Weather: Normal Temp, No Wind, No Rain
+[[Kadrin]] cooks, DEX: 7
 
-Weather:
-[[Kadrin]] cooks, DEX: 
+[[Delwyn]] says that the image of her mother was real and she will come back
+
+We decide to go toward [[Unkh's Shrine]] and stop at the River to see how difficult it is to cross
+- Stealth
+	- [[Kadrin]]: 7
+	- [[Talsen]]: 10
+	- [[Shago]]: Nat.20 (22)
+	- [[Delwyn]]: 18
+	- [[Shadow]]: 30
+		- ⌀: 17,4
+- The River has a raging stream but about 100ft to the north we spot a tree trunk that crosses the river
+- MA across the tree trunk: T, K, D, Sw, So
+	- An arrow breaks at [[Talsen]]'s Armor
