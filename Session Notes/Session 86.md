@@ -82,7 +82,38 @@ We reconvene in the entrance hall and share our findings
 		- [[Delwyn]] casts Track Divine
 			- The Knife points north west (not [[Aneamas Dawnsong]]'s direction)
 		- [[Shadow]] casts Detect Magic
-			- 
+			- All pools of Water are magical, [[Aneamas Dawnsong]] is part of the pools magic
+				- The Steaming Pool is Illusion
+				- The Blue Pool is Enchantment
+				- The Purple Pool is Transmutation
+				- The Black Pool is Conjuration
+				- The Clear Pool is Divination
+			- Calls out her Information
+	- [[Delwyn]] casts Polymorph to assume the form of a Bear
+	- [[Shadow]] takes the frozen head of [[Aneamas Dawnsong]] and it reforms
+	- [[Kadrin]] asks [[Aneamas Dawnsong]] if everyone sees people they are related to when bathing in the pool
+		- He says that he doesn't know that as he isn't from here
+		- Tries to fill up a Waterskin with [[Aneamas Dawnsong]]
+			- The Waterskin fills up but [[Aneamas Dawnsong]] remains
+	- [[Talsen]] tries fishing out his armor from the Blue Pool
+		- has to enter the pool to get everything
+			- CON SAV: 6
+			- All his muscles relax and he gets very sleepy
+			- Falls asleep [[Unconscious]]
+	- [[Kadrin]] tries to gets [[Talsen]] out
+		- [[Talsen]] wakes up as soon as he's outside of the pool
+			- [[Talsen]] gets his armor back eventually using his net
+	- [[Shadow]] enters the steaming pool with [[Delwyn]]
+		- Opposite of her, [[Skaldric]] appears
+		- She leaves the pool immediately
+	- [[Kadrin]] dips into the steaming pool
+		- Opposite of him, [[Kordelia]] appears
+			- [[Kadrin]] talks to her
+			- Test what she knows
+		- [[Kadrin]] gets out of the water, [[Kordelia]] disappears
+	- [[Shadow]] enters the Clear Pool
+		- It seems to go down far further ending in a Hallway with lights about 50ft down
+		- She equips 
 
 #### LONG REST -> Day 2
 Weather:
