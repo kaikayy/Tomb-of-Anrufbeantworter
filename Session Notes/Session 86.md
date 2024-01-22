@@ -65,7 +65,24 @@ When evening came, a wily eblis stepped from his reed hut. He didn’t like the 
 That night, a su-monster broke into Ubtao’s palace and stole a pail of water for the Omuans. When the god came running to find it, the su-monster hid the pail in a jaculi’s burrow. Ubtao asked the jungle animals where his water was hidden, and Moa the jaculi was too honest to lie. When Wongo the su-monster found out how Moa had betrayed him, he vowed to catch the jaculi and eat him up.
 All the while, Unkh the flail snail lived deep under the earth. The noise of the other animals fighting made her slither up to the surface, and when day dawned over her shell, the light blinded Ubtao and made his eyes water. Life returned to Omu, and the people built shrines to honor the animals who’d saved them.
 
-We reconvene in the entrance hall and sha
+We reconvene in the entrance hall and share our findings
+- [[Talsen]] goes to take a bath
+	- Everyone else but [[Shago]] joins
+	- [[Talsen]] enters the steaming pool and puts his armor in the blue pool
+		- [[Delwyn]] undresses and enters the steaming pool before [[Talsen]]
+	- We all see [[Delwyn]]'s Father [[Aneamas Dawnsong]] relaxing opposite of [[Delwyn]] in the pool
+		- A: Well son, i want nothing from you, otherwise i wouldn't have thrown you out, would i?
+		- D: Yeah, you can go now
+		- A: I think I won't, I've been hard at work after all
+		- [[Shadow]] starts an argument with [[Aneamas Dawnsong]]
+		- [[Talsen]] tries to pull him out of the water but can't since his hands pass right through his arms as if they are made out of water
+		- [[Delwyn]] freezes his head
+		- [[Kadrin]] uses Divine Sense
+			- Nothing out of the ordinary
+		- [[Delwyn]] casts Track Divine
+			- The Knife points north west (not [[Aneamas Dawnsong]]'s direction)
+		- [[Shadow]] casts Detect Magic
+			- 
 
 #### LONG REST -> Day 2
 Weather:
