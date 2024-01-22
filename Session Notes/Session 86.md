@@ -6,13 +6,43 @@ Recap - [[Talsen]]
 	- [[Delwyn]] suggests "flying turtle" as our Code Word to identify ourselves
 
 [[Kadrin]] and [[Shadow]] go to scout out the building we're in and what surrounds it
-- [[Shadow]], Survival: 21
+- [[Kadrin]] looks around inside
+	- He finds a small kitchen, a large wash or dyeing room,  some small changing rooms and a larger hall filled with 5 swimming pools of different color
+		- purple, translucent with smoke, green-turquoise, pitch black, clear water
+	- This used to be a bathhouse
+		-  uses Divine Sense but nothing comes up
+	- d100(7) - nothing
+- [[Shadow]] looks around outside, Survival: 21
 	- Fresh [[Kamadan]] footprints
 	- Old humanoid footprints
 	- Fresh humanoid footprints
 		- small, reptile, bipedal
 			- 2 Kobold Footprints
-- 
+- [[Shadow]] follows the Kobold Footprints
+	- they circle around the house
+	- she finds two Kobolds standing atop each others shoulders peering into a window of the house
+		- she tries to intimidate them to stay
+			- Intimidation: Nat.20 (19)
+			- They both fall to the ground and yell for mercy
+			- They tell her that [[Kakarol]] told them to keep an eye on our party
+				- He's their leader and master
+				- He's been missing for a week, while he's gone [[Gobta]] is in charge
+			- They advise to climb into kobold tunnels when spotted by [[Hugo]]
+			- She tells them to tell [[Gobta]], [[_The Last Resort]] is here
+			- Persuasion: 10
+			- They tell her that [[Gobta]] can be found in their burrow under the Theatre
+			- Insight: 13
+			- They don't want to tell where [[Hugo]] sleeps
+			- They tell her that [[Hugo]] sleeps at the Amphitheatre in the north west of [[Omu]]
+			- She calls them out on them not telling the whole truth
+			- Intimidation: 13
+			- They tell her that [[Gobta]] is south of the Amphitheatre under the Market Place
+			- She tells them to tell [[Gobta]] that she wants to speak to him
+			- They tell her that [[Gobta]] can't leave the burrow but there is a staircase at the edge of the Market Place
+			- They know that the [[Yuan-Ti]] live in the Royal Palace
+			- They heard about [[Ras Nsi]]
+		- She gives them both 1gp
+
 [[Delwyn]] and [[Shago]] start preparing the Camp
 - They build up the tents and starts a fire with wood that's laying around
 
@@ -34,6 +64,8 @@ At noon, a brave kamadan hopped down from her rock. She saw the evil in the Omua
 When evening came, a wily eblis stepped from his reed hut. He didn’t like the Omuans, but without them he’d have no one to play his tricks on. The eblis sent a marsh frog to reason with Ubtao, but the frog was angry and decided to wrestle the god instead. This amused Ubtao, so he gave the frog tentacles to make it stronger. When Kubazan the froghemoth returned to Papazotl the eblis, he chased Papazotl into the swamp with his new tentacles.
 That night, a su-monster broke into Ubtao’s palace and stole a pail of water for the Omuans. When the god came running to find it, the su-monster hid the pail in a jaculi’s burrow. Ubtao asked the jungle animals where his water was hidden, and Moa the jaculi was too honest to lie. When Wongo the su-monster found out how Moa had betrayed him, he vowed to catch the jaculi and eat him up.
 All the while, Unkh the flail snail lived deep under the earth. The noise of the other animals fighting made her slither up to the surface, and when day dawned over her shell, the light blinded Ubtao and made his eyes water. Life returned to Omu, and the people built shrines to honor the animals who’d saved them.
+
+We reconvene in the entrance hall and sha
 
 #### LONG REST -> Day 2
 Weather:
