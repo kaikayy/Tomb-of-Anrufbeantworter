@@ -39,30 +39,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9567c6df92a0bcfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 85.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1ea7533692016486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Combats/Fight_S85.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "3df2f5064b8a9ee8",
             "type": "leaf",
             "state": {
@@ -230,14 +206,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3a3402e2f005fd03",
+  "active": "1cf7fd4cac64a694",
   "lastOpenFiles": [
+    "Items/Puzzle Cube of Shagambi.md",
+    "Session Notes/Session 86.md",
     "Session Notes/Session 85.md",
+    "Session Combats/Fight_S85_3.md",
     "Session Notes/Session 84.md",
     "Session Combats/Fight_S85.md",
     "Session Combats/Fight_S85_2.md",
-    "Session Combats/Fight_S85_3.md",
-    "Session Notes/Session 86.md",
     "Session Notes/Watch_Vorlage.md",
     "Session Notes/Session 80.md",
     "Session Notes/Session 83.md",
@@ -245,7 +222,6 @@
     "Session Notes/Session 81.md",
     "Bestiary/Kamadan.md",
     "Locations/Shagambi’s Shrine.md",
-    "Puzzle Cube of Shagambi.md",
     "Session Combats/Fight_S.md",
     "X_Stats/{Nat.19}.md",
     "_Attachments/Pasted image 20240115192252.png",
