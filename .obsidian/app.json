@@ -14,5 +14,6 @@
   "spellcheckLanguages": null,
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current"
 }

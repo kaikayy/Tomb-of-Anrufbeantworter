@@ -1,4 +1,7 @@
 {
   "snapToObjects": true,
-  "snapToGrid": true
+  "snapToGrid": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Z_Canvas",
+  "cardLabelVisibility": "hover"
 }
