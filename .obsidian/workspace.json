@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 86.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 86.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 86.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 86.md"
+                "file": "README.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 86.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,8 +220,8 @@
   },
   "active": "3a3402e2f005fd03",
   "lastOpenFiles": [
-    "Locations/Omu.md",
     "Session Notes/Session 86.md",
+    "Locations/Omu.md",
     "Session Notes/Watch_Vorlage.md",
     "Locations/Unkh's Shrine.md",
     "Session Combats/Fight_S86.md",
