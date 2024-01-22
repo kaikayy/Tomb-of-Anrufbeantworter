@@ -123,8 +123,51 @@ We reconvene in the entrance hall and share our findings
 			- ![[Pasted image 20240122212521.png|300]]
 			- She emerges from the water again, with a maze symbol across her chest
 				- She can now summon a triceratops once which will stay by her side for 24 hours
-	- We lure [[Delwyn]] out of the pool again
+	- We lure [[Delwyn]] out of the pool 
+- We go back to Camp & [[Shago]]
+	- [[Shadow]], Insight: 18
+		- [[Shago]] thinks "magic" happened
+- [[Delwyn]] changes back and goes to get his clothes
 
-#### LONG REST -> Day 2
+[[Shadow]] tries to take care of her organ damage
+- Medicine: 17 - Success
+
+#### Watches
+1. Watch - [[Talsen]], [[Delwyn]]
+- Perc.: 1, 6
+- [[Delwyn]] talks to his Mother in spirit telling her about the encounter with her father
+	- [[Delwyn]] looks over his shoulder and sees his mother answering him
+- [[Talsen]] bangs his weapon to his shield to wake everyone up
+	- attacks, 29 to hit, 11 DMG
+		- WIS SAV: 
+			- [[Shadow]]: 22 - Save
+			- [[Kadrin]]: 15 - Save
+			- [[Delwyn]]: 10 - Fail
+			- [[Shago]]: 13 - Save
+			- [[Talsen]]: Nat.20 (19) - Save
+				- [[Delwyn]] is [[Frightened]]
+- [[Shadow]] attacks, 21 to hit, 20 DMG
+- [[Talsen]], Insight: 11 on her saying "I'm just here to protect my son"
+	- Hard to Read
+- [[Kadrin]] uses Divine Sense
+	- It is an undead
+	- tries to grapple her
+		- 20 vs Nat.20 (23)
+		- she resists
+- [[Delwyn]] WIS SAV: 13 - Save
+	- is no longer [[Frightened]]
+- [[Talsen]] attacks
+	- 18 to hit, 14 DMG
+		- [[Delwyn's Mom]] dies
+- We all go back to sleep
+
+2. Watch - [[Shadow]]
+- Perc.: 17
+- plucks the feathers from [[Kwalu]]'s rotted wing
+	- gets 8 [[Kwalu]] Feathers
+3.  Watch -  [[Kadrin]], [[Shago]]
+- Perc.: 14, 3
+- [[Kad]]
+
 Weather:
 [[Kadrin]] cooks, DEX: 
