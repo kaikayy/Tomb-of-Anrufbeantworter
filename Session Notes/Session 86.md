@@ -113,7 +113,17 @@ We reconvene in the entrance hall and share our findings
 		- [[Kadrin]] gets out of the water, [[Kordelia]] disappears
 	- [[Shadow]] enters the Clear Pool
 		- It seems to go down far further ending in a Hallway with lights about 50ft down
-		- She equips 
+		- She equips the Cape of the Manta Ray and starts swimming down, we see her swim through the ground
+		- She comes back up and talks to [[Kadrin]] & [[Talsen]]
+			- They both advise against it but she wants to see what is down there anyways
+		- Multiple Tunnels brach off of the bottom of the pool
+			- INT: 21
+			- Swims through some tunnels as they seem to build a maze
+			- She swims up to a light and sees the party making a decision being watched through divination by a figure surrounded by many individually moving hands
+			- ![[Pasted image 20240122212521.png|300]]
+			- She emerges from the water again, with a maze symbol across her chest
+				- She can now summon a triceratops once which will stay by her side for 24 hours
+	- We lure [[Delwyn]] out of the pool again
 
 #### LONG REST -> Day 2
 Weather:
