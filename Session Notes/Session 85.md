@@ -22,7 +22,7 @@ We go downstairs
 	- [[Talsen]] takes [[Kadrin]] piggyback and runs into the pit before them
 - The Gate before us opens as the one behind us close
 - Two Chultan Warriors step into the pit as the gate closes behind them too
--  ###[[Fight_S85]]
+-  ### [[Fight_S85]]
 - The Gate to the rest of the party opens again
 - [[Kadrin]] looks through the other Gate, Perception: 14
 	- Sees gated cells
