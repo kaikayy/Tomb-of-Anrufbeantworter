@@ -18,7 +18,7 @@ We decide to do a Short Rest in the camp, [[Kadrin]] casts Spirit Shroud into Vo
 - [[Talsen]] tries to mix the [[Firenewt]] Skin with his Mutagens
 	- d100(88), creates a bright orange concoction
 - [[Delwyn]] whittles away at his flute
-	- DEX: Nat.20 (23)
+	- DEX: [[Nat.20]] (23)
 		- The flute is nearly finished
 ##### SHORT REST (End)
 

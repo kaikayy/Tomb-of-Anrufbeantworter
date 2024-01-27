@@ -81,7 +81,7 @@ R Shadow
 	- SHARPSHOOTER, 24 to hit, 25 DMG
 		- FWd is [[Dead]]
 	- attacks FWLb
-		- SHARPSHOOTER, Nat.20 (26) to hit, 36 DMG
+		- SHARPSHOOTER, [[Nat.20]] (26) to hit, 36 DMG
 - [[Shago]] attacks FWa
 	- 17 to hit, 10 DMG
 		- STR SAV: 14
@@ -131,7 +131,7 @@ R Shadow
 - [[Delwyn's Mom]] attacks FWc
 	- 20 to hit, 6 DMG
 - FWLa casts Flaming Sphere on [[Delwyn's Mom]], [[Shago]], [[Musharib]]
-	- DEX SAV: 14, 5, Nat.20 (21) - SAVE, FAIL, SAVE
+	- DEX SAV: 14, 5, [[Nat.20]] (21) - SAVE, FAIL, SAVE
 		- 5 / 11 Fire DMG
 			- Conc. SAV ([[Musharib]]): 23
 - _The Lava bubbles more violently and from it, a Fire Elemental erupts. [[Ragnis]] does the Ragnaros speech and talks about causing the volcanic eruptions he is causing_
@@ -174,7 +174,7 @@ R Shadow
 		- FWLa is [[Dead]]
 - [[Shago]] attacks R
 	- 19 to hit, 14 DMG
-	- Nat.20 (27) to hit, 25 DMG
+	- [[Nat.20]] (27) to hit, 25 DMG
 	- 21 to hit, 14 DMG
 - [[Musharib]] shifts Hunter's Mark to R, blows his horn
 - R attacks [[Talsen]]
@@ -331,7 +331,7 @@ R Shadow
 - FWa2,c2 attack [[Talsen]]
 	- 10 to hit, miss
 	- 12 to hit, miss
-	- Nat.20 (23) to hit, 3 DMG
+	- [[Nat.20]] (23) to hit, 3 DMG
 	- 10 to hit, miss
 - FF is obscured
 - DoDa attacks [[Talsen]]
@@ -370,7 +370,7 @@ R Shadow
 - [[Musharib]] shifts Hunter's Mark to FWd2, attacks
 	- 19 to hit, 15 DMG
 - FWe2,f2,g2,h2 appear, attack [[Kadrin]]
-	- DEX SAV: Nat.20 (22), 9, 7, 4
+	- DEX SAV: [[Nat.20]] (22), 9, 7, 4
 		- 2, 30
 			- Conc. SAV: 6
 				- [[Kadrin]] drops [[Concentration]]
@@ -435,7 +435,7 @@ R Shadow
 - [[Shadow]] shifts Hunter's Mark to FF, attacks
 	- SHARPSHOOTER, 24 to hit, 28 DMG
 		- R: FF, Hellish Rebuke, DEX SAV: 25 - SAVE, 12 Fire DMG, Conc. SAV: 12
-	- SHARPSHOOTER, Nat.20 (26) to hit, 34 DMG
+	- SHARPSHOOTER, [[Nat.20]] (26) to hit, 34 DMG
 - [[Shago]] attacks FF (crossbow)
 	- 16 to hit, 8 DMG
 		- FF is [[Dead]]

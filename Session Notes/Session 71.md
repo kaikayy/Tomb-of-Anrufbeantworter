@@ -86,7 +86,7 @@ We continue on towards [[Hrakhamar]]
 			- It says it was planted by [[Ubtao]] and he gave him the name "[[Ubtao]]'s nephew"
 		- [[Kadrin]] asks it if it is an [[Aspects of Ubtao]] or a [[Bara]]
 			- It doesn't know what that is but it goes around feeding Dinosaurs
-		- [[Kadrin]], Persuasion: Nat.20 (28)
+		- [[Kadrin]], Persuasion: [[Nat.20]] (28)
 			- It believes that it is being let go whether we get its fruit or not
 		- The bush gives us 7 of its big red lemons ([[Ubtao Fruits]]) and then leaves to feed more dinosaurs
 - At the end of the day we see a small heard of Triceratops, one of them is the injured one that we helped earlier

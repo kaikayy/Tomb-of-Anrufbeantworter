@@ -386,12 +386,12 @@
 [[Kadrin]] d20 (mit Ansage)
 
 ---
-[[Session 67]]
+[[Session 67]] - 1
 [[Talsen]] CON SAV (22)
 
 ---
 [[Session 68]]
-	-
+	- 
 
 ---
 [[Session 69]]
@@ -402,28 +402,44 @@
 	-
 
 ---
-[[Session 71]]
-	-
+[[Session 71]] - [[Fight_S71]] - 7
+[[Kadrin]] Persuasion (28)
+[[Shadow]] to hit (26)
+[[Shadow]] WIS SAV (23)
+[[Talsen]] WIS SAV (19)
+[[DM]] STR SAV ()
+[[Shadow]] / [[Shago]] to hit (27)
+[[DM]] STR SAV ()
 
 ---
-[[Session 72]]
-	-
+[[Session 72]] - [[Fight_S72]] - 2
+[[Shadow]] / [[Shago]] to hit (27)
+[[Kadrin]] to hit (29)
 
 ---
 [[Session 73]]
-	-
+[[Delwyn]] DEX (23)
 
 ---
-[[Session 74]]
+[[Session 74]] 
 	-
+	
+---
+[[Fight_S74_75]] - 6
+[[Shadow]] to hit (26)
+[[Shadow]] / [[Shago]] DEX SAV (21)
+[[Shadow]] / [[Shago]] to hit (27)
+[[DM]] to hit on [[Talsen]] (23)
+[[DM]] DEX SAV (22)
+[[Shadow]] to hit (26)
 
 ---
 [[Session 75]]
 	-
 
 ---
-[[Session 76]]
-	-
+[[Session 76]] - [[Fight_S76]]
+
 
 ---
 [[Session 77]]
@@ -443,6 +459,10 @@
 
 ---
 [[Session 81]]
+	-
+
+---
+[[Fight_S81_82]]
 	-
 
 ---

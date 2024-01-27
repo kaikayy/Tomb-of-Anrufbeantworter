@@ -43,7 +43,7 @@ Dodge/Ready:
 **Round 1**
 - [[Shadow]] attacks Z
 	- SHARPSHOOTER, 15 to hit, 22 DMG
-	- SHARPSHOOTER, Nat.20 (26) to hit, 27 DMG
+	- SHARPSHOOTER, [[Nat.20]] (26) to hit, 27 DMG
 		- Z is [[Dead]]
 	- attacks into the Jungle
 		- 23 to hit, hits something
@@ -53,9 +53,9 @@ Dodge/Ready:
 		- Is [[Blinded]] and [[Restrained]]
 - Mc tries to lure us to come to it (Pollen)
 	- WIS SAV: [[Kadrin]], [[Shadow]], [[Talsen]], [[Stomps]]
-		- 17, Nat.20 (23), 8, 5
+		- 17, [[Nat.20]] (23), 8, 5
 			- INSPIRATION from [[Kadrin]] on [[Talsen]]
-				- Nat.20 (19)
+				- [[Nat.20]] (19)
 		- [[Stomps]] fails
 - AVa,b appear
 	- attack [[Kadrin]]
@@ -111,9 +111,9 @@ Dodge/Ready:
 			- Is no longer [[Blinded]] and [[Restrained]]
 	- attacks T
 		- 25 to hit, 9 DMG
-			- STR SAV: Nat.20 - SAVE
-		- Nat.20 (27) to hit, 17 DMG
-			- STR SAV: Nat.20 - SAVE
+			- STR SAV: [[Nat.20]] - SAVE
+		- [[Nat.20]] (27) to hit, 17 DMG
+			- STR SAV: [[Nat.20]] - SAVE
 - [[Delwyn]] casts Fireball on Ma, Mb, Mc, AVa, [[Musharib]]
 	- DEX SAV: FAIL, SAVE, FAIL, FAIL, 20
 		- 13 / 27 Fire DMG

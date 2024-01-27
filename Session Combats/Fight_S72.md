@@ -48,7 +48,7 @@ Dodge/Ready:
 	- 23 to hit, 7 DMG
 		- STR SAV: 13 - FAIL
 			- FWa is [[Prone]]
-	- Nat.20 (27) to hit, 14 DMG
+	- [[Nat.20]] (27) to hit, 14 DMG
 		- FWa is [[Dead]]
 		- Attacks FWb
 			- 21 to hit, 9 DMG
@@ -173,7 +173,7 @@ Dodge/Ready:
 				- 5 Psychic DMG
 - [[Kadrin]] attacks FCa
 	- 12 to hit, miss
-	- Nat.20 (29) to hit, 30 DMG
+	- [[Nat.20]] (29) to hit, 30 DMG
 		- FCa is [[Dead]]
 - FCc disengages and runs away
 - GSa breathes fire on [[Kadrin]], [[Stomps]], [[Talsen]]
