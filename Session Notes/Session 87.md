@@ -70,4 +70,45 @@ We run over to the other side of the Street and enter [[Unkh's Shrine]]
 - Asks if it wants to see more places or stay here
 	- It wants to see "other places with food"
 
-We plan to make our way to 
+We plan to make our way to [[I'jin's Shrine]]
+- We sneak there
+	- Stealth:
+		- [[Delwyn]]: 19
+		- [[Shago]]: 8
+		- [[Shadow]]: 25
+		- [[Kadrin]]: 15
+		- [[Talsen]]: 10
+			- ⌀ 15,4
+- We hear big footsteps and see an amalgamation of plants, it didn't notice us
+	- ![[Pasted image 20240129212512.png]]
+
+We arrive at [[I'jin's Shrine]]
+- `Cracked monoliths flank the entrance to this ruin. Saw-edged ferns grow in the courtyard between broken flagstones. A pair of stone doors provide entry to a large, flat-roofed ruin.`
+- We see a few [[Almiraj]] sitting in the courtyard
+- [[Shadow]] notices [[I'janu]] beside her
+	- Insight: 22
+		- It seems very sad
+	- approaches, all the other [[Almiraj]] hide in their burrows
+	- [[I'janu]] keeps looking at the temple
+- We go near the door
+	- `Sculptural reliefs decorate the doors of this shrine. The carvings show a horned rabbit charging a small, feral-looking bear with sharp claws. A cuneiform message is etched above the doors.`
+	- Text above the door reads:
+		- "I’jin teaches us to take the path least expected."
+- We go into the Shrine
+	- `A ten-foot-wide hallway strikes off into the gloom. Carved tiles depicting various beasts decorate the hallway floor.`
+	- [[Talsen]] jumps over the animal-depicted hallway
+	- [[Delwyn]] casts Misty Step to skip the hallway
+	- [[Shadow]] sees [[I'janu]] stick to the left corner and does the same
+	- [[Kadrin]] follows
+	- [[Shadow]], Perception: 24
+		- sees that there are arrow holes in the wall and feels the tiles descending slightly under her feet
+- We all clear the Hallway
+	- [[Kadrin]] casts Light on his weapon
+	- [[Shadow]], Animal Handling: 15
+		- Sees [[I'janu]] follow the left path, she follow
+	- All follow
+	- [[Shadow]], Animal Handling: 25
+	- [[Shadow]], Animal Handling: 20
+- We arrive at a closed door and open it to see a pedestal with the [[Puzzle Cube of I'jin]] on it
+	- [[Shadow]] takes the Puzzle Cube
+- [[T]]
