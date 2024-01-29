@@ -1,0 +1,1 @@
+Some egg-shaped jewel [[Bag of Nails]] is looking for
