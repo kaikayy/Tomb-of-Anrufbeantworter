@@ -22,7 +22,7 @@ Recap - [[Talsen]]
 	- they circle around the house
 	- she finds two Kobolds standing atop each others shoulders peering into a window of the house
 		- she tries to intimidate them to stay
-			- Intimidation: Nat.20 (19)
+			- Intimidation: [[Nat.20]] (19)
 			- They both fall to the ground and yell for mercy
 			- They tell her that [[Kakarol]] told them to keep an eye on our party
 				- He's their leader and master
@@ -144,7 +144,7 @@ We reconvene in the entrance hall and share our findings
 			- [[Kadrin]]: 15 - Save
 			- [[Delwyn]]: 10 - Fail
 			- [[Shago]]: 13 - Save
-			- [[Talsen]]: Nat.20 (19) - Save
+			- [[Talsen]]: [[Nat.20]] (19) - Save
 				- [[Delwyn]] is [[Frightened]]
 - [[Shadow]] attacks, 21 to hit, 20 DMG
 - [[Talsen]], Insight: 11 on her saying "I'm just here to protect my son"
@@ -152,7 +152,7 @@ We reconvene in the entrance hall and share our findings
 - [[Kadrin]] uses Divine Sense
 	- It is an undead
 	- tries to grapple her
-		- 20 vs Nat.20 (23)
+		- 20 vs [[Nat.20]] (23)
 		- she resists
 - [[Delwyn]] WIS SAV: 13 - Save
 	- is no longer [[Frightened]]
@@ -178,7 +178,7 @@ We decide to go toward [[Unkh's Shrine]] and stop at the River to see how diffic
 - Stealth
 	- [[Kadrin]]: 7
 	- [[Talsen]]: 10
-	- [[Shago]]: Nat.20 (22)
+	- [[Shago]]: [[Nat.20]] (22)
 	- [[Delwyn]]: 18
 	- [[Shadow]]: 30
 		- ⌀: 17,4

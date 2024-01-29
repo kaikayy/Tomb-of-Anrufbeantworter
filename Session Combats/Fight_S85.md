@@ -90,7 +90,7 @@ Dodge/Ready:
 - [[Shago]]  readies an attack if both [[Kadrin]] & [[Talsen]] are downed
 - [[Kadrin]] attacks CGb
 	- 25 to hit, 13 DMG
-	- Nat.20 (29) to hit, 23 DMG
+	- [[Nat.20]] (29) to hit, 23 DMG
 		- CGb is [[Dead]]
 - CGa attacks [[Kadrin]]
 	- 23 to hit, 6 DMG
@@ -103,7 +103,7 @@ Dodge/Ready:
 		- CGa gets 3 Psychic DMG
 - [[Shadow]] readies an attack if both [[Kadrin]] & [[Talsen]] are downed
 - [[Talsen]] attacks CGa
-	- Nat.20 (30) to hit, 34 DMG
+	- [[Nat.20]] (30) to hit, 34 DMG
 	- 22 to hit, 18 DMG
 
 **Round 4**

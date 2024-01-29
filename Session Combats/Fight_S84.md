@@ -52,7 +52,7 @@ Dodge/Ready:
 
 **Round 2**
 - [[Shago]] attacks FH
-	- Nat.20 (25) to hit, 18 DMG
+	- [[Nat.20]] (25) to hit, 18 DMG
 - [[Shadow]] attacks FH
 	- CON SAV: 15
 	- SHARPSHOOTER, 25 to hit, 19 DMG

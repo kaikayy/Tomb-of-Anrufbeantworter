@@ -438,12 +438,16 @@
 	-
 
 ---
-[[Session 76]] - [[Fight_S76]]
-
+[[Session 76]] - [[Fight_S76]] - 1
+[[Kadrin]] to hit (29)
 
 ---
-[[Session 77]]
-	-
+[[Session 77]] - [[Fight_S77]] - 5
+[[Talsen]] Athletics (29)
+[[Talsen]] Athletics (29)
+[[Shadow]] Religion (22)
+[[DM]] to hit on [[Talsen]] ()
+[[Talsen]] CON SAV (22)
 
 ---
 [[Session 78]]
@@ -454,16 +458,22 @@
 	-
 
 ---
-[[Session 80]]
-	-
+[[Session 80]] -1
+[[DM]] to hit on [[Delwyn]] ()
 
 ---
 [[Session 81]]
 	-
 
 ---
-[[Fight_S81_82]]
-	-
+[[Fight_S81_82]] - 7
+[[Delwyn]] Initiative (23)
+[[Shadow]] to hit (26)
+[[Talsen]] to hit (30)
+[[Delwyn]] DEX SAV (24)
+[[DM]] to hit ()
+[[Talsen]] STR SAV (26)
+[[DM]] to hit on [[Shadow]] ()
 
 ---
 [[Session 82]]
@@ -474,16 +484,28 @@
 	-
 
 ---
-[[Session 84]]
-	-
+[[Session 84]] - [[Fight_S84]] - 3
+[[Shadow]] Acrobatics (28)
+[[Shadow]] Perception (26)
+[[Shadow]] / [[Shago]] to hit (25)
 
 ---
-[[Session 85]]
-	-
+[[Session 85]] - [[Fight_S85]] - [[Fight_S85_2]]
+[[Kadrin]] to hit (29)
+[[Talsen]] to hit (30)
+[[Shago]] Initiative (22)
+[[DM]] to hit [[Shago]] (27)
+[[Shadow]] / [[Shago]] STR SAV (27)
+[[Shadow]] / [[Shago]] to hit (27)
+[[DM]] to hit on [[Talsen]] (27)
+[[Talsen]] to hit (30)
 
 ---
 [[Session 86]]
-	-
+[[Shadow]] Intimidation (19)
+[[Talsen]] WIS SAV (19)
+[[DM]] Athletics (23)
+[[Shago]] Stealth (22)
 
 ---
 [[Session 87]]

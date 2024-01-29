@@ -24,7 +24,7 @@ Initiative:
 [[Talsen]] - 13
 [[Kadrin]] - 14
 [[Shadow]] - 24
-[[Delwyn]] - Nat.20 (23)
+[[Delwyn]] - [[Nat.20]] (23)
 [[Shago]] - 13
 [[Musharib]] - 16
 [[Delwyn's Mom]] - 14
@@ -62,7 +62,7 @@ Dodge/Ready:
 - [[Shadow]] casts Hunter's Mark on BS, attacks
 	- SHARPSHOOTER, 25 to hit, 23 DMG
 	- SHARPSHOOTER, 18 to hit, 22 DMG
-	- SHARPSHOOTER, Nat.20 (26) to hit, 47 DMG
+	- SHARPSHOOTER, [[Nat.20]] (26) to hit, 47 DMG
 - [[Delwyn]] casts Fireball on Ca, Cb, CSC, CS, CSH
 	- DEX SAV: FAIL, FAIL, FAIL, FAIL, FAIL
 		- 26 Fire DMG
@@ -118,7 +118,7 @@ Dodge/Ready:
 		- Uses Hemokinesis on BC
 			- CON SAV: 5 - FAIL
 			- He is pushed 5ft away
-	- Nat.20 (30) to hit, 21 DM
+	- [[Nat.20]] (30) to hit, 21 DM
 	- moves to CSH
 		- R: AoO, Ca, 20 to hit, miss
 		- R. AoO, Cb, Nat.1 to hit, miss
@@ -160,7 +160,7 @@ Dodge/Ready:
 		- [[Shadow]]: 23 - 7 DMG
 			- Conc. SAV: 17
 		- [[Kadrin]]: 7, INSPIRATION, 7 - 15 DMG
-		- [[Delwyn]]: Nat.20 (24) - 7 DMG
+		- [[Delwyn]]: [[Nat.20]] (24) - 7 DMG
 		- [[Musharib]]: 16 - 7 DMG
 			- Conc. SAV: 12
 		- [[Shago]]: 24 - 7 DMG
@@ -173,7 +173,7 @@ Dodge/Ready:
 - BC starts running away
 	- R: AoO, [[Musharib]], 6 to hit, miss
 - H attacks CSH
-	- Nat.20 to hit
+	- [[Nat.20]] to hit
 		- CSH is [[Dead]]
 		- [[Kadrin]] dismisses hi grapple
 	- attacks Ca
@@ -204,7 +204,7 @@ Dodge/Ready:
 		- BC is [[Unconscious]] but Stable
 - H attacks [[Talsen]]
 	- 28 to hit, 35 DMG
-		- STR SAV: Nat.20 (26)
+		- STR SAV: [[Nat.20]] (26)
 	- attacks [[Musharib]]
 		- 19 to hit, 23 DMG
 	- uses Bellowing Roar on [[Delwyn]]
@@ -212,7 +212,7 @@ Dodge/Ready:
 
 **Round 5**
 - [[Shadow]] shifts Hunter's Mark on H, runs away
-	-  R: AoO, H, Nat.20 to hit, 66 DMG, STR SAV: 19
+	-  R: AoO, H, [[Nat.20]] to hit, 66 DMG, STR SAV: 19
 		- [[Shadow]] goes to 1 HP and gains "Organ Damage"
 	- dashes further away
 		- CON SAV: 21 - SAVE

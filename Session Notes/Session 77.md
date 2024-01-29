@@ -49,9 +49,9 @@ We go back towards the first crossing to look at the smoke-filled room again
 - [[Talsen]] attacks [[Kadrin]] for asking too many questions
 	- 16 to hit, 7 DMG
 - [[Kadrin]] tries to grapple [[Talsen]]
-	- 21 vs. Nat.20 (29)
+	- 21 vs. [[Nat.20]] (29)
 - [[Talsen]] shoves [[Kadrin]]
-	- Nat.20 (29) vs. 7
+	- [[Nat.20]] (29) vs. 7
 - [[Shadow]] stops her ritual to get back to us
 	- whispers to [[Kadrin]]
 - [[Talsen]] sits in the corner drinking beer
@@ -110,7 +110,7 @@ We go back towards the first crossing to look at the smoke-filled room again
 	- There is a dead [[Firenewt]] Warrior lying on the ground
 		- `The reek of sulfur and burning flesh assaults your nostrils as the tunnel opens into a small chamber. At the northern end of the room is a five-foot-tall statue made of iron, copper, gold, and silver, crudely hammered together into a form suggesting something vaguely humanoid but also fiery.`
 	- [[Shadow]] takes a look at the Statue
-		- Religion: Nat.20 (22)
+		- Religion: [[Nat.20]] (22)
 			- It is a depiction of [[Imix]]
 			- Sees a deformed adamantine Key sticking out of the statue, after looking around it the other one seems to be incorporated in it as well
 	- They topple the statue, it doesn't break

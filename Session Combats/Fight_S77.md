@@ -57,7 +57,7 @@ Dodge/Ready:
 			- EnemyA is [[Dead]]
 	- the lantern snuffs
 - EnemyB attacks [[Talsen]]
-	- Nat.20 to hit, 6 DMG
+	- [[Nat.20]] to hit, 6 DMG
 	- flies away
 - [[Talsen]] chugs the [[Firenewt]] Mutagen
 	- Fire Resistance, Dis. on WIS and INT Sav.
@@ -78,7 +78,7 @@ Dodge/Ready:
 			- EnemyB falls [[Prone]]
 		- 15 to hit, 9 DMG
 			- EnemyB is [[Dead]]
-- [[Talsen]], CON SAV: Nat.20 (22)
+- [[Talsen]], CON SAV: [[Nat.20]] (22)
 	- dashes towards the exit keeping to the left wall
 		- 6 DMG
 - [[Musharib]] pulls in the rope, tries to get [[Shadow]]'s attention

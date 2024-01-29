@@ -73,7 +73,7 @@ Dodge/Ready:
 				- [[Delwyn's Mom]] disappears
 	- disengages
 - Ghb attacks [[Delwyn]]
-	- Nat.20 to hit, 15 DMG
+	- [[Nat.20]] to hit, 15 DMG
 		- CON SAV: 18 - SAVE
 - Gha dashes towards [[Delwyn]]
 - Gb attacks [[Delwyn]]

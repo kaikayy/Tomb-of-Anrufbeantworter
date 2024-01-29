@@ -143,7 +143,7 @@ D Shago
 	- 10 to hit, miss
 - [[Kadrin]] attacks [[Fake Kordelia]], non-lethal
 	- 26 to hit, 13 DMG
-	- Nat.20 (29) to hit, 19 DMG
+	- [[Nat.20]] (29) to hit, 19 DMG
 - [[Shago]] stands up, attacks [[Fake Kordelia]] (crossbow)
 	- 16 to hit, miss
 - [[Fake Kordelia]] shifts her from to an older form with the head of a snake popping out of her hood, talking

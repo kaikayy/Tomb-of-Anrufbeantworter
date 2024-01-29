@@ -12,7 +12,7 @@ Initiative:
 [[Kadrin]] - 10
 [[Shadow]] - 21
 [[Delwyn]] - 5
-[[Shago]] - Nat.20 (22)
+[[Shago]] - [[Nat.20]] (22)
 
 ---
 Conditions:
@@ -46,8 +46,8 @@ Dodge/Ready:
 	- 12 to hit, miss
 	- 17 to hit, miss
 		- R: [[Shago]], Parry
-	- Nat.20 (27) to hit, 16 DMG
-		- STR SAV: Nat.20 (27) - SAVE
+	- [[Nat.20]] (27) to hit, 16 DMG
+		- STR SAV: [[Nat.20]] (27) - SAVE
 - [[Talsen]] attacks CGd
 	- 16 to hit, miss
 	- 17 to hit, miss
@@ -61,7 +61,7 @@ Dodge/Ready:
 
 **Round 2**
 - [[Shago]] attacks CGd
-	- Nat.20 (27) to hit, 24 DMG
+	- [[Nat.20]] (27) to hit, 24 DMG
 	- 25 to hit, 12 DMG
 - CGd attacks [[Shago]]
 	- 20 to hit, 10 DMG
@@ -74,7 +74,7 @@ Dodge/Ready:
 		- R: CGd, Parry
 	- 29 to hit, 21 DMG
 - CGc attacks [[Talsen]]
-	- Nat.20 (27) to hit, 7 DMG
+	- [[Nat.20]] (27) to hit, 7 DMG
 		- 7 Force DMG, [[Nankore, Spear of Lost Love]]
 		- STR SAV: 23 - SAVE
 	- 21 to hit, 13 DMG
@@ -93,7 +93,7 @@ Dodge/Ready:
 	- 29 to hit, 16 DMG
 		- CGd is [[Dead]]
 	- attacks CGc
-	- Nat.20 (30) to hit, 20 DMG
+	- [[Nat.20]] (30) to hit, 20 DMG
 	- drinks a Healing Potion
 		- 5 HP
 - CGc attacks [[Talsen]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X_Stats/Nat.20.md",
+                "file": "X_Stats/Nat.1.md",
                 "mode": "source",
                 "source": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X_Stats/Nat.20.md",
+                "file": "X_Stats/Nat.1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "X_Stats/Nat.20.md"
+                "file": "X_Stats/Nat.1.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X_Stats/Nat.20.md",
+                "file": "X_Stats/Nat.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,8 +223,9 @@
   },
   "active": "3a3402e2f005fd03",
   "lastOpenFiles": [
-    "Session Combats/Fight_S74_75.md",
+    "X_Stats/Inspiration.md",
     "X_Stats/Nat.20.md",
+    "Session Combats/Fight_S74_75.md",
     "Session Notes/Session 71.md",
     "Session Combats/Fight_S71.md",
     "Plans.md",
@@ -254,7 +255,6 @@
     "Session Notes/Session 80.md",
     "Session Notes/Session 83.md",
     "Session Notes/Session 82.md",
-    "Session Notes/Session 81.md",
     "_Attachments/Pasted image 20240115192252.png",
     "_Attachments/Omu Map.png",
     "_Attachments/Inside the Shrine of Shagambi.png",

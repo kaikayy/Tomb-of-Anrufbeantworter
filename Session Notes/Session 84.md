@@ -65,7 +65,7 @@ _Steps descend to a ledge overlooking a pit of sharpened stakes. An alcove on th
 - [[Kadrin]] & [[Shago]] stand ready at the door to hold it open
 - [[Shadow]] gives [[Talsen]] 4 Darts and jumps back towards the door
 	- Acrobatics: 15
-	- Acrobatics: Nat.20 (28)
+	- Acrobatics: [[Nat.20]] (28)
 	- Acrobatics: 25
 	- Acrobatics: 20
 - [[Talsen]] switches the cube with 2 Darts, runs and jumps
@@ -85,7 +85,7 @@ We decide on [[Shagambi’s Shrine]] to be our next destination
 		- [[Delwyn]]: 18
 			- ⌀: 18,4
 	- Perception:
-		- [[Shadow]]:  Nat.20 (26)
+		- [[Shadow]]:  [[Nat.20]] (26)
 			- Hears [[Hugo]] roar far away
 		- [[Delwyn]]: 16
 
