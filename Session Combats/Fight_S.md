@@ -1,7 +1,7 @@
 Session Link:
 [[]]
 Battlemap:
-[[!]]
+![[]]
 
 Enemies:
 Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
