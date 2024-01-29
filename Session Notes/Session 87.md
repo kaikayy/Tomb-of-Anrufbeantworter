@@ -38,4 +38,14 @@ All enter the House
 	- He says he has tea against the poison for [[Kadrin]]
 	- He apologizes for shooting [[Kadrin]]
 	- He invites us for tea in the basement
-		- [[Shadow]], Insight
+		- [[Shadow]], Insight: 15
+			- Seems suspicious
+	- We still see a shortsword on his belt
+- We go to a group meeting out of earshot to discuss what to do with [[Bag of Nails]]
+	- We decide to tell [[Bag of Nails]] that we saw his son near [[Port Nyanzaru]] to lure him away
+		- [[Kadrin]], Deception: 18
+	- [[Talsen]] uncuffs [[Bag of Nails]]
+	- He goes to grab his things
+
+We run over to the other side of the Street and enter [[Unkh's Shrine]]
+- 
