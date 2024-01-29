@@ -111,4 +111,11 @@ We arrive at [[I'jin's Shrine]]
 	- [[Shadow]], Animal Handling: 20
 - We arrive at a closed door and open it to see a pedestal with the [[Puzzle Cube of I'jin]] on it
 	- [[Shadow]] takes the Puzzle Cube
-- [[T]]
+- [[Talsen]] runs into a dead end
+	- Nat.1 (7) to hit, miss
+	- a swinging axe comes out of the wall and dents [[Talsen]]'s Helmet
+
+We go back out of [[I'jin's Shrine]]
+- We plan for the Days ahead
+
+# LEVEL UP
