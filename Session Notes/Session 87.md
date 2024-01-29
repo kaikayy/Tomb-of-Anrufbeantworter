@@ -48,4 +48,26 @@ All enter the House
 	- He goes to grab his things
 
 We run over to the other side of the Street and enter [[Unkh's Shrine]]
-- 
+- `Swirly carvings decorate two obelisks at the entrance to this compound. An overgrown courtyard lies under the shade of tall palms. Stone doors seal the entrance to a windowless shrine, with a smaller ruin standing nearby.`
+- There is writing above the door:
+	- "Unkh urges us to contrast all options before acting."
+- We look into the smaller ruin
+	- `The roof of this workshop collapsed long ago, and now a thick mass of plants grows from the rubble. Through the moss, you see hundreds of iron keys hanging from hooks on the wall. Some are bent and broken, while others are rusted beyond repair. The rest look serviceable.`
+	- ![[Pasted image 20240129205656.png]]
+- [[Talsen]] checks if the door to the Shrine is trapped
+	- Investigation: 8
+		- No Trap
+	- Opens the Shrine door
+- `A statue of a giant snail looms before you. In place of antennae, it has five pseudopods ending in rocky clubs. Along the walls, six iron keys hang in small niches above stone plinths. Behind the statue, a carved pedestal in a wide alcove has a keyhole set into its base.`
+- [[Kadrin]] uses Divine Sense
+	- nothing
+- [[Talsen]] looks through the room for clues
+	- Investigation: 21
+		- The pedestal has a hatch
+- We solve the riddle with the power of friendship and receive the [[Puzzle Cube of Unkh]]
+
+[[Kadrin]] casts Speak with Animals and tries to talk to [[Velcro]]
+- Asks if it wants to see more places or stay here
+	- It wants to see "other places with food"
+
+We plan to make our way to 
