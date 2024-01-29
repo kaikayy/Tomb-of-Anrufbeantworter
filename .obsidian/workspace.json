@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "3b0e50f64589eb8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Combats/Fight_S87.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2bc5a0b14b98bc4f",
@@ -49,21 +36,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "76ac6665e25b6af1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Bag of Nails.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Combats/Fight_S87.md",
+                "file": "Session Notes/Session 87.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Combats/Fight_S87.md"
+                "file": "Session Notes/Session 87.md"
               }
             }
           },
@@ -164,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Combats/Fight_S87.md",
+                "file": "Session Notes/Session 87.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,10 +191,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3b0e50f64589eb8f",
+  "active": "3a3402e2f005fd03",
   "lastOpenFiles": [
-    "NPCs/Bag of Nails.md",
     "Session Combats/Fight_S87.md",
+    "NPCs/Bag of Nails.md",
+    "Session Notes/Session 48.md",
     "Session Notes/Session 87.md",
     "Session Notes/Session 86.md",
     "Locations/Omu.md",
@@ -251,7 +226,6 @@
     "Items/Puzzle Cube of Shagambi.md",
     "Session Notes/Session 85.md",
     "Session Combats/Fight_S85_3.md",
-    "Session Notes/Session 84.md",
     "_Attachments/Pasted image 20240115192252.png",
     "_Attachments/Omu Map.png",
     "_Attachments/Inside the Shrine of Shagambi.png",
