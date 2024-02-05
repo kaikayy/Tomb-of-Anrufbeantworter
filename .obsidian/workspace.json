@@ -43,18 +43,6 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "3ca8455f2eb68e9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/I'jin's Shrine.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ]
       },
@@ -245,13 +233,18 @@
   },
   "active": "cc378c04efef2388",
   "lastOpenFiles": [
-    "Locations/I'jin's Shrine.md",
     "Locations/Wongo's Shrine.md",
+    "_Attachments/Pasted image 20240205200100.png",
+    "Session Notes/Session 88.md",
+    "_Attachments/Pasted image 20240205195943.png",
+    "Locations/I'jin's Shrine.md",
+    "Locations/Nangalore.md",
+    "Locations/Orolunga.md",
+    "Bestiary/Madzi.md",
     "Locations/Kubazan’s Shrine.md",
     "Locations/Unkh's Shrine.md",
     "Session Notes/Watch_Vorlage.md",
     "NPCs/Vegepygme.md",
-    "Session Notes/Session 88.md",
     "Session Notes/Session 87.md",
     "Locations/Omu.md",
     "Items/Puzzle Cube of I'jin.md",
@@ -274,17 +267,11 @@
     "Session Notes/Session 86.md",
     "Session Combats/Fight_S.md",
     "_Attachments/Pasted image 20240129190121.png",
-    "X_Stats/Nat.1.md",
-    "X_Stats/Inspiration.md",
-    "X_Stats/Nat.20.md",
-    "Session Combats/Fight_S74_75.md",
     "Z_Canvas/Plans.canvas",
     "Z_Canvas/Main Story.canvas",
     "Z_Canvas/General.canvas",
     "Z_Canvas/Current Planning.canvas",
     "_Attachments/Pasted image 20240122212521.png",
-    "_Attachments/Pasted image 20240122202011.png",
-    "_Attachments/Pasted image 20240115192252.png",
     "desktop.ini",
     "_Attachments/Logo Video.mp4",
     "#publish.css",
