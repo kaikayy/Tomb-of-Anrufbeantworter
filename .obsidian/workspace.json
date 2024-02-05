@@ -13,12 +13,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 88.md",
+                "file": "Session Notes/Session 88.md",
                 "mode": "source",
                 "source": true
               }
             },
             "group": "0d8e6ff8758add86"
+          },
+          {
+            "id": "d5802454bd433966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Vegepygme.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4cc3e79f3cfd891f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Wongo's Shrine.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3ca8455f2eb68e9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/I'jin's Shrine.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       },
@@ -32,24 +68,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 88.md",
+                "file": "Session Notes/Session 88.md",
                 "mode": "preview",
                 "source": true
               }
             },
             "group": "0d8e6ff8758add86"
-          },
-          {
-            "id": "438c47dcd58a65fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 87.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           },
           {
             "id": "5f4b3943c9195b51",
@@ -63,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 88.md",
+                "file": "Session Notes/Session 88.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 88.md"
+                "file": "Session Notes/Session 88.md"
               }
             }
           },
@@ -165,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 88.md",
+                "file": "Session Notes/Session 88.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,13 +245,17 @@
   },
   "active": "cc378c04efef2388",
   "lastOpenFiles": [
-    "Session Notes/Session 87.md",
-    "Session 88.md",
-    "Locations/Omu.md",
+    "Locations/I'jin's Shrine.md",
+    "Locations/Wongo's Shrine.md",
+    "Locations/Kubazan’s Shrine.md",
+    "Locations/Unkh's Shrine.md",
     "Session Notes/Watch_Vorlage.md",
+    "NPCs/Vegepygme.md",
+    "Session Notes/Session 88.md",
+    "Session Notes/Session 87.md",
+    "Locations/Omu.md",
     "Items/Puzzle Cube of I'jin.md",
     "Puzzle Cube of Unkh.md",
-    "I'jin's Shrine.md",
     "_Attachments/Pasted image 20240129213712.png",
     "_Attachments/Pasted image 20240129212857.png",
     "_Attachments/Pasted image 20240129212512.png",
@@ -236,7 +263,6 @@
     "Items/Puzzle Cube of Kubazan.md",
     "Session Notes/Session 81.md",
     "_Attachments/Pasted image 20240129205656.png",
-    "Locations/Unkh's Shrine.md",
     "_Attachments/Pasted image 20240129205343.png",
     "Session Notes/Session 5.md",
     "Locations/House of the Man and the Crocodile.md",
@@ -252,9 +278,6 @@
     "X_Stats/Inspiration.md",
     "X_Stats/Nat.20.md",
     "Session Combats/Fight_S74_75.md",
-    "Session Notes/Session 71.md",
-    "Session Combats/Fight_S71.md",
-    "Plans.md",
     "Z_Canvas/Plans.canvas",
     "Z_Canvas/Main Story.canvas",
     "Z_Canvas/General.canvas",
