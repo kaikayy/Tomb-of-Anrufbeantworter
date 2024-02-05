@@ -89,4 +89,35 @@ We move on to [[Wongo's Shrine]]
 		- A voice in [[Kadrin]]'s Head offers him to take the Cube and curse his friends or fight and earn it
 	- ### [[Fight_S88]]
 	- [[Kadrin]] takes the [[Puzzle Cube of Wongo]]
+- we leave the Shrine
+
+We stealth toward the next Shrine
+Stealth:
+- [[Kadrin]]: 5
+- [[Talsen]]: 15
+- [[Delwyn]]: 12
+- [[Shadow]]: 28
+- [[Shago]]: 12
+	- ⌀ 14,4
+
+Perception:
+- [[Shadow]]: 24 
+- [[Delwyn]]: 10
+	- Nothing dangerous to see
+
+On our path we see: `An overturned wagon lies on the street ahead. Rotting flower petals litter the ground around it, and bees nest in its broken wheels. A freshly cut garland of jungle flowers hangs from the wagon’s tongue.`
+- the flowers around the cart also look more vibrant than anything else in Omu
+- [[Shadow]] sees the bees collecting pollen
+	- a bees tells [[Shadow]] that their master gives them new flowers every day
+		- a small person with black skin who wears a mask
+	- Nature: 21 - It's a [[Chwinga]]
+	- larger creatures fear master
+- [[Shadow]] plucks a few flowers and brings them to the bees
+	- looks into the wagon, there is wood and a big stone disk covered in moss
+	- puts the flowers down
+	- a [[Chwinga]] appears out of the moss on the stone disk and it smells of honey
+	- the [[Chwinga]] goes near [[Kadrin]]
 	- 
+
+
+We search a building on the way, d100()

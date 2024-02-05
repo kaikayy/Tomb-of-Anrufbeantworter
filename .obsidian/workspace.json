@@ -19,42 +19,6 @@
               }
             },
             "group": "9dfdf1dd0116f756"
-          },
-          {
-            "id": "7985a8997c53bc3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Puzzle Cube of Wongo.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d5802454bd433966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Vegepygme.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1cdc05f1de50873f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Puzzle Cube of Unkh.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ]
       },
@@ -270,10 +234,11 @@
   },
   "active": "41928ea95dc5e8c0",
   "lastOpenFiles": [
+    "Session Notes/Watch_Vorlage.md",
+    "Session Notes/Session 88.md",
     "Items/Puzzle Cube of Unkh.md",
     "Items/Navel of the Moon.md",
     "NPCs/Sand of the Beach.md",
-    "Session Notes/Session 88.md",
     "Items/Puzzle Cube of Wongo.md",
     "Session Combats/Fight_S88.md",
     "_Attachments/Pasted image 20240205203849.png",
@@ -288,7 +253,6 @@
     "Bestiary/Madzi.md",
     "Locations/Kubazan’s Shrine.md",
     "Locations/Unkh's Shrine.md",
-    "Session Notes/Watch_Vorlage.md",
     "Session Notes/Session 87.md",
     "Locations/Omu.md",
     "Items/Puzzle Cube of I'jin.md",
