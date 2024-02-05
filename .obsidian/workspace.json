@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc378c04efef2388",
+            "id": "41928ea95dc5e8c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,7 +18,19 @@
                 "source": true
               }
             },
-            "group": "0d8e6ff8758add86"
+            "group": "9dfdf1dd0116f756"
+          },
+          {
+            "id": "7985a8997c53bc3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Puzzle Cube of Wongo.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           },
           {
             "id": "d5802454bd433966",
@@ -31,6 +43,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "1cdc05f1de50873f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Puzzle Cube of Unkh.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       },
@@ -38,6 +62,31 @@
         "id": "59d89c5fbfa736df",
         "type": "tabs",
         "children": [
+          {
+            "id": "cfc2ed75232dae0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 88.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "9dfdf1dd0116f756"
+          },
+          {
+            "id": "56d2df5515b0183f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Combats/Fight_S88.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
           {
             "id": "2ae25c6bc06f1398",
             "type": "leaf",
@@ -51,19 +100,6 @@
             }
           },
           {
-            "id": "7dfd19acac199275",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 88.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "0d8e6ff8758add86"
-          },
-          {
             "id": "5f4b3943c9195b51",
             "type": "leaf",
             "state": {
@@ -75,7 +111,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,10 +268,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cc378c04efef2388",
+  "active": "41928ea95dc5e8c0",
   "lastOpenFiles": [
-    "Session Notes/Session 86.md",
+    "Items/Puzzle Cube of Unkh.md",
+    "Items/Navel of the Moon.md",
+    "NPCs/Sand of the Beach.md",
     "Session Notes/Session 88.md",
+    "Items/Puzzle Cube of Wongo.md",
+    "Session Combats/Fight_S88.md",
+    "_Attachments/Pasted image 20240205203849.png",
+    "Session Notes/Session 86.md",
     "NPCs/Vegepygme.md",
     "Locations/Wongo's Shrine.md",
     "_Attachments/Pasted image 20240205200100.png",
@@ -249,29 +292,23 @@
     "Session Notes/Session 87.md",
     "Locations/Omu.md",
     "Items/Puzzle Cube of I'jin.md",
-    "Puzzle Cube of Unkh.md",
     "_Attachments/Pasted image 20240129213712.png",
     "_Attachments/Pasted image 20240129212857.png",
     "_Attachments/Pasted image 20240129212512.png",
-    "Sand of the Beach.md",
     "Items/Puzzle Cube of Kubazan.md",
     "Session Notes/Session 81.md",
     "_Attachments/Pasted image 20240129205656.png",
     "_Attachments/Pasted image 20240129205343.png",
     "Session Notes/Session 5.md",
     "Locations/House of the Man and the Crocodile.md",
-    "Navel of the Moon.md",
     "Session Combats/Fight_S87.md",
     "NPCs/Bag of Nails.md",
     "_Attachments/Bag of Nails.png",
-    "Session Notes/Session 48.md",
-    "Session Combats/Fight_S.md",
     "_Attachments/Pasted image 20240129190121.png",
     "Z_Canvas/Plans.canvas",
     "Z_Canvas/Main Story.canvas",
     "Z_Canvas/General.canvas",
     "Z_Canvas/Current Planning.canvas",
-    "_Attachments/Pasted image 20240122212521.png",
     "desktop.ini",
     "_Attachments/Logo Video.mp4",
     "#publish.css",

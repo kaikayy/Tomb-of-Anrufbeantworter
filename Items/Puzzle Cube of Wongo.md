@@ -1,0 +1,1 @@
+6 sided, 3 inch cube with a depiction of Su-Monster on each side

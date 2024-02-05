@@ -84,3 +84,9 @@ We move on to [[Wongo's Shrine]]
 		- `I ate one of the boar's friends`
 	- [[Delwyn]] uses the [[Wand of Secrets]]
 		- it points to the statue
+	- We try pouring water onto the statues left hand
+	- The [[Puzzle Cube of Wongo]] appears
+		- A voice in [[Kadrin]]'s Head offers him to take the Cube and curse his friends or fight and earn it
+	- ### [[Fight_S88]]
+	- [[Kadrin]] takes the [[Puzzle Cube of Wongo]]
+	- 
