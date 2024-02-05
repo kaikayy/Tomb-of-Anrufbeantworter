@@ -47,4 +47,40 @@ We search another bigger building, d100(35)
 We move on to [[Wongo's Shrine]]
 - `Carvings of monkeys hanging by their tails decorate two cracked obelisks that stand before a shrine enclosed by broken walls. Past the obelisks is a courtyard filled with horsetails and arum lilies. Five archways open into darkness at the base of the ruin. Mounted above the central arch is a stone plaque bearing a cuneiform inscription.`
 - The Inscription reads: `“Better to be Wongo’s friend than his enemy.”`
-- 
+- [[Talsen]] goes between the obelisks and suddenly hears the screaming of thousands of apes in his head, it stops 5ft after that
+- [[Kadrin]] goes between the obelisks as well
+- [[Delwyn]] goes in and out, then goes through a crack in the outer wall instead
+	- [[Shago]] and [[Shadow]] follow
+		- No monkeys
+- [[Kadrin]], History: 2
+	- Finds nothing on Wongo in his book
+- [[Talsen]] keeps outside and looks into the Legend of the Nine Gods
+- Everyone else goes in
+	- `A ten-foot-tall stone statue of an evil-looking monkey balances on its tail atop a stone dais in the middle of this twenty-foot-high chamber. The statue’s limbs are splayed, with hands and feet cupped. On the wall behind, a sculpted relief shows a monkey-like creature tearing into a giant serpent. Cuneiform inscriptions are carved above and below the relief. Four masks of painted stone protrude from the walls; they depict the heads of a lion, a zebra, a boar, and a vulture.`
+	- [[Delwyn]], Nature: 3
+		- doesn't know what a jaculi is
+	- [[Kadrin]] uses Divine Sense
+		- nothing
+	- [[Talsen]] tells the others that Wongo was a friend of the Omuens, not of Ubtao
+		- reads the text on the wall inside
+			- Investigation: 11
+			- A passage of the Legend of the Nine Gods
+				- `Wongo's friend knows where to pour the water`
+	- [[Kadrin]], Nature: 6
+		- also doesn't know what a jaculi is, maybe something snake like
+	- [[Shadow]] goes through the corridor and arrive at the Vultures mask
+		- There is text in old-omuen
+			- it says `one of the others has no friends`
+		- looks through the mask
+			- a beam of light shines onto the left hand of the statue
+	- We check the other masks
+	- Vulture: left hand
+		- `One of the others has no friends`
+	- Boar: left foot
+		- `The Vulture is lucky to be alive`
+	- Zebra: Right Foot
+		- `My Only Friend Starved to death`
+	- Lion: right hand
+		- `I ate one of the boar's friends`
+	- [[Delwyn]] uses the [[Wand of Secrets]]
+		- it points to the statue
