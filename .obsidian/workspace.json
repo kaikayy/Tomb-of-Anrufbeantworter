@@ -19,6 +19,18 @@
               }
             },
             "group": "26b5b814659cd712"
+          },
+          {
+            "id": "3f91fec8eb2682fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Watch_Vorlage.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       },
@@ -207,9 +219,12 @@
   },
   "active": "f34d48387a1c5d1f",
   "lastOpenFiles": [
+    "Locations/Tomb of Nine Gods.md",
+    "_Attachments/Pasted image 20240212204758.png",
+    "Session Notes/Watch_Vorlage.md",
+    "Session Notes/Session 89.md",
     "NPCs/Artus Cimber.md",
     "Items/Ring of Winter.md",
-    "Session Notes/Session 89.md",
     "_Attachments/Pasted image 20240212194300.png",
     "PCs/Delwyn.md",
     "Glossary/Zaranite.md",
@@ -218,7 +233,6 @@
     "Organizations/Hag'se Organization.md",
     "Session Notes/Papazotl's Shrine.md",
     "_Attachments/Pasted image 20240212192333.png",
-    "Session Notes/Watch_Vorlage.md",
     "X_Stats/_Vorlage.md",
     "Session Notes/Session 88.md",
     "Locations/Omu.md",
@@ -236,13 +250,11 @@
     "Session Combats/Fight_S88.md",
     "_Attachments/Pasted image 20240205203849.png",
     "Session Notes/Session 86.md",
-    "NPCs/Vegepygme.md",
     "_Attachments/Pasted image 20240205200100.png",
     "_Attachments/Pasted image 20240205195943.png",
     "_Attachments/Pasted image 20240129213712.png",
     "_Attachments/Pasted image 20240129212857.png",
     "_Attachments/Pasted image 20240129212512.png",
-    "_Attachments/Pasted image 20240129205656.png",
     "Z_Canvas/Plans.canvas",
     "Z_Canvas/Main Story.canvas",
     "Z_Canvas/General.canvas",

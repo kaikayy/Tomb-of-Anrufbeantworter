@@ -43,7 +43,7 @@ We arrive at [[Papazotl's Shrine]]
 		- every direction
 	- Survival: 15
 		- there are muddy footprints going into and out of the temple
-		- seems to be about 5 people
+		- seems to be about 4 people
 - [[Delwyn]] tells his findings
 - [[Kadrin]] gives [[Talsen]] a crocodile tooth, he requested
 
@@ -51,9 +51,27 @@ We discuss what we want to do next inside the Shrine or who might be after the P
 - [[Delwyn]] takes a look at the ground beneath the water and tries to see if there is anything unusual
 	- Investigation: Nat.1 (1)
 	- Takes more time to looking into the surrounding area
-		- Investigation: 
+		- Investigation: Nat.20 (20)
+			- The footprints seem to go around the shrine
 - [[Kadrin]] thinks that his sister might have [[Hubris]] now
 	- that is something that [[Soul Warden]] would do
 	- [[Talsen]], History: 12
 	- [[Shadow]] asks [[Summerwise]]
-		- None of [[Artus Cimber]]'s Group carries a C
+		- None of [[Artus Cimber]]'s Group carries a Crossbow
+- [[Shadow]] casts Locate Object to locate [[Hubris]]
+	- 600ft NWW from us, not moving, near the [[Tomb of Nine Gods]]
+- The muddy footprints do not include a lizardfolk
+- [[Talsen]], Survival: 10
+	- Probably no gnomes and halflings
+
+We decide to go towards the [[Tomb of Nine Gods]]
+- Stealth:
+	- [[Shadow]]: 25
+	- [[Kadrin]]: 6
+	- [[Delwyn]]: 14
+	- [[Talsen]]: 9
+	- [[Shago]]: 13
+		- ⌀ 13,4
+- We arrive near the entrance and hide behind a house nearby
+	- `Near the base of the cliffs, a fifteen-foot-tall obelisk of cracked stone is draped with vines and black moss. Behind it, you see a dark passageway obscured by withered creepers. A second, smaller tunnel burrows into the base of a cliff to the east.`
+- We discuss the best scouting places and investigate the house we're hiding behind
