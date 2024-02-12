@@ -23,7 +23,28 @@ We arrive at [[Papazotl's Shrine]]
 	- `An empty pedestal stands in the middle of this chamber. Six statues face it from alcoves on the walls. They depict bare-chested humans with the heads of different animals. From left to right, the heads resemble those of a lizard, a jaguar, a lobster, a toucan, a bat, and a frog.`
 - [[Delwyn]] uses the [[Wand of Secrets]]
 	- points towards the bat-headed statue
-- [[Shadow]] sees an open latch on the pedestal
+- [[Shadow]] sees an open latch on the pedestal and text in common
+	- `Comes with sunshine Leaves with night Hides in darkness Does not bite Always joined to its caster Never strays from its master`
 - [[Kadrin]] uses Divine Sense
-	- [[Zaranite]] eminates from the bodies of the croco
-- 
+	- [[Zaranite]] emanates from the bodies of the crocodiles
+- [[Talsen]] investigates the Bat statue
+	- Investigation: 12
+	- Sees a crawlspace forming with the shadow from the light on his blade
+- [[Delwyn]] crawls through the crawlspace and arrives in a small room, there is a grid on the wall
+	- ![[Pasted image 20240212194300.png]]
+	- The message from the pedestal is written into the grid, the darker spaces combine to the words "cover eyes"
+		- INT: 18
+	- leaves the room again
+- [[Kadrin]] investigates the Crocodiles Corpses outside
+	- Investigation: 3
+		- Pockets the [[Zaranite]] tipped crossbow bolts
+- [[Shadow]] looks from where the crocodiles were hit
+	- Medicine: 14
+		- every direction
+	- Survival: 15
+		- there are muddy footprints going into and out of the temple
+		- seems to be about 5 people
+- [[Delwyn]] tells his findings
+- [[Kadrin]] gives [[Talsen]] a crocodile tooth, he requested
+
+We discuss what we want to do next
