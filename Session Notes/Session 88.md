@@ -134,4 +134,3 @@ We search a building on the way, d100(64)
 
 We arrive near [[Papazotl's Shrine]], at the edge of the sea
 - the water is just 2ft deep and we wade through it
-- 

@@ -25,12 +25,13 @@ Weather:
 ##### SHORT REST (End)
 
 
-		- Stealth:
-		- [[Shadow]]: 
-		- [[Kadrin]]: 
-		- [[Delwyn]]: 
-		- [[Talsen]]: 
-			- ⌀ 
+- Stealth:
+	- [[Shadow]]: 
+	- [[Kadrin]]: 
+	- [[Delwyn]]: 
+	- [[Talsen]]: 
+	- [[Shago]]: 
+		- ⌀ 
 
 
 - Normal Travel + Forage
