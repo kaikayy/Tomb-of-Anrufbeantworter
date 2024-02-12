@@ -92,4 +92,18 @@ We decide to go towards the [[Tomb of Nine Gods]]
 	- ![[Pasted image 20240212212312.png|200]]
 	- Nat.20 to hit on the Owl
 		- Owl is dead
-- 
+- [[Shadow]] casts Healing Word on [[Kadrin]]
+	- 9 HP
+	- [[Kadrin]] replenishes 6HP for himself
+
+We prepare for battle
+- [[Kadrin]] casts Armor of Agathys, regains 1 Spellslot
+-  [[Kadrin]] teleports with [[Talsen]] towards the House
+- [[Delwyn]] casts Animate Objects
+- [[Shadow]] attacks the person in the window
+	- casts Hail of Thorns, attacks
+		- SHARPSHOOTER, 18 to hit, 18 DMG
+		- DEX SAV: -
+			- 12 / 25 DMG 
+- [[Shago]] runs out towards the building
+- [[Fight_S89]]
