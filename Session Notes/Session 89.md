@@ -47,4 +47,13 @@ We arrive at [[Papazotl's Shrine]]
 - [[Delwyn]] tells his findings
 - [[Kadrin]] gives [[Talsen]] a crocodile tooth, he requested
 
-We discuss what we want to do next
+We discuss what we want to do next inside the Shrine or who might be after the Puzzle Cubes as well
+- [[Delwyn]] takes a look at the ground beneath the water and tries to see if there is anything unusual
+	- Investigation: Nat.1 (1)
+	- Takes more time to looking into the surrounding area
+		- Investigation: 
+- [[Kadrin]] thinks that his sister might have [[Hubris]] now
+	- that is something that [[Soul Warden]] would do
+	- [[Talsen]], History: 12
+	- [[Shadow]] asks [[Summerwise]]
+		- None of [[Artus Cimber]]'s Group carries a C

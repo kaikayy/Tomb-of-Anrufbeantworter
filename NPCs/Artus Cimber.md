@@ -1,4 +1,4 @@
-- Wanted by the [[Zhentarim]]
+Wanted by the [[Zhentarim]]
 ![[Artus Cimber.png]]
 ![[Dinosaur man.png]]
 ![[Ice Ring.png]]
