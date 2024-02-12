@@ -75,3 +75,21 @@ We decide to go towards the [[Tomb of Nine Gods]]
 - We arrive near the entrance and hide behind a house nearby
 	- `Near the base of the cliffs, a fifteen-foot-tall obelisk of cracked stone is draped with vines and black moss. Behind it, you see a dark passageway obscured by withered creepers. A second, smaller tunnel burrows into the base of a cliff to the east.`
 - We discuss the best scouting places and investigate the house we're hiding behind
+- We go to hide inside the house
+- [[Shadow]] casts Find Familiar and summons an Owl (2 HP) to scout out the Obelisk and Area
+	- Perception: 16
+		- Hears voices from the building across from ours
+		- There is a plague with writing on the obelisk
+	- sneaks to the side of the mountainous wall that shows the perimeter of [[Omu]]
+		- lets the owl read the text on the Obelisk
+			- `Fear the night when the forsaken one seizes death’s mantle and the seas dry up and the dead rise and I, Acererak the Eternal, reap the world of the living. Those who dare enter take heed: The enemies oppose. One stands between them. In darkness, it hides. Don the mask or be seen. Speak no truth to the doomed child. The keys turn on the inside only.`
+- The rest of the party hides behind the outer wall of the building as [[Shadow]] shares information about voices near us
+- [[Kadrin]], Nature: 5
+	- no dangerous plants in sight
+- [[Shadow]] sneaks back to the rest of the party
+- The party sneaks forward a bit and [[Shadow]] sends the Owl to see who is inside the other building
+	- There is a person leaning on the window the Owl is looking through
+	- ![[Pasted image 20240212212312.png|200]]
+	- Nat.20 to hit on the Owl
+		- Owl is dead
+- 
