@@ -115,9 +115,23 @@ On our path we see: `An overturned wagon lies on the street ahead. Rotting flowe
 - [[Shadow]] plucks a few flowers and brings them to the bees
 	- looks into the wagon, there is wood and a big stone disk covered in moss
 	- puts the flowers down
-	- a [[Chwinga]] appears out of the moss on the stone disk and it smells of honey
-	- the [[Chwinga]] goes near [[Kadrin]]
-	- 
+-  a [[Chwinga]] appears out of the moss on the stone disk and it smells of honey
+	- the [[Chwinga]] goes toward [[Talsen]]
+	- the bees lift up the [[Chwinga]] near [[Talsen]]'s face
+	- the [[Chwinga]] crawls into [[Talsen]]'s beard
+	- it pulls at the beard and nods toward the wagon
+	- `A moss-covered stone disk lies half-buried in the mud underneath the wagon. Concentric rings of inscriptions cover its surface — some written in Common and others etched in jagged cuneiform.`
+	- It says: `“Queen Napaka proclaims that the free people of Omu fear nothing. Brave new gods protect us, as Ubtao did before but does no longer. Omu will rise again, and Napaka shall reclaim all that is hers by right of conquest.”`
+	- [[Talsen]], History: 28
+		- The Stone seems to be 90-100 years old
+	- [[Talsen]], History: 10
+		- doesn't know the timeline too well
 
+We search a building on the way, d100(64)
+- d100(24)
+- [[Shadow]], DEX SAV: Nat.20 (29)
+	- The ground crumbles
 
-We search a building on the way, d100()
+We arrive near [[Papazotl's Shrine]], at the edge of the sea
+- the water is just 2ft deep and we wade through it
+- 

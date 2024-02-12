@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,13 +214,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,8 +232,17 @@
   },
   "active": "41928ea95dc5e8c0",
   "lastOpenFiles": [
-    "Session Notes/Watch_Vorlage.md",
+    "Session Notes/Papazotl's Shrine.md",
+    "_Attachments/Pasted image 20240205215948.png",
     "Session Notes/Session 88.md",
+    "Session Notes/Session 87.md",
+    "Locations/Unkh's Shrine.md",
+    "Locations/Port Nyanzaru.md",
+    "Locations/Omu.md",
+    "Locations/City of Mezro.md",
+    "Locations/Nangalore.md",
+    "Session Notes/Session 41.md",
+    "Session Notes/Watch_Vorlage.md",
     "Items/Puzzle Cube of Unkh.md",
     "Items/Navel of the Moon.md",
     "NPCs/Sand of the Beach.md",
@@ -248,13 +255,9 @@
     "_Attachments/Pasted image 20240205200100.png",
     "_Attachments/Pasted image 20240205195943.png",
     "Locations/I'jin's Shrine.md",
-    "Locations/Nangalore.md",
     "Locations/Orolunga.md",
     "Bestiary/Madzi.md",
     "Locations/Kubazan’s Shrine.md",
-    "Locations/Unkh's Shrine.md",
-    "Session Notes/Session 87.md",
-    "Locations/Omu.md",
     "Items/Puzzle Cube of I'jin.md",
     "_Attachments/Pasted image 20240129213712.png",
     "_Attachments/Pasted image 20240129212857.png",
@@ -263,12 +266,7 @@
     "Session Notes/Session 81.md",
     "_Attachments/Pasted image 20240129205656.png",
     "_Attachments/Pasted image 20240129205343.png",
-    "Session Notes/Session 5.md",
-    "Locations/House of the Man and the Crocodile.md",
-    "Session Combats/Fight_S87.md",
-    "NPCs/Bag of Nails.md",
     "_Attachments/Bag of Nails.png",
-    "_Attachments/Pasted image 20240129190121.png",
     "Z_Canvas/Plans.canvas",
     "Z_Canvas/Main Story.canvas",
     "Z_Canvas/General.canvas",
