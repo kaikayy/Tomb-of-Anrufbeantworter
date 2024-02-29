@@ -8,6 +8,7 @@ Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
 [[Herald]]
 Thazma - T
 Hag'se Operative#42,#72 - HO42,47
+[[Hubert Brisworth]]
 
 Initiative:
 [[Talsen]] - 4
@@ -74,13 +75,19 @@ D - tals
 		- 13 to hit, miss
 - [[Talsen]] runs towards [[Kadrin]]
 	- dodges
+- [[Hubert Brisworth]] appears out of Building B
 
 **Round 2**
 - [[Shadow]]
+- [[Herald]]
+- T
+- HO42
+- HO47
 - [[Shago]]
 - [[Kadrin]]
 - [[Delwyn]]
 - [[Talsen]]
+- [[Hubert Brisworth]]
 
 **Round 3**
 - [[Shadow]]
