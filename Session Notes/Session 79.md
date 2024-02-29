@@ -3,7 +3,7 @@ Recap - [[Kadrin]]
 [[Kadrin]] didn't manage to get the Sword out, [[Talsen]] wants to try it in the morning
 - [[Talsen]] wants to go to [[Port Nyanzaru]] tomorrow but first, sleep
 - [[Kadrin]] checks for life signs on [[Delwyn]]
-	- Medicine: Nat.1 (0)
+	- Medicine: [[Nat.1]] (0)
 		- He is sure [[Delwyn]] is not breathing
 	- Panicked, [[Kadrin]] asks around
 	- [[Musharib]] casts Cure Wounds on [[Delwyn]]

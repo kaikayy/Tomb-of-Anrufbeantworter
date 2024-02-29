@@ -22,7 +22,7 @@ Initiative:
 [[Shago]] (Played by Katha) - 18
 [[Musharib]] - 18
 ~~Hound ([[Delwyn's Mom]]) - 18~~
-~~Hound  ([[Delwyn's Mom]]) - Nat.1 (3)~~
+~~Hound  ([[Delwyn's Mom]]) - [[Nat.1]] (3)~~
 
 ---
 Conditions:
@@ -136,13 +136,13 @@ R Shadow
 			- Conc. SAV ([[Musharib]]): 23
 - _The Lava bubbles more violently and from it, a Fire Elemental erupts. [[Ragnis]] does the Ragnaros speech and talks about causing the volcanic eruptions he is causing_
 - R attacks [[Musharib]]
-	- Nat.1 to hit, miss
+	- [[Nat.1]] to hit, miss
 		- R: [[Talsen]], Eyeless
 	- 20 to hit, -4, 16 to hit, 16 DMG
 		- Conc. SAV: 21
 	- 11 to hit, miss
 - FWc grapples [[Shago]]
-	- Athletics: Nat.1 vs. Athletics: 22
+	- Athletics: [[Nat.1]] vs. Athletics: 22
 	- Athletics: 5 vs. Athletics: 9
 	- runs away
 		- R: AoO, [[Shago]], 17 to hit, 6 DMG, STR SAV: 2, falls [[Prone]]
@@ -208,9 +208,9 @@ R Shadow
 - [[Shago]] readies his cation
 - [[Musharib]] lowers the dwarf from the Ceiling, goes to him and shakes him
 	- R: AoO, R, 10 to hit, miss
-		- R: SENTINEL, [[Kadrin]], Nat.1 (12) to hit, miss
+		- R: SENTINEL, [[Kadrin]], [[Nat.1]] (12) to hit, miss
 - R attacks [[Shago]]
-	- STR SAV: Nat.1 (5)
+	- STR SAV: [[Nat.1]] (5)
 		- pulls [[Shago]] into the Lava
 			- 77 Fire DMG
 	- changes his whip back to two scimitars, attacks [[Kadrin]]
@@ -233,7 +233,7 @@ R Shadow
 		-  6 Fire DMG
 			- Armor of Agathys fades
 - [[Kadrin]] moves
-	- R: FWf, AoO, Nat.1 to hit, miss
+	- R: FWf, AoO, [[Nat.1]] to hit, miss
 	- tries to take [[Shago]] into divine custody
 		- grapples [[Shago]]
 		- STR: 12
@@ -336,7 +336,7 @@ R Shadow
 - FF is obscured
 - DoDa attacks [[Talsen]]
 	- 10 to hit, miss
-		- R: [[Kadrin]], SENTINEL, Nat.1 (10) to hit, miss
+		- R: [[Kadrin]], SENTINEL, [[Nat.1]] (10) to hit, miss
 	- 16 to hit, miss
 		- R: AoO, [[Talsen]], 25 to hit, 21 DMG
 - [[Kadrin]] restores a Spellslot, goes into the room
@@ -463,7 +463,7 @@ R Shadow
 			- R: [[Kadrin]], SENTINEL, 15 to hit, miss
 		- 11 to hit, miss
 		- runs back into the darkness
-			- R: [[Shago]], AoO, 23 to hit, 7 DMG, STR SAV: Nat.1 - FAIL, FWf2 is [[Prone]], stands back up
+			- R: [[Shago]], AoO, 23 to hit, 7 DMG, STR SAV: [[Nat.1]] - FAIL, FWf2 is [[Prone]], stands back up
 - FWg2 is obscured
 - FWh2 is obscured
 - [[Kadrin]] stands up from [[Prone]]

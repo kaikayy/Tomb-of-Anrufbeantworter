@@ -83,7 +83,7 @@ The Fight ends, [[Kadrin]] collapses as [[Shadow]] catches him and carries him a
 		- In both compartments is the mold for a key
 	- [[Talsen]] tells her that he jumped the bridge before
 		- [[Sithi Vinecutter]] says that that is impressive
-			- [[Talsen]], Insight: Nat.1 (0)
+			- [[Talsen]], Insight: [[Nat.1]] (0)
 
 ##### SHORT REST (End)
 

@@ -48,3 +48,22 @@
 [[Kadrin]] rerolls STR SAV from 6 to 12, useless
 
 ---
+[[Session 71]] - [[Fight_S71]] - 2
+[[Talsen]] gets [[Kadrin]]'s to reroll WIS SAV from 8 to 19, useful
+[[Talsen]] rerolls Athletics from 11 to 10, useless
+
+---
+[[Session 73]] - 1
+[[Shadow]] rerolls Perception from 7 to 16, useful
+
+---
+[[Session 77]] - 1
+[[Talsen]] rerolls Athletics from 12 to 16, useless
+
+---
+[[Session 81]] - [[Session 82]] - [[Fight_S81_82]] - 1
+[[Kadrin]] rerolls DEX SAV from 7 to 7, useless
+
+---
+[[Session 83]] - 1
+[[Kadrin]] gets [[Talsen]]'s to reroll Insight from 5 to 2, useless

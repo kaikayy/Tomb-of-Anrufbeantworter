@@ -12,7 +12,7 @@ Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
 Initiative:
 [[Talsen]] - 3
 [[Kadrin]] - 5
-[[Shadow]] - Nat.1 (9)
+[[Shadow]] - [[Nat.1]] (9)
 [[Delwyn]] - 6
 [[Shago]] - 21
 

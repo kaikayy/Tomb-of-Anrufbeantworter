@@ -56,7 +56,7 @@ Dodge/Ready:
 					- FWb is [[Prone]]
 - FAb,c attack [[Shadow]]
 	- 15 to hit, miss
-	- Nat.1(4) to hit, miss
+	- [[Nat.1]](4) to hit, miss
 	- 9 to hit, miss
 	- 12 to hit, miss
 - [[Musharib]] attacks FWb
@@ -97,7 +97,7 @@ Dodge/Ready:
 		- 5 DMG
 	- attacks [[Musharib]]
 		- 15 to hit, 2 DMG
-			- Conc. SAV: Nat.1 (4)
+			- Conc. SAV: [[Nat.1]] (4)
 - [[Talsen]] freezes his weapon, attacks FCb
 	- 19 to hit, 16 DMG
 	- 29 to hit, 17 DMG
@@ -148,7 +148,7 @@ Dodge/Ready:
 	- 13 to hit, miss
 - FWd attacks [[Musharib]]
 	- 21 to hit, 4 DMG
-	- Nat.1 (4) to hit, miss
+	- [[Nat.1]] (4) to hit, miss
 - [[Talsen]] attacks FCc
 	- 26 to hit, 14 DMG
 	- 28 to hit, 16 DMG

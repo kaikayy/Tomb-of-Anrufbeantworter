@@ -59,7 +59,7 @@ We leave [[Shagambi’s Shrine]] to get to the next building over stealthily
 		- [[Shadow]]: 30
 		- [[Kadrin]]: 8
 		- [[Delwyn]]: 6
-		- [[Talsen]]: Nat.1 (2)
+		- [[Talsen]]: [[Nat.1]] (2)
 		- [[Shago]]: 4
 			- ⌀: 10
 - We hear footsteps running toward us

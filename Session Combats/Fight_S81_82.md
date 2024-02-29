@@ -121,7 +121,7 @@ Dodge/Ready:
 	- [[Nat.20]] (30) to hit, 21 DM
 	- moves to CSH
 		- R: AoO, Ca, 20 to hit, miss
-		- R. AoO, Cb, Nat.1 to hit, miss
+		- R. AoO, Cb, [[Nat.1]] to hit, miss
 - CSC attacks [[Talsen]]
 	- 22 to hit, 11 DMG
 	- 23 to hit, 13 DMG
@@ -159,7 +159,7 @@ Dodge/Ready:
 	- DEX SAV:
 		- [[Shadow]]: 23 - 7 DMG
 			- Conc. SAV: 17
-		- [[Kadrin]]: 7, INSPIRATION, 7 - 15 DMG
+		- [[Kadrin]]: 7, [[INSPIRATION]], 7 - 15 DMG
 		- [[Delwyn]]: [[Nat.20]] (24) - 7 DMG
 		- [[Musharib]]: 16 - 7 DMG
 			- Conc. SAV: 12
@@ -255,7 +255,7 @@ Dodge/Ready:
 	- WIS SAV: 14 - FAIL
 - [[Shago]] flees
 - [[Talsen]] uses Hemokinesis to move H
-	- CON SAV: Nat.1 - FAIL
+	- CON SAV: [[Nat.1]] - FAIL
 		- [[Musharib]] is no longer grappled and drops 20ft.
 			- loses 1 Death Save
 	- grabs [[Musharib]] off of the ground and runs away with him
@@ -266,7 +266,7 @@ Dodge/Ready:
 		- [[Musharib]] is [[Dead]]
 		- R: Attack on H, Spear, 25 to hit, 9 Force DMG
 	- attacks [[Talsen]]
-		- WIS SAV: Nat.1 - FAIL
+		- WIS SAV: [[Nat.1]] - FAIL
 	- swallows [[Musharib]]
 
 **Round 7**

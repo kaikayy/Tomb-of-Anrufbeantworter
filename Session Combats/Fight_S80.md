@@ -64,7 +64,7 @@ Dodge/Ready:
 - Gc tries to free himself from the grapple, fails
 
 **Round 2**
-- [[Delwyn]], CON SAV: Nat.1 (6) - FAIL
+- [[Delwyn]], CON SAV: [[Nat.1]] (6) - FAIL
 	- is now [[Poisoned]]
 	- casts quickened Fireball on Gha, Ghb, Ga, Gb, [[Delwyn's Mom]]
 		- DEX SAV: Save, Fail, Save, Save, Fail

@@ -14,7 +14,7 @@ Recap - [[Talsen]]
 
 #### LONG REST -> Day 11
 Weather: Grey Skies
-[[Kadrin]] cooks, DEX: Nat.1 (6)
+[[Kadrin]] cooks, DEX: [[Nat.1]] (6)
 
 [[Musharib]] says that we are coming up on [[Ataaz Yklwazi]] which is the only entrance to the north into the [[Valley of Lost Honor]] where [[Hrakhamar]] is located.
 - [[Delwyn]] History: 18

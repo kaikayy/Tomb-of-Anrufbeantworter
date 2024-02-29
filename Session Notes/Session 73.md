@@ -32,7 +32,7 @@ We make our way towards the [[Valley of Lost Honor]]
 We make camp on one of the big spikes still jutting out of the ash
 
 1. Watch - [[Shadow]], [[Kadrin]]
-- Perc.: Nat.1 (7), INSPIRATION, 16, 15
+- Perc.: [[Nat.1]] (7), [[INSPIRATION]], 16, 15
 - They both hear the flapping of wings in the distance, as suddenly 200-300 feet away the dunes are drenched in flame as the head of a red dragon flashes shortly. Screams erupt briefly and then silence. The wing sounds flap away westward.
 
 2. Watch - [[Delwyn]], [[Shago]]
@@ -81,7 +81,7 @@ We try to sneak
 - [[Kadrin]] casts Silent Image around [[Talsen]] and himself
 - [[Musharib]] casts Pass without a trace on everyone
 	- Stealth:
-		- [[Talsen]]: Nat.1 (12)
+		- [[Talsen]]: [[Nat.1]] (12)
 		- [[Kadrin]]: 25
 		- [[Shadow]]: 40
 		- [[Delwyn]]: 25

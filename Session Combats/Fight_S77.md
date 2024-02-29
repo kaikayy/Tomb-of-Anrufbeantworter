@@ -12,7 +12,7 @@ Initiative:
 [[Shadow]] - 27
 [[Delwyn]] - 19
 [[Shago]] - /
-[[Musharib]] - Nat.1 (2)
+[[Musharib]] - [[Nat.1]] (2)
 
 ---
 Conditions:
@@ -53,7 +53,7 @@ Dodge/Ready:
 - EnemyA attacks [[Kadrin]]
 	- 19 to hit, forces his mouth open
 		- AoO: [[Kadrin]], 17 to hit, 12 DMG
-		- AoO: [[Talsen]], Nat.1 (10) to hit, miss
+		- AoO: [[Talsen]], [[Nat.1]] (10) to hit, miss
 			- EnemyA is [[Dead]]
 	- the lantern snuffs
 - EnemyB attacks [[Talsen]]

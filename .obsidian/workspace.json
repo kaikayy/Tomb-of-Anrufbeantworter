@@ -13,53 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S89.md",
+                "file": "X_Stats/Nat.1.md",
                 "mode": "source",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "3f91fec8eb2682fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Watch_Vorlage.md",
-                "mode": "source",
-                "source": true
-              }
-            }
+            },
+            "group": "99cdb71807c759b3"
           }
         ]
       },
       {
-        "id": "59d89c5fbfa736df",
+        "id": "a0dc95c5b612abbe",
         "type": "tabs",
         "children": [
           {
-            "id": "fea55599a47f1c41",
+            "id": "98925c75afa205a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S89.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5f4b3943c9195b51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Omu.md",
+                "file": "X_Stats/Nat.1.md",
                 "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "99cdb71807c759b3"
           }
         ]
       }
@@ -127,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Combats/Fight_S89.md",
+                "file": "X_Stats/Nat.1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Combats/Fight_S89.md"
+                "file": "X_Stats/Nat.1.md"
               }
             }
           },
@@ -162,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Combats/Fight_S89.md",
+                "file": "X_Stats/Nat.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,12 +195,17 @@
   },
   "active": "f34d48387a1c5d1f",
   "lastOpenFiles": [
-    "Session Notes/Session 89.md",
+    "Session Combats/Fight_S81_82.md",
+    "X_Stats/Nat.1.md",
+    "Session Combats/Fight_S71.md",
+    "X_Stats/Inspiration.md",
+    "Session Notes/Watch_Vorlage.md",
+    "X_Stats/{Nat.19}.md",
     "Session Combats/Fight_S89.md",
+    "Session Notes/Session 89.md",
     "_Attachments/Pasted image 20240212212312.png",
     "Locations/Tomb of Nine Gods.md",
     "_Attachments/Pasted image 20240212204758.png",
-    "Session Notes/Watch_Vorlage.md",
     "NPCs/Artus Cimber.md",
     "Items/Ring of Winter.md",
     "_Attachments/Pasted image 20240212194300.png",
@@ -243,11 +226,6 @@
     "Locations/City of Mezro.md",
     "Locations/Nangalore.md",
     "Session Notes/Session 41.md",
-    "Items/Puzzle Cube of Unkh.md",
-    "Items/Navel of the Moon.md",
-    "NPCs/Sand of the Beach.md",
-    "Items/Puzzle Cube of Wongo.md",
-    "Session Combats/Fight_S88.md",
     "_Attachments/Pasted image 20240205203849.png",
     "_Attachments/Pasted image 20240205200100.png",
     "_Attachments/Pasted image 20240205195943.png",

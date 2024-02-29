@@ -25,9 +25,9 @@ We continue to have light conversation until mid afternoon
 - [[Musharib]] meditates
 - [[Shago]] procures firewood
 - [[Talsen]] makes a Map of [[Orolunga]], INT: 22
-- [[Delwyn]] whittles his flute, DEX: Nat.1 (4)
+- [[Delwyn]] whittles his flute, DEX: [[Nat.1]] (4)
 	- Destroyes his flute
-- [[Shadow]] practices her flute, Performance: Nat.1 (0)
+- [[Shadow]] practices her flute, Performance: [[Nat.1]] (0)
 - [[Kadrin]] play his drums, Performance: 13
 ---
 [[Kadrin]] trains with [[Hubris]] and the [[Longsword of Purging]]

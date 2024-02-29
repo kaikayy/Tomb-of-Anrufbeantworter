@@ -62,7 +62,7 @@ D Shago
 	- 15 to hit, miss
 - [[Kadrin]] cries out to his sister, she answers that their father was right and he is not a human like them and therefore has to die
 	- Insight: 9
-		- (Prob. Deception [[DM]]: Nat.1), Seems "Out of Character" for her
+		- (Prob. Deception [[DM]]: [[Nat.1]]), Seems "Out of Character" for her
 	- casts Command on [[Fake Kordelia]]
 		- R: [[Fake Kordelia]], COUNTERSPELL
 - [[Shago]] -
@@ -102,7 +102,7 @@ D Shago
 - [[Talsen]] looks into the rooms, dashes
 	- Finds [[Fake Kordelia]] as well as C, V & P
 	- Backs off
-		- R: AoO, V, Nat.1 to hit, miss
+		- R: AoO, V, [[Nat.1]] to hit, miss
 - [[Musharib]] dashes through the corridor onto the platform by the lava river
 - P attacks [[Musharib]]
 	- 7 to hit, miss

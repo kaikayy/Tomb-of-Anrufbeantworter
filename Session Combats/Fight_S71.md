@@ -12,11 +12,11 @@ Long Name (referred to as Short Name)
 ~~Tiefling - T~~
 
 Initiative:
-[[Talsen]] - Nat.1 (2)
+[[Talsen]] - [[Nat.1]] (2)
 [[Kadrin]] - 10
 [[Shadow]] - 23
 [[Delwyn]] - 13
-[[Musharib]] - Nat.1 (2)
+[[Musharib]] - [[Nat.1]] (2)
 [[Shago]] - 14
 [[Stomps]] - 5
 
@@ -54,7 +54,7 @@ Dodge/Ready:
 - Mc tries to lure us to come to it (Pollen)
 	- WIS SAV: [[Kadrin]], [[Shadow]], [[Talsen]], [[Stomps]]
 		- 17, [[Nat.20]] (23), 8, 5
-			- INSPIRATION from [[Kadrin]] on [[Talsen]]
+			- [[INSPIRATION]] from [[Kadrin]] on [[Talsen]]
 				- [[Nat.20]] (19)
 		- [[Stomps]] fails
 - AVa,b appear
@@ -70,10 +70,10 @@ Dodge/Ready:
 	- DEX SAV: 12, 10, 15+ - FAIL, FAIL, SAVE
 		- 18 /36 Fire DMG
 	- Quickened Fire Bolt on Md
-		- Nat.1 (8) to hit, miss
+		- [[Nat.1]] (8) to hit, miss
 - Ma tries to lure us to come to it (Pollen)
 	- WIS SAV: [[Kadrin]], [[Shadow]]
-		- Nat.1 (3), 16 - FAIL, SAVE
+		- [[Nat.1]] (3), 16 - FAIL, SAVE
 - Mb appears
 - [[Kadrin]] takes 22 Poison DMG
 	- casts Armor of Agathys
@@ -89,7 +89,7 @@ Dodge/Ready:
 - [[Musharib]] casts Speak with Plants to free [[Shago]] from Md
 	- Spell Casting Check: WIS: 4
 - [[Talsen]] attacks the vine grappling [[Kadrin]]
-	- Athletics.: 11, INSIRATION: Nat.1 (10)
+	- Athletics.: 11, [[INSPIRATION]] [[Nat.1]] (10)
 
 **Round 2**
 - [[Shadow]] backs off

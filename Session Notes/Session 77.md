@@ -82,7 +82,7 @@ We go back towards the first crossing to look at the smoke-filled room again
 - [[Shadow]] jumps over again and goes back to [[Kadrin]] and [[Talsen]]
 - [[Kadrin]] wants to protect [[Talsen]], [[Talsen]] doesn't want him near him
 - [[Talsen]] tries to go out, [[Kadrin]] grapples [[Talsen]]
-	- 17 vs. 12, INSPIRATION, 16
+	- 17 vs. 12, [[INSPIRATION]], 16
 		- [[Talsen]] is [[Grappled]]
 			- [[Talsen]] tries to break out
 				- 23 vs. 27

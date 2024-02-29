@@ -8,7 +8,7 @@ R1
 - [[Kadrin]] casts Major Image to summon an Image of [[Tzindelor]]
 	- Deception: 7 - FAIL
 - [[Shago]] (Kata) tries to lure Hugo away from the Others
-	- Deception: Nat.1 (3) - FAIL
+	- Deception: [[Nat.1]] (3) - FAIL
 - [[Delwyn]] casts Darkness to blind Hugo
 	- Stealth: 10 - SUCCESS
 
@@ -128,7 +128,7 @@ They go back to [[Orvex Ocrammas]]
 We get [[Orvex Ocrammas]] out of the rubble
 - he can move his legs, kept only his research notes and the map
 - we talk to him over survival in the jungle and live on [[Chult]]
-	- [[Kadrin]], Insight: 5, INSPIRATION ([[Talsen]]), 2
+	- [[Kadrin]], Insight: 5, [[INSPIRATION]] ([[Talsen]]), 2
 		- He is really beat up and exhausted
 - [[Kadrin]] asks him if he would work for the [[Red Wizards of Thay]] again if he was to be living safe in [[Port Nyanzaru]]
 	- He says he would certainly not, they are pricks

@@ -33,13 +33,13 @@ We make our way to [[Omu]] through the [[Webway of Ubtao]]
 	- [[Kadrin]], Perception: 11
 	- [[Shadow]], Perception: 25
 		- notices blackened stone on one of the [[Yuan-Ti]] positions
-- [[Delwyn]], History: Nat.1 (4)
+- [[Delwyn]], History: [[Nat.1]] (4)
 	- Doesn't know what languages these snake people speak
 - As we look out onto the city, there is smoke rising from a nearby compound
 - We advance to the next building
 	- it seems fortified and seems to have had a military purpose once
 	- [[Shadow]], [[Kadrin]] look into the broken windows
-		- Perception: Nat.1 (7), 18
+		- Perception: [[Nat.1]] (7), 18
 		- [[Kadrin]] sees six small creatures with five even smaller baby creatures [[Zorbo]]
 		- ![[Zorbo.png]]
 		- to one of the walls are rusted old weapons
@@ -49,7 +49,7 @@ We make our way to [[Omu]] through the [[Webway of Ubtao]]
 		- It seems collapsed and completely ransacked
 - [[Musharib]] casts pass without a trace and we advance further
 	- Stealth:
-		- [[Kadrin]]: Nat.1 (13)
+		- [[Kadrin]]: [[Nat.1]] (13)
 		- [[Musharib]]: 19
 		- [[Shadow]]: 38
 		- [[Delwyn]]: 32

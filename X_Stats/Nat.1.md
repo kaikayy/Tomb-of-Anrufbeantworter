@@ -355,72 +355,104 @@
 	-
 
 ---
-[[Session 69]]
-	-
+[[Session 69]] - 1
+[[Delwyn]] Arcana (4)
 
 ---
-[[Session 70]]
-	-
+[[Session 70]] - 2
+[[Delwyn]] DEX (4)
+[[Shadow]] Performance (0)
 
 ---
-[[Session 71]]
-	-
+[[Session 71]] - [[Fight_S71]] - 5
+[[Talsen]] Initiative (2)
+[[Musharib]] Initiative (2)
+[[Delwyn]] to hit (10)
+[[Kadrin]] WIS SAV (3)
+[[Talsen]] Athletics (10)
 
 ---
-[[Session 72]]
-	-
+[[Session 72]] - [[Fight_S72]] - 4
+[[Kadrin]] DEX (6)
+[[DM]] to hit on [[Shadow]] (4)
+[[Musharib]] Conc. SAV (4)
+[[DM]] to hit on [[Musharib]] (4)
 
 ---
-[[Session 73]]
-	-
+[[Session 73]] - 2
+[[Shadow]] Perception (7)
+[[Talsen]] Stealth (12)
 
 ---
 [[Session 74]]
 	-
 
 ---
+[[Fight_S74_75]] - 8
+[[Delwyn's Mom]] Initiative (3)
+[[DM]] to hit on [[Musharib]]
+[[DM]] to grapple [[Shago]]
+[[Kadrin]] to hit (12)
+[[Shago]] STR SAV (5)
+[[DM]] to hit on [[Kadrin]]
+[[Kadrin]] to hit (10)
+[[DM]] STR SAV
+
+---
 [[Session 75]]
 	-
 
 ---
-[[Session 76]]
-	-
+[[Session 76]] - [[Fight_S76]] - 3
+[[Talsen]] Insight (0)
+[[DM]] Deception
+[[DM]] to hit on [[Talsen]]
 
 ---
-[[Session 77]]
-	-
+[[Session 77]] - [[Fight_S77]] - 2
+[[Musharib]] Initiative (2)
+[[Talsen]] to hit (10)
 
 ---
 [[Session 78]]
 	-
 
 ---
-[[Session 79]]
-	-
+[[Session 79]] - 1
+[[Kadrin]] Medicine (0)
 
 ---
-[[Session 80]]
-	-
+[[Session 80]] - [[Fight_S80]] - 1
+[[Delwyn]] CON SAV (6)
 
 ---
-[[Session 81]]
-	-
+[[Session 81]] - 3
+[[Delwyn]] History (4)
+[[Shadow]] Perception (7)
+[[Kadrin]] Stealth (13)
+
+---
+[[Fight_S81_82]] - 3
+[[DM]] to hit on [[Talsen]]
+[[DM]] CON SAV
+[[DM]] WIS SAV
 
 ---
 [[Session 82]]
 	-
 
 ---
-[[Session 83]]
-	-
+[[Session 83]] - 1
+[[Shago]] Deception (3)
 
 ---
-[[Session 84]]
-	-
+[[Session 84]] - [[Fight_S84]] - 1
+[[Shadow]] Initiative (9)
 
 ---
-[[Session 85]]
-	-
+[[Session 85]] - [[Fight_S85]] - [[Fight_S85_2]] - [[Fight_S85_3]] - 8
+[[Talsen]] Stealth (2)
+
 
 ---
 [[Session 86]]
