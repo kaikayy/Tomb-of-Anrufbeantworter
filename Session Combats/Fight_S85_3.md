@@ -11,7 +11,7 @@ Initiative:
 [[Talsen]] - 19
 [[Kadrin]] - 5
 [[Shadow]] - 23
-[[Delwyn]] - Nat.1 (4)
+[[Delwyn]] - [[Nat.1]] (4)
 [[Shago]] - 10
 
 ---

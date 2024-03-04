@@ -508,16 +508,18 @@
 [[Shago]] Stealth (22)
 
 ---
-[[Session 87]]
-	-
+[[Session 87]] - [[Fight_S87]] - 1
+[[Shadow]] Initiative (28)
 
 ---
-[[Session 88]]
-	-
+[[Session 88]] - 1
+[[Shadow]] DEX SAV (29)
 
 ---
-[[Session 89]]
-	-
+[[Session 89]] - [[Fight_S89]] - 3
+[[Delwyn]] Investigation (20)
+[[Shadow]] to hit
+[[DM]] to hit
 
 ---
 [[Session 90]]

@@ -36,9 +36,9 @@ We search another bigger building, d100(35)
 - [[Talsen]] fastens four torches to his feet as stilts and goes toward the corpses
 	- Acrobatics: 13
 		- Avoids the roses, arrives at the corpses
-	- Perception: Nat.1 (0)
+	- Perception: [[Nat.1]] (0)
 		- The vines slightly move
-	- Acrobatics: Nat.1 (2)
+	- Acrobatics: [[Nat.1]] (2)
 		- moves back, falls
 			- DEX SAV: 13 - SAVE
 		- [[Shadow]] pulls [[Talsen]] back with the rope
@@ -129,7 +129,7 @@ On our path we see: `An overturned wagon lies on the street ahead. Rotting flowe
 
 We search a building on the way, d100(64)
 - d100(24)
-- [[Shadow]], DEX SAV: Nat.20 (29)
+- [[Shadow]], DEX SAV: [[Nat.20]] (29)
 	- The ground crumbles
 
 We arrive near [[Papazotl's Shrine]], at the edge of the sea

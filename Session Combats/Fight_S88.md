@@ -57,7 +57,7 @@ Dodge/Ready:
 - SMb laughs and screeches at [[Talsen]]
 	- WIS SAV: 1 - FAIL
 		- 12 Psychic DMG, [[Talsen]] is [[Stunned]]
-- [[Talsen]] WIS SAV: Nat.1 (0) - FAIL
+- [[Talsen]] WIS SAV: [[Nat.1]] (0) - FAIL
 - [[Shago]] attacks SMb
 	- 18 to hit, 12 DMG
 	- 19 to hit, 12 DMG

@@ -112,7 +112,7 @@ We arrive at [[I'jin's Shrine]]
 - We arrive at a closed door and open it to see a pedestal with the [[Puzzle Cube of I'jin]] on it
 	- [[Shadow]] takes the Puzzle Cube
 - [[Talsen]] runs into a dead end
-	- Nat.1 (7) to hit, miss
+	- [[Nat.1]] (7) to hit, miss
 	- a swinging axe comes out of the wall and dents [[Talsen]]'s Helmet
 
 We go back out of [[I'jin's Shrine]]

@@ -452,23 +452,34 @@
 ---
 [[Session 85]] - [[Fight_S85]] - [[Fight_S85_2]] - [[Fight_S85_3]] - 8
 [[Talsen]] Stealth (2)
-
+[[Shadow]] Initiative (9)
+[[DM]] to hit on [[Talsen]]
+[[DM]] to hit on [[Kadrin]]
+[[DM]] to hit on [[Kadrin]]
+[[DM]] to hit on [[Talsen]]
+[[Talsen]] to hit (10)
+[[Delwyn]] Initiative (4)
 
 ---
 [[Session 86]]
 	-
 
 ---
-[[Session 87]]
-	-
+[[Session 87]] - 1
+[[DM]] to hit on [[Talsen]] (7)
 
 ---
-[[Session 88]]
-	-
+[[Session 88]] - [[Fight_S88]] 3
+[[Talsen]] Perception (0)
+[[Talsen]] Acrobatics (2)
+[[Talsen]] WIS SAV (0)
 
 ---
-[[Session 89]]
-	-
+[[Session 89]] - [[Fight_S89]] - 4
+[[Kadrin]] Stealth (3)
+[[Delwyn]] Investigation (1)
+[[Delwyn]] Initiative (4)
+[[DM]] to hit
 
 ---
 [[Session 90]]

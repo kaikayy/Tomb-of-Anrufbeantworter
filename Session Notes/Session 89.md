@@ -10,7 +10,7 @@ We arrive at [[Papazotl's Shrine]]
 - [[Kadrin]] upholds silent image to cover us with a ball of water
 - Stealth:
 	- [[Shadow]]: 20
-	- [[Kadrin]]: Nat.1 (3)
+	- [[Kadrin]]: [[Nat.1]] (3)
 	- [[Delwyn]]: 10
 	- [[Talsen]]: 11
 	- [[Shago]]: 11
@@ -49,9 +49,9 @@ We arrive at [[Papazotl's Shrine]]
 
 We discuss what we want to do next inside the Shrine or who might be after the Puzzle Cubes as well
 - [[Delwyn]] takes a look at the ground beneath the water and tries to see if there is anything unusual
-	- Investigation: Nat.1 (1)
+	- Investigation: [[Nat.1]] (1)
 	- Takes more time to looking into the surrounding area
-		- Investigation: Nat.20 (20)
+		- Investigation: [[Nat.20]] (20)
 			- The footprints seem to go around the shrine
 - [[Kadrin]] thinks that his sister might have [[Hubris]] now
 	- that is something that [[Soul Warden]] would do
@@ -90,7 +90,7 @@ We decide to go towards the [[Tomb of Nine Gods]]
 - The party sneaks forward a bit and [[Shadow]] sends the Owl to see who is inside the other building
 	- There is a person leaning on the window the Owl is looking through
 	- ![[Pasted image 20240212212312.png|200]]
-	- Nat.20 to hit on the Owl
+	- [[Nat.20]] to hit on the Owl
 		- Owl is dead
 - [[Shadow]] casts Healing Word on [[Kadrin]]
 	- 9 HP

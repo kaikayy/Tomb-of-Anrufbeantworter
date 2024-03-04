@@ -98,7 +98,7 @@ Dodge/Ready:
 		- 5 HP
 - CGc attacks [[Talsen]]
 	- 18 to hit, miss
-	- Nat.1 to hit, miss
+	- [[Nat.1]] to hit, miss
 	- 20 to hit, miss
 
 **Round 4**
@@ -107,7 +107,7 @@ Dodge/Ready:
 		- R: CGc, Parry
 	- 17 to hit, 15 DMG
 - [[Talsen]] heals for 3 HP, attacks CGc
-	- Nat.1 (10) to hit, miss
+	- [[Nat.1]] (10) to hit, miss
 	- 21 to hit, 19 DMG
 - CGc attacks [[Talsen]]
 	- 26 to hit, 12 DMG

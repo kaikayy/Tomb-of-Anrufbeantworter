@@ -10,7 +10,7 @@ Clay Gladiator - CGa,b
 Initiative:
 [[Talsen]] - 3
 [[Kadrin]] - 19
-[[Shadow]] - Nat.1 (9)
+[[Shadow]] - [[Nat.1]] (9)
 [[Delwyn]] - 22
 [[Shago]] - 20
 
@@ -56,7 +56,7 @@ Dodge/Ready:
 - CGb attacks [[Talsen]]
 	- 19 to hit, miss
 		- R: [[Kadrin]], Sentinel, [[{Nat.19}]] (28) to hit, SMITE, 54 DMG
-	- Nat.1 to hit, miss
+	- [[Nat.1]] to hit, miss
 	- 24 to hit, 8 DMG
 		- STR SAV: 25 - SAVE
 - [[Talsen]] cuts [[Kadrin]] loose, attacks CGa
@@ -73,7 +73,7 @@ Dodge/Ready:
 - CGa attacks [[Kadrin]]
 	- 9 to hit, miss
 	- 13 to hit, miss
-	- Nat.1 to hit, miss
+	- [[Nat.1]] to hit, miss
 - [[Shadow]] readies an attack if both [[Kadrin]] & [[Talsen]] are downed
 - CGb attacks [[Talsen]]
 	- 19 to hit, miss
@@ -115,7 +115,7 @@ Dodge/Ready:
 		- R: CGa, Parry
 - CGa attacks [[Kadrin]]
 	- 9 to hit, miss
-	- Nat.1 to hit, miss
+	- [[Nat.1]] to hit, miss
 	- 23 to hit, 10 DMG
 		- STR SAV: 16 - SAVE
 		- CGa gets 3 Psychic DMG

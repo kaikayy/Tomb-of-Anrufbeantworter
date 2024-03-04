@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X_Stats/Nat.1.md",
+                "file": "X_Stats/Nat.20.md",
                 "mode": "source",
                 "source": true
               }
             },
             "group": "99cdb71807c759b3"
+          },
+          {
+            "id": "c5114e1ecaa99eeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Combats/Fight_S89.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       },
@@ -32,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X_Stats/Nat.1.md",
+                "file": "X_Stats/Nat.20.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X_Stats/Nat.1.md",
+                "file": "X_Stats/Nat.20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "X_Stats/Nat.1.md"
+                "file": "X_Stats/Nat.20.md"
               }
             }
           },
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X_Stats/Nat.1.md",
+                "file": "X_Stats/Nat.20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,13 +207,13 @@
   },
   "active": "f34d48387a1c5d1f",
   "lastOpenFiles": [
-    "Session Combats/Fight_S81_82.md",
     "X_Stats/Nat.1.md",
+    "Session Combats/Fight_S89.md",
+    "Session Combats/Fight_S81_82.md",
     "Session Combats/Fight_S71.md",
     "X_Stats/Inspiration.md",
     "Session Notes/Watch_Vorlage.md",
     "X_Stats/{Nat.19}.md",
-    "Session Combats/Fight_S89.md",
     "Session Notes/Session 89.md",
     "_Attachments/Pasted image 20240212212312.png",
     "Locations/Tomb of Nine Gods.md",

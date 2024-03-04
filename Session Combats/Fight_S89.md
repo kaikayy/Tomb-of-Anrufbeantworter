@@ -14,7 +14,7 @@ Initiative:
 [[Talsen]] - 4
 [[Kadrin]] - 9
 [[Shadow]] - 25
-[[Delwyn]] - Nat.1 (4)
+[[Delwyn]] - [[Nat.1]] (4)
 [[Shago]] - 13
 Animated Tree - AT
 Animated Rock - AR
@@ -61,8 +61,8 @@ D - tals
 		- AT is [[Charmed]]
 - T appears in darkness
 - HO42,47 attack Animated Stone
-	- Nat.20 to hit, 10 DMG
-	- Nat.1 to hit, miss
+	- [[Nat.20]] to hit, 10 DMG
+	- [[Nat.1]] to hit, miss
 	- 11 to hit, miss
 	- 15 to hit, 6 DMG
 - [[Shago]] dashes
