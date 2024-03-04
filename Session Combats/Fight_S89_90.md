@@ -1,4 +1,4 @@
-Session Link:
+[[Session Link:
 [[Session 89]]
 Battlemap:
 ![[Pasted image 20240304190532.png]]
@@ -33,6 +33,7 @@ Conditions:
 
 [[Kadrin]]:
 - [[Concentration]] (Divine Favor)
+- ~~[[Grappled]]~~
 
 [[Shago]]: 
 - 
@@ -47,6 +48,7 @@ Enemies:
 - Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
 - ~~T - [[Concentration]]~~
 - [[Herald]] - [[Concentration]]
+- [[Hubert Brisworth]] - Brand
 
 
 ---
@@ -100,10 +102,31 @@ D - Hubert
 	- 8 to hit, miss
 - [[Shago]] attacks HO47
 	- 17 to hit, 8 DMG
-- [[Kadrin]] tries to intimidate [[Hubert Brisworth]]
-- [[Delwyn]] 
-- [[Talsen]] 
-- [[Hubert Brisworth]] 
+- [[Kadrin]] tries to intimidate [[Hubert Brisworth]], fails, attacks HO47
+	- 26 to hit, 27 DMG
+	- 26 to hit, 24 DMG
+- [[Delwyn]] casts Magic Missile on HO47, [[Hubert Brisworth]]
+	- 8 Force DMG, 2 Force DMG
+		- HO47 is [[Dead]]
+	- AR attacks [[Hubert Brisworth]]
+		- 15 to hit, miss
+- [[Talsen]] tries to push [[Hubert Brisworth]], attacks
+	- CON SAV: 11 - FAIL
+		- 24 to hit, 17 DMG
+		- 14 to hit, miss
+- [[Hubert Brisworth]] drops his sword, tries to grapple [[Kadrin]]
+	- Nat.20 (27) vs. Nat.20 (22) Acrobatics
+	- he talks to [[Kadrin]], saying he left something in the bushes near the tomb
+	- casts Lay on Hands on [[Kadrin]]
+		- 40 HP
+		- [[Kadrin]]'s Wings sprout back into angelic form, his hair starts to glow again, loses Shadow of Moil, gains Mantle of Dawn
+		- [[Kadrin]] hears the [[Soul Warden]] in his head
+			- WIS SAV: 8, INSPIRATION ([[Talsen]]), 16 - SAVE
+	- drops Grapple
+		- R: AoO, AR, 10 to hit, miss
+		- [[Talsen]], Arcana: 26
+		- [[Shadow]], Religion: Nat.20 (24)
+			- [[Hubert Brisworth]] did not try to corrupt [[Kadrin]]
 
 **Round 3**
 - [[Shadow]] 
@@ -170,3 +193,4 @@ asd
 asd
 asd
 **Round 9**
+]]
