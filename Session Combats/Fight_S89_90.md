@@ -1,4 +1,4 @@
-[[Session Link:
+Session Link:
 [[Session 89]]
 Battlemap:
 ![[Pasted image 20240304190532.png]]
@@ -153,47 +153,28 @@ Dodge/Ready:
 - [[Shadow]] attacks HO42
 	- SHARPSHOOTER, 19 to hit, 19 DMG
 	- SHARPSHOOTER, 18 to hit, 22 DMG
-- HO42 
-- [[Shago]] 
-- [[Kadrin]] 
-- [[Delwyn]] 
-- [[Talsen]] 
+- HO42 attacks [[Talsen]]
+	- 22 to hit, 14 DMG
+		- WIS SAV: 11 - SAVE
+	- 23 to hit, 5 DMG
+- [[Shago]] attacks HO42
+	- 21 to hit, 8 DMG
+		- R: Interception, [[Talsen]], -14 DMG
+- [[Kadrin]] attacks HO42
+	- 13 to hit, miss
+	- Nat.1 (11) to hit, miss
+- [[Delwyn]] dashes
+	- AR attacks HO42
+		- 16 to hit, 6 DMG
+- [[Talsen]] drops his manacles by [[Kadrin]], moves
+	- R: AoO, HO42, 21 to hit, 8 DMG
+	- R: SENTINEL, [[Kadrin]], 12 to hit, miss
+	- Starts to chase T
 
 **Round 5**
-- [[Shadow]] 
-- HO42 
-- [[Shago]] 
-- [[Kadrin]] 
-- [[Delwyn]] 
-- [[Talsen]] 
-
-**Round 6**
-- [[Shadow]] 
-- [[Herald]] 
-- T 
-- HO42 
-- HO47 
-- [[Shago]] 
-- [[Kadrin]] 
-- [[Delwyn]] 
-- [[Talsen]] 
-- [[Hubert Brisworth]] 
-
-**Round 7**
-- [[Shadow]] 
-- [[Herald]] 
-- T 
-- HO42 
-- HO47 
-- [[Shago]] 
-- [[Kadrin]] 
-- [[Delwyn]] 
-- [[Talsen]] 
-- [[Hubert Brisworth]] 
-
-**Round 8**
-asd
-asd
-asd
-**Round 9**
-]]
+- [[Shadow]] dashes
+- HO42 attacks [[Kadrin]]
+	- Nat.1 to hit, miss
+	- 23 to hit, 7 DMG
+		- AoA does 20 Cold DMG
+			- HO42 is [[Dead]]

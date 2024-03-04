@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "c5114e1ecaa99eeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Combats/Fight_S89_90.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "944122634300de79",
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Combats/Fight_S89_90.md",
+                "file": "Session Notes/Session 90.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Combats/Fight_S89_90.md"
+                "file": "Session Notes/Session 90.md"
               }
             }
           },
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Combats/Fight_S89_90.md",
+                "file": "Session Notes/Session 90.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,12 +191,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bbd1a8dacd5fbc5d",
+  "active": "5a7338800c259765",
   "lastOpenFiles": [
-    "_Attachments/Pasted image 20240304192701.png",
-    "Session Notes/Session 90.md",
-    "Session Notes/Session 89.md",
     "Session Combats/Fight_S89_90.md",
+    "Session Notes/Session 90.md",
+    "_Attachments/Pasted image 20240304192701.png",
+    "Session Notes/Session 89.md",
     "_Attachments/Pasted image 20240304190546.png",
     "_Attachments/Pasted image 20240304190532.png",
     "desktop.ini",
@@ -242,7 +229,6 @@
     "_Attachments/Pasted image 20240205215948.png",
     "_Attachments/Pasted image 20240205203849.png",
     "_Attachments/Pasted image 20240205200100.png",
-    "_Attachments/Pasted image 20240205195943.png",
     "Z_Canvas/Plans.canvas",
     "Z_Canvas/Main Story.canvas",
     "Z_Canvas/General.canvas",
