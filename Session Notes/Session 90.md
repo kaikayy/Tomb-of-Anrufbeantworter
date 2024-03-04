@@ -35,4 +35,24 @@ We ask Thazma questions
 		- [[Kadrin]], Insight 9
 			- Hard to read
 - she is sensitive to sunlight
-- 
+- the [[Red Wizards of Thay]] had nearly all puzzle cubes then got attacked by [[Yuan-Ti]] that overwhelmed them, most of them are dead by now
+- [[Kadrin]] uses Divine Sense
+	- Thazma is Undead
+	- There is [[Zaranite]] in every puddle of body and in [[Hubert Brisworth]]'s Armor
+		- The [[Hag'se Organization]] Members as well as, [[Hubert Brisworth]] and [[Herald]] were Aberrations before
+- Is [[Valindra Shadowmantle]] here?
+	- No, she sent us here
+- What do you want in the [[Tomb of Nine Gods]]
+	- All the treasure and legendary artifacts
+		- [[Kadrin]], Insight: 15
+			- She is probably referring to the [[Soulmongerer]]
+		- [[Talsen]], Insight: Nat.1 (0)
+- What are you going to do with there treasures / artifacts?
+	- Deliver it to our boss, we are just following orders
+- Your boss is [[Valindra Shadowmantle]]?
+	- Yes but no, our original Goal was set by Szass Tam
+- [[Shadow]] clears up who that is
+	- She identifies [[Shadow]] for who he is
+	- [[Talsen]], Unarmed Strike, 26 to hit, 7 DMG
+	- [[Shadow]], claws her eye out, 15 to hit
+	- Thazma casts a Spell, [[Kadrin]] Counterspells

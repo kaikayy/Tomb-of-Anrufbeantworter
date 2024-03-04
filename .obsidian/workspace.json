@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 90.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 90.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 90.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 90.md"
+                "file": "README.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 90.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,13 +193,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1f2bc3af8983e5a9",
+  "active": "5a7338800c259765",
   "lastOpenFiles": [
     "Session Combats/Fight_S90.md",
-    "_Attachments/Pasted image 20240304212353.png",
     "Session Combats/Fight_S89_90.md",
-    "Session Combats/Fight_S88.md",
+    "README.md",
     "Session Notes/Session 90.md",
+    "_Attachments/Pasted image 20240304212353.png",
+    "Session Combats/Fight_S88.md",
     "_Attachments/Pasted image 20240304192701.png",
     "Session Notes/Session 89.md",
     "_Attachments/Pasted image 20240304190546.png",

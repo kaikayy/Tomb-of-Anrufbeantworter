@@ -1,189 +1,286 @@
-# Last Session: 86
-
+# Last Session: 90
 Recap - Talsen
 
-Talsen tries to scent the Hag he got a Blood vial from
-- North, within 1 mile
-- tells that to the party
-	- Delwyn suggests "flying turtle" as our Code Word to identify ourselves
+### Fight_S89_90
+Session Link:
+[[Session 89]], [[Session 90]]
+Battlemap:
+![[Pasted image 20240304190532.png]]
+![[Pasted image 20240304190546.png]]
 
-Kadrin and Shadow go to scout out the building we're in and what surrounds it
-- Kadrin looks around inside
-	- He finds a small kitchen, a large wash or dyeing room,  some small changing rooms and a larger hall filled with 5 swimming pools of different color
-		- purple, translucent with smoke, green-turquoise, pitch black, clear water
-	- This used to be a bathhouse
-		-  uses Divine Sense but nothing comes up
-	- d100(7) - nothing
-- Shadow looks around outside, Survival: 21
-	- Fresh Kamadan footprints
-	- Old humanoid footprints
-	- Fresh humanoid footprints
-		- small, reptile, bipedal
-			- 2 Kobold Footprints
-- Shadow follows the Kobold Footprints
-	- they circle around the house
-	- she finds two Kobolds standing atop each others shoulders peering into a window of the house
-		- she tries to intimidate them to stay
-			- Intimidation: Nat.20 (19)
-			- They both fall to the ground and yell for mercy
-			- They tell her that Kakarol told them to keep an eye on our party
-				- He's their leader and master
-				- He's been missing for a week, while he's gone Gobta is in charge
-			- They advise to climb into kobold tunnels when spotted by Hugo
-			- She tells them to tell Gobta, _The Last Resort is here
-			- Persuasion: 10
-			- They tell her that Gobta can be found in their burrow under the Theatre
-			- Insight: 13
-			- They don't want to tell where Hugo sleeps
-			- They tell her that Hugo sleeps at the Amphitheatre in the north west of Omu
-			- She calls them out on them not telling the whole truth
-			- Intimidation: 13
-			- They tell her that Gobta is south of the Amphitheatre under the Market Place
-			- She tells them to tell Gobta that she wants to speak to him
-			- They tell her that Gobta can't leave the burrow but there is a staircase at the edge of the Market Place
-			- They know that the Yuan-Ti live in the Royal Palace
-			- They heard about Ras Nsi
-		- She gives them both 1gp
+Enemies:
+Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
+[[Herald]]
+Thazma - T (Red Wizard) ![[Pasted image 20240304192701.png]]
+Hag'se Operative#42,#47 - HO42,47
+[[Hubert Brisworth]]
 
-Delwyn and Shago start preparing the Camp
-- They build up the tents and starts a fire with wood that's laying around
+Initiative:
+[[Talsen]] - 4
+[[Kadrin]] - 9
+[[Shadow]] - 25
+[[Delwyn]] - [[Nat.1]] (4)
+[[Shago]] - 13
+Animated Tree - AT
+Animated Rock - AR
 
-Talsen looks at Orvex Ocrammas's Research Notes
-- Pockets everything that has to do with the Red Wizards of Thay
-- Orvex Ocrammas was very excited to go to Chult
-- The Red Wizards of Thay wanted Orvex Ocrammas to find a way into the Tomb of Nine Gods
-	- They suspect the Soulmongerer in there
-- Key to open the door to the Tomb of Nine Gods are 9 Puzzle Cubes found in the Shrines in Omu
-	- The Legend of the Nine Gods has something to do with the opening of the door too
-	- Orvex Ocrammas cites Talsen for help in translating the Old Omuen into common
-- The Red Wizards of Thay acquired 7 of the Puzzle Cubes including the ones we possess
-	- So they must've lost them
+---
+Conditions:
+[[Shadow]]:
+- 
 
-The Legend goes:
-Long ago, the god Ubtao hardened his heart and vowed to weep for the people of Omu no longer. The rains stopped, the jungle withered and died, and death swept through Omu.
-One morning, a wise zorbo emerged from her hollow tree and spoke to the dying Omuans. To convince Ubtao of their worth, she decided to cook him a stew made from all their good qualities. Catching such virtues wouldn’t be easy, so she asked a wily almiraj to help her. The almiraj snuck recklessness in the pot, which she saw as a virtue, and Ubtao spat out the stew when he tasted it. From that day on, Obo’laka the zorbo and I’jin the almiraj became terrible enemies.
-At noon, a brave kamadan hopped down from her rock. She saw the evil in the Omuans’ hearts and decided to lance it like a troublesome boil. The kamadan fashioned a holy spear, but she left it by the riverbank and a crafty grung stole it. In her rage, Shagambi the kamadan forgot all about the Omuans and chased Nangnang the grung forever across the sky.
-When evening came, a wily eblis stepped from his reed hut. He didn’t like the Omuans, but without them he’d have no one to play his tricks on. The eblis sent a marsh frog to reason with Ubtao, but the frog was angry and decided to wrestle the god instead. This amused Ubtao, so he gave the frog tentacles to make it stronger. When Kubazan the froghemoth returned to Papazotl the eblis, he chased Papazotl into the swamp with his new tentacles.
-That night, a su-monster broke into Ubtao’s palace and stole a pail of water for the Omuans. When the god came running to find it, the su-monster hid the pail in a jaculi’s burrow. Ubtao asked the jungle animals where his water was hidden, and Moa the jaculi was too honest to lie. When Wongo the su-monster found out how Moa had betrayed him, he vowed to catch the jaculi and eat him up.
-All the while, Unkh the flail snail lived deep under the earth. The noise of the other animals fighting made her slither up to the surface, and when day dawned over her shell, the light blinded Ubtao and made his eyes water. Life returned to Omu, and the people built shrines to honor the animals who’d saved them.
+[[Talsen]]:
+- 
 
-We reconvene in the entrance hall and share our findings
-- Talsen goes to take a bath
-	- Everyone else but Shago joins
-	- Talsen enters the steaming pool and puts his armor in the blue pool
-		- Delwyn undresses and enters the steaming pool before Talsen
-	- We all see Delwyn's Father Aneamas Dawnsong relaxing opposite of Delwyn in the pool
-		- A: Well son, i want nothing from you, otherwise i wouldn't have thrown you out, would i?
-		- D: Yeah, you can go now
-		- A: I think I won't, I've been hard at work after all
-		- Shadow starts an argument with Aneamas Dawnsong
-		- Talsen tries to pull him out of the water but can't since his hands pass right through his arms as if they are made out of water
-		- Delwyn freezes his head
-		- Kadrin uses Divine Sense
-			- Nothing out of the ordinary
-		- Delwyn casts Track Divine
-			- The Knife points north west (not Aneamas Dawnsong's direction)
-		- Shadow casts Detect Magic
-			- All pools of Water are magical, Aneamas Dawnsong is part of the pools magic
-				- The Steaming Pool is Illusion
-				- The Blue Pool is Enchantment
-				- The Purple Pool is Transmutation
-				- The Black Pool is Conjuration
-				- The Clear Pool is Divination
-			- Calls out her Information
-	- Delwyn casts Polymorph to assume the form of a Bear
-	- Shadow takes the frozen head of Aneamas Dawnsong and it reforms
-	- Kadrin asks Aneamas Dawnsong if everyone sees people they are related to when bathing in the pool
-		- He says that he doesn't know that as he isn't from here
-		- Tries to fill up a Waterskin with Aneamas Dawnsong
-			- The Waterskin fills up but Aneamas Dawnsong remains
-	- Talsen tries fishing out his armor from the Blue Pool
-		- has to enter the pool to get everything
-			- CON SAV: 6
-			- All his muscles relax and he gets very sleepy
-			- Falls asleep Unconscious
-	- Kadrin tries to gets Talsen out
-		- Talsen wakes up as soon as he's outside of the pool
-			- Talsen gets his armor back eventually using his net
-	- Shadow enters the steaming pool with Delwyn
-		- Opposite of her, Skaldric appears
-		- She leaves the pool immediately
-	- Kadrin dips into the steaming pool
-		- Opposite of him, Kordelia appears
-			- Kadrin talks to her
-			- Test what she knows
-		- Kadrin gets out of the water, Kordelia disappears
-	- Shadow enters the Clear Pool
-		- It seems to go down far further ending in a Hallway with lights about 50ft down
-		- She equips the Cape of the Manta Ray and starts swimming down, we see her swim through the ground
-		- She comes back up and talks to Kadrin & Talsen
-			- They both advise against it but she wants to see what is down there anyways
-		- Multiple Tunnels brach off of the bottom of the pool
-			- INT: 21
-			- Swims through some tunnels as they seem to build a maze
-			- She swims up to a light and sees the party making a decision being watched through divination by a figure surrounded by many individually moving hands
-			- !Pasted image 20240122212521.png|300
-			- She emerges from the water again, with a maze symbol across her chest
-				- She can now summon a triceratops once which will stay by her side for 24 hours
-	- We lure Delwyn out of the pool 
-- We go back to Camp & Shago
-	- Shadow, Insight: 18
-		- Shago thinks "magic" happened
-- Delwyn changes back and goes to get his clothes
+[[Delwyn]]:
+- [[Concentration]]  (Animate Object)
 
-Shadow tries to take care of her organ damage
-- Medicine: 17 - Success
+[[Kadrin]]:
+- [[Concentration]] (Divine Favor)
+- ~~[[Grappled]]~~
 
-#### Watches
-1. Watch - Talsen, Delwyn
-- Perc.: 1, 6
-- Delwyn talks to his Mother in spirit telling her about the encounter with her father
-	- Delwyn looks over his shoulder and sees his mother answering him
-- Talsen bangs his weapon to his shield to wake everyone up
-	- attacks, 29 to hit, 11 DMG
-		- WIS SAV: 
-			- Shadow: 22 - Save
-			- Kadrin: 15 - Save
-			- Delwyn: 10 - Fail
-			- Shago: 13 - Save
-			- Talsen: Nat.20 (19) - Save
-				- Delwyn is Frightened
-- Shadow attacks, 21 to hit, 20 DMG
-- Talsen, Insight: 11 on her saying "I'm just here to protect my son"
-	- Hard to Read
+[[Shago]]: 
+- 
+
+AT
+- ~~[[Charmed]]~~
+
+AR
+- 
+
+Enemies:
+- Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
+- ~~T - [[Concentration]]~~
+- ~~[[Herald]] - [[Concentration]]~~
+- ~~[[Hubert Brisworth]] - Brand~~
+
+
+---
+Dodge/Ready:
+
+---
+**Round 1**
+- [[Shadow]] attacks
+	- SHARPSHOOTER, 15 to hit, 17 DMG
+	- SHARPSHOOTER, 15 to hit, 22 DMG
+	- SHARPSHOOTER, 19 to hit, 27 DMG
+- _A booming voice is heard through the area, [[Herald]] steps out of  building B_
+- [[Herald]] casts a Spell at the Animated Tree
+	- WIS SAV: 13
+		- AT is [[Charmed]]
+- T appears in darkness
+- HO42,47 attack Animated Stone
+	- [[Nat.20]] to hit, 10 DMG
+	- [[Nat.1]] to hit, miss
+	- 11 to hit, miss
+	- 15 to hit, 6 DMG
+- [[Shago]] dashes
+- [[Kadrin]] jumps into building A, it's empty, uses necrotic shroud
+	- uses divine favor
+- [[Delwyn]] climbs the wall, casts Fireball on T, HO42, HO47, [[Herald]]
+	- DEX SAV: x, x, x, SAVE
+		- 15 / 31 Fire DMG
+	- AR attacks T
+		- 13 to hit, miss
+- [[Talsen]] runs towards [[Kadrin]]
+	- dodges
+- [[Hubert Brisworth]] appears out of Building B
+
+**Round 2**
+- [[Shadow]] summons a Quetzalcoatl (Q) Totem, attacks T
+	- SHARPSHOOTER, 26 to hit, 21 DMG
+		- Conc. SAV: 3 - Conc. drops on T
+	- SHARPSHOOTER, 17 to hit, 20 DMG
+- [[Herald]] tries to command AR, fails, casts a healing spell on T
+- T regenerates, casts Eldritch Blast at [[Shadow]]
+	- 10 to hit, miss
+	- 20 to hit, 6 Force DMG
+		- R: AoO, AR, 23 to hit, 8 DMG
+- HO42 attacks AR
+	- 9 to hit, miss
+	- 24 to hit, 15 DMG
+- HO47 attacks AR
+	- 17 to hit, 6 DMG
+	- 8 to hit, miss
+- [[Shago]] attacks HO47
+	- 17 to hit, 8 DMG
+- [[Kadrin]] tries to intimidate [[Hubert Brisworth]], fails, attacks HO47
+	- 26 to hit, 27 DMG
+	- 26 to hit, 24 DMG
+- [[Delwyn]] casts Magic Missile on HO47, [[Hubert Brisworth]]
+	- 8 Force DMG, 2 Force DMG
+		- HO47 is [[Dead]]
+	- AR attacks [[Hubert Brisworth]]
+		- 15 to hit, miss
+- [[Talsen]] tries to push [[Hubert Brisworth]], attacks
+	- CON SAV: 11 - FAIL
+		- 24 to hit, 17 DMG
+		- 14 to hit, miss
+- [[Hubert Brisworth]] drops his sword, tries to grapple [[Kadrin]]
+	- Nat.20 (27) vs. Nat.20 (22) Acrobatics
+	- he talks to [[Kadrin]], saying he left something in the bushes near the tomb
+	- casts Lay on Hands on [[Kadrin]]
+		- 40 HP
+		- [[Kadrin]]'s Wings sprout back into angelic form, his hair starts to glow again, loses Shadow of Moil, gains Mantle of Dawn
+		- [[Kadrin]] hears the [[Soul Warden]] in his head
+			- WIS SAV: 8, INSPIRATION ([[Talsen]]), 16 - SAVE
+	- drops Grapple
+		- R: AoO, AR, 10 to hit, miss
+		- [[Talsen]], Arcana: 26
+		- [[Shadow]], Religion: Nat.20 (24)
+			- [[Hubert Brisworth]] did not try to corrupt [[Kadrin]]
+
+**Round 3**
+- [[Shadow]] dashes toward the battlefield
+- [[Herald]] snaps and [[Hubert Brisworth]] disintegrates, drops Conc.
+	- casts a Spell on [[Kadrin]]
+	- R: Counterspell, [[Kadrin]], SUCCESS
+- T flees
+- HO42 attacks [[Kadrin]]
+	- 18 to hit, miss
+	- 8 to hit, miss
+- [[Shago]] attacks [[Herald]]
+	- 16 to hit, miss (Mirror Image)
+- [[Kadrin]] casts Hexblade's Curse on [[Herald]]
+	- 26 to hit, 27 DMG
+	- 19 to hit, 20 DMG
+- [[Delwyn]] dashes toward the battlefield
+	- AR attacks HO42
+		- 20 to hit, 9 DMG
+	- AT moves
+- [[Talsen]] attacks [[Herald]], amplified (2 Damage)
+	- 22 to hit, miss (Mirror Image)
+	- 23 to hit, 20 DMG
+		- [[Herald]] is [[Dead]]
+
+**Round 4**
+- [[Shadow]] attacks HO42
+	- SHARPSHOOTER, 19 to hit, 19 DMG
+	- SHARPSHOOTER, 18 to hit, 22 DMG
+- HO42 attacks [[Talsen]]
+	- 22 to hit, 14 DMG
+		- WIS SAV: 11 - SAVE
+	- 23 to hit, 5 DMG
+- [[Shago]] attacks HO42
+	- 21 to hit, 8 DMG
+		- R: Interception, [[Talsen]], -14 DMG
+- [[Kadrin]] attacks HO42
+	- 13 to hit, miss
+	- Nat.1 (11) to hit, miss
+- [[Delwyn]] dashes
+	- AR attacks HO42
+		- 16 to hit, 6 DMG
+- [[Talsen]] drops his manacles by [[Kadrin]], moves
+	- R: AoO, HO42, 21 to hit, 8 DMG
+	- R: SENTINEL, [[Kadrin]], 12 to hit, miss
+	- Starts to chase T
+
+**Round 5**
+- [[Shadow]] dashes
+- HO42 attacks [[Kadrin]]
+	- Nat.1 to hit, miss
+	- 23 to hit, 7 DMG
+		- AoA does 20 Cold DMG
+			- HO42 is [[Dead]]
+### CHASE
+_Shadow and Talsen pursue Thazma the Red Wizard_
+- Shadow - 25
+- Talsen - 17
+
+**R1:**
+Talsen, Athletics: 25
+**R2:**
+Shadow, Athletics: 17
+Talsen, Athletics: 22
+**R3:**
+Shadow, Acrobatics: 18
+### Fight_S90
+Session Link:
+[[Session 90]]
+Battlemap:
+![[Pasted image 20240304212353.png]]
+
+Enemies:
+Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
+Thazma - T (Red Wizard)
+
+Initiative:
+[[Talsen]] - 17
+[[Shadow]] - 25
+
+---
+Conditions:
+[[Shadow]]:
+- 
+
+[[Talsen]]:
+- 
+
+Enemies:
+- Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
+- 
+---
+Dodge/Ready:
+
+
+---
+**Round 1**
+- [[Shadow]] jumps over to T, attacks
+	- SHARPSHOOTER, 21 to hit, 18 DMG
+	- SHARPSHOOTER, 15 to hit, 21 DMG
+	- stows her bow
+- [[Talsen]] tries to grapple T
+	- 20 vs. x - SUCCESS
+	- Intimidation, 9
+		- threatens her life and asks where the other red wizards are
+			- she says that they are all over the city looking for puzzle cubes
+				- [[Shadow]], Insight: 20
+					- Truthful but she is stalling for time
+- T regenerates and "wants to talk" about working together
+
+**Round 2**
+- [[Shadow]] asks for [[Skaldric]], ties her up
+	- he is gone for 2 weeks looking for puzzle cubes
+	- Survival: 23 (for knot of the rope)
+- [[Talsen]] picks up T and throws her over his shoulder, goes toward the rest of the party
+---
+Delwyn, Kadrin & Shago
+- Kadrin explains his new form to the others, who haven't seen it before
+	- goes to pick up Hubert Brisworth's Weapon, but its gone
+	- Only the clothes and Armor of the Hag'se Organization members remain
+	- makes a prayer for Hubert Brisworth
+- Delwyn puts the animated objects back in their place
+
+---
+Talsen and Shadow return with Thazma
+- Talsen explains that Thazma might have information for us
+
+We ask Thazma questions
+- what are you doing here with them?
+	- we set up camp to wait for someone to try to steal our puzzle cubes so we can attack them
+- what happened to their bodies?
+	- I have no idea
+		- Kadrin, Insight 9
+			- Hard to read
+- she is sensitive to sunlight
+- the Red Wizards of Thay had nearly all puzzle cubes then got attacked by Yuan-Ti that overwhelmed them, most of them are dead by now
 - Kadrin uses Divine Sense
-	- It is an undead
-	- tries to grapple her
-		- 20 vs Nat.20 (23)
-		- she resists
-- Delwyn WIS SAV: 13 - Save
-	- is no longer Frightened
-- Talsen attacks
-	- 18 to hit, 14 DMG
-		- Delwyn's Mom dies
-- We all go back to sleep
-
-2. Watch - Shadow
-- Perc.: 17
-- plucks the feathers from Kwalu's rotted wing
-	- gets 8 Kwalu Feathers
-3.  Watch -  Kadrin, Shago
-- Perc.: 14, 3
-- Kadrin thinks about his sister, prepares food
-#### LONG REST -> Day 2
-Weather: Normal Temp, No Wind, No Rain
-Kadrin cooks, DEX: 7
-
-Delwyn says that the image of her mother was real and she will come back
-
-We decide to go toward Unkh's Shrine and stop at the River to see how difficult it is to cross
-- Stealth
-	- Kadrin: 7
-	- Talsen: 10
-	- Shago: Nat.20 (22)
-	- Delwyn: 18
-	- Shadow: 30
-		- ⌀: 17,4
-- The River has a raging stream but about 100ft to the north we spot a tree trunk that crosses the river
-- MA across the tree trunk: T, K, D, Sw, So
-	- An arrow breaks at Talsen's Armor
+	- Thazma is Undead
+	- There is Zaranite in every puddle of body and in Hubert Brisworth's Armor
+		- The Hag'se Organization Members as well as, Hubert Brisworth and Herald were Aberrations before
+- Is Valindra Shadowmantle here?
+	- No, she sent us here
+- What do you want in the Tomb of Nine Gods
+	- All the treasure and legendary artifacts
+		- Kadrin, Insight: 15
+			- She is probably referring to the Soulmongerer
+		- Talsen, Insight: Nat.1 (0)
+- What are you going to do with there treasures / artifacts?
+	- Deliver it to our boss, we are just following orders
+- Your boss is Valindra Shadowmantle?
+	- Yes but no, our original Goal was set by Szass Tam
+- Shadow clears up who that is
+	- She identifies Shadow for who he is
+	- Talsen, Unarmed Strike, 26 to hit, 7 DMG
+	- Shadow, claws her eye out, 15 to hit
+	- Thazma casts a Spell, Kadrin Counterspells
