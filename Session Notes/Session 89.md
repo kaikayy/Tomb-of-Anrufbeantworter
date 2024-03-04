@@ -1,4 +1,4 @@
-Recap: [[Kadrin]]
+Recap - [[Kadrin]]
 
 We arrive at [[Papazotl's Shrine]]
 - `Crocodiles wallow in this muddy lake bed, from which rises a walled ruin. Two columns flank the entrance, carved with images of a long-legged bird with a needle-like beak. At the building’s front, slimy steps ascend to an entry arch.`
@@ -106,4 +106,4 @@ We prepare for battle
 		- DEX SAV: -
 			- 12 / 25 DMG 
 - [[Shago]] runs out towards the building
-- [[Fight_S89]]
+- [[Fight_S89_90]]

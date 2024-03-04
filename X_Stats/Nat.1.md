@@ -475,9 +475,12 @@
 [[Talsen]] WIS SAV (0)
 
 ---
-[[Session 89]] - [[Fight_S89]] - 4
+[[Session 89]] - 2
 [[Kadrin]] Stealth (3)
 [[Delwyn]] Investigation (1)
+
+---
+[[Fight_S89_90]] - 2
 [[Delwyn]] Initiative (4)
 [[DM]] to hit
 

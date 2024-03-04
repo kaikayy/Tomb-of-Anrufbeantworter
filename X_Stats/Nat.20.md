@@ -516,9 +516,12 @@
 [[Shadow]] DEX SAV (29)
 
 ---
-[[Session 89]] - [[Fight_S89]] - 3
+[[Session 89]] - 2
 [[Delwyn]] Investigation (20)
-[[Shadow]] to hit
+[[DM]] to hit
+
+---
+[[Fight_S89_90]] - 1
 [[DM]] to hit
 
 ---
