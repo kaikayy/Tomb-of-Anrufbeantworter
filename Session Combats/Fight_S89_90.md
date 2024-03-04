@@ -1,7 +1,8 @@
 Session Link:
 [[Session 89]]
 Battlemap:
-
+![[Pasted image 20240304190532.png]]
+![[Pasted image 20240304190546.png]]
 
 Enemies:
 Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
@@ -28,7 +29,7 @@ Conditions:
 - 
 
 [[Delwyn]]:
-- 
+- [[Concentration]]
 
 [[Kadrin]]:
 - 
@@ -48,6 +49,7 @@ Enemies:
 ---
 Dodge/Ready:
 D - tals
+D - Hubert
 
 ---
 **Round 1**

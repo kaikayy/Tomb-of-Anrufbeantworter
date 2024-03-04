@@ -4,21 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "b1097fe33c585a67",
+        "id": "c85a9e264653db41",
         "type": "tabs",
         "children": [
-          {
-            "id": "26c0dc46c0d43986",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 89.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
           {
             "id": "5a7338800c259765",
             "type": "leaf",
@@ -29,15 +17,8 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "d5fdc622e83bb818"
-          }
-        ]
-      },
-      {
-        "id": "c85a9e264653db41",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
             "id": "c5114e1ecaa99eeb",
             "type": "leaf",
@@ -50,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "944122634300de79",
@@ -67,22 +49,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "9b159db0fc558536",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 90.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "d5fdc622e83bb818"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 89.md",
+                "file": "Session Combats/Fight_S89_90.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 89.md"
+                "file": "Session Combats/Fight_S89_90.md"
               }
             }
           },
@@ -183,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 89.md",
+                "file": "Session Combats/Fight_S89_90.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,20 +204,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "26c0dc46c0d43986",
+  "active": "c5114e1ecaa99eeb",
   "lastOpenFiles": [
-    "desktop.ini",
     "Session Notes/Session 90.md",
+    "Session Notes/Session 89.md",
+    "Session Combats/Fight_S89_90.md",
+    "_Attachments/Pasted image 20240304190546.png",
+    "_Attachments/Pasted image 20240304190532.png",
+    "desktop.ini",
     "Session Notes/Session 86.md",
     "Session Notes/Session 87.md",
     "Session Notes/Session 88.md",
-    "Session Notes/Session 89.md",
     "Session Notes/Session 81.md",
     "Session Notes/Session 82.md",
     "Session Notes/Session 83.md",
     "Session Notes/Session 84.md",
     "Session Notes/Session 85.md",
-    "Session Combats/Fight_S89_90.md",
     "NPCs/Herald.md",
     "Session Notes/Session 45.md",
     "NPCs/Hubert Brisworth.md",
@@ -272,8 +242,6 @@
     "_Attachments/Pasted image 20240205203849.png",
     "_Attachments/Pasted image 20240205200100.png",
     "_Attachments/Pasted image 20240205195943.png",
-    "_Attachments/Pasted image 20240129213712.png",
-    "_Attachments/Pasted image 20240129212857.png",
     "Z_Canvas/Plans.canvas",
     "Z_Canvas/Main Story.canvas",
     "Z_Canvas/General.canvas",
