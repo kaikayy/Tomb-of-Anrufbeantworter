@@ -17,7 +17,8 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "45291a1513360202"
           }
         ]
       },
@@ -26,16 +27,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bbd1a8dacd5fbc5d",
+            "id": "1f2bc3af8983e5a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Combats/Fight_S89_90.md",
-                "mode": "source",
+                "file": "Session Notes/Session 90.md",
+                "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "45291a1513360202"
           }
         ]
       }
@@ -191,9 +193,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5a7338800c259765",
+  "active": "1f2bc3af8983e5a9",
   "lastOpenFiles": [
+    "Session Combats/Fight_S90.md",
+    "_Attachments/Pasted image 20240304212353.png",
     "Session Combats/Fight_S89_90.md",
+    "Session Combats/Fight_S88.md",
     "Session Notes/Session 90.md",
     "_Attachments/Pasted image 20240304192701.png",
     "Session Notes/Session 89.md",
@@ -222,13 +227,10 @@
     "Locations/Tomb of Nine Gods.md",
     "_Attachments/Pasted image 20240212204758.png",
     "NPCs/Artus Cimber.md",
-    "Items/Ring of Winter.md",
     "_Attachments/Pasted image 20240212194300.png",
-    "PCs/Delwyn.md",
     "_Attachments/Pasted image 20240212192333.png",
     "_Attachments/Pasted image 20240205215948.png",
     "_Attachments/Pasted image 20240205203849.png",
-    "_Attachments/Pasted image 20240205200100.png",
     "Z_Canvas/Plans.canvas",
     "Z_Canvas/Main Story.canvas",
     "Z_Canvas/General.canvas",
