@@ -39,7 +39,7 @@ Conditions:
 - 
 
 AT
-- [[Charmed]]
+- ~~[[Charmed]]~~
 
 AR
 - 
@@ -47,14 +47,12 @@ AR
 Enemies:
 - Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
 - ~~T - [[Concentration]]~~
-- [[Herald]] - [[Concentration]]
-- [[Hubert Brisworth]] - Brand
+- ~~[[Herald]] - [[Concentration]]~~
+- ~~[[Hubert Brisworth]] - Brand~~
 
 
 ---
 Dodge/Ready:
-D - hammerstone
-D - Hubert
 
 ---
 **Round 1**
@@ -129,40 +127,45 @@ D - Hubert
 			- [[Hubert Brisworth]] did not try to corrupt [[Kadrin]]
 
 **Round 3**
-- [[Shadow]] 
-- [[Herald]] 
-- T 
-- HO42 
-- HO47 
-- [[Shago]] 
-- [[Kadrin]] 
-- [[Delwyn]] 
-- [[Talsen]] 
-- [[Hubert Brisworth]] 
+- [[Shadow]] dashes toward the battlefield
+- [[Herald]] snaps and [[Hubert Brisworth]] disintegrates, drops Conc.
+	- casts a Spell on [[Kadrin]]
+	- R: Counterspell, [[Kadrin]], SUCCESS
+- T flees
+- HO42 attacks [[Kadrin]]
+	- 18 to hit, miss
+	- 8 to hit, miss
+- [[Shago]] attacks [[Herald]]
+	- 16 to hit, miss (Mirror Image)
+- [[Kadrin]] casts Hexblade's Curse on [[Herald]]
+	- 26 to hit, 27 DMG
+	- 19 to hit, 20 DMG
+- [[Delwyn]] dashes toward the battlefield
+	- AR attacks HO42
+		- 20 to hit, 9 DMG
+	- AT moves
+- [[Talsen]] attacks [[Herald]], amplified (2 Damage)
+	- 22 to hit, miss (Mirror Image)
+	- 23 to hit, 20 DMG
+		- [[Herald]] is [[Dead]]
 
 **Round 4**
-- [[Shadow]] 
-- [[Herald]] 
-- T 
+- [[Shadow]] attacks HO42
+	- SHARPSHOOTER, 19 to hit, 19 DMG
+	- SHARPSHOOTER, 18 to hit, 22 DMG
 - HO42 
-- HO47 
 - [[Shago]] 
 - [[Kadrin]] 
 - [[Delwyn]] 
 - [[Talsen]] 
-- [[Hubert Brisworth]] 
 
 **Round 5**
 - [[Shadow]] 
-- [[Herald]] 
-- T 
 - HO42 
-- HO47 
 - [[Shago]] 
 - [[Kadrin]] 
 - [[Delwyn]] 
 - [[Talsen]] 
-- [[Hubert Brisworth]] 
 
 **Round 6**
 - [[Shadow]] 
