@@ -7,8 +7,8 @@ Battlemap:
 Enemies:
 Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
 [[Herald]]
-Thazma - T
-Hag'se Operative#42,#72 - HO42,47
+Thazma - T (Red Wizard) ![[Pasted image 20240304192701.png]]
+Hag'se Operative#42,#47 - HO42,47
 [[Hubert Brisworth]]
 
 Initiative:
@@ -29,10 +29,10 @@ Conditions:
 - 
 
 [[Delwyn]]:
-- [[Concentration]]
+- [[Concentration]]  (Animate Object)
 
 [[Kadrin]]:
-- 
+- [[Concentration]] (Divine Favor)
 
 [[Shago]]: 
 - 
@@ -45,10 +45,13 @@ AR
 
 Enemies:
 - Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
-- 
+- ~~T - [[Concentration]]~~
+- [[Herald]] - [[Concentration]]
+
+
 ---
 Dodge/Ready:
-D - tals
+D - hammerstone
 D - Hubert
 
 ---
@@ -80,38 +83,88 @@ D - Hubert
 - [[Hubert Brisworth]] appears out of Building B
 
 **Round 2**
-- [[Shadow]]
-- [[Herald]]
-- T
-- HO42
-- HO47
-- [[Shago]]
-- [[Kadrin]]
-- [[Delwyn]]
-- [[Talsen]]
-- [[Hubert Brisworth]]
+- [[Shadow]] summons a Quetzalcoatl (Q) Totem, attacks T
+	- SHARPSHOOTER, 26 to hit, 21 DMG
+		- Conc. SAV: 3 - Conc. drops on T
+	- SHARPSHOOTER, 17 to hit, 20 DMG
+- [[Herald]] tries to command AR, fails, casts a healing spell on T
+- T regenerates, casts Eldritch Blast at [[Shadow]]
+	- 10 to hit, miss
+	- 20 to hit, 6 Force DMG
+		- R: AoO, AR, 23 to hit, 8 DMG
+- HO42 attacks AR
+	- 9 to hit, miss
+	- 24 to hit, 15 DMG
+- HO47 attacks AR
+	- 17 to hit, 6 DMG
+	- 8 to hit, miss
+- [[Shago]] attacks HO47
+	- 17 to hit, 8 DMG
+- [[Kadrin]] tries to intimidate [[Hubert Brisworth]]
+- [[Delwyn]] 
+- [[Talsen]] 
+- [[Hubert Brisworth]] 
 
 **Round 3**
-- [[Shadow]]
-- [[Shago]]
-- [[Kadrin]]
-- [[Delwyn]]
-- [[Talsen]]
+- [[Shadow]] 
+- [[Herald]] 
+- T 
+- HO42 
+- HO47 
+- [[Shago]] 
+- [[Kadrin]] 
+- [[Delwyn]] 
+- [[Talsen]] 
+- [[Hubert Brisworth]] 
 
 **Round 4**
-- asd
+- [[Shadow]] 
+- [[Herald]] 
+- T 
+- HO42 
+- HO47 
+- [[Shago]] 
+- [[Kadrin]] 
+- [[Delwyn]] 
+- [[Talsen]] 
+- [[Hubert Brisworth]] 
 
 **Round 5**
-- asd
+- [[Shadow]] 
+- [[Herald]] 
+- T 
+- HO42 
+- HO47 
+- [[Shago]] 
+- [[Kadrin]] 
+- [[Delwyn]] 
+- [[Talsen]] 
+- [[Hubert Brisworth]] 
 
 **Round 6**
-asd
-asd
-asd
+- [[Shadow]] 
+- [[Herald]] 
+- T 
+- HO42 
+- HO47 
+- [[Shago]] 
+- [[Kadrin]] 
+- [[Delwyn]] 
+- [[Talsen]] 
+- [[Hubert Brisworth]] 
+
 **Round 7**
-asd
-asd
-asd
+- [[Shadow]] 
+- [[Herald]] 
+- T 
+- HO42 
+- HO47 
+- [[Shago]] 
+- [[Kadrin]] 
+- [[Delwyn]] 
+- [[Talsen]] 
+- [[Hubert Brisworth]] 
+
 **Round 8**
 asd
 asd
