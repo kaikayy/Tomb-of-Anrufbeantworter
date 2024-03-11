@@ -19,38 +19,13 @@
               }
             },
             "group": "45291a1513360202"
-          },
-          {
-            "id": "b0a9388efa5d2894",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Combats/Fight_S91.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "944122634300de79",
         "type": "tabs",
         "children": [
-          {
-            "id": "7f6f94ecedc15e7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Combats/Fight_S91.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
           {
             "id": "1f2bc3af8983e5a9",
             "type": "leaf",
@@ -130,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Combats/Fight_S91.md",
+                "file": "Session Notes/Session 91.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Combats/Fight_S91.md"
+                "file": "Session Notes/Session 91.md"
               }
             }
           },
@@ -165,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Combats/Fight_S91.md",
+                "file": "Session Notes/Session 91.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,10 +193,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7f6f94ecedc15e7a",
+  "active": "5a7338800c259765",
   "lastOpenFiles": [
-    "Session Notes/Session 91.md",
     "Session Combats/Fight_S91.md",
+    "Session Notes/Session 91.md",
     "Session Notes/Session 90.md",
     "Session Notes/Fight_S91.md",
     "NPCs/Valindra Shadowmantle.md",

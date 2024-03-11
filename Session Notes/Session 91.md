@@ -10,4 +10,26 @@ We still surround and ask Thazma questions
 - [[Talsen]], Insight: 7
 	- Hard to read
 - [[Shadow]] tortures Thazma
-- [[Fight_S91]]
+### [[Fight_S91]]
+
+[[Shadow]] looks through the remains of Thazma
+- Investigation: 23
+	- Component Pouch
+	- 5 Blood Vials
+	- Small Gem with an eyeball inside
+- Casts Detect Magic ritually
+	- The Gem is Necrotic Magic
+
+[[Delwyn]] looks for stuff on the [[Hag'se Organization]] dead
+- Investigation: 16
+	- [[Zaranite]] Dagger
+		- takes it
+	- [[Zaranite]] Hand Crossbow
+	- 2x [[Zaranite]] Crossbow Bolts
+	- [[Herald]]'s Red Cylinder with a Puzzle Cube inside
+
+[[Kadrin]] looks over the remains of [[Hubert Brisworth]]
+- only his shield and plate armor remain
+- thanks him and takes the shield, leaving his own
+
+We discuss if [[Kadrin]] should contact the [[Soul Warden]] and the party advises against it, [[Talsen]] says th

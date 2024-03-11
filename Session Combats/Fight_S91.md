@@ -75,47 +75,9 @@ Dodge/Ready:
 	- Nat.1 (12) to hit, miss
 
 **Round 2**
-- [[Delwyn]]
-- [[Shadow]]
-- B
-- [[Shago]]
-- [[Kadrin]]
-- [[Talsen]]
-
-**Round 3**
-- [[Delwyn]]
-- [[Shadow]]
-- B
-- [[Shago]]
-- [[Kadrin]]
-- [[Talsen]]
-
-**Round 4**
-- [[Delwyn]]
-- [[Shadow]]
-- B
-- [[Shago]]
-- [[Kadrin]]
-- [[Talsen]]
-
-**Round 5**
-- [[Delwyn]]
-- [[Shadow]]
-- B
-- [[Shago]]
-- [[Kadrin]]
-- [[Talsen]]
-
-**Round 6**
-asd
-asd
-asd
-**Round 7**
-asd
-asd
-asd
-**Round 8**
-asd
-asd
-asd
-**Round 9**
+- [[Delwyn]] casts Firebolt on B
+	- 24 to hit, 17 Fire DMG
+- [[Shadow]] attacks B
+	- SHARPSHOOTER, 19 to hit, 21 DMG
+	- SHARPSHOOTER, 21 to hit, 21 DMG
+		- B is [[Dead]]
