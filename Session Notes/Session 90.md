@@ -52,7 +52,7 @@ We ask Thazma questions
 - Your boss is [[Valindra Shadowmantle]]?
 	- Yes but no, our original Goal was set by Szass Tam
 - [[Shadow]] clears up who that is
-	- She identifies [[Shadow]] for who he is
+	- She identifies [[Shadow]] for who she is
 	- [[Talsen]], Unarmed Strike, 26 to hit, 7 DMG
 	- [[Shadow]], claws her eye out, 15 to hit
 	- Thazma casts a Spell, [[Kadrin]] Counterspells
