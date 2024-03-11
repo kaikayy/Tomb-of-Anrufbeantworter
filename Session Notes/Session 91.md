@@ -91,3 +91,5 @@ We make camp
 Weather: Very Warm, light rain, light wind
 [[Kadrin]] cooks, DEX: 25
 - Nostalgic Smell, Fresh Broth, Homely
+
+[[Delwyn]] casts Mage Armor on himself

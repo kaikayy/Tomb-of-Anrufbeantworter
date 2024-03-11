@@ -33,7 +33,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             },
@@ -195,7 +195,9 @@
   },
   "active": "5a7338800c259765",
   "lastOpenFiles": [
+    "Z_Canvas/Plans.canvas",
     "Session Notes/Session 91.md",
+    "README.md",
     "NPCs/Shago.md",
     "NPCs/Ras Nsi.md",
     "NPCs/Soul Warden.md",
@@ -206,7 +208,6 @@
     "Session Combats/Fight_S91.md",
     "Session Notes/Fight_S91.md",
     "NPCs/Valindra Shadowmantle.md",
-    "README.md",
     "Session Combats/Fight_S90.md",
     "Session Combats/Fight_S89_90.md",
     "_Attachments/Pasted image 20240304212353.png",
@@ -225,14 +226,12 @@
     "Session Notes/Session 85.md",
     "NPCs/Herald.md",
     "Session Notes/Session 45.md",
-    "NPCs/Hubert Brisworth.md",
     "_Attachments/Pasted image 20240212212312.png",
     "_Attachments/Pasted image 20240212204758.png",
     "_Attachments/Pasted image 20240212194300.png",
     "_Attachments/Pasted image 20240212192333.png",
     "_Attachments/Pasted image 20240205215948.png",
     "_Attachments/Pasted image 20240205203849.png",
-    "Z_Canvas/Plans.canvas",
     "Z_Canvas/Main Story.canvas",
     "Z_Canvas/General.canvas",
     "Z_Canvas/Current Planning.canvas",
