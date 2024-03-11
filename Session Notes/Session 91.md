@@ -69,19 +69,25 @@ We make camp
 		- `-your Mentor Hubert Brisworth`
 
 1. Watch - [[Talsen]], [[Shago]]
-- Perc.: 
+- Perc.: 4, 11
 - Places an ale beside [[Kadrin]]'s bed
 
 2. Watch - [[Shadow]], [[Delwyn]]
-- Perc.: 
+- Perc.: 20, 18
+- [[Delwyn]] looks for more [[Zaranite]] Daggers
+- [[Shadow]] looks out that [[Delwyn]] doesn't have any more [[Zaranite]] on him
+	- Insight: 19
+	- [[Delwyn]] Persuasion: 23
+		- [[Shadow]] is convinced that [[Delwyn]] doesn't have any more [[Zaranite]] on him
 
 3. Watch -  [[Kadrin]]
-- Perc.: 
+- Perc.: 13
+- Prepares Dinner
+- Notices a creature hiding at the window, it's [[Delwyn's Mom]]
+	- doesn't seem aggressive
+	- threatens her but keeps to cooking
 
 #### LONG REST -> Day 3
-Weather:
-[[Kadrin]] cooks, DEX: 
-
-- Fast Travel d4() -  hexes
-- Nothing of Note happens
-- On our Travels:
+Weather: Very Warm, light rain, light wind
+[[Kadrin]] cooks, DEX: 25
+- Nostalgic Smell, Fresh Broth, Homely

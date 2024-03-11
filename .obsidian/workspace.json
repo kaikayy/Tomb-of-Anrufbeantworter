@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 91.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 91.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 91.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 91.md"
+                "file": "README.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 91.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,9 +195,10 @@
   },
   "active": "5a7338800c259765",
   "lastOpenFiles": [
+    "Session Notes/Session 91.md",
+    "NPCs/Shago.md",
     "NPCs/Ras Nsi.md",
     "NPCs/Soul Warden.md",
-    "Session Notes/Session 91.md",
     "Locations/Omu.md",
     "Session Notes/Watch_Vorlage.md",
     "Session Notes/Session 90.md",
@@ -225,7 +226,6 @@
     "NPCs/Herald.md",
     "Session Notes/Session 45.md",
     "NPCs/Hubert Brisworth.md",
-    "X_Stats/{Nat.19}.md",
     "_Attachments/Pasted image 20240212212312.png",
     "_Attachments/Pasted image 20240212204758.png",
     "_Attachments/Pasted image 20240212194300.png",
