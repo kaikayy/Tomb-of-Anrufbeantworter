@@ -33,7 +33,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             },
@@ -193,11 +193,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5a7338800c259765",
+  "active": "1f2bc3af8983e5a9",
   "lastOpenFiles": [
-    "Z_Canvas/Plans.canvas",
     "Session Notes/Session 91.md",
     "README.md",
+    "Z_Canvas/Plans.canvas",
     "NPCs/Shago.md",
     "NPCs/Ras Nsi.md",
     "NPCs/Soul Warden.md",
