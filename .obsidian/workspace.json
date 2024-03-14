@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "c85a9e264653db41",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5a7338800c259765",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "45291a1513360202"
-          }
-        ]
-      },
-      {
         "id": "944122634300de79",
         "type": "tabs",
         "children": [
@@ -32,12 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Session Notes/Session 5.md",
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "45291a1513360202"
+            }
           }
         ]
       }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Session Notes/Session 5.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Session Notes/Session 5.md"
               }
             }
           },
@@ -140,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Session Notes/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,6 +175,9 @@
   },
   "active": "1f2bc3af8983e5a9",
   "lastOpenFiles": [
+    "Session Notes/Session 88.md",
+    "Session Notes/Session 89.md",
+    "Session Notes/Session 90.md",
     "Session Notes/Session 91.md",
     "README.md",
     "Z_Canvas/Plans.canvas",
@@ -203,8 +186,6 @@
     "NPCs/Soul Warden.md",
     "Locations/Omu.md",
     "Session Notes/Watch_Vorlage.md",
-    "Session Notes/Session 90.md",
-    "Session Notes/Session 89.md",
     "Session Combats/Fight_S91.md",
     "Session Notes/Fight_S91.md",
     "NPCs/Valindra Shadowmantle.md",
@@ -218,7 +199,6 @@
     "desktop.ini",
     "Session Notes/Session 86.md",
     "Session Notes/Session 87.md",
-    "Session Notes/Session 88.md",
     "Session Notes/Session 81.md",
     "Session Notes/Session 82.md",
     "Session Notes/Session 83.md",
