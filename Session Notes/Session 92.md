@@ -64,5 +64,13 @@ We speak to [[Gobta]]
 - [[Gobta]] says the [[Yuan-Ti]] took the Moa Cube
 - Two parties of the [[Red Wizards of Thay]] remain in [[Omu]]
 - [[Artus Cimber]]'s group was last seen by the Royal Palace
+- A Group of [[Zhentarim]] were headed for the Obo'laka Shrine
 	- They were fighting [[Yuan-Ti]] just yesterday
-- We trade [[Gobta]] a Healing
+- We trade [[Gobta]] a Healing for 25gp
+	- [[Delwyn]], Persuasion: 24
+- He says we shouldn't use the main roads
+- [[Gobta]] will send us a scout once in a while to give us new information
+- We say our goodbyes to [[Gobta]] and promise to come back again when we have more time
+
+We leave the Kobold Hideout and plan our next moves
+- 
