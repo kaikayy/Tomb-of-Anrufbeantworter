@@ -13,8 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Session Notes/Session 91.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f44e6ea6c4d42318",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afd8f6059f6e0a58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 92.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Session Notes/Session 91.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 5.md"
+                "file": "Session Notes/Session 91.md"
               }
             }
           },
@@ -120,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Session Notes/Session 91.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,10 +193,12 @@
   },
   "active": "1f2bc3af8983e5a9",
   "lastOpenFiles": [
+    "Session Notes/Session 92.md",
+    "Session Notes/Session 91.md",
+    "Session Notes/Session 5.md",
     "Session Notes/Session 88.md",
     "Session Notes/Session 89.md",
     "Session Notes/Session 90.md",
-    "Session Notes/Session 91.md",
     "README.md",
     "Z_Canvas/Plans.canvas",
     "NPCs/Shago.md",
@@ -205,7 +225,6 @@
     "Session Notes/Session 84.md",
     "Session Notes/Session 85.md",
     "NPCs/Herald.md",
-    "Session Notes/Session 45.md",
     "_Attachments/Pasted image 20240212212312.png",
     "_Attachments/Pasted image 20240212204758.png",
     "_Attachments/Pasted image 20240212194300.png",
