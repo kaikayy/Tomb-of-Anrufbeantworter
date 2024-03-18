@@ -32,4 +32,37 @@ We continue toward the Market Place uninterrupted
 - [[Shadow]], CON SAV: Nat.1 (3), gets sprayed by a skunk which is catapulted on her
 - 18 to hit on [[Delwyn]], is hit by an Alchemist Fire, 2 Fire DMG, is burning
 	- extinguishes himself with Shape Water
-- [[Shago]] misses a vase of Centipedes while helping [[Kadrin]] out, 12 to 
+- [[Shago]] misses a vase of Centipedes while helping [[Kadrin]] out, 12 to hit, misses on [[Shago]], 14 to hit, misses on [[Kadrin]]
+- A kobold comes out of one of the market stalls
+	- We tell him that we are here to see [[Gobta]]
+	- He takes us to the entrance of the Kobold Hideout
+- We see [[Gobta]] sitting on a sizeable pile of gold flanked by two other Kobold Inventors and surrounded by 10 other kobolds
+
+We speak to [[Gobta]]
+- [[Shadow]] goes up to [[Gobta]] to give him a hug
+- [[Gobta]] describes an old woman that told [[Kakarol]] she would make him a dragon
+	- It seems to be [[Baggy Nanna]]
+	- We tell [[Gobta]] that she is a hag and he will probably never see [[Kakarol]] again
+		- Persuasion
+			- [[Kadrin]]: 22
+			- [[Delwyn]]: 26
+	- [[Delwyn]], Arcana: 22
+		- Hasn't heard about a Hag transforming someone into a Dragon, but Hag magic is powerful and twisted
+- [[Gobta]] realizes that [[Kakarol]] is in danger and he asks around where [[Kakarol]] and the Hag went
+	- One Kobold says they went through a "Shadow Rift"
+- [[Gobta]] asks us if we have seen such "Shadow Rifts", they have been popping up around here
+	- Arcana:
+		- [[Shadow]]: Nat.20 (24)
+		- [[Kadrin]]: 16
+		- [[Delwyn]]: 10
+		- [[Talsen]]: 24
+	- They are portals into the [[Shadowfell]] and appear where many people tragically died
+- We ask about the [[Red Wizards of Thay]]
+	- [[Kakarol]] made a deal with the [[Acererak]] to become a dragon.
+	- The kobolds are tracking the [[Red Wizards of Thay]]
+	- They bring the puzzle cubes back into the Shrines and reset the traps
+- [[Gobta]] says the [[Yuan-Ti]] took the Moa Cube
+- Two parties of the [[Red Wizards of Thay]] remain in [[Omu]]
+- [[Artus Cimber]]'s group was last seen by the Royal Palace
+	- They were fighting [[Yuan-Ti]] just yesterday
+- We trade [[Gobta]] a Healing
