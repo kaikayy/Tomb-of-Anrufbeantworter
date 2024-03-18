@@ -73,4 +73,29 @@ We speak to [[Gobta]]
 - We say our goodbyes to [[Gobta]] and promise to come back again when we have more time
 
 We leave the Kobold Hideout and plan our next moves
-- 
+- We go toward [[Nangnang's Shrine]]
+- Stealth:
+	- [[Shadow]]: 25
+	- [[Kadrin]]: 4
+	- [[Delwyn]]: 5
+	- [[Talsen]]: 12
+	- [[Shago]]: 6
+		- ⌀ 10,4
+- We see [[Hugo]] charging at us as we are on the big road
+	- We cross the street and see an old camp and try to hide from [[Hugo]]
+	- Stealth:
+		- [[Shadow]]: Nat.20 (33)
+		- [[Kadrin]]: 19
+		- [[Delwyn]]: 12
+		- [[Talsen]]: 7
+		- [[Shago]]: Nat.20 (22)
+			- ⌀ 18,6
+	- [[Hugo]] charges past us without noticing us
+- [[Kadrin]], Survival: 9
+	- The camp is probably long abandoned
+- We continue traveling on our planned route
+- We circle around the former Royal Palace where the [[Yuan-Ti]] should live
+- `Thousands of bats swirl above a great ruin. Behind a 15-foot-high circular wall, you see crumbling arcades, vine-choked statues, empty plazas, and buildings overgrown with banyan roots. Streets that aren’t flooded are choked with rubble.`
+
+We arrive at [[Nangnang's Shrine]]
+- `Monoliths adorned with prancing, frog-like figures rise from the swamp. Beyond, a ruined edifice shaped like an arrowhead squats in the muddy water. Bushes and trees grow from its roof. At the pointed front of the building, steps ascend to a stone door caked in slime.`

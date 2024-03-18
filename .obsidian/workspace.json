@@ -19,6 +19,42 @@
               }
             },
             "group": "7fa8c41113f58b29"
+          },
+          {
+            "id": "00ceff6f31fc918d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Combats/Fight_S92.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "387b5f62c13e06c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Watch_Vorlage.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "52ee0573def937be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Nangnang's Shrine.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       },
@@ -195,8 +231,12 @@
   },
   "active": "afd8f6059f6e0a58",
   "lastOpenFiles": [
-    "Session Notes/Watch_Vorlage.md",
+    "Session Notes/Nangnang's Shrine.md",
+    "_Attachments/Pasted image 20240318213106.png",
     "Session Notes/Session 92.md",
+    "Session Combats/Fight_S92.md",
+    "Session Notes/Watch_Vorlage.md",
+    "Locations/Unkh's Shrine.md",
     "Session Notes/Session 91.md",
     "Session Notes/Session 5.md",
     "Session Notes/Session 88.md",
@@ -223,16 +263,11 @@
     "Session Notes/Session 87.md",
     "Session Notes/Session 81.md",
     "Session Notes/Session 82.md",
-    "Session Notes/Session 83.md",
-    "Session Notes/Session 84.md",
-    "Session Notes/Session 85.md",
-    "NPCs/Herald.md",
     "_Attachments/Pasted image 20240212212312.png",
     "_Attachments/Pasted image 20240212204758.png",
     "_Attachments/Pasted image 20240212194300.png",
     "_Attachments/Pasted image 20240212192333.png",
     "_Attachments/Pasted image 20240205215948.png",
-    "_Attachments/Pasted image 20240205203849.png",
     "Z_Canvas/Main Story.canvas",
     "Z_Canvas/General.canvas",
     "Z_Canvas/Current Planning.canvas",
