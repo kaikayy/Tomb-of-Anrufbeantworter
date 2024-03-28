@@ -68,4 +68,13 @@ We arrive at [[Obo'laka's Shrine]]
 - [[Delwyn]] casts Mage Hand to pick up the [[Puzzle Cube of Obo'laka]]
 - [[Kadrin]] and [[Shadow]] discuss whether to use the Greater Restoration scroll that was intended for [[Xandala]] on this person
 	- They ask [[Summerwise]] on his opinion as he should be the one to decide
-		- [[Summerwise]] gives signals to 
+		- [[Summerwise]] gives Visions to [[Shadow]]
+		- [[Shadow]], Insight: 18
+			- [[Summerwise]] is very sad about [[Xandala]]'s development and gestures to use the scroll on Eve instead
+- [[Kadrin]], [[Delwyn]] & [[Shadow]] decide to come back with the [[Puzzle Cube of Obo'laka]]
+	- They talk to [[Talsen]] about the Scroll and Eve
+	- [[Talsen]], Arcana: 15
+		- Petrification keeps your age and you can still life after being un-petrified
+	- We discuss what to do and when
+- We decide to first solve the puzzle of the shrine
+- 
