@@ -64,7 +64,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 93.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 93.md"
+                "file": "README.md"
               }
             }
           },
@@ -165,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 93.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,10 +219,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ffffb4dbc2d19181",
+  "active": "b6bf8841fbeb1b96",
   "lastOpenFiles": [
-    "_Official Conditions/Petrified.md",
     "Session Notes/Session 93.md",
+    "NPCs/Douzan Blackdigger.md",
+    "_Attachments/Pasted image 20240328221002.png",
+    "_Official Conditions/Petrified.md",
     "Items/Puzzle Cube of Obo'laka.md",
     "Items/Puzzle Cube of Unkh.md",
     "Locations/Obo'laka's Shrine.md",
@@ -251,14 +254,11 @@
     "NPCs/Ras Nsi.md",
     "NPCs/Soul Warden.md",
     "Locations/Omu.md",
-    "Session Combats/Fight_S91.md",
-    "Session Notes/Fight_S91.md",
     "_Attachments/Pasted image 20240304212353.png",
     "_Attachments/Pasted image 20240304192701.png",
     "_Attachments/Pasted image 20240304190546.png",
     "_Attachments/Pasted image 20240304190532.png",
     "desktop.ini",
-    "_Attachments/Pasted image 20240212212312.png",
     "Z_Canvas/General.canvas",
     "Z_Canvas/Current Planning.canvas",
     "_Attachments/Logo Video.mp4",

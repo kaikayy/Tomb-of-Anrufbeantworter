@@ -92,4 +92,6 @@ We arrive at [[Obo'laka's Shrine]]
 			- The Statue is pretty new, it is not cracked anywhere but the arm. The arm was intentionally broken, it's fingers also destroyed.
 	- [[Shadow]] takes a closer look at the hand and what may have been in it
 		- probably a puzzle cube
-	- 
+
+We decide to carry the Statue of Eve toward the [[Webway of Ubtao]] to deliver her to [[Hisari]] as a final destination
+- as we exit the temple we are greeted by [[Douzan Blackdigger]], Daggers in hand
