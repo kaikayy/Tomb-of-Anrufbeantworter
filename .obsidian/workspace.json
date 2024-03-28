@@ -8,29 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afd8f6059f6e0a58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "7fa8c41113f58b29"
-          },
-          {
-            "id": "4a16fec9b7b750ca",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
-          },
-          {
             "id": "387b5f62c13e06c3",
             "type": "leaf",
             "state": {
@@ -43,16 +20,17 @@
             }
           },
           {
-            "id": "52ee0573def937be",
+            "id": "ffffb4dbc2d19181",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Nangnang's Shrine.md",
+                "file": "Session Notes/Session 93.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "72e0da1ffd467f6b"
           }
         ],
         "currentTab": 1
@@ -62,7 +40,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae019b9d4a7aed24",
+            "id": "cd98eff34ddbf4e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 93.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "72e0da1ffd467f6b"
+          },
+          {
+            "id": "b6bf8841fbeb1b96",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -71,10 +62,10 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "7fa8c41113f58b29"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Session Notes/Session 93.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Session Notes/Session 93.md"
               }
             }
           },
@@ -175,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Session Notes/Session 93.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,23 +219,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4a16fec9b7b750ca",
+  "active": "ffffb4dbc2d19181",
   "lastOpenFiles": [
-    "Z_Canvas/Main Story.canvas",
+    "Locations/Nangnang's Shrine.md",
+    "_Attachments/Pasted image 20240328191941.png",
+    "Session Notes/Session 93.md",
+    "README.md",
+    "Locations/Nangalore.md",
     "Session Notes/Session 92.md",
+    "Session Notes/Session 91.md",
+    "Session Notes/Watch_Vorlage.md",
+    "Z_Canvas/Main Story.canvas",
     "Session Combats/Fight_S92.md",
     "Session Combats/Fight_S20.md",
-    "Session Notes/Nangnang's Shrine.md",
     "_Attachments/Pasted image 20240318213223.png",
     "_Attachments/Pasted image 20240318213106.png",
-    "Session Notes/Watch_Vorlage.md",
     "Locations/Unkh's Shrine.md",
-    "Session Notes/Session 91.md",
     "Session Notes/Session 5.md",
     "Session Notes/Session 88.md",
     "Session Notes/Session 89.md",
     "Session Notes/Session 90.md",
-    "README.md",
     "Z_Canvas/Plans.canvas",
     "NPCs/Shago.md",
     "NPCs/Ras Nsi.md",
@@ -262,12 +256,9 @@
     "_Attachments/Pasted image 20240304190532.png",
     "desktop.ini",
     "Session Notes/Session 86.md",
-    "Session Notes/Session 87.md",
-    "Session Notes/Session 81.md",
     "_Attachments/Pasted image 20240212212312.png",
     "_Attachments/Pasted image 20240212204758.png",
     "_Attachments/Pasted image 20240212194300.png",
-    "_Attachments/Pasted image 20240212192333.png",
     "Z_Canvas/General.canvas",
     "Z_Canvas/Current Planning.canvas",
     "_Attachments/Logo Video.mp4",
