@@ -35,5 +35,25 @@ We continue our trek toward [[Obo'laka's Shrine]]
 
 We arrive at [[Obo'laka's Shrine]]
 - `A pair of needlelike columns mark the entrance to a walled ruin. In the courtyard beyond, banyan roots envelop a squat building. The stone doors that seal the entrance are carved with images of snarling bears with long, sharp claws.`
-- [[Kadrin]], [[Shadow]]Perception: 12, 18, 13
-	- 
+- [[Kadrin]], [[Shadow]], [[Delwyn]], Perception: 12, 18, 13
+	- No animals around
+- we go around toward the entrance of the shrine
+- There is text above the closed doors
+	- `Obo’laka teaches us to tread warily and stay in the light.`
+	- [[Kadrin]] casts Light on his Sword
+- We go inside weapons drawn
+- `The walls of this dark corridor are covered with painted reliefs showing Omuan people hunting, harvesting fruit, planting crops, crafting weapons, feasting, fighting, weaving, and skinning animals. Eight empty torch brackets protrude from the walls under the reliefs.`
+- [[Talsen]], Investigation: 19
+	- The relief on the ground is not a trap
+- We enter a new room
+	- `The walls of this dark corridor are covered with painted reliefs showing Omuan people hunting, harvesting fruit, planting crops, crafting weapons, feasting, fighting, weaving, and skinning animals. Eight empty torch brackets protrude from the walls under the reliefs.`
+	- [[Kadrin]] sees no reflection of his sword or hand in the water
+	- [[Delwyn]] casts Mage Hand which disappears into the water going deeper and deeper, finally touching the ceiling with moon on it
+	- [[Delwyn]] uses the Wand of Secrets
+		- no hidden walls or traps
+	- [[Shadow]] enters the pool of water and emerges in another room, similar to this one
+		- `A full moon is carved on the ceiling here, directly above the pool. The walls are decorated with reliefs of the Omuan people carrying out daily chores.`
+		- she dives in again and emerges with the rest of the party again
+	- [[Delwyn]] and [[Kadrin]] follow
+	- [[Talsen]] and [[Shago]] stay behind watching the things that could get waterlogged
+- 
