@@ -1,0 +1,1 @@
+6 sided, 3 inch cube with a depiction of a small bear on each side

@@ -56,4 +56,16 @@ We arrive at [[Obo'laka's Shrine]]
 		- she dives in again and emerges with the rest of the party again
 	- [[Delwyn]] and [[Kadrin]] follow
 	- [[Talsen]] and [[Shago]] stay behind watching the things that could get waterlogged
-- 
+- [[Kadrin]] uses Divine Sense
+	- nothing
+- [[Kadrin]], [[Delwyn]] & [[Shadow]] go into the next room
+	- `Eight torches illuminate this room. The light washes over a floor mosaic showing two creatures locked in combat: a small bear with sharp claws and a rabbit with a spiral horn on its forehead. In the middle of the room, a in leather armor dressed figure stands next to a waist-high pedestal, atop which rests a stone cube. The figure has one hand streached out towards the cube but half of it lies broken on the floor. It takes a moment to realize that the figure is a statue.`
+	- [[Shadow]] approaches the statue and recognizes it as "Eve", a young woman, she knew of [[Thay]]. The only friendly face in the city.
+	- [[Kadrin]] and [[Delwyn]] follow
+- [[Shadow]] warns that she knew that person and she was probably petrified while taking the puzzle cube
+- [[Kadrin]] uses Divine Sense
+	- nothing
+- [[Delwyn]] casts Mage Hand to pick up the [[Puzzle Cube of Obo'laka]]
+- [[Kadrin]] and [[Shadow]] discuss whether to use the Greater Restoration scroll that was intended for [[Xandala]] on this person
+	- They ask [[Summerwise]] on his opinion as he should be the one to decide
+		- [[Summerwise]] gives signals to 
