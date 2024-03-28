@@ -77,4 +77,19 @@ We arrive at [[Obo'laka's Shrine]]
 		- Petrification keeps your age and you can still life after being un-petrified
 	- We discuss what to do and when
 - We decide to first solve the puzzle of the shrine
-- 
+- [[Shadow]] carries over the torches with her Hunter's Decoy teleportation
+- As the last torch is placed the [[Puzzle Cube of Obo'laka]] glows orange and a barrier around it seems to break
+	- [[Kadrin]] touches the cube and is fine
+- [[Shadow]] goes to look for Eve, she is still [[Petrified]]
+	- Nature: 26
+		- Knows of one other way to cure petrification, the oil of a basilisk, but doesn't know of any basilisks on [[Chult]]
+- The rest leaves their stuff with [[Shago]] and follows [[Shadow]]
+	- [[Talsen]] takes a look at the idols on the wall
+		- History: 21
+			- Omuen built, as old as the rest of the buildings around
+	- [[Talsen]] takes a look at the [[Petrified]] Eve
+		- Investigation: 22
+			- The Statue is pretty new, it is not cracked anywhere but the arm. The arm was intentionally broken, it's fingers also destroyed.
+	- [[Shadow]] takes a closer look at the hand and what may have been in it
+		- probably a puzzle cube
+	- 
