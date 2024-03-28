@@ -31,6 +31,18 @@
               }
             },
             "group": "72e0da1ffd467f6b"
+          },
+          {
+            "id": "48455dcd82d1c043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Obo'laka's Shrine.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -64,8 +76,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,9 +232,13 @@
   },
   "active": "ffffb4dbc2d19181",
   "lastOpenFiles": [
-    "Locations/Nangnang's Shrine.md",
-    "_Attachments/Pasted image 20240328191941.png",
+    "Locations/Obo'laka's Shrine.md",
+    "_Attachments/Pasted image 20240328195114.png",
     "Session Notes/Session 93.md",
+    "Locations/Nangnang's Shrine.md",
+    "Items/Puzzle Cube of NangNang.md",
+    "Items/Puzzle Cube of Unkh.md",
+    "_Attachments/Pasted image 20240328191941.png",
     "README.md",
     "Locations/Nangalore.md",
     "Session Notes/Session 92.md",
@@ -248,17 +263,13 @@
     "Session Notes/Fight_S91.md",
     "NPCs/Valindra Shadowmantle.md",
     "Session Combats/Fight_S90.md",
-    "Session Combats/Fight_S89_90.md",
     "_Attachments/Pasted image 20240304212353.png",
-    "Session Combats/Fight_S88.md",
     "_Attachments/Pasted image 20240304192701.png",
     "_Attachments/Pasted image 20240304190546.png",
     "_Attachments/Pasted image 20240304190532.png",
     "desktop.ini",
-    "Session Notes/Session 86.md",
     "_Attachments/Pasted image 20240212212312.png",
     "_Attachments/Pasted image 20240212204758.png",
-    "_Attachments/Pasted image 20240212194300.png",
     "Z_Canvas/General.canvas",
     "Z_Canvas/Current Planning.canvas",
     "_Attachments/Logo Video.mp4",
