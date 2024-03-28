@@ -1,97 +1,112 @@
-# Last Session: 91
+# Last Session: 92
 
-Recap - Kadrin
+Recap - Talsen
 
-We still surround and ask Thazma questions
-- Shadow, INT: 15
-	- Elves and other races that are not human are mostly held as slaves (Valindra Shadowmantle is an elf)
-- How do you regenerate?
-	- You know, magic.
-- The Wizards spread out to search for the cubes, where and when they meet up again?
-	- We can go there together, if we work together
-- Talsen, Insight: 7
-	- Hard to read
-- Shadow tortures Thazma
-### Fight_S91
+Talsen tracks the Hag's Scent
+- She is SE within 1 mile
 
-Shadow looks through the remains of Thazma
-- Investigation: 23
-	- Component Pouch
-	- 5 Blood Vials
-	- Small Gem with an eyeball inside
-- Casts Detect Magic ritually
-	- The Gem is Necrotic Magic
+We talk about where to go next, to the Kobolds or to the rest of the Shrines
+- we decide to go to the Kobold Hideout first
+- scouting toward the Amphitheatre with Shadow's familiar
+- Stealth:
+	- Shadow: 27
+	- Kadrin: 15
+	- Delwyn: 15
+	- Talsen: 4
+	- Shago: Nat.20 (22)
+		- ⌀ 16,6
 
-Delwyn looks for stuff on the Hag'se Organization dead
-- Investigation: 16
-	- Zaranite Dagger
-		- takes it
-	- Zaranite Hand Crossbow
-	- 2x Zaranite Crossbow Bolts
-	- Herald's Red Cylinder with a Puzzle Cube inside
+We arrive at one side of the big road, Shadow casts Find Familiar and sends the Bird to scout out the Amphitheatre
+- Perception: 17
+- `A ruined amphitheater looms over the surrounding buildings. Vines cling to its steps, and animal statues line its stands. The muddy ground outside is stripped clean of vegetation. An eerie silence hangs over the area. No birds cry, no insects chirp, nothing stirs.`
+- Hugo still lies there sleeping
+- Multiple birds jump and pick on the feathers of Hugo and around him
 
-Kadrin looks over the remains of Hubert Brisworth
-- only his shield and plate armor remain
-- thanks him and takes the shield, leaving his own
+We continue toward the Market Place uninterrupted
+- Perception: 
+	- Shadow: 11
+	- Talsen: 9
+	- Kadrin: 14
+	- Delwyn: 6
+	- Shago: 8
+- Kadrin gets a wasps nest thrown into his face
+- 16 to hit on Talsen, miss, an Alchemist Fire flies past him
+- Shadow, CON SAV: Nat.1 (3), gets sprayed by a skunk which is catapulted on her
+- 18 to hit on Delwyn, is hit by an Alchemist Fire, 2 Fire DMG, is burning
+	- extinguishes himself with Shape Water
+- Shago misses a vase of Centipedes while helping Kadrin out, 12 to hit, misses on Shago, 14 to hit, misses on Kadrin
+- A kobold comes out of one of the market stalls
+	- We tell him that we are here to see Gobta
+	- He takes us to the entrance of the Kobold Hideout
+- We see Gobta sitting on a sizeable pile of gold flanked by two other Kobold Inventors and surrounded by 10 other kobolds
 
-We discuss if Kadrin should contact the Soul Warden and the party advises against it, Talsen says the next time she meets us it should be in person and all at once.
-Kadrin asks Shadow if she knows the place he has been to meet the Soul Warden. She doesn't.
-Talsen takes the blood vials off of Shadows hands.
+We speak to Gobta
+- Shadow goes up to Gobta to give him a hug
+- Gobta describes an old woman that told Kakarol she would make him a dragon
+	- It seems to be Baggy Nanna
+	- We tell Gobta that she is a hag and he will probably never see Kakarol again
+		- Persuasion
+			- Kadrin: 22
+			- Delwyn: 26
+	- Delwyn, Arcana: 22
+		- Hasn't heard about a Hag transforming someone into a Dragon, but Hag magic is powerful and twisted
+- Gobta realizes that Kakarol is in danger and he asks around where Kakarol and the Hag went
+	- One Kobold says they went through a "Shadow Rift"
+- Gobta asks us if we have seen such "Shadow Rifts", they have been popping up around here
+	- Arcana:
+		- Shadow: Nat.20 (24)
+		- Kadrin: 16
+		- Delwyn: 10
+		- Talsen: 24
+	- They are portals into the Shadowfell and appear where many people tragically died
+- We ask about the Red Wizards of Thay
+	- Kakarol made a deal with the Acererak to become a dragon.
+	- The kobolds are tracking the Red Wizards of Thay
+	- They bring the puzzle cubes back into the Shrines and reset the traps
+- Gobta says the Yuan-Ti took the Moa Cube
+- Two parties of the Red Wizards of Thay remain in Omu
+- Artus Cimber's group was last seen by the Royal Palace
+- A Group of Zhentarim were headed for the Obo'laka Shrine
+	- They were fighting Yuan-Ti just yesterday
+- We trade Gobta a Healing for 25gp
+	- Delwyn, Persuasion: 24
+- He says we shouldn't use the main roads
+- Gobta will send us a scout once in a while to give us new information
+- We say our goodbyes to Gobta and promise to come back again when we have more time
 
-Kadrin and Delwyn look at the Eye in Amber
-- Arcana: 15, 14
-	- Seems to be a component of some sort, and pretty valuable
+We leave the Kobold Hideout and plan our next moves
+- We go toward Nangnang's Shrine
+- Stealth:
+	- Shadow: 25
+	- Kadrin: 4
+	- Delwyn: 5
+	- Talsen: 12
+	- Shago: 6
+		- ⌀ 10,4
+- We see Hugo charging at us as we are on the big road
+	- We cross the street and see an old camp and try to hide from Hugo
+	- Stealth:
+		- Shadow: Nat.20 (33)
+		- Kadrin: 19
+		- Delwyn: 12
+		- Talsen: 7
+		- Shago: Nat.20 (22)
+			- ⌀ 18,6
+	- Hugo charges past us without noticing us
+- Kadrin, Survival: 9
+	- The camp is probably long abandoned
+- We continue traveling on our planned route
+- We circle around the former Royal Palace where the Yuan-Ti should live
+- `Thousands of bats swirl above a great ruin. Behind a 15-foot-high circular wall, you see crumbling arcades, vine-choked statues, empty plazas, and buildings overgrown with banyan roots. Streets that aren’t flooded are choked with rubble.`
 
-We go to check out the bushes near the Tombs entrance that Hubert Brisworth mentioned
-- Gannin's Staff, free of Zaranite, sticks out of the ground with a small pouch next to it
-- Behind it is a cave entrance
-- we continue our search
-- Investigation or Perception:
-	- Shadow: 16 P
-	- Delwyn: 17 I
-	- Kadrin: 18 I
-	- Talsen: 21 I
-		- The middle door only has 8 spots for cubes
-		- The left door has 9 spots for cubes
-		- To the right is a corridor with 9 statues
-- we return to our camp in the building nearby
-
-We make camp
-- talk about gods
-- drink ale
-- talk about family, children, royalty
-- Delwyns Shade Mark is up to his elbow
-- Shadow tends to her wound
-	- Medicine: Nat.20 (23)
-- Kadrin looks into the pouch that was near Gannins Staff
-	- It's Omuen Spices with a note from Hubert Brisworth saying:
-		- `Dear Kadrin,`
-		- `If you are reading this, my plan to restore your light has hopefully worked which also means you are in more danger than ever before. When the Soulscourge took me from you, she offered me a new chance to free me from the sword she put me in. She would give me a temporary Body and I would need to work with Herald to capture you and find the kidnapped host of the Soulscourge: an elf by the name of Eillee Lunardew. According to the Soulscourge, Acererak has been messing with them and kidnapped Eillee and is keeping her in the Tomb of the nine gods. In order for the soulsourge to have any power in our world, she needs a host body, which means if Acererak kills her, the Hud'se entire operration would crumble! Thats unfortunatly also where you come in. The Soulscourge has been searching for a new host for a while and she has set her eyes on you. Eillee's health has been decreasing fast after she was possessed. In order for a mortal body to sustain her, it need a strong divine connection like yours. When she gave you some of her power, it came with a bit of her essence, which is suppossed to over take you once your light becomes strong enough. I have a bad feeling about this tomb and i think you will need your light once you enter it. What I did puts you in danger of being overtaken by her but I know that you and your friends can overcome her!`
-		- `This is all I was able to find out and I don't know what will happen to me once I go though with this, but whatever it will be, atleast I know you'll be fine. I managed to barter with the Soulscourge a bit to give me Gannin's Staff and found some spice during my time here in Omu. Its a shame I never got to taste your cooking. This is a bit embarassing to write but you were to me like the son that i may or may have.`
-		- `-your Mentor Hubert Brisworth`
-
-1. Watch - Talsen, Shago
-- Perc.: 4, 11
-- Places an ale beside Kadrin's bed
-
-2. Watch - Shadow, Delwyn
-- Perc.: 20, 18
-- Delwyn looks for more Zaranite Daggers
-- Shadow looks out that Delwyn doesn't have any more Zaranite on him
-	- Insight: 19
-	- Delwyn Persuasion: 23
-		- Shadow is convinced that Delwyn doesn't have any more Zaranite on him
-
-3. Watch -  Kadrin
-- Perc.: 13
-- Prepares Dinner
-- Notices a creature hiding at the window, it's Delwyn's Mom
-	- doesn't seem aggressive
-	- threatens her but keeps to cooking
-
-#### LONG REST -> Day 3
-Weather: Very Warm, light rain, light wind
-Kadrin cooks, DEX: 25
-- Nostalgic Smell, Fresh Broth, Homely
-
-Delwyn casts Mage Armor on himself
+We arrive at Nangnang's Shrine
+- `Monoliths adorned with prancing, frog-like figures rise from the swamp. Beyond, a ruined edifice shaped like an arrowhead squats in the muddy water. Bushes and trees grow from its roof. At the pointed front of the building, steps ascend to a stone door caked in slime.`
+- We see some Grung guarding the Shrine
+- Shadow, Nature: 20
+	- They are humanoid and have their own culture and language
+- Kadrin suggests that we not kill them but only intimidate them by turning into a dinosaur
+	- another idea would be to conjure a major image of Hugo to scare the Grung away
+		- wo do that plan
+- Kadrin summons a major image of Hugo that slowly starts charging toward the Grung
+	- Intimidation: 28
+	- The Grung evacuate the Shrine

@@ -99,3 +99,12 @@ We leave the Kobold Hideout and plan our next moves
 
 We arrive at [[Nangnang's Shrine]]
 - `Monoliths adorned with prancing, frog-like figures rise from the swamp. Beyond, a ruined edifice shaped like an arrowhead squats in the muddy water. Bushes and trees grow from its roof. At the pointed front of the building, steps ascend to a stone door caked in slime.`
+- We see some Grung guarding the Shrine
+- [[Shadow]], Nature: 20
+	- They are humanoid and have their own culture and language
+- [[Kadrin]] suggests that we not kill them but only intimidate them by turning into a dinosaur
+	- another idea would be to conjure a major image of [[Hugo]] to scare the Grung away
+		- wo do that plan
+- [[Kadrin]] summons a major image of [[Hugo]] that slowly starts charging toward the Grung
+	- Intimidation: 28
+	- The Grung evacuate the Shrine

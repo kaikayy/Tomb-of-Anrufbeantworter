@@ -1,3 +1,3 @@
 Location in [[Omu]]
 
-![[Pasted image 20240318213106.png]]
+![[Pasted image 20240318213223.png]]
