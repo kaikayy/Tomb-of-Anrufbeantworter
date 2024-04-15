@@ -31,9 +31,21 @@
               }
             },
             "group": "96b54f198599ce60"
+          },
+          {
+            "id": "6431725b2df3f328",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Combats/Fight_S94.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "a175e6b1e0a5205a",
@@ -46,6 +58,30 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 93.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f600a0b9aa9ff2db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Combats/Fight_S94.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0ecb1158ec30b1b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Douzan Blackdigger.md",
                 "mode": "preview",
                 "source": true
               }
@@ -130,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 93.md",
+                "file": "Session Combats/Fight_S94.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 93.md"
+                "file": "Session Combats/Fight_S94.md"
               }
             }
           },
@@ -165,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 93.md",
+                "file": "Session Combats/Fight_S94.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,14 +254,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cd98eff34ddbf4e0",
+  "active": "6431725b2df3f328",
   "lastOpenFiles": [
     "Session Notes/Session 94.md",
-    "Session Combats/Fight_S.md",
     "Session Notes/Session 93.md",
+    "NPCs/Douzan Blackdigger.md",
+    "Session Combats/Fight_S94.md",
+    "Session Combats/Fight_S30.md",
+    "Session Combats/Fight_S.md",
     "README.md",
     "desktop.ini",
-    "NPCs/Douzan Blackdigger.md",
     "_Attachments/Pasted image 20240328221002.png",
     "_Official Conditions/Petrified.md",
     "Items/Puzzle Cube of Obo'laka.md",
@@ -253,8 +291,6 @@
     "Session Notes/Session 90.md",
     "Z_Canvas/Plans.canvas",
     "NPCs/Shago.md",
-    "NPCs/Ras Nsi.md",
-    "NPCs/Soul Warden.md",
     "_Attachments/Pasted image 20240304212353.png",
     "_Attachments/Pasted image 20240304192701.png",
     "_Attachments/Pasted image 20240304190546.png",
