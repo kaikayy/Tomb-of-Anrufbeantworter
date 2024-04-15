@@ -20,17 +20,17 @@
             }
           },
           {
-            "id": "ffffb4dbc2d19181",
+            "id": "ffde72734e077cf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 93.md",
+                "file": "Session Notes/Session 94.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "72e0da1ffd467f6b"
+            "group": "96b54f198599ce60"
           }
         ],
         "currentTab": 1
@@ -49,23 +49,22 @@
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "72e0da1ffd467f6b"
+            }
           },
           {
-            "id": "b6bf8841fbeb1b96",
+            "id": "79e4f65bafc643d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Session Notes/Session 94.md",
+                "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "96b54f198599ce60"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Session Notes/Session 93.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Session Notes/Session 93.md"
               }
             }
           },
@@ -166,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Session Notes/Session 93.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,10 +218,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b6bf8841fbeb1b96",
+  "active": "cd98eff34ddbf4e0",
   "lastOpenFiles": [
-    "desktop.ini",
+    "Session Notes/Session 94.md",
+    "Session Combats/Fight_S.md",
     "Session Notes/Session 93.md",
+    "README.md",
+    "desktop.ini",
     "NPCs/Douzan Blackdigger.md",
     "_Attachments/Pasted image 20240328221002.png",
     "_Official Conditions/Petrified.md",
@@ -235,7 +237,6 @@
     "Locations/Nangnang's Shrine.md",
     "Items/Puzzle Cube of NangNang.md",
     "_Attachments/Pasted image 20240328191941.png",
-    "README.md",
     "Locations/Nangalore.md",
     "Session Notes/Session 92.md",
     "Session Notes/Session 91.md",
@@ -254,7 +255,6 @@
     "NPCs/Shago.md",
     "NPCs/Ras Nsi.md",
     "NPCs/Soul Warden.md",
-    "Locations/Omu.md",
     "_Attachments/Pasted image 20240304212353.png",
     "_Attachments/Pasted image 20240304192701.png",
     "_Attachments/Pasted image 20240304190546.png",
