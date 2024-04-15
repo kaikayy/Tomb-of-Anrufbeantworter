@@ -1,7 +1,7 @@
 Session Link:
 [[Session 94]]
 Battlemap:
-![[]]
+![[Pasted image 20240415201548.png]]
 
 Enemies:
 Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
@@ -13,6 +13,7 @@ Yamoch ([[Red Wizards of Thay]]) - Y
 Flask of Wine - FoW
 River Mist - RV
 Zhentarim Goon - ZG
+Zorbo - Z
 
 Initiative:
 [[Talsen]] - 3
@@ -42,8 +43,8 @@ Enemies:
 - Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
 - DB - Hunter's Mark
 - JOBR - Hexbalde's Curse
-- JOCB - Hasted
-- Y - [[Concentration]]
+- ~~JOCB - Hasted~~
+- ~~Y - [[Concentration]]~~
 
 ---
 Dodge/Ready:
@@ -85,22 +86,45 @@ Dodge/Ready:
 - ZG attacks [[Kadrin]]
 	- 14 to hit, miss
 	- 15 to hit, miss
-- [[Talsen]]
-- JOCB
+- [[Talsen]] casts Muddled Mind on Y, Amplified, 4 DMG, attacks Y
+	- 14 to hit, miss
+	- 20 to hit, 16 DMG
+		- Y drops Conc.
+- Z changes its skin to Adamantine, attacks JOCB
+	- miss
+- JOCB is lethargic
 
 **Round 2**
-- [[Shadow]]
-- DB
-- [[Kadrin]]
-- [[Shago]]
-- Y
-- FoW
-- JOBR
+- [[Shadow]] moves back
+	- R: AoO, FoW, 17 to hit, 9 DMG, CON SAV: 21, Conc. SAV: 18
+	- CON SAV: Nat.20 (22)
+	- attacks DB
+		- SHARPSHOOTER, 26 to hit, 22 DMG
+		- SHARPSHOOTER, 18 to hit,  24 DMG
+- DB sprints away
+- [[Kadrin]] casts Misty Step to get up to the roof, attacks RM
+	- 18 to hit, 10 DMG
+	- 25 to hit, 11 DMG
+- [[Shago]] approaches JOBR, attacks
+	- R: Attack, JOBR, 23 to hit, 14 DMG
+	- 24 to hit,  10 DMG
+- Y casts Fireball on [[Kadrin]], [[Shadow]]
+	- DEX SAV: 21 - SAVE, 23 - SAVE
+		- 34 / 17 Fire DMG
+		- [[Kadrin]] Conc. SAV: 12
+		- [[Shadow]] Conc. SAV: 16
+- FoW attacks [[Shadow]]
+	- 12 to hit, miss
+	- 15 to hit, miss
+- JOBR attacks [[Talsen]]
+- 
 - RV
 - [[Delwyn]]
 - ZG
-- JOCB
 - [[Talsen]]
+- Z
+- JOCB
+
 
 **Round 3**
 - asd
