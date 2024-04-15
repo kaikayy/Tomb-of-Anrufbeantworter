@@ -6,13 +6,13 @@ Battlemap:
 Enemies:
 Long Name a,x - Abbreviation a,x (referred to in doc as Abbreviation)
 ~~Jungle Ogre Chain Brute - JOCB - Chain and Balls~~
-Jungle Ogre Battering Ram - JOBR - JoBro
+~~Jungle Ogre Battering Ram - JOBR - JoBro~~
 [[Douzan Blackdigger]] - DB
 ~~Blackdigger Cutthroat - BC~~
-Yamoch ([[Red Wizards of Thay]]) - Y
+~~Yamoch ([[Red Wizards of Thay]]) - Y~~
 Flask of Wine - FoW
 River Mist - RV
-Zhentarim Goon - ZG
+~~Zhentarim Goon - ZG~~
 Zorbo - Z
 
 Initiative:
@@ -43,7 +43,7 @@ Enemies:
 - Abbr. - Condition (Descriptor) / DMG Type __R__, __I__, __V__ (Resistant, Immune, Vulnerable)
 - ~~DB - Hunter's Mark~~
 - FoW - Hunter's Mark
-- JOBR - Hexbalde's Curse
+- ~~JOBR - Hexbalde's Curse~~
 - ~~JOCB - Hasted~~
 - ~~Y - [[Concentration]]~~
 
@@ -160,40 +160,24 @@ Dodge/Ready:
 	- R: AoO, [[Talsen]], 23 to hit, 16 DMG
 	- Conc. SAV: 2 - Fail
 - FoW starts to flee
-- JOBR attacks [[tal]]
-- RV starts to flee
-- [[Delwyn]]
-- ZG
-- [[Talsen]]
-- Z
+- JOBR attacks [[Talsen]]
+	- 25 to hit, 15 DMG
+	- 17 to hit, miss
+- RV starts to flee, hands up
+- [[Delwyn]] casts Magic Missile on Y
+	- R: SHIELD, Y
+- ZG flees
+- [[Talsen]] attacks JOBR
+	- Nat.20 (31) to hit, 25 DMG
+		- JOBR is [[Dead]]
+		- [[Kadrin]] heals for 12 HP
+	- attacks Y, amplified, 1 DMG
+		- Nat.1 to hit, INSPIRATION, 30 to hit, 24 DMG
+			- Y is [[Dead]]
+- Z ...
 
 **Round 4**
-- [[Shadow]]
-- DB flees
-- [[Kadrin]]
-- [[Shago]]
-- Y
-- FoW
-- JOBR
-- RV
-- [[Delwyn]]
-- ZG
-- [[Talsen]]
-- Z
-
-**Round 5**
-- asd
-
-**Round 6**
-asd
-asd
-asd
-**Round 7**
-asd
-asd
-asd
-**Round 8**
-asd
-asd
-asd
-**Round 9**
+- [[Shadow]] attacks ZG
+	- SHARPSHOOTER, 25 to hit, 23 DMG
+	- SHARPSHOOTER, 25 to hit, 24 DMG
+		- ZG is [[Dead]]

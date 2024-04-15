@@ -8,3 +8,5 @@ Recap - [[Talsen]]
 	- Offers [[Douzan Blackdigger]] his Flute as an Artefact
 
 ### [[Fight_S94]]
+
+[[Douzan Blackdigger]] as well as Flask of Wine and River Mist manage to flee.
