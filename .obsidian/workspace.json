@@ -31,9 +31,19 @@
               }
             },
             "group": "96b54f198599ce60"
+          },
+          {
+            "id": "c866c2999350c9ec",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "a175e6b1e0a5205a",
@@ -243,7 +253,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ffde72734e077cf7",
+  "active": "c866c2999350c9ec",
   "lastOpenFiles": [
     "Session Combats/Fight_S94.md",
     "_Attachments/Pasted image 20240415201548.png",
