@@ -40,4 +40,22 @@ We arrive in [[Hisari]] and see [[Miasma]] drinking something with two [[Vegepyg
 ##### SHORT REST (End)
 
 We travel back to [[Omu]] through the [[Webway of Ubtao]]
-- 
+- as we arrive back in [[Omu]] we see [[Eku]] sitting in the room
+
+We talk to [[Eku]]
+- She has been here a while
+- A Tabaxi with the Name of "Hooded Lantern" told her we'd be here
+- She wanted to ask for our help
+- she knows allies that want the same as us
+	- it is the group of [[Artus Cimber]], [[Kordelia]] and [[Dragonbait]]
+	- they want to kill [[Ras Nsi]]
+- [[Talsen]] asks who [[Eku]] really is
+	- [[Eku]]s form changes
+- She says she was a servant of [[Ubtao]] and swore to protect these lands
+- [[Kadrin]] uses Divine Sense
+	- [[Eku]] is a Celestial
+- She is working for the Oracle of [[Orolunga]] but is still holding on to her oath she gave to [[Ubtao]]
+
+[[Talsen]], Religion: 21
+[[Delwyn]], Religion: 19
+- [[Ubtao]] is the patron god of [[Chult]], building the [[City of Mezro]], missing, split into aspects, also called betrayer god, because he betrayed his old pantheon to join the new one, is seen as a very neutral god, generally associate with dinosaurs and mazes

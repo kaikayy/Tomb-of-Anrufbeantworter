@@ -21,6 +21,18 @@
             "group": "37d0ec6d71693777"
           },
           {
+            "id": "95342bce9f8cdc71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Ubtao.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "e30ef0f6c9497de5",
             "type": "leaf",
             "state": {
@@ -220,8 +232,17 @@
   },
   "active": "7363433aab941f74",
   "lastOpenFiles": [
-    "Session Notes/Watch_Vorlage.md",
+    "NPCs/Artus Cimber.md",
+    "Session Notes/Session 25.md",
+    "Organizations/Zhentarim.md",
     "Session Notes/Session 95.md",
+    "NPCs/Ubtao.md",
+    "Session Notes/Session 69.md",
+    "NPCs/Eshowdow.md",
+    "NPCs/Eku.md",
+    "_Attachments/Eku 2.0.png",
+    "NPCs/Dragonbait.md",
+    "Session Notes/Watch_Vorlage.md",
     "Bestiary/Zorbo.md",
     "Organizations/Red Wizards of Thay.md",
     "NPCs/Valindra Shadowmantle.md",
@@ -241,25 +262,16 @@
     "Items/Puzzle Cube of Unkh.md",
     "Locations/Obo'laka's Shrine.md",
     "_Attachments/Pasted image 20240328200037.png",
-    "Organizations/Zhentarim.md",
     "_Attachments/Pasted image 20240328195114.png",
     "Locations/Nangnang's Shrine.md",
     "Items/Puzzle Cube of NangNang.md",
     "_Attachments/Pasted image 20240328191941.png",
-    "Locations/Nangalore.md",
-    "Session Notes/Session 92.md",
-    "Session Notes/Session 91.md",
     "Z_Canvas/Main Story.canvas",
-    "Session Combats/Fight_S92.md",
-    "Session Combats/Fight_S20.md",
     "_Attachments/Pasted image 20240318213223.png",
     "_Attachments/Pasted image 20240318213106.png",
-    "Locations/Unkh's Shrine.md",
-    "Session Notes/Session 5.md",
     "Z_Canvas/Plans.canvas",
     "_Attachments/Pasted image 20240304212353.png",
     "_Attachments/Pasted image 20240304192701.png",
-    "_Attachments/Pasted image 20240304190546.png",
     "Z_Canvas/General.canvas",
     "Z_Canvas/Current Planning.canvas",
     "_Attachments/Logo Video.mp4",
