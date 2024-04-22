@@ -69,6 +69,30 @@ We follow [[Eku]] to a hidden open cave housing an old temple
 	- They seem to be making clothing
 - [[Eku]] introduces us as new guests
 	- explains that the tabaxi are here for shelter and to die a hunters death
-	- explains that the others are here to plan on infiltrating the [[1. Fane of the Night Serpent]]
+	- explains that the others are here to plan on infiltrating the [[Fane of the Night Serpent]] (Yuan-Ti Stronghold in Omu)
+- [[Shadow]] asks if anyone is a Hag in disguise loudly
+- [[Kadrin]] introduces himself as [[Kordelia]] doesn't recognize him immediately
+	- After she does, she goes to hug [[Kadrin]]
+- [[Kadrin]] uses Divine Sense
+	- nothing new but this Temple is Hallowed
+- [[Talsen]] talks to [[Artus Cimber]] and suggests him to lay out his true intentions, Persuasion: 13
+	- He says that they're here to bring back the [[City of Mezro]] and to kill [[Ras Nsi]]
+	- He says that [[Dragonbait]] trusts that the People of Mezro are good people and deserve to be brought back
+	- He says that he tried to dissuade [[Kordelia]] from joining his party, but she likes the adventure and wants to see the [[City of Mezro]]
+		- Insight: Nat.20 (19)
+			- He seems to speak the truth and trusts [[Eku]] to stop [[Talsen]] if necessary
+- [[Delwyn]] casts Track Divine
+	- 9 to hit on [[Delwyn]]
+	- [[Eku]] transforms and starts to envelop [[Delwyn]]
+	- he tries to convince [[Eku]] that his spell wasn't harmful
+		- Persuasion: 20
+	- the dagger pointed north
+
+[[Delwyn]] shakes [[Kordelia]]'s Hand
+- He tries to squeeze hard, STR: 0
+- [[Kordelia]] notices and squeezes harder as well, STR: Nat.20
+
+[[Shadow]] is introduced with much antics
+
 
 [[Cleansing Temple_Shrine in Omu]]
