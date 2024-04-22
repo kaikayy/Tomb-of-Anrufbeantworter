@@ -93,6 +93,13 @@ We follow [[Eku]] to a hidden open cave housing an old temple
 - [[Kordelia]] notices and squeezes harder as well, STR: Nat.20
 
 [[Shadow]] is introduced with much antics
+- [[Shago]] is as well
 
+[[Talsen]] asks [[Eku]] if this is the [[Cleansing Temple_Shrine in Omu]], it is
+- there is a maze that ends in a cleansing, it can only be attempted one time
 
-[[Cleansing Temple_Shrine in Omu]]
+[[Eku]] doesn't know where the [[Black Opal Crown]] but the [[Yuan-Ti]] believe that it is within the [[Tomb of Nine Gods]]
+
+We plan to sit down, cook, talk and plan for the night
+
+# LEVEL UP

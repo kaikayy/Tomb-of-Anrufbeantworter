@@ -21,48 +21,36 @@
             "group": "37d0ec6d71693777"
           },
           {
-            "id": "339e513adb322594",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Artus Cimber.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0bb5a8964a5df556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/City of Mezro.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "95342bce9f8cdc71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Ubtao.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "e30ef0f6c9497de5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Watch_Vorlage.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7b370ef7742dcf9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 15.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e71424be69e92486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Black Opal Crown.md",
                 "mode": "source",
                 "source": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(level up)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -256,10 +245,16 @@
   },
   "active": "7363433aab941f74",
   "lastOpenFiles": [
-    "Locations/Fane of the Night Serpent.md",
+    "Session Notes/Session 15.md",
+    "Session Notes/Watch_Vorlage.md",
     "Session Notes/Session 95.md",
-    "NPCs/Dragonbait.md",
     "NPCs/Artus Cimber.md",
+    "Items/Black Opal Crown.md",
+    "NPCs/Ras Nsi.md",
+    "NPCs/Ubtao.md",
+    "NPCs/Fenthaza.md",
+    "Locations/Fane of the Night Serpent.md",
+    "NPCs/Dragonbait.md",
     "NPCs/Kordelia.md",
     "_Attachments/Kordelia_PNG.png",
     "Locations/City of Mezro.md",
@@ -268,10 +263,8 @@
     "NPCs/Alisanda.md",
     "Locations/Cleansing Temple_Shrine in Omu.md",
     "Plans.md",
-    "Session Notes/Watch_Vorlage.md",
     "Session Notes/Session 25.md",
     "Organizations/Zhentarim.md",
-    "NPCs/Ubtao.md",
     "Session Notes/Session 69.md",
     "NPCs/Eshowdow.md",
     "NPCs/Eku.md",
@@ -280,12 +273,8 @@
     "Organizations/Red Wizards of Thay.md",
     "NPCs/Valindra Shadowmantle.md",
     "Session Notes/Session 94.md",
-    "NPCs/Douzan Blackdigger.md",
-    "Session Combats/Fight_S94.md",
-    "Session Notes/Session 93.md",
     "_Official Conditions/desktop.ini",
     "_Attachments/Pasted image 20240415201548.png",
-    "Session Combats/Fight_S30.md",
     "desktop.ini",
     "_Attachments/Pasted image 20240328221002.png",
     "_Attachments/Pasted image 20240328200037.png",
