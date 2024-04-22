@@ -21,6 +21,30 @@
             "group": "37d0ec6d71693777"
           },
           {
+            "id": "339e513adb322594",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Artus Cimber.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0bb5a8964a5df556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/City of Mezro.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "95342bce9f8cdc71",
             "type": "leaf",
             "state": {
@@ -232,17 +256,25 @@
   },
   "active": "7363433aab941f74",
   "lastOpenFiles": [
+    "NPCs/Dragonbait.md",
+    "Session Notes/Session 95.md",
     "NPCs/Artus Cimber.md",
+    "NPCs/Kordelia.md",
+    "_Attachments/Kordelia_PNG.png",
+    "Locations/City of Mezro.md",
+    "NPCs/Zaroum Al-Saryak.md",
+    "Session Notes/Session 66.md",
+    "NPCs/Alisanda.md",
+    "Locations/Cleansing Temple_Shrine in Omu.md",
+    "Plans.md",
+    "Session Notes/Watch_Vorlage.md",
     "Session Notes/Session 25.md",
     "Organizations/Zhentarim.md",
-    "Session Notes/Session 95.md",
     "NPCs/Ubtao.md",
     "Session Notes/Session 69.md",
     "NPCs/Eshowdow.md",
     "NPCs/Eku.md",
     "_Attachments/Eku 2.0.png",
-    "NPCs/Dragonbait.md",
-    "Session Notes/Watch_Vorlage.md",
     "Bestiary/Zorbo.md",
     "Organizations/Red Wizards of Thay.md",
     "NPCs/Valindra Shadowmantle.md",
@@ -253,25 +285,16 @@
     "_Official Conditions/desktop.ini",
     "_Attachments/Pasted image 20240415201548.png",
     "Session Combats/Fight_S30.md",
-    "Session Combats/Fight_S.md",
-    "README.md",
     "desktop.ini",
     "_Attachments/Pasted image 20240328221002.png",
-    "_Official Conditions/Petrified.md",
-    "Items/Puzzle Cube of Obo'laka.md",
-    "Items/Puzzle Cube of Unkh.md",
-    "Locations/Obo'laka's Shrine.md",
     "_Attachments/Pasted image 20240328200037.png",
     "_Attachments/Pasted image 20240328195114.png",
-    "Locations/Nangnang's Shrine.md",
-    "Items/Puzzle Cube of NangNang.md",
     "_Attachments/Pasted image 20240328191941.png",
     "Z_Canvas/Main Story.canvas",
     "_Attachments/Pasted image 20240318213223.png",
     "_Attachments/Pasted image 20240318213106.png",
     "Z_Canvas/Plans.canvas",
     "_Attachments/Pasted image 20240304212353.png",
-    "_Attachments/Pasted image 20240304192701.png",
     "Z_Canvas/General.canvas",
     "Z_Canvas/Current Planning.canvas",
     "_Attachments/Logo Video.mp4",

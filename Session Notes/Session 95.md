@@ -55,7 +55,20 @@ We talk to [[Eku]]
 - [[Kadrin]] uses Divine Sense
 	- [[Eku]] is a Celestial
 - She is working for the Oracle of [[Orolunga]] but is still holding on to her oath she gave to [[Ubtao]]
+	- [[Talsen]], Religion: 21
+	- [[Delwyn]], Religion: 19
+		- [[Ubtao]] is the patron god of [[Chult]], building the [[City of Mezro]], missing, split into aspects, also called betrayer god, because he betrayed his old pantheon to join the new one, is seen as a very neutral god, generally associate with dinosaurs and mazes
+- She offers us to bring us to [[Artus Cimber]] and his group
+	- We accept, to follow her to a hidden Temple of [[Ubtao]] within [[Omu]]
 
-[[Talsen]], Religion: 21
-[[Delwyn]], Religion: 19
-- [[Ubtao]] is the patron god of [[Chult]], building the [[City of Mezro]], missing, split into aspects, also called betrayer god, because he betrayed his old pantheon to join the new one, is seen as a very neutral god, generally associate with dinosaurs and mazes
+We follow [[Eku]] to a hidden open cave housing an old temple
+- We go inside the Temple
+- In one corner there are two Tabaxis here, "Hooded Lantern" and a copper colored female called "Copperbell"
+- In another Corner are [[Artus Cimber]], [[Kordelia]] and [[Dragonbait]]
+	- They look confused and a we sense a glint of mistrust
+	- They seem to be making clothing
+- [[Eku]] introduces us as new guests
+	- explains that the tabaxi are here for shelter and to die a hunters death
+	- explains that the others are here to plan on infiltrating the [[1. Fane of the Night Serpent]]
+
+[[Cleansing Temple_Shrine in Omu]]

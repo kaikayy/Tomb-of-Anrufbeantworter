@@ -1,6 +1,7 @@
 Wanted by the [[Zhentarim]]
 ![[Artus Cimber.png]]
 ![[Dinosaur man.png]]
+![[Kordelia_PNG.png]]
 ![[Ice Ring.png]]
 - In his 30s
 - Brown Hair and Brown beard
