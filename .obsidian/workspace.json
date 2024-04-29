@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7363433aab941f74",
+            "id": "44212557f086a475",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 95.md",
+                "file": "Session Notes/Session 96.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "37d0ec6d71693777"
+            "group": "e9d10fa2bbced7fc"
           },
           {
             "id": "e30ef0f6c9497de5",
@@ -31,30 +31,6 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "7b370ef7742dcf9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 15.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e71424be69e92486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Black Opal Crown.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ]
       },
@@ -63,32 +39,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd98eff34ddbf4e0",
+            "id": "9fb45b1fb2da5fcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 94.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "853291b3cb81d9e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 95.md",
+                "file": "Session Notes/Session 96.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "37d0ec6d71693777"
+            "group": "e9d10fa2bbced7fc"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(level up)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 95.md",
+                "file": "Session Notes/Session 96.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 95.md"
+                "file": "Session Notes/Session 96.md"
               }
             }
           },
@@ -190,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 95.md",
+                "file": "Session Notes/Session 96.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,14 +205,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7363433aab941f74",
+  "active": "44212557f086a475",
   "lastOpenFiles": [
-    "Session Notes/Session 15.md",
-    "Session Notes/Watch_Vorlage.md",
     "Session Notes/Session 95.md",
+    "NPCs/Eku.md",
+    "Session Notes/Session 96.md",
+    "NPCs/Ras Nsi.md",
+    "Session Notes/Watch_Vorlage.md",
+    "NPCs/Ssaztehsi.md",
+    "Session Notes/Session 15.md",
     "NPCs/Artus Cimber.md",
     "Items/Black Opal Crown.md",
-    "NPCs/Ras Nsi.md",
     "NPCs/Ubtao.md",
     "NPCs/Fenthaza.md",
     "Locations/Fane of the Night Serpent.md",
@@ -267,12 +232,9 @@
     "Organizations/Zhentarim.md",
     "Session Notes/Session 69.md",
     "NPCs/Eshowdow.md",
-    "NPCs/Eku.md",
     "_Attachments/Eku 2.0.png",
     "Bestiary/Zorbo.md",
     "Organizations/Red Wizards of Thay.md",
-    "NPCs/Valindra Shadowmantle.md",
-    "Session Notes/Session 94.md",
     "_Official Conditions/desktop.ini",
     "_Attachments/Pasted image 20240415201548.png",
     "desktop.ini",
