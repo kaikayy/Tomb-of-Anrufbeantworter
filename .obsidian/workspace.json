@@ -21,6 +21,18 @@
             "group": "e9d10fa2bbced7fc"
           },
           {
+            "id": "8b1f1d68c9951603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Yahru.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "e30ef0f6c9497de5",
             "type": "leaf",
             "state": {
@@ -207,11 +219,19 @@
   },
   "active": "44212557f086a475",
   "lastOpenFiles": [
+    "NPCs/Yahru.md",
+    "Session Notes/Session 10.md",
+    "Session Notes/Session 96.md",
+    "Session Notes/Session 9.md",
+    "Items/Shadowshiver.md",
+    "Organizations/Yuan-Ti.md",
+    "NPCs/Utsu.md",
+    "NPCs/Shissi.md",
+    "Session Notes/Watch_Vorlage.md",
+    "NPCs/Dragonbait.md",
     "Session Notes/Session 95.md",
     "NPCs/Eku.md",
-    "Session Notes/Session 96.md",
     "NPCs/Ras Nsi.md",
-    "Session Notes/Watch_Vorlage.md",
     "NPCs/Ssaztehsi.md",
     "Session Notes/Session 15.md",
     "NPCs/Artus Cimber.md",
@@ -219,7 +239,6 @@
     "NPCs/Ubtao.md",
     "NPCs/Fenthaza.md",
     "Locations/Fane of the Night Serpent.md",
-    "NPCs/Dragonbait.md",
     "NPCs/Kordelia.md",
     "_Attachments/Kordelia_PNG.png",
     "Locations/City of Mezro.md",
@@ -227,14 +246,7 @@
     "Session Notes/Session 66.md",
     "NPCs/Alisanda.md",
     "Locations/Cleansing Temple_Shrine in Omu.md",
-    "Plans.md",
-    "Session Notes/Session 25.md",
-    "Organizations/Zhentarim.md",
-    "Session Notes/Session 69.md",
-    "NPCs/Eshowdow.md",
     "_Attachments/Eku 2.0.png",
-    "Bestiary/Zorbo.md",
-    "Organizations/Red Wizards of Thay.md",
     "_Official Conditions/desktop.ini",
     "_Attachments/Pasted image 20240415201548.png",
     "desktop.ini",

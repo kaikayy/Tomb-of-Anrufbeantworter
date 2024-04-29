@@ -31,7 +31,22 @@ Recap - [[Talsen]]
 	- baked bread (anger)
 	- violets (danger or fear)
 	- honeysuckle (tenderness or concern)
-	- wood smoke (devotion or piety), tar (victory or celebration), and ham (nervousness or worry)
+	- wood smoke (devotion or piety)
+	- tar (victory or celebration)
+	- ham (nervousness or worry)
 
 The others talk about the plan going forward
+- There are two guarded entrances into the [[Fane of the Night Serpent]]
+	- Main gate, more open, well guarded
+	- Rear gate, well hidden, well guarded
+	- [[Delwyn]] mentions a new spell he learned to disguise us
+	- [[Artus Cimber]] mentions the disguises their group made
+	- [[Yuan-Ti]] hierarchy
+		- Abo
+		- Priest
+		- Malison
+		- Pure
+		- Brood
+	- We could disguise as guard, a scouting party or a party collecting prisoners
+- We tell them about Spymaster [[Yahru]]
 - 
