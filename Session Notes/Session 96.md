@@ -49,4 +49,9 @@ The others talk about the plan going forward
 		- Brood
 	- We could disguise as guard, a scouting party or a party collecting prisoners
 - We tell them about Spymaster [[Yahru]]
-- 
+- [[Artus Cimber]] asks us why we are in this city
+	- [[Delwyn]], Persuasion: 25
+- [[Kadrin]], Insight: 4
+	- Doesn't know if [[Artus Cimber]] was being sarcastic in saying that Ras Nsi and his World-Ending Cult is the priority
+
+We eat the cooked food and talk further
