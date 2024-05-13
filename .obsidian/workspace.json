@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44212557f086a475",
+            "id": "e71c93b459887800",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 96.md",
+                "file": "Session Notes/Session 97.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "e9d10fa2bbced7fc"
-          },
-          {
-            "id": "8b1f1d68c9951603",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Yahru.md",
-                "mode": "source",
-                "source": true
-              }
-            }
+            "group": "380dcc9920e1ae59"
           },
           {
             "id": "e30ef0f6c9497de5",
@@ -47,21 +35,21 @@
         ]
       },
       {
-        "id": "a175e6b1e0a5205a",
+        "id": "c70e1a87ad9147db",
         "type": "tabs",
         "children": [
           {
-            "id": "9fb45b1fb2da5fcf",
+            "id": "c6cc099bd6a93d0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 96.md",
+                "file": "Session Notes/Session 97.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "e9d10fa2bbced7fc"
+            "group": "380dcc9920e1ae59"
           }
         ]
       }
@@ -129,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 96.md",
+                "file": "Session Notes/Session 97.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 96.md"
+                "file": "Session Notes/Session 97.md"
               }
             }
           },
@@ -164,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 96.md",
+                "file": "Session Notes/Session 97.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,17 +206,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "44212557f086a475",
+  "active": "e71c93b459887800",
   "lastOpenFiles": [
+    "Session Notes/Watch_Vorlage.md",
+    "Session Notes/Session 97.md",
+    "Session Notes/Session 96.md",
     "NPCs/Yahru.md",
     "Session Notes/Session 10.md",
-    "Session Notes/Session 96.md",
     "Session Notes/Session 9.md",
     "Items/Shadowshiver.md",
     "Organizations/Yuan-Ti.md",
     "NPCs/Utsu.md",
     "NPCs/Shissi.md",
-    "Session Notes/Watch_Vorlage.md",
     "NPCs/Dragonbait.md",
     "Session Notes/Session 95.md",
     "NPCs/Eku.md",
@@ -245,7 +235,6 @@
     "NPCs/Zaroum Al-Saryak.md",
     "Session Notes/Session 66.md",
     "NPCs/Alisanda.md",
-    "Locations/Cleansing Temple_Shrine in Omu.md",
     "_Attachments/Eku 2.0.png",
     "_Official Conditions/desktop.ini",
     "_Attachments/Pasted image 20240415201548.png",

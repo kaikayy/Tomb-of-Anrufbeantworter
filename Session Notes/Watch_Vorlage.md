@@ -8,7 +8,7 @@
 3. Watch -  [[Kadrin]]
 - Perc.: 
 
-#### LONG REST -> Day 4
+#### LONG REST -> Day 5
 Weather:
 [[Kadrin]] cooks, DEX: 
 

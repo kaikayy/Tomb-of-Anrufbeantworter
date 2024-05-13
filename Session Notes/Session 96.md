@@ -46,7 +46,7 @@ The others talk about the plan going forward
 		- Priest
 		- Malison
 		- Pure
-		- Brood
+		- Broodguard
 	- We could disguise as guard, a scouting party or a party collecting prisoners
 - We tell them about Spymaster [[Yahru]]
 - [[Artus Cimber]] asks us why we are in this city
