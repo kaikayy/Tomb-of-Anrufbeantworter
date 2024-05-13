@@ -125,4 +125,40 @@ The maze before us, shines brightly with turquoise energy. Water emerging darts 
 - Insight: 1, INSPIRATION, 17
 	- She seems panicked
 - SW: "I am doing this because it's the right thing to do. Because it's the only thing I can do. I've seen worlds and all their souls consumed by nothingness. So I am just going to make a World that is everlasting and I will be their everlasting Warden."
-- "To be honest, if you just told me about this utopia at the start without betraying me multiple times"
+- "To be honest, if you just told me about this utopia at the start without betraying me multiple times, I would've followed you to the death. But I know it is you and it's too good to be true. There has to be a catch."
+- SW: "I don't lead with these things because it is world breaking for the people to see."
+- "Just show me?"
+- SW: "I cannot show you what is not yet made. As I said it isn't perfect yet."
+- "Out of curiosity, what would happen?"
+- SW: "You would become my Avatar and I would partly occupy your body to rid me of this curse. Travel to Mount Celestial and reach the top to cure myself."
+- "That is just stealing from other people again."
+- SW: "It is a necessary evil"
+- "Even though I think you're not lying, I think your plan sounds bad. I... no we will save a lot of people, but you will have no part in this."
+- Investigation: 10
+	- very faintly something flickers and his surroundings get slightly blurry
+- SW: "If you want to help people, just simply eat the cookies."
+- _Kadrin takes the plate_
+- "So you will be with me and we will help a lot of people, right?"
+- SW: "Just eat the cookies."
+- "Maybe I will keep your offer in mind, maybe I will try to help you some day. But for now maybe the sea will have a patron for you."
+- _Kadrin throws the plate of cookies toward the sea as it shatters on an illusion._
+- `As the illusion fades, you see that you are back in a large circular room inside the maze. The only exit to this room lies behind the figure of the Soulscourge who begins to laugh maniaclly. "I was hoping I wouldn't have to resort to this. but you leave me no choice... but to destroy your soul." the angelic illusion over her falls, revealing a horrible aberration in a roughly humanoid shape with slimy dark green skin, multiple purple eyes and two large tenteacles on her back covered with long claws growing out from them like feathers on a pair of wings. "Now Kadrin, for the sake of everyone, DIE!" The Soulscourge rushes towarrds you, but before she can reach you, she is suddenly knoecked to the ground by a large figure made out of light. The figure begins to bite into the Soulscouge below it and as it does you recognize it for what it is: Its Stomps!`
+- _As the whole illusion fades SW says that she will have to resort to destroying Kadrin's Soul as she also transforms into a horrible aberration._
+- _The SW rushes toward Kadrin as a figure bites down into SW stopping her. It is Stomps made out of Holy Light._
+- _Kadrin jumps onto Stomps saddle_
+- _Kadrin thinks of Gannin and he manifests made of Holy Light_
+- _Gannin falls back and summons his Astral Self, catching and throwing back the Eldritch Blasts_
+- _Delwyn manifests on the back of the saddle, turning into a T-Rex and charges toward SW_
+- _Shadow manifests running on a wall nearby. Looking at the maze from above, she marks out a path through the maze with her arrows._
+- _Before Kadrin can reach the middle, he is suddenly blocked by a wall, as Stomps is hit by an Eldritch Blast, he disappears. A glowing angelic figure appears above him calling for Kadrin's Chains._
+- throws the chains to [[Aratiel]]
+- [[Aratiel]] carries him to the middle of the maze, SW close behind
+- _Aratiel is hit by an Eldritch Blast as they both fall to the ground, crashing into the crystal in the middle of the maze. SW calls out that they will be unified into one. Aratiel suggests that she wants his light and to "Let her have it then."_
+- draws his sword and hits SW into the chest with his sword, wings glowing brightly, as it hits, the form of the SW disintegrates and disappears into brightly lit nothingness.
+- [[Aratiel]] says that he doesn't feel the SW presence anymore but she is not gone from the world
+	- taking the light from [[Mount Celestia]] would cause unimaginable peril and death for all of the multiverse
+	- it would throw everything into imbalance
+	- she might have had a good idea but meeting it by all means necessary to that degree is despicable to say the least
+- [[Aratiel]]: "Your soul is now cleansed of corruption and truly free. Now it is time for you to become the true paladin you always wished for"
+- K: I" believe and i swear that i'll do anything in my power to help as many as i can and i will fight alongside of my companions. I protect them as they protect me. I will protect those that cannot protect themselves. I will rid this world and whatever there is of the darkness that hides. And I just- want everyone to live a peaceful life. And help everyone overcome their dark sides and rid them of their evil."
+- [[Aratiel]]: "And al"
