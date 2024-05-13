@@ -54,4 +54,4 @@ The others talk about the plan going forward
 - [[Kadrin]], Insight: 4
 	- Doesn't know if [[Artus Cimber]] was being sarcastic in saying that Ras Nsi and his World-Ending Cult is the priority
 
-We eat the cooked food and talk further
+We eat the cooked food and talk further on how to infiltrate the [[Fane of the Night Serpent]] and kill [[Ras Nsi]]
