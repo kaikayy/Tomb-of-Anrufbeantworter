@@ -50,7 +50,7 @@ We make camp
 
 #### LONG REST -> Day 4
 Weather: ???
-[[Kadrin]] cooks, DEX: 
+[[Kadrin]] cooks, DEX: -
 
 [[Eku]] greets us as we are waking up to show us the purification chamber.
 - We follow her to the chamber
@@ -80,8 +80,8 @@ As the two look at each other in this rainy street, you are back at the maze._
 - Perception: 14
 - The voice says "The truth of her death."
 - turns to the ominous voice
-- _The walls shift to show a familiar looking room. You see the banquet hall of your father's mansion. In the Room with you are your father, mutiple servants and your mother who looks just as pale as she did before she died from sickness. Your parents are eating dinner until suddenly, your mother drops her cutlery and begins to cough. She falls to the floor, but neither your father nor his servants even attempt to help her. Eventually the coughing stops and your mother lays lifeless on the floor.
-Your father calmly wipes his mouth with a napkin and begins to speak: "Finally. Prepare the funeral, tell everyone that my 'dear' wife has died due to illness. Once the funeral is over throw that boy Delvyn to the streets. I was hoping that with Sylvie's connection to Shar, he would have developed some kind of special magical powers, but he has been nothing but a disappointment. Once you are done with that, give the same treatment to the rest of my family. I have no more need for them to appeal to the other noble families." an undead severed hand, holding an eyeball begins to crawl onto the table. Your father looks to it: "Withers, My followers and I will soon depart for Chult to witness the beginning of the end of this wretched world. Prepare for our arrival." The hands palm turns to your father, revealing a mouth that begins to speak: "As you wish master Dawnsong, the devourer bring an end to all life!" The illusion of your former home fades and you find yourself standing in the center of the maze._
+- _The walls shift to show a familiar looking room. You see the banquet hall of your father's mansion. In the Room with you are your father, multiple servants and your mother who looks just as pale as she did before she died from sickness. Your parents are eating dinner until suddenly, your mother drops her cutlery and begins to cough. She falls to the floor, but neither your father nor his servants even attempt to help her. Eventually the coughing stops and your mother lays lifeless on the floor.
+Your father calmly wipes his mouth with a napkin and begins to speak: "Finally. Prepare the funeral, tell everyone that my 'dear' wife has died due to illness. Once the funeral is over throw that boy Delwyn to the streets. I was hoping that with Sylvie's connection to Shar, he would have developed some kind of special magical powers, but he has been nothing but a disappointment. Once you are done with that, give the same treatment to the rest of my family. I have no more need for them to appeal to the other noble families." an undead severed hand, holding an eyeball begins to crawl onto the table. Your father looks to it: "Withers, My followers and I will soon depart for Chult to witness the beginning of the end of this wretched world. Prepare for our arrival." The hands palm turns to your father, revealing a mouth that begins to speak: "As you wish master Dawnsong, the devourer bring an end to all life!" The illusion of your former home fades and you find yourself standing in the center of the maze._
 - "Why do you have a connection to Shar? What happened to you? What else do I not know?"
 - S: "I was an orphan, abused and beaten everyday. I see the weight of my words now."
 - "What does Dad have to do with this?"
@@ -100,4 +100,29 @@ Your father calmly wipes his mouth with a napkin and begins to speak: "Finally. 
 - "Is there any way, I can trust you?"
 - Shar: "I am a goddess. I hold my word."
 - "That doesn't mean much to me"
-- Shar: "Even if this goddess is in pose"
+- Shar: "Even if this goddess is in possession of your soul already?"
+- [[Delwyn]] begins to cry, turns to Sylvie and goes in to hug her.
+
+The maze before us, shines brightly with turquoise energy. Water emerging darts directly toward [[Delwyn]]'s [[Shade Mark]], cleansing it and revealing a normal hand with the maze of [[Ubtao]] on its back.
+
+---
+[[Kadrin]] goes in to meditate
+- _As you walk through the maze, your path never branches off. After walking for 10 minutes you arrive at a familiar Location. The maze opens up onto a large circilar plateau made from cut stone. Looking behind you, you see a large cliffside that reaches up far above the clouds. In the distance you see a setting sun above a wast blue ocean. At the edge of the plateau you see a table with two chairs which are made from metal. A plate of cookies sits in the middle of the table._
+- goes to the table
+- SW: "go ahead Kadrin, eat one, like the good old times"
+- _SW appears behind Kadrin_
+- "I was wondering where you are. What do you want?"
+- SW: "Your cooperation. I may have been a bit... extreme I'd admit."
+- "It's a bit late for that insight, isn't it?"
+- SW: "I think there is plenty of time, still. If you help me, you will get what you always wanted: become a paladin and save the souls of thousands, millions, billions of souls. Not only in this multiverse but all over every multiverse. All you have to do is cooperate."
+- "How would I be able to help people from places I don't even know. It would just give you more Souls through you Zaranite scams."
+- SW: "Well that is correct. What do you think will happen to these souls?"
+- "You just collect them and then use them for your own wills or send them away. Hubert said something."
+- SW: "I am trying to build a utopia for those souls. A world without death where there is no threat or fear of dying."
+- "This sounds too good to be true. What's the catch?"
+- SW: "I cannot provide that yet. _slams table_ I need you, because I am cursed. Zaranite spreads my curse and my powers are not perfect yet. When I try to resurrect people it usually takes me a few hundred-thousand times. If I fail I get something like Hubert or Harold were. To make matters worse, I am not able to control my resurrections, every soul I collect is resurrected in my own Plane called Hag'Se. The people who were successfully resurrected formed the Hag'Se organization."
+- "So what do you get out of this? You are not doing this out of the good of your heart."
+- Insight: 1, INSPIRATION, 17
+	- She seems panicked
+- SW: "I am doing this because it's the right thing to do. Because it's the only thing I can do. I've seen worlds and all their souls consumed by nothingness. So I am just going to make a World that is everlasting and I will be their everlasting Warden."
+- "To be honest, if you just told me about this utopia at the start without betraying me multiple times"
