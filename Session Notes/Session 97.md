@@ -160,5 +160,7 @@ The maze before us, shines brightly with turquoise energy. Water emerging darts 
 	- it would throw everything into imbalance
 	- she might have had a good idea but meeting it by all means necessary to that degree is despicable to say the least
 - [[Aratiel]]: "Your soul is now cleansed of corruption and truly free. Now it is time for you to become the true paladin you always wished for"
-- K: I" believe and i swear that i'll do anything in my power to help as many as i can and i will fight alongside of my companions. I protect them as they protect me. I will protect those that cannot protect themselves. I will rid this world and whatever there is of the darkness that hides. And I just- want everyone to live a peaceful life. And help everyone overcome their dark sides and rid them of their evil."
-- [[Aratiel]]: "And al"
+- K: "I believe and i swear that i'll do anything in my power to help as many as i can and i will fight alongside of my companions. I protect them as they protect me. I will protect those that cannot protect themselves. I will rid this world and whatever there is of the darkness that hides. And I just- want everyone to live a peaceful life. And help everyone overcome their dark sides and rid them of their evil."
+- [[Aratiel]]: "And as long as you stay by these values of yours, your light will follow you wherever you go."
+
+[[Kadrin]] is back into the Temple room.
