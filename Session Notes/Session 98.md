@@ -68,3 +68,10 @@ Performance: 8
 STR: 8
 Perception: 8
 Religion: 14
+Deception: 19
+
+---
+[[Talsen]] finds himself back in the meditation chamber and ale bubbles forth spewing everywhere.
+[[Talsen]] sits himself in a corner and drinks with his eyes gazing into the distance at a stone wall.
+[[Shadow]] drinks 3-4 mugs of ale with [[Talsen]].
+[[Eku]] leaves us some time to think and talk, she leaves the room.
