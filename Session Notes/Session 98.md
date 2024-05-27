@@ -67,3 +67,4 @@ Investigation: 19
 Performance: 8
 STR: 8
 Perception: 8
+Religion: 14
