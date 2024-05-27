@@ -46,7 +46,7 @@ The Maze glows white and [[Shago]] says that he is not really afraid of the unde
 - They converse
 - despite my name things will flourish in the light and not in the shadows
 - D: You are the rightful heir to [[Maztica]] and [[Acererak]] took that from you, the Tomb you are about to enter was built on the bodies of your people. If it weren't for [[Acererak]]'s actions you would be sitting on a throne not running around in a humid jungle. Do you not wich to take Vengeance on him?
-- S: We will kill [[Acererak]]. But i don't think it will be out of vengeance, but neccassity.
+- S: We will kill [[Acererak]]. But i don't think it will be out of vengeance, but necessity.
 - D: The vision i gave you is a direct way to [[Ras Nsi]] in the [[Fane of the Night Serpent]]. He is one of [[Acererak]]'s minions.
 - S: Isn't [[Ras Nsi]] on your side?
 - D: He has been mislead by [[Acererak]], his main goal is no longer to release me, so I wish him gone.
@@ -54,4 +54,16 @@ The Maze glows white and [[Shago]] says that he is not really afraid of the unde
 - D: You could of course ignore him and dismiss the sacrifice of your own people.
 - _The darkness around Shadow grows tighter and more uncomfortable as she awakens back in the meditation chamber._
 
-Bright green energy emerges from the Maze and 
+Bright green energy emerges from the Maze and channels into [[Summerwise]], also healing [[Shadow]]'s Organ Damage and setting her back to full health.
+
+[[Shadow]] draws down the path she saw in her vision.
+[[Summerwise]] starts flying out of [[Shadow]]'s hood.
+
+[[Talsen]] begrudgingly sits down on the mat.
+
+---
+Perception: Nat.20 (19)
+Investigation: 19
+Performance: 8
+STR: 8
+Perception: 8
